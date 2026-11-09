@@ -1,0 +1,102 @@
+// =============================================================
+// sk.oto — Quartz 5 Custom Stylesheet
+// Aesthetics matched to skflx.MD (paper/ink, Archivo typography)
+// =============================================================
+@use "./variables.scss" as *;
+
+@font-face {
+  font-family: "Archivo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300 800;
+  font-stretch: 62% 125%;
+  src: url("./static/fonts/archivo-latin-var.woff2") format("woff2");
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("./static/fonts/ibm-plex-mono-latin-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("./static/fonts/ibm-plex-mono-latin-500.woff2") format("woff2");
+}
+
+// Declarative note titles: set like a headline lede, not a poster
+article h1.article-title,
+.page-header h1 {
+  font-weight: 680;
+  font-stretch: 104%;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+h2, h3 {
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+// Monospace for metadata: dates, reading time, breadcrumbs
+.content-meta, .breadcrumb-container {
+  font-family: var(--codeFont);
+  font-size: 0.8rem;
+  letter-spacing: 0.02em;
+}
+
+.page-title a {
+  font-family: "Archivo", system-ui, sans-serif;
+  font-weight: 760;
+  font-stretch: 118%;
+  letter-spacing: -0.03em;
+}
+
+// Active Recall: collapsed question callouts have a ruled frame
+.callout[data-callout="question"] {
+  --color: var(--tertiary);
+  --border: var(--lightgray);
+  --bg: transparent;
+  border-width: 1px 1px 1px 3px;
+  border-radius: 4px;
+}
+
+// High-Yield Pearls callouts ('ala Cole Anki')
+.callout[data-callout="tip"] {
+  --color: var(--secondary);
+  --border: var(--secondary);
+  border-radius: 4px;
+}
+
+// Native Mermaid styling: centered, responsive, dark/light mode compatible
+.mermaid {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem 0;
+  padding: 1rem 0;
+  overflow-x: auto;
+  background: transparent !important;
+
+  svg {
+    max-width: 100%;
+    height: auto;
+    background: transparent !important;
+  }
+}
+
+// Breadcrumbs
+.breadcrumb-container .breadcrumb-element,
+.breadcrumb-container .breadcrumb-element a,
+.breadcrumb-container .breadcrumb-element p {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+// Tag chips
+a.tag-link, .tags a {
+  white-space: nowrap;
+}
