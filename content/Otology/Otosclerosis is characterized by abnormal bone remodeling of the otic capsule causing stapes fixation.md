@@ -60,6 +60,8 @@ flowchart TD
 - **Cochlear (Retrofenestral) Otosclerosis**: Otosclerotic foci encircle the cochlea, releasing proteolytic enzymes into the scala media that cause sensorineural hearing loss.
 
 ## Connected Concepts & Graph Traversal
+- **Clinical Auditory Phenomena**:
+  - *Paracusis of Willis*: A classic clinical hallmark where patients experience a paradoxical improvement in their ability to understand speech in loud, noisy environments (e.g., in moving vehicles, restaurants). Mechanistically, background noise causes normal-hearing companions to unconsciously elevate their voice intensity, while the conductive hearing loss dampens low-frequency environmental background rumble without degrading the patient internal intact sensorineural discrimination.
 - **Artificial Audiometric Notch**: [[Carhart notch presents as an artificial bone-conduction dip at two thousand Hertz in stapes fixation|Carhart Notch (2,000 Hz Dip)]]
 - **Laser Fenestration Technique**: [[Laser stapedotomy reduces mechanical trauma and footplate mobilization compared to manual perforators|Laser Stapedotomy Safety]]
 - **Active Hypervascular Sign**: [[Schwartze sign indicates active hypervascular otospongeosis over the promontory|Schwartze Sign]]

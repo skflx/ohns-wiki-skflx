@@ -50,6 +50,12 @@ flowchart TD
   class N8 red
 ```
 
+### Pathomechanics of Lateral Brow Descent (Temporal Hooding)
+- **Fascial & Ligamentous Suspensory Deficit**:
+  - The medial eyebrow is supported by dense osteocutaneous attachments (corrugator origin, procerus, and supraorbital ligamentous attachments). In contrast, the **lateral eyebrow lacks direct bony attachments**, suspended only by the loose temporoparietal fascia and temporal ligamentous adhesions.
+  - *Temporal Hooding*: With age-related loss of skin elasticity and gravity, the unsupported lateral brow descends earlier and more severely than the medial brow.
+  - *Lateral Canthal Bunching*: Lateral brow descent bunches excess skin over the lateral canthus and upper lid (**pseudoptosis / lateral hooding**), exacerbating dynamic lateral orbital rhytids ("crow's feet") and obstructing superior-lateral visual fields.
+
 ### The Trichophytic Bevel Principle
 - Making a **$45^\circ$ beveled incision across hair follicles** allows transected hair shafts to grow directly *through* the resulting scar, camouflaging the hairline incision line.
 

@@ -52,8 +52,20 @@ flowchart TD
   class N9 purple
 ```
 
+### Depressor Muscle Anatomy & Glabellar Myotomy
+- **Corrugator Supercilii Muscle**:
+  - Arises from the **superomedial orbital rim (frontal bone)** near the nasal process and courses obliquely superolaterally to insert into the dermis of the medial-to-mid eyebrow.
+  - Action: Pulls the eyebrows **medially and inferiorly**, creating vertical glabellar frown lines (rhytids).
+  - *Surgical Myotomy*: The supraorbital nerve neurovascular bundles course directly through the muscle belly; resection/myotomy must isolate and preserve the nerve fibers while ablating muscle tissue.
+- **Procerus Muscle**:
+  - Arises from the fascia overlying the **nasal bones and upper lateral cartilages** and ascends vertically to insert into the skin between the eyebrows (glabella) and lower forehead.
+  - Action: Pulls the medial brow **inferiorly**, creating horizontal rhytids across the nasal radix.
+- **Supraorbital & Supratrochlear Neurovascular Landmarks**:
+  - The **supraorbital notch / foramen** is located along the superior orbital rim approximately **.5–3.0	ext{ cm}$ lateral to the facial midline** (in line with the medial limbus).
+  - The **supratrochlear nerve** exits more medially, approximately **.5–2.0	ext{ cm}$ lateral to the midline**.
+
 ### Neurovascular Bundle Preservation
-- **Supraorbital & Supratrochlear Nerves**: Emerge from supraorbital notch/foramen. Dissection must transition from subperiosteal to cautious blunt spreading within $1\text{ cm}$ of the rim to prevent permanent forehead and scalp numbness.
+- **Supraorbital & Supratrochlear Nerves**: Emerge from supraorbital notch/foramen. Dissection must transition from subperiosteal to cautious blunt spreading within $1	ext{ cm}$ of the rim to prevent permanent forehead and scalp numbness.
 - **Fixation Modalities**: Bioabsorbable Endotine anchors, cortical bone tunnels, or temporary titanium micro-screws.
 
 ## Connected Concepts & Graph Traversal

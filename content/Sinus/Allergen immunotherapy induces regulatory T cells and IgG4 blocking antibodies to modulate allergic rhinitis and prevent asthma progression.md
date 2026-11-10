@@ -52,6 +52,11 @@ sources:
      - Shifts the helper T-cell balance away from the allergic Th2 phenotype (decreased IL-4, IL-5, IL-13) toward the protective Th1 phenotype (increased IFN-γ).
 3. **Humoral Tolerance & Blocking Antibodies**:
    - IL-10 instructs B lymphocytes to undergo class-switch recombination to **allergen-specific IgG4**.
+   - **IgG4 Molecular Architecture & Dynamic Fab-Arm Exchange**:
+     - *Fab-Arm Exchange*: IgG4 antibodies possess unique structural instability in their hinge region disulfide bonds, allowing half-molecules (one heavy chain and one light chain) to dissociate and randomly recombine with other circulating IgG4 molecules in vivo. This dynamic process renders IgG4 functionally **bispecific and functionally monovalent** for a given allergen, making it physically incapable of cross-linking antigens or forming large immune complexes.
+     - *Complement & Receptor Inactivity*: Lacks classical complement-fixing ability (does not bind C1q) and binds low-affinity Fc$\gamma$RIIb inhibitory receptors, serving as an ideal non-inflammatory competitive shield.
+   - **Predictive Biomarkers & The sIgE/tIgE Ratio**:
+     - While baseline total IgE alone poorly predicts AIT success, the **ratio of allergen-specific IgE to total IgE ($sIgE / tIgE$)** is the single strongest serological predictor of clinical efficacy: a high ratio ($>1–2\%$) indicates that a substantial fraction of circulating IgE is directed against the target therapeutic allergen, predicting robust clinical symptom improvement and high response rates to AIT.
    - **IgG4 acts as a non-inflammatory "blocking antibody"**:
      - Lacks complement-fixing ability.
      - Competitively binds soluble allergens before they can reach and cross-link membrane-bound IgE on mast cells and basophils.

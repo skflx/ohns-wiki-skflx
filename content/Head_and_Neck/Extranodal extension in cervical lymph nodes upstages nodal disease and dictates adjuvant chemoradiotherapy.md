@@ -52,6 +52,23 @@ flowchart TD
   class N6,N7 red
 ```
 
+### Standard Non-Viral AJCC 8th Edition Cervical Nodal Staging
+For non-viral head and neck squamous cell carcinomas (oral cavity, larynx, hypopharynx, sinonasal, major salivary glands), nodal staging incorporates size, laterality, number, and the presence of clinical or pathological ENE:
+- **Clinical Nodal Staging ($cN$)**:
+  - **cN1**: Metastasis in a single ipsilateral lymph node, $\le 3\text{ cm}$ in greatest dimension, and $ENE(-)$.
+  - **cN2a**: Metastasis in a single ipsilateral lymph node, $>3\text{ cm}$ but $\le 6\text{ cm}$ in greatest dimension, and $ENE(-)$.
+  - **cN2b**: Metastases in multiple ipsilateral lymph nodes, none $>6\text{ cm}$ in greatest dimension, and $ENE(-)$.
+  - **cN2c**: Metastases in bilateral or contralateral lymph nodes, none $>6\text{ cm}$ in greatest dimension, and $ENE(-)$.
+  - **cN3a**: Metastasis in any lymph node $>6\text{ cm}$ in greatest dimension, and $ENE(-)$.
+  - **cN3b**: Metastasis in any lymph node with clinically overt $ENE(+)$ (fixed matted node, tethered to overlying skin or surrounding soft tissues, or causing cranial nerve palsy).
+- **Pathological Nodal Staging ($pN$)**:
+  - **pN1**: Single ipsilateral lymph node $\le 3\text{ cm}$ and $ENE(-)$.
+  - **pN2a**: Single ipsilateral node $\le 3\text{ cm}$ with $ENE(+)$, OR single ipsilateral node $>3\text{ cm}$ but $\le 6\text{ cm}$ and $ENE(-)$.
+  - **pN2b**: Multiple ipsilateral nodes, none $>6\text{ cm}$, all $ENE(-)$.
+  - **pN2c**: Bilateral or contralateral nodes, none $>6\text{ cm}$, all $ENE(-)$.
+  - **pN3a**: Any node $>6\text{ cm}$ and $ENE(-)$.
+  - **pN3b**: Single ipsilateral node $>3\text{ cm}$ with $ENE(+)$, OR multiple ipsilateral/contralateral/bilateral nodes with any $ENE(+)$.
+
 ### Surgical Technique & Critical Safety Checks
 - **Radiological Signs**: Central nodal necrosis, ill-defined borders, and loss of fat plane between node and IJV/carotid.
 - **Surgical Margins in ENE**: Excise adjacent involved structures (SCM, adventitia, IJV) en bloc (see [[AJCC 8th edition incorporates depth of invasion into oral cavity T-staging|AJCC Staging]]).

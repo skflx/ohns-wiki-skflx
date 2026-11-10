@@ -30,7 +30,8 @@ aliases:
 ## Core Clinical & Mechanistic Principles
 Sleep architecture exerts profound control over respiratory motor output and upper airway patency:
 - **Non-Rapid Eye Movement (NREM) Sleep Stages**:
-  - **Stage N1 (Light Sleep)**: Transition phase; alpha rhythm gives way to theta waves; respiratory drive is unstable (periodic breathing).
+  - **Wakefulness & Sleep Onset (The Alpha Rhythm)**: Relaxed wakefulness with eyes closed is defined by the **alpha rhythm ($8–13\text{ Hz}$)**, maximal over the occipital EEG derivations. Sleep onset begins when $>50\%$ of an epoch shows attenuation of alpha activity.
+  - **Stage N1 (Light Sleep)**: Transition phase accounting for $2–5\%$ of total sleep time; low-amplitude mixed-frequency theta activity ($4–7\text{ Hz}$) replaces alpha rhythm. Characterized electrophysiologically by prominent **vertex sharp waves** (maximal over the central derivations, duration $<200\text{ ms}$) occurring in late Stage N1, accompanied by slow rolling eye movements and unstable periodic respiratory drive.
   - **Stage N2 (Core Sleep)**: Characterized by **sleep spindles ($12\text{–}14\text{ Hz}$)** and **K-complexes**; mild progressive decrease in upper airway dilator tone.
   - **Stage N3 (Slow-Wave / Deep Sleep)**: High-amplitude delta waves ($0.5\text{–}2\text{ Hz}$); **most stable autonomic and respiratory drive**; highest [[Low arousal threshold causes premature awakening before airway stabilization in obstructive sleep apnea|arousal threshold]]; lowest frequency of obstructive apneas.
 - **Rapid Eye Movement (REM) Sleep & Generalized Muscle Atonia**:

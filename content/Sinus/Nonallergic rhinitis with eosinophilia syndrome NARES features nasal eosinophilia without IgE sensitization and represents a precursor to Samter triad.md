@@ -61,6 +61,17 @@ aliases:
 - **Aspirin challenge**: Consider referral for aspirin desensitization if NSAID intolerance develops
 - **Monitor for polyp development**: Annual rhinoscopy to detect early polypoid change
 
+### Local Allergic Rhinitis (LAR / Entopy)
+A distinct clinical entity frequently misdiagnosed as non-allergic rhinitis or idiopathic vasomotor rhinitis:
+- **Pathophysiology & Local IgE Synthesis (Entopy)**:
+  - Allergen-specific IgE is produced locally by plasma cells within the **nasal mucosa** and remains confined to nasal tissue, sensitizing local mucosal mast cells and basophils without spillover into the systemic circulation.
+  - Consequently, conventional systemic allergy evaluations—both **skin prick testing (SPT) and serum specific IgE (ImmunoCAP)—are completely negative**.
+- **Diagnostic Confirmation**:
+  - Requires **nasal allergen provocation testing (NAPT)** (direct mucosal allergen challenge producing subjective symptoms, acoustic rhinometry drops, and localized mediator release), **basophil activation testing (BAT)**, or direct measurement of **allergen-specific IgE in nasal lavage secretions / mucosal brushings**.
+- **Clinical Distinction & Therapy**:
+  - Unlike NARES (which is generalized, non-allergic, and features non-specific eosinophilia $>20\%$), LAR represents true localized atopy with specific seasonal or perennial triggers.
+  - Highly responsive to intranasal corticosteroids, topical antihistamines, and has been demonstrated in clinical trials to respond favorably to targeted **allergen immunotherapy (AIT)** despite negative serum/skin testing.
+
 ### Primary Atrophic Rhinitis (Ozena) — Operative Pearl
 
 ```mermaid

@@ -31,7 +31,9 @@ aliases:
 ## Core Clinical & Mechanistic Principles
 **Malignant (Necrotizing) Otitis Externa (MOE)** is a life-threatening, aggressive pseudomonal osteomyelitis of the temporal bone and lateral skull base, occurring predominantly in **elderly patients with diabetes mellitus ($>90\%$)** or severe immunocompromise:
 - **Microbiology & Pathogenesis**:
-  - **Pseudomonas aeruginosa** ($>95\%$ of cases) invades through the cartilaginous [[Acute otitis externa is managed with topical antimicrobial-steroid drops and aural debridement|external]] auditory canal (EAC) via the **fissures of Santorini** and the tympanomastoid suture line into the infratemporal fossa, petrous apex, and jugular foramen.
+  - **Bacterial Predominance**: *Pseudomonas aeruginosa* accounts for $>90	ext{–}95\%$ of all cases, elaborating exotoxin A, elastase, and collagenase that cause microvascular endarteritis and extensive tissue necrosis.
+  - **Fungal Pathogens (Atypical / Refractory MOE)**: While *Pseudomonas* is overwhelmingly the most common pathogen overall, **Aspergillus species** (*Aspergillus fumigatus*, *Aspergillus flavus*) represent the **most common fungal etiology of necrotizing external otitis**. Fungal MOE typically presents in severely immunocompromised individuals (HIV, hematologic malignancy, post-chemotherapy) or in diabetic patients failing standard anti-pseudomonal fluoroquinolone therapy, requiring urgent voriconazole/amphotericin B and surgical debridement.
+  - **Corridors of Spread**: Infection invades from the cartilaginous [[Acute otitis externa is managed with topical antimicrobial-steroid drops and aural debridement|external]] auditory canal (EAC) via the **fissures of Santorini** and the tympanomastoid suture line into the stylomastoid foramen, infratemporal fossa, petrous apex, and jugular foramen.
 - **Clinical Hallmarks**:
   - **Severe, unrelenting, deep nocturnal otalgia** completely out of proportion to exam findings.
   - Granulation tissue at the **osseocartilaginous junction** of the external auditory canal floor.

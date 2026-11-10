@@ -26,7 +26,8 @@ aliases:
 > *Answer / Clinical Rationale*: Conservative: bed rest, head-up positioning, straining precautions; exploration with window grafting is reserved for progression.
 
 ## Core Clinical & Mechanistic Principles
-- Abnormal communication between perilymph and middle ear at the **oval or round window**, classically after barotrauma, heavy straining, temporal bone fracture, or stapes surgery; a genuinely spontaneous PLF is a contested diagnosis.
+- Abnormal communication between the fluid-filled perilymphatic space and the air-filled middle ear cavity at the **oval window or round window niche**, classically precipitated by implosive or explosive barotrauma (scuba diving, blast, flight), vigorous physical straining, temporal bone trauma, or previous stapes surgery.
+- **Predilection Sites & Spontaneous PLF**: In the absence of an underlying congenital ossicular or otic capsule malformation, the most frequent anatomical site of a spontaneous perilymphatic leak is located **immediately anterior to the anterior crus of the stapes** at the **[[Otosclerosis is characterized by abnormal bone remodeling of the otic capsule causing stapes fixation|fissula ante fenestram]]**, an embryonic vestigial cartilaginous channel through the endochondral bone.
 - Presentation: fluctuating SNHL, disequilibrium, and **pressure- or sound-provoked vertigo** — a positive [[Labyrinthine fistula from cholesteatoma erosions most frequently involves the lateral semicircular canal|fistula test]] (**Hennebert sign**: nystagmus with tragal pressure/pneumatic otoscopy) supports it.
 - The **cochlear aqueduct** connection to CSF explains why straining and pressure transients transmit to the labyrinth.
 - Pediatric caveat: recurrent meningitis with SNHL suggests a congenital inner ear malformation with fistula (incomplete partition family) rather than acquired PLF.

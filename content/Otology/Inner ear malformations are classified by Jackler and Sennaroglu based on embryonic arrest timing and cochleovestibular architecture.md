@@ -56,6 +56,17 @@ flowchart TD
   class N3 red
 ```
 
+### Classification of Pure Membranous Dysplasias (Normal Bony Labyrinth on CT)
+While the Jackler and Sennaroglu schemas classify radiographically visible **osseous labyrinth malformations**, pure membranous malformations display a completely normal bony otic capsule on high-resolution temporal bone CT:
+- **Scheibe Dysplasia (Cochleosaccular Dysplasia)**:
+  - The **most common congenital inner ear malformation overall** ($approx 70\%$ of hereditary congenital deafness).
+  - *Embryology & Histopathology*: Arrest during the late embryonic phase (after the bony otic capsule has formed normally). Affects the **pars inferior (cochlea and saccule)** with partial or total atrophy of the organ of Corti, collapse of the scala media (Reissner membrane adherent to stria vascularis), and degeneration of the saccular macula. The **pars superior (utricle and semicircular canals) is completely spared and functionally normal**.
+  - *Clinical Picture*: Presents with profound bilateral congenital sensorineural hearing loss with preserved vestibular/canal function and entirely normal temporal bone CT. Classically seen in sporadic mutations, CMV, rubella, and syndromic disorders (Waardenburg, Usher, Jervell and Lange-Nielsen).
+- **Alexander Dysplasia (Basal Turn Dysplasia)**:
+  - Membranous dysplasia confined to the **basal turn of the cochlear duct**, sparing the middle/apical turns and vestibular apparatus; manifests as congenital high-frequency progressive SNHL.
+- **Bing-Siebenmann Dysplasia (Complete Membranous Aplasia)**:
+  - Complete membranous aplasia affecting both pars inferior and pars superior within a well-formed bony otic capsule.
+
 ### Surgical Technique & Cochlear Gusher Management
 - **Cochlear Gusher Pathophysiology**:
   - Direct communication between the subarachnoid space and the perilymphatic space via an abnormally patent internal auditory canal fundus / deficient lamina cribrosa.

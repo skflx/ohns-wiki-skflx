@@ -62,6 +62,15 @@ flowchart TD
   class N13 red
 ```
 
+### Syndromic Associations (Stickler & Treacher Collins Syndromes)
+While isolated (non-syndromic) PRS accounts for approximately $50\%$ of cases, syndromic PRS mandates early genetic and multidisciplinary evaluation:
+- **Stickler Syndrome (Hereditary Progressive Arthro-Ophthalmopathy)**:
+  - The **most frequent syndromic cause of PRS ($30–40\%$)**, caused by autosomal dominant mutations in type II/XI collagen (*COL2A1, COL11A1, COL11A2*).
+  - Characterized by severe progressive myopia, vitreous degeneration, and high risk of **retinal detachment** (mandating urgent baseline pediatric ophthalmologic examination), accompanied by midfacial hypoplasia, sensorineural/conductive hearing loss, and hypermobile arthropathy.
+- **Treacher Collins Syndrome (Mandibulofacial Dysostosis)**:
+  - The second major craniofacial syndromic association ($TCOF1, POLR1D, POLR1C$ mutations affecting 1st and 2nd branchial arch development).
+  - Manifests with severe mandibular and zygomatic hypoplasia, downward-slanting palpebral fissures, lower eyelid colobomas with absent medial lashes, microtia/canal atresia, and severe glossoptosis causing complex multilevel neonatal airway compromise.
+
 ### Surgical Interventions
 - **Mandibular Distraction Osteogenesis (MDO)**:
   - *Mechanism*: Bilateral mandibular ramus/body osteotomies with internal or external distractors.

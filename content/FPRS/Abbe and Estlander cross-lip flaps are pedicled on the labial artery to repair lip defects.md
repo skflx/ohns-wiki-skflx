@@ -6,7 +6,7 @@ tags:
   - lip-reconstruction
   - abbe-flap
   - estlander-flap
-last_revised: 2026-11-03
+last_revised: 2026-11-09
 status: complete
 sources:
   - "BakerFlaps3e, Ch19, p.510"
@@ -28,6 +28,11 @@ aliases:
 
 ## Core Clinical & Mechanistic Principles
 The **Abbe** and **Estlander** flaps are full-thickness composite cross-lip flaps utilized to reconstruct large lip defects ($>1/3\text{ to }2/3$ total lip width) by borrowing tissue from the opposing lip. Both flaps are axial-pattern flaps pedicled on the **superior or inferior labial artery**.
+
+The reconstructive ladder of the lip dictates initial defect stratification by size:
+- **Defects $<30\%$ ($<1/3$ Lip Width)**: Full-thickness defects measuring less than one-third of the lip width (and up to 35–40% in elderly patients with profound soft-tissue laxity) can be closed by **direct primary closure** in three anatomical layers (oral mucosa, orbicularis oris muscle, and skin/vermilion) using a vertical wedge, shield, or M-plasty excision without microstomia.
+- **Defects $30\%\text{ to }65\%$ ($1/3\text{ to }2/3$ Lip Width)**: Mandate composite cross-lip flaps (Abbe for central philtral/labial defects sparing the commissure; Estlander for lateral defects involving the oral commissure) or circumoral rotational flaps (Karapandzic).
+- **Defects $>65\%$ ($>2/3$ Lip Width)**: Require regional cheek advancement (Webster-Bernard) or free tissue transfer (radial forearm or anterolateral thigh free flap).
 
 ```mermaid
 %% Abbe vs Estlander Cross-Lip Flap Decision Framework

@@ -27,7 +27,10 @@ aliases:
 > *Answer / Clinical Rationale*: The **retromandibular (transparotid or retroparotid) approach**, placed parallel to the posterior border of the ramus.
 
 ## Core Clinical & Mechanistic Principles
-**Mandibular Condyle Fractures** represent **$25\text{–}35\%$ of all mandibular fractures**. Management involves choosing between **Closed Reduction with Maxillomandibular Fixation (MMF)** and **Open Reduction and Internal Fixation (ORIF)** based on **Zide and Kent criteria**.
+**Mandibular Condyle Fractures** represent **$25\text{–}35\%$ of all mandibular fractures**. Management involves choosing between **Closed Reduction with Maxillomandibular Fixation (MMF)**, **Open Reduction and Internal Fixation (ORIF)** based on **Zide and Kent criteria**, and **Conservative Functional Therapy**:
+- **Conservative Protocol (No MMF)**: Undisplaced or minimally displaced condylar head, neck, or subcondylar fractures with normal, reproducible pre-injury dental occlusion and preserved mandibular excursion do not require MMF. They are successfully managed with a **soft/non-chewing diet for 4 to 6 weeks**, analgesia, guided physical therapy, and close weekly occlusal monitoring.
+- **Closed Reduction with MMF**: Indicated for minimally displaced fractures with mild occlusal discrepancy, managed with 10–14 days of intermaxillary fixation followed by active range-of-motion therapy to prevent ankylosis.
+- **ORIF**: Indicated for absolute Zide and Kent criteria (displacement into the middle cranial fossa, lateral extracapsular dislocation, foreign bodies, or loss of vertical ramus height precluding occlusal restoration).
 
 ```mermaid
 %% Mandibular Condyle ORIF vs Closed Reduction Algorithm

@@ -60,7 +60,7 @@ flowchart TD
 ### Medical Laser Wavelength Comparison Matrix
 - **KTP ($532\text{ nm}$)** & **Pulsed Dye ($585\text{ nm}$)**: Photoangiolytic; delivered through flexible quartz fibers; targets subepithelial microvascular networks in recurrent respiratory papillomatosis (RRP) and vocal fold ectasias without damaging the delicate superficial lamina propria (SLP).
 - **Nd:YAG ($1.064\text{ µm}$)**: Near-infrared; deep tissue penetration ($4\text{ mm}$); excellent deep coagulation for bulky obstructive tracheobronchial malignancies and vascular malformations.
-- **Er:YAG ($2.94\text{ µm}$)**: Mid-infrared; matches the absolute water absorption peak; removes $25\text{–}30\text{ µm}$ of epidermis per pass with minimal thermal coagulation; heals in $5\text{–}7\text{ days}$.
+- **Er:YAG ($2.94\text{ µm}$)**: Mid-infrared; matches the absolute peak of water absorption ($10\times$ higher than $\text{CO}_2$). Operates via a **photomechanical (thermo-mechanical micro-explosive) ablation** mechanism with an ultra-shallow optical penetration depth of **$2\text{–}5\ \mu\text{m}$**, creating an exceptionally narrow zone of collateral thermal damage ($5\text{–}15\ \mu\text{m}$) and removing $25\text{–}30\text{ µm}$ of tissue per pass with minimal peripheral carbonization; heals rapidly in $5\text{–}7\text{ days}$.
 - **$\text{CO}_2$ ($10.6\text{ µm}$)**: Far-infrared; shallow penetration ($20\text{–}50\text{ µm}$); standard tool for [[Transoral laser microsurgery TLM resects early glottic carcinoma with vocal cord preservation|transoral laser microsurgery]] (TLM) via micromanipulators or flexible photonic waveguides (OmniGuide).
 
 ## Connected Concepts & Graph Traversal

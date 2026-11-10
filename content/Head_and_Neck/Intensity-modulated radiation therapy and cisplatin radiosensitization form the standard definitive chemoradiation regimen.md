@@ -59,7 +59,10 @@ flowchart TD
 
 ### Surgical Technique & Critical Safety Checks
 - **Parotid Sparing Metric**: Mean dose to at least one parotid gland must be $<26\text{ Gy}$ to preserve salivary function.
-- **Cisplatin Monitoring**: Baseline audiometry, renal function (requires aggressive hydration), and neuropathy checks (see [[Post-radiation carotid vasculopathy and osteoradionecrosis represent severe late radiotherapy sequelae|Late Radiation Sequelae & ORN]]).
+- **Platinum Agent Selection & Ototoxic Micromechanics**:
+  - *Cisplatin*: Highly nephrotoxic, emetogenic, and ototoxic; specifically produces reactive oxygen species causing apoptosis of outer hair cells (OHCs) in the basal turn of the organ of Corti and [[The stria vascularis generates the endocochlear potential of positive eighty millivolts|stria vascularis]], resulting in irreversible high-frequency sensorineural hearing loss and tinnitus.
+  - *Carboplatin Substitution*: In patients with pre-existing renal impairment, peripheral neuropathy, or poor performance status who cannot tolerate high-dose cisplatin, carboplatin (AUC 5–6) is substituted. Mechanistically and contrastingly, **carboplatin ototoxicity preferentially injures inner hair cells (IHCs)** rather than outer hair cells, resulting in distinct electrophysiological and speech discrimination deficits.
+  - *Monitoring Mandate*: Requires baseline comprehensive audiometry with extended high frequencies, serum creatinine/CrCl monitoring with pre/post-infusion volume hydration, and serial neuropathy assessments (see [[Post-radiation carotid vasculopathy and osteoradionecrosis represent severe late radiotherapy sequelae|Late Radiation Sequelae & ORN]]).
 
 ## Connected Concepts & Graph Traversal
 - **Late Radiotherapy Toxicity**: [[Post-radiation carotid vasculopathy and osteoradionecrosis represent severe late radiotherapy sequelae|Late Radiation Sequelae & ORN]]

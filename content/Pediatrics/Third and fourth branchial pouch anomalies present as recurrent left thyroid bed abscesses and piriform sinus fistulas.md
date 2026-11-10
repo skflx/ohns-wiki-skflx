@@ -35,9 +35,9 @@ aliases:
 
 - **The Generative Tract Rule Applied to 3rd & 4th Anomalies**:
   - *Generative Tract Rule*: A tract of arch/pouch $n$ descends **caudal to the derivatives of its own arch and cranial to those of the arch below**.
-  - **Third Pouch Fistula**:
+  - **Third Pouch Fistula (The Cranial Nerve Clamp)**:
     - *Origin*: Internal opening at the **pyriform sinus fundus / apex**.
-    - *Course*: Passes **posterior to the internal carotid artery (ICA)** and **cranial (superior) to the superior laryngeal nerve (SLN)** (Arch 4 nerve), looping over CN XII.
+    - *Course*: Passes **posterior to the internal carotid artery (ICA) and deep to the external carotid artery (ECA)**, looping **under CN IX (glossopharyngeal nerve) and over CN X (vagus nerve / superior to internal branch of the SLN)**. Pierces the **thyrohyoid membrane** above the internal branch of the SLN to enter the upper neck.
   - **Fourth Pouch Fistula**:
     - *Origin*: Internal opening at the **pyriform sinus apex or upper cervical esophagus**.
     - *Course*: Passes **caudal (inferior) to the superior laryngeal nerve (SLN)**, loops around the **subclavian artery on the right** or the **aortic arch on the left** (Arch 4 vessels), and ascends along the tracheoesophageal groove alongside the recurrent laryngeal nerve (Arch 6 nerve) through the left thyroid lobe.

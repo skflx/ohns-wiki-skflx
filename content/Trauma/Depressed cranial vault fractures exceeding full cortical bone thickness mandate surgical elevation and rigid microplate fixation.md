@@ -54,6 +54,7 @@ Operative tenets:
 1. **Pericranial Preservation**: Calvarial fragments devoid of dural attachment depend entirely on the overlying pericranium and scalp vascularity for revascularization and osteogenesis.
 2. **Venous Sinus Caution**: Depressed fractures directly overlying the superior sagittal sinus or transverse sinus must be approached with extreme caution. Fragments may tamponade a lacerated sinus; elevating them abruptly can trigger torrential hemorrhage.
 3. **Primary Bone Replacement**: In clean or non-grossly contaminated open fractures, primary replacement and rigid fixation of bone fragments is safe and avoids a secondary cranioplasty procedure.
+4. **Split Calvarial Bone Graft Harvest Rules**: When severe comminution precludes fragment salvage or facial contour reconstruction demands autologous cortical bone, outer-table split calvarial grafts are harvested from the **parietal bone at least $2\text{ cm}$ lateral to the sagittal suture**. The parietal calvarium offers the thickest diploic space with minimal risk of intracranial penetration, while maintaining a $>2\text{ cm}$ safety clearance protects against laceration of the **superior sagittal sinus**.
 
 ## Connected Concepts & Graph Traversal
 - **Anterior Frontal Repair**: [[Isolated anterior table frontal sinus fractures require open reduction and microplate fixation for contour restoration|Anterior Table Frontal Sinus Fractures]]

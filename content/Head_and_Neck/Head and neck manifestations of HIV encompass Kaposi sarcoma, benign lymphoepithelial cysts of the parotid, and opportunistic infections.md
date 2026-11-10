@@ -33,7 +33,7 @@ aliases:
 > *Answer / Clinical Rationale*: - **Neoplasms**: Kaposi Sarcoma, **Non-Hodgkin Lymphoma (Diffuse Large B-Cell Lymphoma [DLBCL] of Waldeyer ring and cervical nodes)**, and invasive cervical/anal carcinomas (HPV-driven). - **Fungal Infections**: Refractory esophageal and oral **Candidiasis**, Cryptococcal meningitis, Histoplasmosis, and fulminant **Pneumocystis jirovecii** otitis/mastoiditis. - **Viral & Mycobacterial**: Oral hairy leukoplakia (EBV-driven lateral tongue white corrugated plaques that *cannot* be wiped off), Ramsay Hunt syndrome / severe Herpes Zoster Oticus, CMV ulcerations, and *Mycobacterium avium-intracellulare* (MAC) or extra-pulmonary Tuberculosis.
 
 ## Core Clinical & Mechanistic Principles
-Otolaryngic manifestations occur in $>40\text{–}70\%$ of HIV-positive individuals, often serving as the initial presenting sign of undiagnosed retroviral infection:
+Otolaryngic manifestations occur in $>40\text{–}70\%$ of HIV-positive individuals, often serving as the initial presenting sign of undiagnosed retroviral infection. Head and neck disease spans reactive lymphadenopathy, vascular neoplasms like Kaposi sarcoma, salivary lesions including [[Sjogren syndrome causes autoimmune sicca with parotid enlargement and markedly elevated MALT lymphoma risk|benign lymphoepithelial cysts]], and opportunistic fungal or mycobacterial infections requiring prompt diagnostic distinction from [[Suspected cervical lymphoma requires excisional or core biopsy because cytology cannot assess architecture|cervical lymphomas]]:
 
 ```mermaid
 %% HIV Head and Neck Pathology Stratification by CD4 Count
@@ -58,7 +58,9 @@ flowchart TD
 ```
 
 ### High-Yield Diagnostic Differential
-- **Oral Candidiasis vs. Oral Hairy Leukoplakia**: Candidal pseudomembranes easily scrape off with a tongue depressor revealing an erythematous, bleeding mucosal base; Oral Hairy Leukoplakia (EBV) forms hyperkeratotic, corrugated vertical ridges on the lateral tongue borders that **cannot be scraped off** (see [[Suspected cervical lymphoma requires excisional or core biopsy because cytology cannot assess architecture|Cervical Lymphoma Diagnostics]]).
+- **Oral Candidiasis vs. Oral Hairy Leukoplakia (OHL)**:
+  - *Clinical Differentiation*: Candidal pseudomembranes easily scrape off with a tongue blade leaving an erythematous, bleeding mucosal base. In contrast, Oral Hairy Leukoplakia (driven by Epstein-Barr virus opportunistic replication) forms adherent, corrugated vertical white ridges along the lateral margins of the tongue that **cannot be scraped off**.
+  - *Microscopic Triad & HIV Testing Mandate*: Biopsy of OHL demonstrates a classic histological triad of marked **hyperkeratosis (with parakeratosis), epithelial acanthosis (pronounced thickening of the stratum spinosum), and prominent ballooned cells with nuclear clearing resembling "koilocytes"** in the upper spinous layers. Detection of OHL is an early harbinger of cellular immunosuppression and **mandates prompt reflex HIV antibody/antigen testing** in patients with unknown serostatus.
 
 ## Connected Concepts & Graph Traversal
 - **Lymphoma Diagnostics**: [[Suspected cervical lymphoma requires excisional or core biopsy because cytology cannot assess architecture|Cervical Lymphoma Diagnostics]]

@@ -59,6 +59,11 @@ flowchart TD
   class N8 red
 ```
 
+### Third-Window & Congenital Pitfalls (The Aqueductal Sign)
+- **Aqueductal Sign in Enlarged Vestibular Aqueduct (EVA)**:
+  - While an elevated SP/AP ratio ($>0.40$) is traditionally used as an electrophysiologic marker of Ménière disease, it is **frequently elevated in non-hydropic third-window conditions**, most notably in patients with **[[Pendred syndrome causes sensorineural hearing loss and euthyroid goiter due to SLC26A4 mutations with enlarged vestibular aqueducts|enlarged vestibular aqueduct (EVA)]]** (the **"aqueductal sign"**) and superior semicircular canal dehiscence (SSCD).
+  - *Mechanism*: The low-impedance third mobile window alters intracochlear acoustics and basilar membrane mechanics, causing an abnormal baseline shift and pseudo-hydropic SP enlargement. Clinicians must not misdiagnose EVA or SSCD as Ménière disease based solely on an abnormal ECochG without high-resolution CT imaging.
+
 ### Surgical Technique & Critical Safety Checks
 - **Electrodes**: Transtympanic promontory needle electrode provides superior signal-to-noise ratio and reproducibility compared to extratympanic TM wick/gold foil electrodes.
 

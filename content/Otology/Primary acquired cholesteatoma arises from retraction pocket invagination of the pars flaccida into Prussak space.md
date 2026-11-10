@@ -60,6 +60,10 @@ flowchart TD
   class N5 red
 ```
 
+- **Audiometric Patterns & Clinical Significance**:
+  - *Conductive Hearing Loss (CHL)*: The most frequent presentation, resulting from ossicular chain discontinuity (most commonly erosion of the **incus long process** and stapes superstructure) or mass loading of the tympanic membrane. Paradoxically, extensive keratin debris can bridge an ossicular gap, yielding deceptively normal hearing until suction clearance.
+  - *Mixed or Sensorineural Hearing Loss (SNHL)*: Signals advanced, aggressive disease with inner ear involvement. The emergence of SNHL or down-sloping bone-conduction thresholds indicates **[[Labyrinthine fistula from cholesteatoma erosions most frequently involves the lateral semicircular canal|labyrinthine fistula]]** (most commonly erosion of the lateral semicircular canal), toxic labyrinthitis from bacterial toxins diffusing across the round window membrane, or direct otic capsule osteolysis.
+
 ### Surgical Technique & Critical Safety Checks
 - **Early Sign**: Crust or tiny polyp in the attic over the scutum; mandates micro-otoscopic debridement and CT temporal bone.
 

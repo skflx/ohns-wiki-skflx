@@ -51,6 +51,26 @@ flowchart TD
   class N8 red
 ```
 
+### Lower Eyelid Fascial Framework & Ligamentous Anatomy
+- **Lower Eyelid Retractor System & Lockwood's Ligament**:
+  - The lower eyelid retractors consist of the **capsulopalpebral fascia** (analogous to the upper lid levator aponeurosis) and the **inferior tarsal muscle** (sympathetically innervated, analogous to Müller's muscle).
+  - *Lockwood's Ligament (Suspensory Ligament of the Globe)*: Formed by the fusion of the capsulopalpebral fascia, the sheath of the inferior oblique muscle, and the inferior rectus muscle. Extends from the medial to the lateral retinaculum as a hammock supporting the ocular globe; laxity causes enophthalmos and globe descent.
+- **Fat Pad Partitioning & Septa**:
+  - *Medial vs. Central Separation*: Separated by the **inferior oblique muscle**, which arises from the anteromedial orbital floor just lateral to the lacrimal sac fossa.
+  - *Central vs. Lateral Separation*: Separated by the **arcuate expansion of Lockwood's ligament** (a distinct fibrous band coursing from Lockwood's ligament across the orbital floor to the lateral orbital wall).
+- **Sensory Innervation**:
+  - Sensory innervation of the lower eyelid, cheek, and lateral nose is mediated by the **infraorbital nerve (CN $)**, emerging through the infraorbital foramen –8	ext{ mm}$ below the inferior orbital rim; extensive subperiosteal dissection or overzealous retraction risks infraorbital hypesthesia.
+
+### Postoperative Complications, Deformities & Rescue Protocols
+- **The Double Convexity Deformity**:
+  - In aging lower eyelids, forward herniation of orbital pseudo-herniated fat creates the superior convexity, while cheek descent and malar fat pad atrophy create the inferior convexity, separated by a deep hollow groove along the arcus marginalis (the tear trough / nasojugal groove).
+- **Diplopia Management (Inferior Oblique Injury)**:
+  - Inadvertent monopolar cautery or transection of the inferior oblique muscle during medial/central fat pocket dissection causes **vertical diplopia and extorsion deficits** (worse in upward and medial gaze); initial management is strictly **conservative observation with strabismus ophthalmology evaluation**, as the majority resolve spontaneously over 6 to 12 weeks.
+- **Hollow Orbit / Post-Blepharoplasty Enophthalmos**:
+  - Excessive surgical fat excision leads to an aged, cadaveric hollow orbit; corrected secondarily via **autologous micro-fat grafting / lipofilling** or hyaluronic acid filler injection along the infraorbital rim.
+- **Post-Blepharoplasty Chemosis (Conjunctival Edema)**:
+  - Persistent bulbar and forniceal conjunctival swelling resulting from localized lymphatic disruption and temporary orbicularis pump dysfunction; managed with **topical lubricating ophthalmic ointments, mild topical steroid drops (fluorometholone), temporary mechanical eyelid patching / moisture chambers, and oral antihistamines** (severe refractory cases respond to temporary lateral tarsorrhaphy).
+
 ### Transconjunctival Fat Transposition (Hamra / Loeb)
 - **Tear Trough Effacement**: Instead of aggressive fat excision (which causes an aged, hollow "skeletonized" orbit), the medial and central fat pads are mobilized and **transposed subperiosteally across the inferior orbital rim** over the tear trough / [[Endoscopic browlift releases the conjoint tendon and arcus marginalis along the supraorbital rim|arcus marginalis]].
 - **Transcutaneous Warning**: Subciliary skin-muscle flaps carry a much higher risk of **cicatricial ectropion** due to middle lamellar scarring compared to transconjunctival approaches.

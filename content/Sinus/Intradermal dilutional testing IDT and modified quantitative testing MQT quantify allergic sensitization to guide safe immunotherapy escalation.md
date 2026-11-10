@@ -59,7 +59,18 @@ flowchart TD
    - 0.01 mL of extract is injected intradermally to form a uniform 4-mm bleb, measured across orthogonal diameters after 10 minutes.
 2. **Modified Quantitative Testing (MQT)**:
    - Combines multi-tine skin prick testing with selective intradermal tests (#2 or #5 dilution), decreasing testing time and patient discomfort while preserving 95% concordance with full IDT batteries.
-3. **In Vitro Serum Specific IgE (sIgE / ImmunoCAP)**:
+3. **In Vivo Allergy Testing Mechanics & Control Standards**:
+   - *Positive & Negative Controls*: Epicutaneous and intradermal testing require a **positive control (histamine phosphate $1.0–2.75\text{ mg/mL}$ or $0.1\text{ mg/mL}$ for intradermal)** to confirm intact end-organ cutaneous reactivity, and a **negative control (normal saline / diluent)** to rule out dermographism and irritant response. A wheal $\ge 3\text{ mm}$ greater than the negative control (or $\ge 5\text{ mm}$ for IDT) defines a true positive.
+   - *Flash Response Phenomenon*: An anomalous reaction where an initial weak dilution produces a negative result, but the next higher concentration yields an unexpectedly massive wheal ($>15–20\text{ mm}$) with erythema, signaling extreme cutaneous hyper-reactivity requiring cautious down-dilution.
+   - *Medication Washout Requirements*:
+     - First-generation oral antihistamines (diphenhydramine, hydroxyzine): hold **3 to 5 days**.
+     - Second-generation oral antihistamines (cetirizine, fexofenadine, loratadine): hold **5 to 7 days**.
+     - H2 receptor antagonists (famotidine): hold **24 to 48 hours**.
+     - Systemic corticosteroids: hold **1 to 2 weeks** (dose-dependent).
+     - *Topical Nasal Steroids*: In contrast to oral agents, **intranasal corticosteroids do NOT suppress cutaneous mast cell histamine release** and do not require discontinuation prior to skin testing.
+4. **In Vitro Serum Specific IgE (sIgE / ImmunoCAP)**:
+   - *Clinical Indications*: Preferred over skin testing in patients with **severe dermatographism, diffuse generalized atopic eczema / psoriasis**, patients unable to discontinue interfering medications (antihistamines, tricyclic antidepressants), patients taking **beta-blockers** (where epinephrine is contraindicated if anaphylaxis occurs), patients with history of near-fatal anaphylaxis, or uncooperative pediatric patients.
+   - *Operating Characteristics*: Solid-phase fluorescent enzyme immunoassay (FEIA / ImmunoCAP) displays high analytical sensitivity ($85–90\%$) and specificity ($85–95\%$), unaffected by circulating antihistamines or cutaneous pathology.
    - Indicated when cutaneous testing is contraindicated due to severe dermographism, generalized atopic dermatitis, active beta-blocker therapy, or inability to withdraw from antihistamines.
 
 ## Connected Concepts & Graph Traversal

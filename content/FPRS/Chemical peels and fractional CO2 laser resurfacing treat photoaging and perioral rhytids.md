@@ -24,10 +24,10 @@ aliases:
 > *Answer / Clinical Rationale*: **Croton oil** (acts as a powerful epidermolytic surfactant that facilitates deep penetration of phenol into the reticular dermis).
 
 > [!question]- What systemic complication requires continuous cardiac monitoring during a full-face phenol peel?
-> *Answer / Clinical Rationale*: **Phenol-induced cardiac arrhythmias (ventricular ectopy and tachycardia)**; full-face peels must be applied slowly over $60\text{–}90\text{ minutes}$ with vigorous intravenous hydration.
+> *Answer / Clinical Rationale*: **Phenol-induced cardiac arrhythmias (ventricular ectopy and tachycardia)**; full-face peels must be applied slowly over $60	ext{–}90	ext{ minutes}$ with vigorous intravenous hydration.
 
 ## Core Clinical & Mechanistic Principles
-Skin resurfacing modalities—principally **chemical peels (Glycolic, TCA, Baker-Gordon Phenol)** and **ablative lasers (Fractional & Fully Ablative $\text{CO}_2$ $10,600\text{ nm}$ and Er:YAG $2,940\text{ nm}$)**—induce controlled thermal or chemical coagulative necrosis of the epidermis and upper dermis, stimulating **[[Wound healing progresses through hemostasis, inflammation, proliferation, and maturation|collagen neogenesis and remodeling]]** as an adjunct to [[Deep-plane rhytidectomy mobilizes the skin and SMAS as a composite flap across retaining ligaments|deep-plane rhytidectomy]] and [[Cosmetic botulinum toxin treats dynamic rhytids through presynaptic acetylcholine blockade|cosmetic botulinum toxin]].
+Skin resurfacing modalities—principally **chemical peels (Glycolic, TCA, Baker-Gordon Phenol)** and **ablative lasers (Fractional & Fully Ablative $	ext{CO}_2$ $10,600	ext{ nm}$ and Er:YAG $2,940	ext{ nm}$)**—induce controlled thermal or chemical coagulative necrosis of the epidermis and upper dermis, stimulating **[[Wound healing progresses through hemostasis, inflammation, proliferation, and maturation|collagen neogenesis and remodeling]]** as an adjunct to [[Deep-plane rhytidectomy mobilizes the skin and SMAS as a composite flap across retaining ligaments|deep-plane rhytidectomy]] and [[Cosmetic botulinum toxin treats dynamic rhytids through presynaptic acetylcholine blockade|cosmetic botulinum toxin]].
 
 ```mermaid
 %% Skin Resurfacing Depth and Energy Selection
@@ -51,8 +51,20 @@ flowchart TD
   class N8 red
 ```
 
+### Chemical Peeling Formulations & Pharmacodynamics
+- **Alpha-Hydroxy vs Beta-Hydroxy Peels**:
+  - *Glycolic Acid (AHA)*: Water-soluble alpha-hydroxy acid with the smallest molecular size (	ext{ Da}$), enabling rapid dermal penetration; weakens intercellular corneocyte cohesion by dissolving desmosomes. **Requires timed active neutralization with sodium bicarbonate (–10\%$) or water**, as it is not self-neutralizing.
+  - *Salicylic Acid (BHA)*: Highly lipophilic beta-hydroxy acid that selectively concentrates within sebaceous follicles (ideal for comedonal acne and oily skin). Clinical application produces a characteristic white crystalline surface precipitation termed **pseudo-frosting** (representing crystallized salicylic acid powder rather than true epidermal protein coagulation), which easily wipes away with saline.
+- **Classic Formulations & Formulas**:
+  - *Jessner's Solution*: Classic superficial combination formula consisting of **	ext{ g}$ resorcinol, 	ext{ g}$ salicylic acid, and 	ext{ mL}$ of \%$ lactic acid dissolved in 	ext{ mL}$ of \%$ ethanol**. Destroys epidermal stratum corneum barrier to enhance uniform penetration of subsequent medium-depth TCA peels (Monheit technique).
+  - *Baker-Gordon Phenol Peel (Deep Peel)*: The classic deep chemical resurfacing formula consisting of **	ext{ mL}$ of \%$ USP liquid phenol, 	ext{ mL}$ distilled water, 8 drops of Septisol (hexachlorophene soap), and 3 drops of croton oil** (the active inflammatory and epidermolytic vesicant driving deep dermal injury and new neocollagenesis).
+- **Procedural Timing & Absolute Safety Rules**:
+  - *Isotretinoin (Accutane) Absolute Contraindication*: Systemic isotretinoin induces profound atrophy of pilosebaceous units (hair follicles and sebaceous glands), which serve as the essential reservoir for epithelial stem cells required for re-epithelialization; deep chemical peels, laser resurfacing, or mechanical dermabrasion must be **strictly delayed at least 6 to 12 months after completing isotretinoin therapy** to avoid catastrophic hypertrophic scarring, full-thickness skin loss, and delayed healing.
+  - *Repeat Resurfacing Interval*: Repeat deep chemical peeling, mechanical dermabrasion, or ablative laser resurfacing procedures must be spaced **at least 4 to 6 months apart** to allow complete dermal collagen remodeling and vascular stabilization.
+  - *Post-Inflammatory Hyperpigmentation (PIH) Rescue*: Development of mottled hyperpigmentation following resurfacing (common in Fitzpatrick types III–VI) is managed with topical **\%$ Hydroquinone** (tyrosinase inhibitor), mild topical corticosteroids, daily broad-spectrum mineral sunscreen, and tretinoin.
+
 ### Fractional Laser Resurfacing
-- **Microscopic Treatment Zones (MTZs)**: Fractional $\text{CO}_2$ ($10,600\text{ nm}$) creates micro-columns of thermal injury surrounded by intact islands of reservoir skin, accelerating re-epithelialization ($4\text{–}7\text{ days}$) while reducing hypopigmentation risks.
+- **Microscopic Treatment Zones (MTZs)**: Fractional $	ext{CO}_2$ ($10,600	ext{ nm}$) creates micro-columns of thermal injury surrounded by intact islands of reservoir skin, accelerating re-epithelialization ($4	ext{–}7	ext{ days}$) while reducing hypopigmentation risks.
 
 ## Connected Concepts & Graph Traversal
 - **Wound Healing**: [[Wound healing progresses through hemostasis, inflammation, proliferation, and maturation|Wound Healing Phases]]

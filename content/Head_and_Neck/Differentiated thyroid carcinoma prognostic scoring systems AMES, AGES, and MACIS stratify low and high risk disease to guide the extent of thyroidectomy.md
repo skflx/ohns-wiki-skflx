@@ -95,6 +95,22 @@ The ATA guidelines classify patients postoperatively into three distinct categor
    - Postoperative thyroglobulin levels suggestive of distant metastatic disease.
    - *Clinical Management*: Mandatory high-dose radioactive iodine ($100\text{–}150+\text{ mCi}$); aggressive TSH suppression ($<0.1\text{ mIU/L}$).
 
+### AJCC 8th Edition TNM & Age-Dichotomized Staging (Differentiated Thyroid Carcinoma)
+In contrast to histologic risk systems predicting recurrence, the AJCC 8th Edition staging predicts disease-specific mortality and is uniquely dichotomized around **age 55 years**:
+- **Primary Tumor T4 Subdivisions**:
+  - **T4a (Moderately Advanced Local Disease)**: Gross extrathyroidal extension invading subcutaneous soft tissues, larynx, trachea, esophagus, or recurrent laryngeal nerve.
+  - **T4b (Very Advanced Local Disease)**: Gross extrathyroidal extension invading prevertebral fascia, or encasing the carotid artery or mediastinal vessels.
+- **Age <55 Years Staging Paradigm**:
+  - Patients aged $<55$ years cannot be staged higher than Stage II, regardless of tumor size, gross extrathyroidal extension, or extensive bilateral/mediastinal cervical lymph node metastases.
+  - **Stage I (Age <55)**: Any T, Any N, M0 (overall survival approaches 98–100%).
+  - **Stage II (Age <55)**: Any T, Any N, M1 (presence of distant metastases, typically pulmonary or osseous).
+- **Age $\ge 55$ Years Staging Paradigm**:
+  - **Stage I**: T1a/T1b/T2, N0/Nx, M0.
+  - **Stage II**: T1/T2 with N1, OR T3a/T3b with Any N, M0.
+  - **Stage III**: T4a with Any N, M0.
+  - **Stage IVA**: T4b with Any N, M0.
+  - **Stage IVB**: Any T, Any N, M1.
+
 ### Surgical Decision Implications
 These scoring metrics dictate whether a patient is adequately treated with thyroid lobectomy versus requiring total thyroidectomy, central neck dissection, and adjuvant therapy. Older patients with AMES/MACIS high-risk features or ATA intermediate/high-risk histology require total thyroidectomy to enable post-treatment radioactive iodine scanning and whole-body surveillance via serum thyroglobulin.
 

@@ -61,6 +61,15 @@ flowchart TD
   class N11 red
 ```
 
+### Anthropometric Screening Metrics (Neck Circumference & STOP-Bang)
+In addition to subjective questionnaires, objective physical examination metrics strongly correlate with nocturnal pharyngeal collapsibility:
+- **Neck Circumference Thresholds (High OSA Probability)**:
+  - **Men**: Neck circumference **$>17\text{ inches}$ ($>43\text{ cm}$)**.
+  - **Women**: Neck circumference **$>16\text{ inches}$ ($>40.5\text{ cm}$)**.
+  - *Biomechanics*: Cervical soft tissue fat deposition directly increases extrinsic tissue pressure on the lateral pharyngeal walls, narrowing the passive pharyngeal lumen and elevating the critical closing pressure ($P_{crit}$) during sleep.
+- **Integration into STOP-Bang Screening**:
+  - Incorporates Snoring, Tiredness, Observed apnea, high blood Pressure, BMI $>35\text{ kg/m}^2$, Age $>50$, **Neck circumference $>17/16\text{ inches}$**, and male Gender (score $\ge 3$ indicates intermediate-to-high OSA risk, score $\ge 5$ indicates high risk of moderate-to-severe OSA).
+
 ### Medicolegal & Occupational Implications
 - **Commercial Drivers & Heavy Machinery Operators**: Severe daytime somnolence ($ESS >15$ or drowsy driving incidents) carries mandatory reporting obligations in many jurisdictions to transportation safety authorities pending CPAP compliance verification.
 

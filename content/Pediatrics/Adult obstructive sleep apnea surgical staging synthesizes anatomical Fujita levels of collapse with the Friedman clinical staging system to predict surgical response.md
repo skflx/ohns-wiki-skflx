@@ -106,6 +106,13 @@ The Friedman staging system correlates resting oral cavity anatomy with surgical
   - **Position III**: Soft palate visible; uvula obscured.
   - **Position IV**: Only hard palate visible.
 
+### Awake Dynamic Endoscopic Airway Assessment (The Mueller Maneuver)
+- **Mueller Maneuver (Reverse Valsalva Examination)**:
+  - An awake, office-based flexible nasopharyngoscopy technique used to evaluate dynamic pharyngeal collapsibility.
+  - *Technique*: The flexible endoscope is positioned sequentially at the level of the velopharynx/retropalatal space and the retroglossal/hypopharyngeal space. The patient is instructed to inhale forcefully with a **closed mouth and pinched nostrils** (generating negative intraluminal pharyngeal pressure).
+  - *Positioning & Abnormal Collapse Threshold*: Assessed in both the **sitting and supine positions** (supine testing exacerbates retroglossal collapse due to posterior gravitational tongue displacement).
+  - *Clinical Grading*: Cross-sectional luminal narrowing is scored from 0 to 4+; **collapse $>50\%$ (grades 3+ and 4+)** is considered abnormal and denotes significant dynamic collapsible segment(s), helping distinguish isolated palatal collapse from multilevel or hypopharyngeal airway collapse before proceeding to drug-induced sleep endoscopy (DISE).
+
 Comprehensive anatomical and therapeutic integration links these principles directly to [[Maxillomandibular advancement MMA advances the skeletal framework by ten to twelve millimeters to expand the upper airway|Maxillomandibular Advancement Technique]].
 
 ## Connected Concepts & Graph Traversal

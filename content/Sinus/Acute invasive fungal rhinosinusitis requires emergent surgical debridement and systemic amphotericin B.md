@@ -56,6 +56,11 @@ flowchart TD
   class N8,N9 red
 ```
 
+### Pathogen-Specific Antifungal Pharmacotherapy
+Systemic medical therapy must be initiated concurrently with emergency surgical debridement:
+- **Empiric & Mucorales First-Line**: **Liposomal Amphotericin B ($5–10\text{ mg/kg/day IV}$)** is the mandatory empiric agent of choice, covering both *Mucorales* and *Aspergillus* pending definitive histopathology/culture. Isavuconazole or posaconazole serve as second-line or step-down oral options.
+- **Aspergillus First-Line Targeted Therapy**: When invasive fungal sinusitis is confirmed to be caused by **Aspergillus species** (*Aspergillus fumigatus, A. flavus*), **intravenous Voriconazole ($6\text{ mg/kg}$ IV Q12H loading dose on day 1, followed by $4\text{ mg/kg}$ IV Q12H)** is the **first-line drug of choice** (demonstrating superior clinical survival and reduced nephrotoxicity compared to amphotericin B). Therapeutic drug monitoring (target trough $1.0–5.5\ \mu\text{g/mL}$) is required.
+
 ### Key Consultation Supplies
 - Coaxial surgical headlight
 - Rigid $0^\circ$ and $30^\circ$ Hopkins rod endoscopes ($4.0\text{ mm}$ and $2.7\text{ mm}$) with tower and video recording for middle turbinate and [[The uncinate process superior attachment dictates the frontal sinus drainage pathway|uncinate process]] inspection

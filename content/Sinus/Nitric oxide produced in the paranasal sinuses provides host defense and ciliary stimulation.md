@@ -55,6 +55,11 @@ flowchart TD
   class N8 red
 ```
 
+### Fractional Exhaled & Nasal Nitric Oxide in Allergic Rhinitis
+- **Allergic Rhinitis NO Elevation**:
+  - In contrast to primary ciliary dyskinesia and cystic fibrosis (where nNO is profoundly depressed), **allergic rhinitis is characterized by marked, statistically significant elevations in nasal nitric oxide (nNO)** and fractional exhaled nitric oxide (FeNO).
+  - *Mechanism*: Type 2 cytokines (IL-4, IL-13) upregulate mucosal epithelial **inducible nitric oxide synthase (iNOS / NOS2)**, producing an inflammatory surge of NO that correlates directly with mucosal eosinophilia, nasal symptom severity, and allergen exposure. Successful treatment with intranasal corticosteroids suppresses iNOS expression and normalizes nNO levels.
+
 ### Diagnostic Role in Ciliopathies & Cystic Fibrosis
 - **Nasal Nitric Oxide (nNO) Measurement**:
   - **Primary Ciliary Dyskinesia (PCD)**: Characterized by **extremely low / absent nNO levels ($<77\text{ nL/min}$)**. Measurement of nNO via stationary chemiluminescence during velopharyngeal closure is the gold-standard non-invasive screening tool for [[Non-Type 2 CRS features neutrophilic inflammation associated with cystic fibrosis and ciliopathies|PCD and Kartagener syndrome]].

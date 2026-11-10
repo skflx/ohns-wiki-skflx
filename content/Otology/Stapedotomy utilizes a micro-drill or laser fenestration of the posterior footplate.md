@@ -66,7 +66,14 @@ flowchart TD
   class N4 red
 ```
 
-### Operative Catastrophes & Rescue Algorithms
+### Operative Contraindications, Catastrophes & Rescue Algorithms
+- **Absolute & Relative Contraindications**:
+  - *Tympanic Membrane Perforation*: Classically an absolute contraindication to primary stapedotomy; any perforation must be repaired first via [[Underlay and overlay tympanoplasty techniques have distinct advantages and complication profiles|tympanoplasty]] and allowed to fully heal for at least 3–6 months to avoid introducing infection into an open vestibule with resultant labyrinthitis and profound sensorineural deafness.
+  - *Active Meniere Disease*: Active fluctuating hydrops is a strict contraindication; a severely distended **[[cVEMP evaluates the saccule and inferior vestibular nerve via uncrossed sternocleidomastoid inhibition|saccule]]** can directly herniate against the medial surface of the stapes footplate, where it will be lacerated during micro-drill or laser fenestration, causing irreversible anacusis and intractable vertigo.
+- **Delayed Complication — Post-Stapedectomy Reparative Granuloma**:
+  - Classically manifests **1–8 weeks postoperatively** as an exuberant, destructive inflammatory fibrous granulation reaction originating at the oval window niche.
+  - *Presentation*: Sudden or rapidly progressive mixed or sensorineural hearing loss, acute spinning vertigo, intense tinnitus, and mild otalgia after an initial period of hearing improvement. Otoscopy may reveal a reddish-purple hue or soft-tissue mass beneath the posterosuperior tympanic membrane.
+  - *Management*: Emergent surgical re-exploration, excision of the granuloma, extraction and replacement/repositioning of the prosthesis, tissue grafting of the oval window, and high-dose systemic corticosteroid therapy to rescue inner ear hair cells.
 - **Overhanging / Dehiscent Facial Nerve**: The tympanic segment of CN VII is dehiscent over the oval window in up to $50\%$ of ears. If the nerve completely shadows the footplate, abort the procedure and convert to bone-conduction [[Hearing aid selection is driven by audiometric configuration and verified with real-ear measurement|hearing aids]] to prevent facial paralysis.
 - **Perilymph Gusher**: High-pressure CSF/perilymph flood from an abnormally patent cochlear aqueduct or internal auditory canal fundus defect. *Management*: Immediately elevate head of bed $30\text{–}45^\circ$, insert the piston and seal the oval window with large fascia grafts, avoid suctioning within the vestibule, and place a lumbar drain if drainage persists.
 - **Floating Footplate**: The entire footplate mobilizes before fenestration. *Management*: Abort immediate manipulation; create a micro-fenestration at the inferior margin or place a total stapedectomy tissue seal to avoid plunging the footplate into the vestibule.

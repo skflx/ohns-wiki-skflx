@@ -56,6 +56,13 @@ flowchart TD
   class N6,N7 orange
 ```
 
+### Suture Placement Metrics & Operative Craft
+- **Mustardé Sutures (Antihelical Fold Creation)**:
+  - Non-absorbable horizontal mattress sutures (typically 4-0 clear nylon or braided polyester/Mersilene) are placed through the full thickness of the cartilage and anterior perichondrium (sparing anterior skin) from the posterior exposure.
+  - **Suture Placement Metrics**: Mattress suture limbs are anchored approximately **$8\text{ mm}$ on either side of the proposed antihelical fold crest** (yielding a total bite span of **$\sim 16\text{ mm}$**). Successive horizontal mattress sutures along the vertical trajectory of the antihelix are spaced **$2\text{ mm}$ apart** to produce uniform, gentle cylindrical curling without sharp cartilage buckling or step-offs.
+- **Furnas Sutures (Conchal Setback)**:
+  - Interrupted non-absorbable sutures (4-0 Mersilene) placed from the posterior conchal bowl cartilage to the dense mastoid periosteum, rotating and seating the conchal bowl posteriorly into the mastoid hollow.
+
 ### Avoiding the "Telephone Ear" Deformity
 - **Telephone Ear Deformity**: Occurs when the middle third of the auricle is over-corrected while the superior pole and lobule remain prominent.
 - **Reverse Telephone Ear Deformity**: Occurs when the superior and inferior poles are over-corrected while the middle third protrudes.

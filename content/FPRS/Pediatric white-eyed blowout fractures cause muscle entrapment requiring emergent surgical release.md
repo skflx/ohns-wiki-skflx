@@ -6,7 +6,7 @@ tags:
   - orbital-trauma
   - pediatric-fracture
   - trapdoor-blowout
-last_revised: 2026-11-03
+last_revised: 2026-11-09
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"

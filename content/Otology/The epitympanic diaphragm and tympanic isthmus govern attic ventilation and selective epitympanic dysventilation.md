@@ -38,7 +38,7 @@ The middle ear cleft functions as a compartmentalized aerodynamic system partiti
 - **The Epitympanic Diaphragm & Tympanic Isthmus**:
   - *Epitympanic Diaphragm*: Composed of the **tensor fold**, anterior/lateral/posterior **incudomalleal folds**, and the ossicular bodies themselves. This diaphragm creates a physical horizontal septum separating the **epitympanum** superiorly from the **mesotympanum** inferiorly.
   - *Tympanic Isthmus*: The primary normal aeration gate between the mesotympanum and epitympanum, bounded anteriorly by the tensor tympani tendon and posteriorly by the stapes and pyramidal eminence.
-  - *Anterior Epitympanic Recess*: Aerated via the supratubal recess when the tensor fold is incomplete; a complete (horizontal) tensor fold isolates the anterior attic from direct Eustachian tube airflow.
+  - *Anterior Epitympanic Recess & The Cog (Crista Spinosa)*: Aerated via the supratubal recess when the tensor fold is incomplete; a complete (horizontal) tensor fold isolates the anterior attic from direct Eustachian tube airflow. The **cog (crista spinosa)** is a prominent, sharp bony septum that projects downward from the tegmen tympani immediately anterior to the head of the malleus, serving as the constant surgical landmark partitioning the **anterior epitympanum** from the **posterior epitympanum**.
 
 - **Prussak's Space & Drainage Mechanics**:
   - *Boundaries*:

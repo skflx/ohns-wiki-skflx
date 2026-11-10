@@ -26,7 +26,8 @@ aliases:
 > *Answer / Clinical Rationale*:
 > 1. **Anagen (Active growth phase)**: Lasts **2 to 6 years** (determines ultimate hair length); accounts for **85% to 90%** of scalp hair follicles under normal conditions.
 > 2. **Catagen (Apoptosis / Transitional regression phase)**: Lasts **2 to 3 weeks**; accounts for **<1%** of follicles. Cell division ceases, and the dermal papilla condenses.
-> 3. **Telogen (Resting phase)**: Lasts **approximately 3 months (100 days)**; accounts for **10% to 15%** of follicles. Telogen hairs are naturally shed at a baseline rate of **50 to 100 hairs per day**. In telogen effluvium, physiological stress triggers premature transition of anagen hairs into telogen.
+> 3. **Telogen (Resting phase)**: Lasts **approximately 3 months (100 days)**; accounts for **10% to 15%** of follicles with club hair formation.
+> 4. **Exogen (Active shedding phase)**: Characterized by active proteolytic cleavage and release of the mature club hair shaft from the follicular canal as a new anagen shaft emerges beneath it. In telogen effluvium, physiological stress triggers premature transition of anagen hairs into telogen, followed by synchronous exogen shedding.
 
 > [!question]- How does the Norwood-Hamilton classification categorize male pattern baldness from early recession to severe denudation?
 > *Answer / Clinical Rationale*:
@@ -46,6 +47,8 @@ aliases:
 ## Core Clinical & Mechanistic Principles
 
 Androgenic alopecia (male pattern hair loss) is an androgen-dependent, genetically determined progressive process characterized by the **miniaturization of terminal hair follicles into vellus hairs** in response to local dihydrotestosterone (DHT) binding within the dermal papillae.
+
+Normal hair follicle cycling progresses through three active phases—**anagen** (active growth, 2–6 years), **catagen** (follicular involution, 2–3 weeks), and **telogen** (resting phase with club hair formation, ~3 months)—followed by a distinct fourth active shedding phase: **exogen**. In **exogen**, active proteolytic cleavage releases the mature club hair shaft from the follicular base as a new anagen shaft emerges beneath it. (An extended latency phase, **kenogen**, often separates hair shedding from subsequent anagen entry in miniaturized follicles). Medical 5-alpha reductase blockade differs by isoform: **finasteride (1 mg/day)** selectively inhibits the **Type II 5-alpha reductase** isoenzyme (reducing circulating DHT by ~70%), whereas **dutasteride (0.5 mg/day)** is a dual inhibitor of both **Type I and Type II 5-AR** isoenzymes, suppressing circulating DHT by >90% and scalp tissue DHT by >50%.
 
 ```mermaid
 %% Androgenic Alopecia Pathophysiology and Treatment Hierarchy

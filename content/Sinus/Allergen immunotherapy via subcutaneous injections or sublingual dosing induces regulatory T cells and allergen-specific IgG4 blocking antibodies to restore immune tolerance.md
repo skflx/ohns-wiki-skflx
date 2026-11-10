@@ -64,6 +64,10 @@ flowchart TD
 3. **Suppressive Cytokine Release & Th2 Repression (Months)**: Tregs secrete high levels of **IL-10** and **TGF-$\beta$**. IL-10 selectively suppresses Th2 proliferation, down-regulates IL-4 and IL-13 synthesis, and inhibits eosinophil survival factor IL-5. Simultaneously, it induces apoptosis in allergen-specific effector T cells.
 4. **B-Cell Class-Switching & IgG4 Blocking Antibodies (Months to Years)**: Under IL-10 stimulation, allergen-specific B lymphocytes class-switch from producing IgE to synthesizing **IgG4** and secretory **IgA**. Allergen-specific IgG4 acts as a non-inflammatory antibody that competitively binds the allergen, preventing it from cross-linking IgE on mast cells. Serum IgG4 titers rise several hundred-fold during maintenance therapy and correlate with durable clinical remission.
 
+### Clinical Indications & Contraindications (Inhalant vs Food Allergens)
+- **Approved Indications**: SCIT and SLIT are strictly indicated for **inhalant aeroallergens** (tree/grass/weed pollens, dust mites, animal dander, molds) and Hymenoptera venom.
+- **Absolute Contraindication to Subcutaneous Injection**: **Food allergens are strictly CONTRAINDICATED for subcutaneous immunotherapy (SCIT)** due to an unacceptably high rate of severe, life-threatening systemic anaphylaxis and death. Inhalant SCIT protocols must never incorporate food extracts. (Investigational oral immunotherapy [OIT] or epicutaneous therapy protocols operate under entirely distinct desensitization mechanisms).
+
 ### Comparison of Delivery Platforms: SCIT vs. SLIT
 - **Subcutaneous Immunotherapy (SCIT)**:
   - *Administration*: Weekly subcutaneous dose escalation over 3–6 months followed by monthly maintenance injections for 3–5 years.

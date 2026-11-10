@@ -55,6 +55,12 @@ flowchart TD
   class N6 red
 ```
 
+### Frontalis Muscle Anatomy & Cutaneous Insertion
+- **Absence of Bony Origin**:
+  - The **frontalis muscle has NO direct bony attachments / origins**.
+  - *Anatomical Anchors*: Originates superiorly as the anterior continuation of the **galea aponeurotica** near the coronal suture line, courses inferiorly across the forehead, and inserts directly into the **skin of the eyebrows and intermingles with the orbicularis oculi, corrugator, and procerus muscles**.
+  - *Surgical Plane Implications*: Because the frontalis is intimately adherent to the overlying subcutaneous fat and skin dermis, elevation in a purely subcutaneous plane requires sharp scissor dissection to avoid buttonholing the thin muscle; deeper mobilization must proceed strictly in the **subfrontalis (subgaleal / avascular loose areolar) plane** directly on the frontal pericranium to preserve the muscle and its deep motor innervation (frontal branch of CN VII).
+
 ### Management of Intraoperative Paresis
 - **Local Anesthetic Paresis vs Surgical Transection**: Infiltration of 1% lidocaine with epinephrine along the lateral orbital rim frequently blocks motor axons within the temporal branch, producing temporary frontalis paralysis. Permanent nerve injury cannot be diagnosed intraoperatively; definitive corrective ptosis surgery should never be performed until anesthetic dissipation is confirmed at 4 to 6 hours postoperatively.
 - **Direct Brow Suspension Technique**: When permanent motor transection occurs, direct suprabrow elliptical excision with deep dermal fixation to frontal periosteum restores static resting symmetry.

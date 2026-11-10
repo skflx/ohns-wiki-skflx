@@ -49,6 +49,18 @@ flowchart TD
   class N3 orange
 ```
 
+### Clinical Definition & Histopathological Hallmarks (EPOS Guidelines)
+- **EPOS / Clinical Diagnostic Criteria for CRS**:
+  - Requires **$\ge 12\text{ consecutive weeks}$** of mucosal inflammation of the nose and paranasal sinuses characterized by **at least two cardinal symptoms**, one of which MUST be **nasal blockage/congestion** OR **nasal discharge** (anterior or posterior drip), $\pm$ facial pain/pressure, $\pm$ reduction or loss of smell (hyposmia/anosmia), PLUS objective endoscopic evidence (polyps, mucopurulent discharge, middle meatal edema) or sinus CT mucosal opacification.
+- **Histopathological Triad of Allergic/Type 2 Polyps**:
+  - Nasal polyps in CRSwNP characteristically display a distinctive microscopic triad:
+    1. **Epithelial goblet cell hyperplasia** with basement membrane thickening.
+    2. **Marked stromal edema (myxoid stroma)** with pseudo-cystic degeneration and sparse vascularity.
+    3. **Dense eosinophilic leukocyte infiltration** (often $>10–20$ eosinophils per high-power field, releasing toxic major basic protein and eosinophil cationic protein).
+- **Evidence-Based Medical Recommendations (EPOS / ICAR Consensus)**:
+  - Intranasal corticosteroids (high-volume steroid irrigations) and oral steroid bursts form the bedrock of medical therapy.
+  - *Recommendation Against Antifungals*: Systematic reviews demonstrate that **topical or systemic antifungal therapy is NOT effective and is strongly recommended AGAINST in routine CRSwNP**, as non-invasive fungal colonization does not drive primary disease in non-AFRS polyposis.
+
 ### Cytokine Networks & Cellular Drivers
 1. **IL-4 & IL-13**:
    - Drive B-cell class-switching to **IgE** production.

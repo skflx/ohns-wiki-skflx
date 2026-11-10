@@ -34,9 +34,15 @@ aliases:
 
 - **Etiological Breakdown**:
   - **Solitary Parathyroid Adenoma**: Accounts for **$80\text{–}85\%$** of cases.
-  - **Multigland Hyperplasia (Four-Gland Disease)**: Accounts for **$10\text{–}15\%$** (hallmark of MEN 1 and MEN 2A).
+  - **Multigland Hyperplasia (Four-Gland Disease)**: Accounts for **$10–15\%$** of sporadic cases but represents the classic presentation in familial syndromes:
+    - *Multiple Endocrine Neoplasia Type 1 (MEN 1 / Wermer Syndrome)*: Caused by inactivating germline mutations in the *MEN1* tumor suppressor gene (encoding **menin** on chromosome 11q13). Manifests as the classic **"3 Ps" triad: Parathyroid multigland hyperplasia (approaching $95–100\%$ penetrance by age 50), Pituitary anterior adenomas (prolactinoma), and Pancreatic neuroendocrine tumors (gastrinoma/Zollinger-Ellison, insulinoma)**.
+    - *Multiple Endocrine Neoplasia Type 2A (MEN 2A / Sipple Syndrome)*: Driven by activating *RET* proto-oncogene mutations on chromosome 10q11.2; parathyroid hyperplasia occurs in $20–30\%$, accompanied by medullary thyroid carcinoma ($100\%$) and pheochromocytoma ($50\%$).
   - **Double Adenomas**: Accounts for $2\text{–}5\%$.
   - **Parathyroid Carcinoma**: Rare ($<1\%$), presents with marked hypercalcemia ($>14\text{ mg/dL}$), palpable neck mass, extreme PTH elevations ($>5\text{–}10\times$ normal), and local capsular invasion (requires en bloc parathyroidectomy with ipsilateral thyroid lobectomy).
+
+- **Physiological Action of PTH on Renal Tubular Transport**:
+  - *Distal Convoluted Tubule (DCT)*: PTH directly stimulates apical calcium entry via TRPV5 channels and basolateral extrusion, **increasing active renal tubular reabsorption of calcium**.
+  - *Proximal Convoluted Tubule (PCT)*: PTH induces endocytosis and degradation of apical sodium-phosphate cotransporters (NaPi-IIa and NaPi-IIc), **decreasing renal tubular reabsorption of phosphate** (promoting brisk phosphaturia and lowering serum phosphate).
 
 - **Biochemical Confirmation & Diagnostic Traps**:
   1. **Serum Labs**: Hypercalcemia (total $>10.5\text{ mg/dL}$ or ionized $>5.6\text{ mg/dL}$) with **elevated or inappropriately normal intact PTH** ($>65\text{ pg/mL}$ or $20\text{–}65\text{ pg/mL}$ in the setting of hypercalcemia).

@@ -72,7 +72,9 @@ flowchart TD
 2. **Volumetric Upper Airway Expansion**:
    - Dynamic imaging and acoustic pharyngometry demonstrate that mandibular advancement produces a **$25\%\text{ to }40\%$ expansion in minimum retroglossal cross-sectional area**.
    - Concomitantly reduces upper airway critical closing pressure (**Pcrit**), shifting collapsibility from positive closing pressures toward negative, stable closing pressures.
-3. **Efficacy Benchmarks**:
+3. **Efficacy Benchmarks & CPAP-Salvage Success Rate**:
+   - In patients who fail or refuse CPAP therapy, custom titratable oral appliances successfully salvage **approximately $50–60\%$ of patients** (achieving complete normalization to $\text{AHI} < 5$ or $>50\%$ reduction to $\text{AHI} < 10$).
+   - Overall response rates reach $70–80\%$ for partial reduction, with patient adherence typically exceeding CPAP ($>6.5\text{ hours/night}$ vs $4\text{ hours/night}$), resulting in equivalent composite mean disease alleviation (MDA).
    - Achieves complete success (post-treatment $\text{AHI} < 5$) in $\sim 50\%\text{ to }60\%$ of mild-to-moderate OSA patients and partial response ($\ge 50\%$ reduction in AHI) in up to $70\%\text{ to }80\%$.
    - Patient adherence typically exceeds CPAP therapy ($>6.5\text{ hours/night}$ vs $4\text{ hours/night}$ for CPAP), frequently yielding comparable health outcomes (blood pressure reduction, daytime vigilance) due to superior composite compliance.
 

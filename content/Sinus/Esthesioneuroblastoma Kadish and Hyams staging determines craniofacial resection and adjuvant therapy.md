@@ -32,6 +32,11 @@ aliases:
 ## Core Clinical & Mechanistic Principles
 **Esthesioneuroblastoma (ENB / Olfactory Neuroblastoma)** is a rare malignant neuroectodermal neoplasm arising from basal neural crest stem cells of the **[[Olfactory neuroepithelium contains bipolar sensory neurons and basal stem cells|olfactory neuroepithelium]]** in the cribriform plate, superior septum, and superior turbinate.
 
+### Clinical Presentation & Diagnostic Pitfalls
+- **Primary Presenting Symptom**: **Unilateral progressive nasal obstruction** is the single most common presenting complaint ($>70–85\%$ of patients), frequently accompanied by intermittent unilateral epistaxis ($50–60\%$) and anosmia/hyposmia ($5–10\%$).
+- **Diagnostic Delay**: Because early-stage ENB mimics benign inflammatory sinonasal disease (allergic rhinitis, unilateral polyps, or chronic rhinosinusitis), the mean diagnostic delay ranges from 6 to 12 months, resulting in $>60–70\%$ of patients presenting with advanced disease (Kadish Stage C or D).
+- **Physical Examination**: Rigid nasal endoscopy reveals an expansile, friable, hypervascular, reddish-pink polypoid mass centered high in the superior nasal vault / olfactory cleft.
+
 ### Modified Kadish Clinical Staging & Hyams Histopathological Grading
 - **Modified Kadish Clinical Staging (Kadish / Morita)**:
   - **Stage A**: Tumor strictly confined to the **nasal cavity**.

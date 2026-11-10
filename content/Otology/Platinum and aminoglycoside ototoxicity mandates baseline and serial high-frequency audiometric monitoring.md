@@ -29,6 +29,10 @@ aliases:
 ## Core Clinical & Mechanistic Principles
 - **Cisplatin**: dose-cumulative, bilateral, high-frequency-first, can progress after completion; injures basal outer hair cells and stria via oxidative stress. **Sodium thiosulfate** is protective in pediatric localized disease when timed after infusion.
 - **Aminoglycosides**: gentamicin/streptomycin are predominantly **vestibulotoxic** ([[Bilateral vestibulopathy causes oscillopsia and dark-dependent imbalance from bilateral hair cell loss|bilateral vestibulopathy]], oscillopsia); amikacin/kanamycin predominantly cochleotoxic. The **mitochondrial m.1555A>G** variant confers single-dose susceptibility.
+- **Aminoglycoside Dosing Pharmacodynamics (Nephrotoxicity vs Ototoxicity)**:
+  - *Extended-Interval (Once-Daily) Administration*: Provides prolonged low trough serum concentrations that allow renal tubular clearance and significantly decreases the incidence of **nephrotoxicity**.
+  - *Ototoxicity Dissociation*: Extended-interval dosing does **NOT reduce the incidence of ototoxicity**. Sensory hair cells clear aminoglycosides extremely slowly via endocytosis; once sequestered intracellularly, aminoglycosides persist in labyrinthine fluids and hair cells for months, resulting in cumulative otic accumulation regardless of peak-to-trough dosing frequency.
+- **Macrolide Ototoxicity**: High-dose intravenous macrolides (erythromycin, azithromycin) primarily target the **[[The stria vascularis generates the endocochlear potential of positive eighty millivolts|stria vascularis]]**, disrupting endolymph ion homeostasis. Ototoxicity typically manifests as reversible high-frequency sensorineural hearing loss and tinnitus, particularly in patients with concurrent renal or hepatic impairment.
 - Loop diuretics cause reversible strial edema but potentiate other ototoxins; deferoxamine, macrolides, and quinine add to the list.
 - Monitoring protocol: baseline including **extended high-frequency audiometry (above 8 kHz)** and DPOAEs, then before each platinum cycle — ultra-high frequencies fall first, giving lead time to modify therapy.
 

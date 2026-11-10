@@ -61,7 +61,19 @@ Antibodies are glycoproteins composed of two identical **heavy (H) chains** and 
 - **Fab Fragment (Fragment Antigen-Binding)**: Composed of $V_H$, $V_L$, $C_H1$, and $C_L$. Harbors the hypervariable complementarity-determining regions (CDRs).
 - **Fc Fragment (Fragment Crystallizable)**: Composed of constant domains ($C_H2$, $C_H3$, and in IgM/IgE an extra $C_H4$). Mediates binding to cellular Fc receptors and the C1q complement component.
 - **The Five Immunoglobulin Classes**:
-  1. **IgG (75% of serum Ig)**: Monomer ($150\text{ kDa}$). Four subclasses ($\text{IgG}_1\text{–}\text{IgG}_4$). $\text{IgG}_1$ and $\text{IgG}_3$ are potent complement activators and mediate ADCC; $\text{IgG}_4$ lacks complement-fixing ability and acts as the tolerogenic \"blocking antibody\" during immunotherapy. Sole isotype that crosses the placenta.
+  1. **IgG (75–80% of Total Serum Immunoglobulin)**:
+     - Monomeric glycoprotein ($150\text{ kDa}$); the sole immunoglobulin isotype that actively crosses the human placenta via neonatal Fc receptors (FcRn).
+     - *The Four IgG Subclasses & Serum Proportions*:
+       - **IgG1 ($60–70\%$)**: The predominant subclass; strong activator of classical complement and high affinity for Fc$\gamma$ receptors; primary response to protein antigens.
+       - **IgG2 ($20–30\%$)**: The primary antibody response to bacterial capsular polysaccharide antigens (*Streptococcus pneumoniae, Haemophilus influenzae*); selective deficiency causes recurrent sinopulmonary bacterial infections.
+       - **IgG3 ($5–8\%$)**: Possesses the longest, highly flexible hinge region with the shortest serum half-life ($\approx 7\text{ days}$ vs $21\text{ days}$ for other subclasses); the most potent activator of classical complement (C1q binding).
+       - **IgG4 ($1–4\%$)**: The least abundant subclass; functionally bispecific and monovalent due to dynamic Fab-arm exchange; does not activate classical complement.
+     - *IgG4-Related Disease (IgG4-RD) in Otolaryngology*:
+       - A fibro-inflammatory condition that frequently affects head and neck structures (Küttner tumor / chronic sclerosing sialadenitis, Mikulicz disease, Riedel thyroiditis, orbital inflammatory pseudotumor, pachymeningitis, and invasive sinonasal inflammatory masses).
+       - *Histopathological Triad*: Diagnostic confirmation requires the classic microscopic triad:
+         1. **Dense lymphoplasmacytic infiltrate rich in IgG4+ plasma cells** ($>40–50$ IgG4+ plasma cells per high-power field, with an $\text{IgG4+}/\text{IgG+}$ plasma cell ratio $>40\%$).
+         2. **Storiform (cartwheel-like / whorled) fibrosis**.
+         3. **Obliterative phlebitis** (venous channels occluded by dense inflammatory infiltrates).
   2. **IgA (15% of serum Ig)**: Exists as a monomer in serum, but as a **dimer linked by a joining (J) chain and a secretory component** in mucosal secretions (saliva, tears, nasal mucus). Provides primary mucosal barrier immune exclusion without inducing destructive inflammation.
   3. **IgM (10% of serum Ig)**: Secreted as a **pentamer linked by a J chain** ($900\text{ kDa}$). First antibody class produced in the primary humoral immune response. Due to its decavalent binding and planar configuration, a single IgM pentamer bound to an antigen can bind C1q and trigger classical complement activation.
   4. **IgD (0.2% of serum Ig)**: Monomer co-expressed with IgM on the surface of naive, mature B cells; acts as a membrane B-cell receptor.

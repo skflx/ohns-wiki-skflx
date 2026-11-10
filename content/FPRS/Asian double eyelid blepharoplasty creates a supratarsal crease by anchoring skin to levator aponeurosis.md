@@ -27,7 +27,9 @@ aliases:
 > *Answer / Clinical Rationale*: **$6.0\text{ to }8.0\text{ mm}$** (conservative height prevents an unnatural, high supratarsal fold).
 
 ## Core Clinical & Mechanistic Principles
-In the **single (monolid) Asian eyelid**, the **levator aponeurosis does not send terminal fibrous interdigitations through the orbicularis oculi to insert into the dermis**, and the [[Blepharochalasis causes episodic painless eyelid edema leading to atrophic skin laxity, orbital fat pseudoherniation, and secondary ptosis|orbital]] septum fuses with the levator aponeurosis **below the superior tarsal border**, allowing preaponeurotic fat to descend low into the pre-tarsal space.
+In the **non-Asian (Caucasian) eyelid**, the orbital septum fuses with the levator aponeurosis **superior to the superior tarsal border**, confining preaponeurotic fat high within the orbit and permitting terminal fibrous expansions of the levator aponeurosis to pass through the orbicularis oculi to insert into the pretarsal dermis at $8	ext{–}10	ext{ mm}$ above the lid margin, defining a high, crisp supratarsal crease. 
+
+In contrast, in the **single (monolid) Asian eyelid**, the **levator aponeurosis does not send terminal fibrous interdigitations through the orbicularis oculi to insert into the dermis**, and the [[Blepharochalasis causes episodic painless eyelid edema leading to atrophic skin laxity, orbital fat pseudoherniation, and secondary ptosis|orbital]] septum fuses with the levator aponeurosis **inferior to the superior tarsal border** (often at or below the tarsal margin). This low septal fusion allows preaponeurotic fat and thick suborbicularis fibrofatty tissue to descend low into the pre-tarsal space anterior to the tarsus down to the lash line, obscuring any fold. Target crease height in Asian blepharoplasty is calibrated conservatively: typically **$6	ext{–}8	ext{ mm}$ in females** and **$4	ext{–}6	ext{ mm}$ in males** measured from the ciliary margin in the midpupillary line.
 
 ```mermaid
 %% Asian Blepharoplasty Anatomy and Craft

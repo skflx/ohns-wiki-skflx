@@ -31,7 +31,10 @@ aliases:
 
 ## Core Clinical & Mechanistic Principles
 Mobilization of the superior pole of the thyroid gland requires precise identification and protection of the **External Branch of the Superior Laryngeal Nerve (EBSLN)**:
-- **Functional Role of EBSLN**: Innervates the **cricothyroid (CT) muscle**, the primary vocal fold tensor responsible for pitch elevation, vocal projection, and high-frequency phonation.
+- **Functional Anatomy & Vascular Relationships**:
+  - *Innervation*: Innervates the **cricothyroid (CT) muscle**, the primary vocal fold tensor responsible for longitudinal tension, pitch elevation, vocal projection, and high-frequency phonation.
+  - *Spatial Relationship to Superior Thyroid Artery*: As the EBSLN descends along the lateral surface of the inferior pharyngeal constrictor muscle toward the cricothyroid muscle, it characteristically lies **dorsal (deep and posterior) to the superior thyroid artery**. When dividing the superior pole pedicle, mass ligation traps the deeply seated dorsal nerve; dissecting individual anterior and posterior tertiary branches directly on the true thyroid capsule preserves this dorsal relationship.
+- **Cernea Classification & Large Goiter Dynamics**:
 - **Cernea Classification & Large Goiter Dynamics**:
   - **Type 1 (~60%)**: Nerve crosses the superior thyroid vessels **$>1.0\text{ cm}$ above the upper border of the superior thyroid pole** (low risk of injury).
   - **Type 2a (~20%)**: Nerve crosses the vessels **$<1.0\text{ cm}$ above the upper border of the superior pole**.

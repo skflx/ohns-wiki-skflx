@@ -81,7 +81,9 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
-- **Capsular Dissection**: Hug the true thyroid capsule to preserve the end-arteriolar blood supply to the parathyroids (originating from the inferior thyroid artery or superior thyroid artery anastomotic arcade).
+- **Dominant Arterial Supply & Capsular Dissection**:
+  - *Inferior Thyroid Artery (ITA) Dominance*: The **inferior thyroid artery provides the predominant arterial blood supply to both parathyroid pairs**—nourishing $>90\%$ of inferior parathyroid glands and approximately $80\%$ of superior parathyroid glands (via an ascending branch of the ITA, with only $20\%$ supplied primarily by the superior thyroid artery).
+  - *Capsular Dissection Technique*: Meticulous capsular dissection hugging the true thyroid capsule medial to the parathyroid glands preserves these delicate, end-arterial terminal branches and prevents postoperative devascularization and transient/permanent hypoparathyroidism.
 - **Parathyroid Vitality Check**: A devascularized gland turns dark brown/black. Confirm parathyroid tissue by biopsy (sinks in saline, unlike fat which floats), finely mince into $1\text{-mm}$ fragments, and reimplant into individual pockets in the sternocleidomastoid muscle.
 
 ## Connected Concepts & Graph Traversal

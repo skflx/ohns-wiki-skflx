@@ -31,7 +31,9 @@ The **Bethesda System for Reporting Thyroid Cytopathology (TBSRTC)** standardize
 - **The Six Diagnostic Categories**:
   - **Bethesda I (Non-diagnostic / Unsatisfactory)**: Malignancy risk $5\text{–}10\%$. Management: Repeat ultrasound-guided FNA.
   - **Bethesda II (Benign)**: Macrofollicular nodules, colloid, Hashimoto thyroiditis. Malignancy risk $0\text{–}3\%$. Management: Clinical and sonographic surveillance.
-  - **Bethesda III (Atypia of Undetermined Significance / Follicular Lesion of Undetermined Significance - AUS/FLUS)**: Malignancy risk $10\text{–}30\%$. Management: Molecular testing (ThyroSeq / Afirma) or repeat FNA.
+  - **Bethesda III (Atypia of Undetermined Significance / Follicular Lesion of Undetermined Significance - AUS/FLUS)**:
+    - *Implied Malignancy Risk*: Historically $10–30\%$; when **NIFTP (Noninvasive Follicular Thyroid Neoplasm with Papillary-like Nuclear Features)** is reclassified as a non-malignant neoplasm, the true risk of malignancy drops to **$6–18\%$** (and $10–40\%$ for Bethesda IV).
+    - *Management*: Molecular testing (ThyroSeq v3 / Afirma GSC) or repeat ultrasound-guided FNA; diagnostic lobectomy if molecular testing reveals high-risk mutations or is suspicious.
   - **Bethesda IV (Follicular Neoplasm / Suspicious for Follicular Neoplasm - FN/SFN)**: Malignancy risk $25\text{–}40\%$. Management: Molecular testing or diagnostic lobectomy.
   - **Bethesda V (Suspicious for Malignancy - SFM)**: Malignancy risk $50\text{–}75\%$. Management: Total thyroidectomy or lobectomy.
   - **Bethesda VI (Malignant)**: Papillary, medullary, or anaplastic carcinoma. Malignancy risk $97\text{–}99\%$. Management: Definitive surgical resection.

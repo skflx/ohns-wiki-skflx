@@ -27,7 +27,8 @@ aliases:
 > *Answer / Clinical Rationale*: Approximately **$5\text{ to }10\%$** over 15–20 years.
 
 ## Core Clinical & Mechanistic Principles
-**Pleomorphic Adenoma (Benign Mixed Tumor)** is the most common neoplasm of the salivary glands ($70\text{–}80\%$ of all benign parotid tumors):
+**Pleomorphic Adenoma (Benign Mixed Tumor)** is the most common benign epithelial neoplasm of both the **major salivary glands (accounting for $70\text{–}80\%$ of all benign parotid tumors)** AND the **lacrimal gland**:
+- **Cross-Anatomical Presentation**: In the orbit, it represents the most common benign lacrimal gland epithelial neoplasm, presenting as a slowly progressive, painless, inferomedially displaced superolateral orbital mass requiring complete intact capsular excision to prevent orbital recurrence.
 - **Histopathological Architecture**:
   - Biphasic tumor composed of **epithelial/myoepithelial cells** arranged in ductal, trabecular, or sheet patterns embedded within a **chondromyxoid, hyaline, or mucoid stroma**.
   - Driven by translocations involving **PLAG1** (8q12) or **HMGA2** (12q14).

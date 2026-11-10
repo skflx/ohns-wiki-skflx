@@ -64,6 +64,10 @@ flowchart TD
   - Pneumatic otoscope increases pressure in EAC while fork is on mastoid.
   - **Normal / Ossicular Discontinuity**: Increased air pressure stiffens TM and ossicles, decreasing bone conduction volume.
   - **Otosclerosis / Stapes Fixation**: Bone conduction volume remains unchanged (fixed footplate cannot be further stiffened).
+- **Bing Test (Occlusion Effect Evaluation)**:
+  - The vibrating tuning fork is placed on the mastoid process while the examiner alternately occludes and unoccludes the external auditory canal with a finger.
+  - *Bing Positive (Normal or Sensorineural Loss)*: Sound becomes distinctly louder when the canal is occluded (normal physiological **occlusion effect**, where osseotympanic bone vibration is trapped within the closed external canal).
+  - *Bing Negative (Conductive Hearing Loss)*: Sound loudness does not change with occlusion (a pre-existing conductive lesion already creates a maximal internal occlusion effect, so external closure adds no further perceived loudness).
 
 ## Connected Concepts & Graph Traversal
 - **Audiometric Masking**: [[Audiometric masking with the plateau method prevents shadow responses from the non-test ear|Audiometric Masking Mechanics]]

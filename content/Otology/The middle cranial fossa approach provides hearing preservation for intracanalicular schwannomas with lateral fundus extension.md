@@ -66,7 +66,7 @@ flowchart TD
 ### Surgical Technique & Critical Safety Checks
 - **Technical Hazards & Limitations**:
   - **Temporal Lobe Retraction**: Prolonged retraction can cause temporal lobe contusion, edema, seizures, or aphasia (in dominant hemisphere); relative contraindication in patients $>65\text{ years}$.
-  - Facial nerve lies on the superior surface of the tumor and must be carefully dissected.
+  - **Comparative Cranial Nerve VII Morbidity**: Compared to both the translabyrinthine and retrosigmoid suboccipital corridors, the **middle cranial fossa approach carries the highest relative risk of acute and permanent facial nerve (CN VII) paresis or paralysis**. Because the facial nerve courses anterosuperiorly in the IAC, it sits directly between the surgical trajectory from above and the underlying vestibular schwannoma (arising from the inferior or superior vestibular nerve), mandating careful dissection over and around the mobilized motor trunk.
 
 ## Connected Concepts & Graph Traversal
 - **Koos Grading Staging**: [[Koos grading system classifies vestibular schwannomas from Stage I intracanalicular to Stage IV brainstem compression|Koos Stage I Intracanalicular]]

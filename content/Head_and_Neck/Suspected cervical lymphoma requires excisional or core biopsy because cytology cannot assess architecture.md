@@ -50,6 +50,12 @@ flowchart TD
   class N2,N4 red
 ```
 
+### Pathognomonic Histopathology (Reed-Sternberg Cells in Hodgkin Lymphoma)
+- **The Reed-Sternberg (RS) Cell**:
+  - The pathognomonic diagnostic hallmark of classic **Hodgkin lymphoma (cHL)** is the identification of giant, binucleated or multinucleated **Reed-Sternberg cells** (derived from crippled germinal-center B cells).
+  - *Microscopic Appearance*: Classically displays two mirror-image symmetrical nuclei, each containing an enormous, eosinophilic, inclusion-like nucleolus surrounded by a clear halo, creating the classic **"owl eyes" appearance**.
+  - *Immunophenotype*: Strongly positive for **CD15 and CD30**; characteristically negative for pan-B-cell marker CD20 (in $>90\%$) and leukocyte common antigen CD45, distinguishing classic Hodgkin lymphoma from non-Hodgkin lymphomas and reactive lymphadenitis.
+
 ### Management & Critical Safety Checks
 - The otolaryngologist's job is a clean, complete, fresh-tissue excision with basin awareness (XI in level V, marginal branch in Ib) and coordination with hematopathology before the incision.
 - Waldeyer-ring presentations (unilateral tonsil asymmetry in the wrong-age patient) are biopsied as tissue, not swabbed as pharyngitis (see [[Cervical lymph node levels I through VII define regional metastatic drainage basins|Cervical Node Basin Mapping]]).

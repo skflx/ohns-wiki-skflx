@@ -27,7 +27,9 @@ aliases:
 > *Answer / Clinical Rationale*: Helical rim defects measuring up to **$1.5\text{–}2.0\text{ cm}$**, advancing the superior and inferior chondrocutaneous flaps along the curve of the ear.
 
 ## Core Clinical & Mechanistic Principles
-An **advancement flap** mobilizes adjacent soft tissue directly along a **linear vector into a primary defect without rotation, transposition, or lateral pivoting**. Movement relies entirely on stretching tissue along the [[Relaxed skin tension lines minimize scar hypertrophy along perpendicular muscular vectors|Lines of Maximal Extensibility]] (LME) and releasing lateral wound tethers.
+An **advancement flap** mobilizes adjacent soft tissue directly along a **linear vector into a primary defect without rotation, transposition, or lateral pivoting**. Movement relies entirely on stretching tissue along the [[Relaxed skin tension lines minimize scar hypertrophy along perpendicular muscular vectors|Lines of Maximal Extensibility]] (LME) and releasing lateral wound tethers. 
+
+Standard cutaneous advancement flaps are **random-pattern flaps** whose vascular supply depends exclusively on the **subdermal vascular plexus** rather than a designated axial feeding artery. Because microvascular perfusion is pressure-dependent across the subdermal plexus, safe length-to-width ratios for facial random-pattern advancement flaps are classically maintained between **$3:1\text{ to }4:1$** (exploiting the exceptional collateral vascularity of the head and neck, compared to $1:1\text{ to }1.5:1$ on the trunk and lower extremities) to avoid ischemic necrosis at the advancing leading edge.
 
 ```mermaid
 %% Advancement Flap Selection Matrix

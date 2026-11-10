@@ -32,7 +32,7 @@ aliases:
 ## Core Clinical & Mechanistic Principles
 The **Auditory Brainstem Implant (ABI)** is a surgically implanted neuroprosthetic device that restores sound sensation in patients with profound bilateral hearing loss where the cochlea or cochlear nerves are absent or non-functional:
 - **Primary Indications**:
-  1. **Neurofibromatosis Type 2 (NF2)**: Following bilateral [[Vestibular schwannomas arise from the Schwann cell sheath of the inferior or superior vestibular nerve|vestibular schwannoma]] resection where the cochlear nerves (CN VIII) are sacrificed or anatomically disrupted.
+  1. **Neurofibromatosis Type 2 (NF2)**: Following bilateral [[Vestibular schwannomas arise from the Schwann cell sheath of the inferior or superior vestibular nerve|vestibular schwannoma]] resection where the cochlear nerves (CN VIII) are sacrificed or anatomically disrupted. In the United States, FDA approval for ABI in NF2 is designated for patients **age 12 years and older**.
   2. **Congenital Cochlear Nerve Aplasia** (or bilateral severe cochlear ossification/malformation).
 - **Anatomical Target & Surgical Inset**:
   - The electrode paddle (containing 12–21 platinum electrodes) is placed directly on the surface of the **cochlear nucleus complex (specifically the dorsal and ventral cochlear nuclei)**.

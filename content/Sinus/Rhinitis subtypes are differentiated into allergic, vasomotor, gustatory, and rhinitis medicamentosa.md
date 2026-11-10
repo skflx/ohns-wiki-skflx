@@ -65,6 +65,19 @@ flowchart TD
   class N8 red
 ```
 
+### Infectious Rhinitis & Viral Etiology
+- **Viral Rhinitis (The Common Cold / Acute URI)**:
+  - **Rhinovirus** is overwhelmingly the **most common infectious etiology of acute rhinitis**, accounting for $>50\%$ of all viral upper respiratory infections.
+  - Secondary viral pathogens include coronaviruses, influenza, parainfluenza, RSV, and adenoviruses.
+
+### Allergic Rhinitis Epidemiology, Genetics & Aeroallergen Physics
+- **Epidemiological Progression & Age Distribution**:
+  - The prevalence and severity of allergic rhinitis typically **increase with age from early childhood through young adulthood**, peaking in the second to fourth decades of life before plateauing or gradually declining in late adulthood.
+  - *Genetic Concordance*: Strong genetic predisposition; allergic rhinitis shows a high concordance rate of **$45–60\%$ in monozygotic twins** compared to $15–25\%$ in dizygotic twins. If both parents have atopic disease, the child has a $>50–70\%$ lifetime probability of developing allergic rhinitis.
+- **Indoor Aeroallergen Physical Properties & Aerodynamics**:
+  - *Dust Mite Allergens (Der p 1, Der f 1)*: Fecal pellets are relatively large ($10–40\ \mu\text{m}$), heavy particles. They become airborne only during active disturbance (vacuuming, bed-making) and **rapidly settle out of the air within 15 to 30 minutes**. Interventions focus on impermeable mattress/pillow encasements and hot water washing ($>130^\circ\text{F} / 55^\circ\text{C}$).
+  - *Cat Dander Allergens (Fel d 1)*: Small, lightweight molecular complexes ($1–5\ \mu\text{m}$) produced by feline sebaceous and salivary glands. Due to their ultra-small size, Fel d 1 particles **remain suspended in ambient air for hours to days**, adhere tenaciously to carpets, upholstery, and walls, and are carried on clothing into pet-free environments (schools, hospitals). HEPA air filtration is significantly more effective for cat dander than for dust mites.
+
 ### Surgical Technique & Critical Safety Checks
 - **Pregnancy Rhinitis**: Hormonally driven (estrogen/progesterone) mucosal hyperemia and edema; resolves spontaneously within 2 weeks postpartum.
 

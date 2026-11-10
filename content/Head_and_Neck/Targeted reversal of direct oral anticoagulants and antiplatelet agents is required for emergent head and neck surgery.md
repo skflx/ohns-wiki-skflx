@@ -61,6 +61,14 @@ flowchart TD
   class N9 red
 ```
 
+### Therapeutic INR Targets & Warfarin Mechanics
+Understanding baseline therapeutic targets dictates the urgency and depth of pre-procedure reversal:
+- **Warfarin Mechanism**: Competitively inhibits **vitamin K epoxide reductase (VKORC1)**, blocking gamma-carboxylation of vitamin K-dependent clotting factors (**II, VII, IX, X**) and natural anticoagulant proteins **C and S**.
+- **Indication-Specific Therapeutic INR Ranges**:
+  - *Standard Target (INR 2.0–3.0)*: Venous thromboembolism (DVT / PE prophylaxis and treatment), non-valvular atrial fibrillation, and bioprosthetic heart valves.
+  - *High-Intensity Target (INR 2.5–3.5)*: Mechanical prosthetic **mitral valves** (and older-generation mechanical aortic caged-ball/tilting-disc valves) due to elevated low-flow left atrial thrombogenicity.
+- **Elective Surgical Timing**: Warfarin is held for **5 days prior to major surgery** to achieve an $\text{INR} \le 1.5$ (or $\le 1.2$ for high-bleeding-risk airway/microsurgical procedures); patients with high thrombotic risk (mechanical mitral valve, recent VTE $<3$ months, $\text{CHA}_2\text{DS}_2\text{-VASc} \ge 6$) require therapeutic bridging with low-molecular-weight heparin (enoxaparin) or unfractionated heparin.
+
 ### Urgent Surgical Triage in the Compromised Airway
 - In the setting of a tense, rapidly expanding **postoperative cervical hematoma**, surgical decompression and bedside suture release must **NEVER be delayed for laboratory turnaround or complete pharmacological reversal**; immediate evacuation relieves venous congestion and restores the glottic aperture while reversal agents are infused simultaneously (see [[The coagulation cascade is organized into extrinsic, intrinsic, and common pathways evaluated by PT and aPTT|Coagulation Pathways & Mixing Studies]]).
 

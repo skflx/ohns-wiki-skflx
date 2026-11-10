@@ -21,10 +21,10 @@ aliases:
 ## Active Recall
 
 > [!question]- What is the ideal numerical value for Goode's ratio of nasal tip projection?
-> *Answer / Clinical Rationale*: **$0.55\text{ to }0.60$** (ratio of projection from alar crease to dorsal length from nasion to tip).
+> *Answer / Clinical Rationale*: **$0.55	ext{ to }0.60$** (ratio of projection from alar crease to dorsal length from nasion to tip).
 
 > [!question]- What are the ideal gender-specific values for the nasolabial angle?
-> *Answer / Clinical Rationale*: **$90^\circ\text{–}95^\circ$ in men** and **$95^\circ\text{–}105^\circ$ in women**.
+> *Answer / Clinical Rationale*: **$90^\circ	ext{–}95^\circ$ in men** and **$95^\circ	ext{–}105^\circ$ in women**.
 
 ## Core Clinical & Mechanistic Principles
 Quantitative nasal analysis utilizes standardized angular and proportional relationships to guide functional and aesthetic rhinoplasty planning.
@@ -50,8 +50,19 @@ flowchart TD
   class N5 red
 ```
 
+### Frontal, Basal & Lateral Anthropometric Nasal Metrics
+- **Frontal View Aesthetic Relationships**:
+  - *Dorsal Aesthetic Lines*: Two gentle, divergent curvilinear lines extending smoothly from the medial superciliary ridges, narrowing at the radix, running parallel along the dorsum, and slightly flaring at the tip-defining points.
+  - *Nasal Width*: Interalar width should equal the **intercanthal distance** (comprising the middle facial fifth).
+- **Basal (Worm's-Eye) View Proportions**:
+  - On basal view, the ideal aesthetic nose forms an **equilateral triangle**.
+  - The **columella-to-lobule ratio is :1* (the columella occupies the lower two-thirds, and the infratip lobule occupies the upper one-third).
+  - The nostrils are pear- or teardrop-shaped, oriented obliquely at a ^\circ$ angle toward the apex.
+- **Lateral Profile Alar-Lobular Harmony**:
+  - On standardized profile view, a horizontal line drawn through the long axis of the nostril should divide the nasal base equally: normal **columellar show is –4	ext{ mm}* below the alar rim. More than 	ext{ mm}$ indicates a hanging columella or retracted ala.
+
 ### Aesthetic Landmark Standards
-- **Goode's Method**: [[The Anderson tripod theory governs nasal tip projection, rotation, and support dynamics|Tip projection]] is measured along a perpendicular line from the alar-facial groove to the nasal tip ($BC$). Dorsal length is measured from nasion to tip ($AC$). Normal projection is $0.55\text{–}0.60 \times AC$.
+- **Goode's Method**: [[The Anderson tripod theory governs nasal tip projection, rotation, and support dynamics|Tip projection]] is measured along a perpendicular line from the alar-facial groove to the nasal tip ($BC$). Dorsal length is measured from nasion to tip ($AC$). Normal projection is $0.55	ext{–}0.60 \times AC$.
 - **Simons' Method**: Tip projection equals the length of the upper lip from subnasale to the vermilion border ($1:1$ ratio).
 - **Crumley's Method**: The projection, dorsal length, and vertical height form a $3:4:5$ right triangle.
 

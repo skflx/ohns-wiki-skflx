@@ -34,6 +34,7 @@ aliases:
   - **Speech Discrimination Scores (in Best-Aided Condition)**:
     - *Traditional FDA Criteria*: $\le 50\%$ sentence recognition in the ear to be implanted and $\le 60\%$ in the contralateral ear / binaural condition on open-set sentence testing (HINT / AzBio).
     - *CMS / Medicare (2022 Expanded Criteria)*: **$\le 60\%$ on AzBio sentence testing in quiet or noise**.
+    - *The "60/60" Clinical Referral Guideline*: A rapid screening metric to identify potential adult candidates: patients with better-ear **unaided pure-tone average (PTA) $\ge 60	ext{ dB}$** and **monosyllabic word recognition score (WRS) $\le 60\%$** in the better ear warrant immediate referral for comprehensive multidisciplinary CI evaluation.
   - Limited benefit from properly fitted bilateral [[Hearing aid selection is driven by audiometric configuration and verified with real-ear measurement|hearing aids]].
 - **Pediatric Candidacy Criteria**:
   - **Infants (9 to 24 Months)**: Bilateral profound SNHL ($\ge 90\text{ dB HL}$); lack of auditory skill progression with hearing aids.

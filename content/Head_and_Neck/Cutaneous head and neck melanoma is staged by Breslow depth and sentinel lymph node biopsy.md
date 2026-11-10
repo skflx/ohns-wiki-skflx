@@ -28,11 +28,23 @@ aliases:
 ## Core Clinical & Mechanistic Principles
 Cutaneous head and neck melanoma accounts for $>20\%$ of all melanomas despite representing $<10\%$ of total skin surface area, characterized by aggressive microvascular invasion and complex, non-contiguous lymphatic drainage across [[Cervical lymph node levels I through VII define regional metastatic drainage basins|cervical lymph node basins]]:
 
-- **Breslow Depth & Excision Margins**:
+- **AJCC 8th Edition T-Staging & Excision Margins**:
   - **Melanoma in Situ (Tis)**: Excision with $0.5\text{–}1.0\text{ cm}$ radial margins; SLNB is not indicated.
-  - **T1a ($<0.8\text{ mm}$ without ulceration)**: Excision with $1.0\text{ cm}$ margins; SLNB is not routinely recommended unless high-risk features (mitotic rate, lymphovascular invasion) exist.
-  - **T1b–T2 ($0.8\text{–}2.0\text{ mm}$ or $<0.8\text{ mm}$ with ulceration)**: Excision with $1.0\text{–}2.0\text{ cm}$ margins plus concurrent **Sentinel Lymph Node Biopsy (SLNB)** using preoperative SPECT-CT lymphoscintigraphy and intraoperative dual-tracer (radiocolloid + isosulfan blue/indocyanine green).
-  - **T3–T4 ($>2.0\text{ mm}$)**: Excision with $2.0\text{ cm}$ margins plus SLNB.
+  - **T1a**: Breslow depth $<0.8\text{ mm}$ without ulceration (excision with $1.0\text{ cm}$ margins; SLNB not routinely recommended unless high-risk features present).
+  - **T1b**: Breslow depth $0.8\text{–}1.0\text{ mm}$ without ulceration, OR $<0.8\text{ mm}$ with ulceration (excision with $1.0\text{ cm}$ margins + SLNB).
+  - **T2a**: Breslow depth $>1.0\text{–}2.0\text{ mm}$ without ulceration (excision with $1.0\text{–}2.0\text{ cm}$ margins + SLNB).
+  - **T2b**: Breslow depth $>1.0\text{–}2.0\text{ mm}$ with ulceration (excision with $1.0\text{–}2.0\text{ cm}$ margins + SLNB).
+  - **T3a**: Breslow depth $>2.0\text{–}4.0\text{ mm}$ without ulceration (excision with $2.0\text{ cm}$ margins + SLNB).
+  - **T3b**: Breslow depth $>2.0\text{–}4.0\text{ mm}$ with ulceration (excision with $2.0\text{ cm}$ margins + SLNB).
+  - **T4a**: Breslow depth $>4.0\text{ mm}$ without ulceration (excision with $2.0\text{ cm}$ margins + SLNB).
+  - **T4b**: Breslow depth $>4.0\text{ mm}$ with ulceration (excision with $2.0\text{ cm}$ margins + SLNB).
+- **AJCC 8th Edition Regional Nodal Staging (N)**:
+  - **N1a**: 1 clinically occult / microscopically detected positive lymph node (identified on SLNB).
+  - **N1b**: 1 clinically detected / macroscopically positive lymph node (confirmed pathologically).
+  - **N2a**: 2–3 clinically occult / microscopically detected positive lymph nodes.
+  - **N2b**: 2–3 clinically detected / macroscopically positive lymph nodes.
+  - **N2c**: Presence of in-transit, satellite, or microsatellite metastases WITHOUT concurrent regional lymph node metastases.
+  - **N3**: $\ge 4$ positive lymph nodes, matted nodal masses, or any in-transit / satellite metastasis WITH concurrent regional nodal metastases.
 - **Nodal Management Post-MSLT-2**:
   - Following the landmark [[The MSLT-1 and MSLT-2 trials establish sentinel lymph node biopsy utility and ultrasound surveillance safety in melanoma|MSLT-1 and MSLT-2 trials]], discovery of micrometastatic disease in a sentinel lymph node does **not mandate routine completion neck dissection**. Instead, close serial high-resolution nodal ultrasound surveillance paired with adjuvant systemic immunotherapy (anti-PD-1 pembrolizumab/nivolumab) or targeted therapy (BRAF/MEK inhibitors for *BRAF* V600E mutations) provides equivalent overall survival with significantly reduced surgical morbidity.
 - **Desmoplastic Melanoma Nuance**:

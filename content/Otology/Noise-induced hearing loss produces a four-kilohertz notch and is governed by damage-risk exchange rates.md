@@ -32,6 +32,8 @@ Noise-induced hearing loss (NIHL) is an insidious sensorineural injury targeting
 - **The 4-kHz Acoustic Notch**:
   - The characteristic audiometric **notch at 3–6 kHz (classically maximal at 4 kHz)** with partial or complete recovery at 8 kHz is driven by the acoustic resonance of the external auditory canal (which amplifies sound pressure by $15\text{–}20\text{ dB}$ between 2 and 5 kHz) combined with vulnerable vascular supply in the 4-kHz basal region.
   - Early subclinical injury produces loss of high-frequency [[Otoacoustic emissions evaluate outer hair cell integrity and differentiate cochlear from auditory neuropathy spectrum disorder|distortion product otoacoustic emissions (DPOAEs)]] before conventional pure-tone thresholds drop.
+- **Acoustic Decibel Physics & Exchange Rates**:
+  - *Sound Intensity Doubling*: Because the decibel scale is logarithmic ( = 10 \log_{10}(I/I_0)$), an increase of **	ext{ dB}$ represents an exact doubling of acoustic sound power/intensity** (whereas a 	ext{ dB}$ increase doubles sound pressure, and a 	ext{ dB}$ increase represents a perceived doubling of subjective loudness).
 - **Damage-Risk Regulatory Criteria**:
   - **NIOSH Standard**: 85 dBA 8-hour time-weighted average (TWA) with a **3-dB exchange rate** (exposure time must be halved for every 3-dB increase in sound level: 88 dBA = 4h, 91 dBA = 2h).
   - **OSHA Standard**: 90 dBA 8-hour TWA with a **5-dB exchange rate** (permissible time halves per 5-dB increase: 95 dBA = 4h, 100 dBA = 2h).

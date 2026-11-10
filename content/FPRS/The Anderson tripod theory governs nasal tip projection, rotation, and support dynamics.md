@@ -53,6 +53,12 @@ flowchart TD
   class N9 purple
 ```
 
+### Lower Lateral Cartilage Subunit Anatomy (Intermediate Crura)
+- **The Three Crural Segments**:
+  - Each lower lateral (alar) cartilage is anatomically partitioned into three distinct segments: the **medial crus**, the **intermediate crus**, and the **lateral crus**.
+  - *The Intermediate Crus*: Extends from the superior columellar segment of the medial crus to the dome defining point; its length, angulation, and divergence define the **infratip lobule width and double break**.
+  - *Tripod Leg Integration*: While the Anderson tripod conceptually models the conjoined medial crura as a single central medial leg and the lateral crura as two lateral legs, surgical alteration of the intermediate crus directly governs tip definition and rotation without necessarily altering total projection.
+
 ### Major vs Minor Tip Support Mechanisms
 1. **Major Tip Supports**:
    - Size, shape, and resilience of the lower lateral cartilages.

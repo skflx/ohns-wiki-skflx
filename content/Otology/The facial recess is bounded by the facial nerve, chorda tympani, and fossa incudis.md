@@ -33,6 +33,9 @@ The **facial recess (suprapyramidal recess)** is an anatomical depression on the
   - **Lateral Boundary**: The **chorda tympani nerve** (running within the posterior tympanic canaliculus / chordal ridge) and the fibrous tympanic annulus.
   - **Superior Boundary (Base)**: The **fossa incudis** (housing the short process of the incus and posterior incudal ligament) / incus buttress.
   - **Inferior Boundary (Apex)**: The junction where the chorda tympani branches off the facial nerve (typically $3\text{–}5\text{ mm}$ above the stylomastoid foramen).
+  - **Apertures of the Chorda Tympani**:
+    - *Entrance (Iter Chordae Posterius)*: The chorda tympani emerges from the descending facial canal and enters the posterior middle ear cavity through a discrete bony aperture termed the **iter chordae posterius** (posterior aperture of the chordal canaliculus), located just lateral to the pyramidal eminence at the level of the upper third of the tympanic membrane.
+    - *Exit (Petrotympanic / Huguier Fissure)*: After crossing the medial neck of the malleus and lateral surface of the incus long process, the chorda exits the middle ear anteriorly through the **petrotympanic fissure (Glaserian fissure / Huguier canal)** to enter the infratemporal fossa, joining the lingual nerve.
 - **Distinction from Sinus Tympani**:
   - The **facial recess lies LATERAL** to the vertical facial nerve.
   - The **sinus tympani lies MEDIAL** to the facial nerve (cannot be directly viewed via transmastoid [[Posterior tympanotomy facial recess approach opens the corridor between CN VII and chorda tympani|posterior tympanotomy]]; requires endoscopic or transcanal visualization).

@@ -51,6 +51,20 @@ flowchart TD
   class N8 purple
 ```
 
+### AJCC 8th Edition TNM Staging Classification
+Staging for nasopharyngeal carcinoma reflects its unique propensity for skull base erosion, retropharyngeal nodal metastasis, and caudal cervical nodal descent:
+- **T-Staging (Primary Tumor)**:
+  - **T1**: Tumor confined to the nasopharynx, or tumor extends to oropharynx and/or nasal cavity without parapharyngeal involvement.
+  - **T2**: Tumor with extension to the parapharyngeal space, and/or infiltration of the medial pterygoid, lateral pterygoid, and/or prevertebral muscles.
+  - **T3**: Tumor with bony involvement of the skull base, cervical vertebra, pterygoid structures, and/or paranasal sinuses.
+  - **T4**: Tumor with intracranial extension, involvement of cranial nerves, hypopharynx, orbit, parotid gland, and/or extensive soft tissue infiltration beyond the lateral surface of the lateral pterygoid muscle.
+- **N-Staging (Regional Lymph Nodes)**:
+  - **N1**: Unilateral cervical lymph node(s) $\le 6\text{ cm}$ in greatest dimension, located strictly **above the caudal border of the cricoid cartilage**, and/or unilateral or bilateral retropharyngeal lymph nodes $\le 6\text{ cm}$.
+  - **N2**: Bilateral cervical lymph node(s) $\le 6\text{ cm}$ in greatest dimension, located strictly **above the caudal border of the cricoid cartilage**.
+  - **N3**: Cervical lymph node(s) $>6\text{ cm}$ in greatest dimension, and/or extension **below the caudal border of the cricoid cartilage** (supraclavicular fossa involvement).
+- **Petroclival Skull Base Syndromes (Godtfredson Syndrome)**:
+  - Advanced clival and petroclival invasion can produce **Godtfredson syndrome**, the classic clinical syndrome characterized by combined **abducens (CN VI) and hypoglossal (CN XII) nerve palsies** resulting from tumor infiltration involving the petroclival synchondrosis, cavernous sinus/Dorello canal, and the hypoglossal canal (most frequently observed in nasopharyngeal carcinoma, clival chordoma, or skull base metastases).
+
 ### Management & Critical Safety Checks
 - Treatment: **IMRT** to primary and necks; concurrent cisplatin for stage II and above, with induction or adjuvant chemotherapy by risk (gemcitabine-cisplatin induction in locoregionally advanced disease has trial support).
 - Otolaryngology's roles: diagnosis (endoscopic biopsy), eustachian sequelae, and **salvage nasopharyngectomy** (endoscopic or maxillary-swing) for localized radiorecurrent disease (see [[Adult unilateral otitis media with effusion mandates nasopharyngoscopy to exclude nasopharyngeal carcinoma|Adult Unilateral OME Diagnostic Flag]]).

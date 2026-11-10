@@ -36,6 +36,7 @@ aliases:
   - Driven by biallelic inactivation of the **NF2 tumor suppressor gene** on chromosome 22q12, which encodes the protein **merlin (schwannomin)**.
   - *Unilateral / Sporadic*: 95% of cases.
   - *Bilateral*: Diagnostic hallmark of **Neurofibromatosis Type 2 (NF2)**.
+  - *Pediatric Population Nuance*: While vestibular schwannomas represent the overwhelming majority ($>85\%$) of cerebellopontine angle (CPA) masses in adults, they are exceptionally rare in children; a **CPA vestibular schwannoma in a pediatric patient is considered pathognomonic for underlying Neurofibromatosis Type 2 (NF2)** until proven otherwise, mandating prompt genetic testing, neuroaxis MRI screening for spinal ependymomas/meningiomas, and ophthalmologic screening for juvenile posterior subcapsular cataracts.
 - **Clinical Presentation**:
   - **Asymmetric progressive high-frequency sensorineural hearing loss** ($>90\%$).
   - Unilateral high-pitched [[Chronic subjective tinnitus is managed with cognitive behavioral and sound-based therapy rather than cure|tinnitus]].
@@ -66,6 +67,9 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
+- **Audiometric Hallmarks & Natural History Predictors**:
+  - *Rollover Phenomenon*: An initial improvement in speech discrimination at conversational levels followed by a marked paradoxically steep decrease in speech recognition score (SRS) as presentation sound level increases (high **rollover index**, calculated as $(PB_{max} - PB_{min}) / PB_{max} > 0.45$). This classic sign indicates **retrocochlear neural synchrony disruption / neural fatigue**, strongly differentiating retrocochlear pathology from cochlear hair cell loss.
+  - *Natural History & Hearing Preservation Predictor*: In patients managed with conservative watchful waiting / serial MRI observation, baseline **speech discrimination (word recognition score, WRS)** is the single strongest and most reliable predictor of long-term serviceable hearing maintenance (far superior to pure-tone thresholds).
 - **Gold Standard Diagnostic Imaging**: **Contrast-enhanced T1-weighted MRI**, demonstrating an avidly enhancing "ice-cream cone" mass centered in the IAC and CPA with widening of the porus acusticus.
 
 ## Connected Concepts & Graph Traversal

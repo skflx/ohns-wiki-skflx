@@ -29,7 +29,14 @@ aliases:
 ## Core Clinical & Mechanistic Principles
 Lower eyelid malposition (**ectropion, eyelid retraction, and scleral show**) is the most common serious complication of [[Lower blepharoplasty addresses fat herniation while preserving the inferior oblique muscle|lower blepharoplasty]]. It results from unrecognized pre-existing lower eyelid laxity combined with middle lamellar scar contracture.
 
-Preoperative assessment requires the **Snap-Back Test** and **Distraction Test ($>6\text{ mm}$ indicates severe laxity)**.
+Preoperative assessment requires objective quantification of lower lid tone via the **Distraction Test** ($>6\text{ mm}$ displacement from the globe indicates severe laxity) and the formal **Grade 0 to IV Snap-Back Test**:
+- **Grade 0 (Normal)**: Instantaneous, crisp snap back to the globe without requiring a blink.
+- **Grade 1 (Mild Laxity)**: Slow return to the globe taking $2\text{ to }3\text{ seconds}$ without blinking.
+- **Grade 2 (Moderate Laxity)**: Return takes $4\text{ to }5\text{ seconds}$ or requires the patient to blink to reposition the lid.
+- **Grade 3 (Severe Laxity)**: Eyelid fails to return to the globe with blinking alone, remaining distracted until manually manipulated.
+- **Grade 4 (Frank Ectropion)**: Permanent eversion of the lower eyelid margin away from the globe at rest.
+
+A distraction test $>6\text{ mm}$ or snap-back Grade $\ge 2$ signifies clinically significant lower lid laxity that cannot be corrected by simple canthopexy alone, mandating a formal lateral tarsal strip (LTS) canthoplasty.
 
 ```mermaid
 %% Lower Lid Suspension Tarsal Strip vs Canthopexy

@@ -53,7 +53,7 @@ flowchart TD
 ### Anatomical Subunits & Craft Nuances
 1. **Targeted Interventions by Layer**:
    - **Class II (Skin Laxity)**: Addressed via lateral postauricular and temporal skin flap advancement during rhytidectomy.
-   - **Class III (Submental Adiposity)**: Closed submental cannula liposuction for preplatysmal fat; open direct excision for subplatysmal deep fat between anterior digastric bellies.
+   - **Class III (Submental Adiposity)**: Closed submental cannula liposuction for preplatysmal fat; open direct excision for subplatysmal deep fat between anterior digastric bellies. During closed liposuction, the **cannula suction aperture must always be directed deep (downward) toward the platysma muscle and away from the overlying dermis**; directing the port superficially toward the dermis causes thermal/mechanical injury to the subdermal plexus, resulting in permanent grooving, dermal adhesion banding, hyperpigmentation, or full-thickness skin flap necrosis.
    - **Class IV (Platysmal Banding)**: Submental incision with midline anterior platysma plication (corset platysmaplasty) and wedge/horizontal transection 4–5 cm below the mandible to recreate an acute angle.
    - **Class V (Skeletal Retrusion)**: Placement of extended anatomical silicone or porous polyethylene implants or osseous horizontal osteotomy (sliding genioplasty).
    - **Class VI (Hyoid Position)**: Anatomical limit of soft-tissue redraping where the floor of the mouth cannot be deepened without unsafe hyoid suspension.

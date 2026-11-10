@@ -32,6 +32,9 @@ The mammalian cochlea possesses an active biological amplifier that sharpens [[T
 - **The Molecular Motor Protein**: **Prestin (SLC26A5)**:
   - Densely packed in the lateral plasma membrane of OHCs.
   - Functions as a voltage-sensitive motor that undergoes rapid conformational changes in response to transmembrane potential fluctuations without requiring ATP hydrolysis.
+- **Cochlear Neural Innervation & Afferent Architecture**:
+  - *Inner Hair Cells (IHCs)*: Serve as the primary sensory transducers, giving rise to **$90	ext{–}95\%$ of all cochlear afferent fibers**. Each single IHC is contacted by $10	ext{–}20$ unbranched, myelinated **Type I radial afferent neurons**, establishing high-fidelity acoustic transmission to the cochlear nucleus.
+  - *Outer Hair Cells (OHCs)*: Act as mechanical amplifiers rather than primary sensory reporters; they receive predominantly **efferent olivocochlear innervation** and only **$5	ext{–}10\%$ of afferents** (supplied by unmyelinated **Type II spiral fibers**, which branch to innervate multiple OHCs and act as acoustic pain/damage sensors).
 - **Electromotility Mechanics**:
   - Depolarization (influx of $\text{K}^+$ via stereocilia tip links) causes OHCs to **contract / shorten**.
   - Hyperpolarization causes OHCs to **elongate**.

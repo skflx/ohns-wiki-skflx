@@ -30,6 +30,7 @@ aliases:
 - Diagnosis before technique: what makes the scar visible — direction against **relaxed skin tension lines**, contracture, width, depression/elevation, color mismatch — each fault has a matched tool.
 - **Z-plasty**: transposition that lengthens along the central limb and reorients it; the classic 60-degree Z yields ~75 percent theoretical lengthening (30 degrees ~25 percent, 45 degrees ~50 percent) — the contracture and mal-orientation tool.
 - **W-plasty and geometric broken line closure** irregularize a long straight scar into segments below the eye's pattern-detection threshold — camouflage tools that shorten nothing and consume adjacent tissue.
+- **Trapdoor (Pincushion) Deformity Revision**: Circular, semicircular, or U-shaped scars frequently develop central soft-tissue elevation and pincushioning secondary to concentric scar contracture and lymphatic congestion. Revision of mature trapdoor deformities (>6 months) requires breaking up the continuous circumferential scar line with **multiple peripheral Z-plasties or W-plasties** along the margin, combined with sub-flap elevation and direct surgical debulking (tangential excision) of the underlying fibrotic cicatrix and excess deep subcutaneous fat.
 - Timing and adjuncts: revise mature scars (classically 6-12 months, earlier selectively); **dermabrasion or fractional laser at roughly 6-8 weeks** exploits the remodeling window; silicone, sun protection, and steroid adjuncts guard the result.
 
 ```mermaid

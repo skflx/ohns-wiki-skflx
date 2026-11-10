@@ -24,7 +24,7 @@ aliases:
 > *Answer / Clinical Rationale*: In the **innominate fascia / sub-temporoparietal fascia (sub-TPF)**, running strictly superficial to the deep temporal fascia proper.
 
 > [!question]- What surface anatomical landmarks define Pitanguy's line?
-> *Answer / Clinical Rationale*: A line drawn from **$0.5\text{ cm}$ below the tragus** to **$1.5\text{ cm}$ superior to the lateral brow**.
+> *Answer / Clinical Rationale*: A line drawn from **$0.5	ext{ cm}$ below the tragus** to **$1.5	ext{ cm}$ superior to the lateral brow**.
 
 ## Core Clinical & Mechanistic Principles
 The **frontal (temporal) branch of the facial nerve (CN VII)** innervates the frontalis, upper orbicularis oculi, and corrugator supercilii muscles. Its [[The superficial musculoaponeurotic system divides facial fat into distinct surgical planes|superficial]] course across the zygomatic arch makes it the **most vulnerable motor nerve in upper facial and brow rejuvenation surgery**.
@@ -52,6 +52,12 @@ flowchart TD
   class N8,N9 red
 ```
 
+### Danger Zone Metrics & Quantitative Distances
+- **Quantitative Distance Metrics**:
+  - As the frontal (temporal) branch of CN VII crosses the zygomatic arch, it crosses the **middle third of the zygomatic arch**, typically measured **.5–2.0	ext{ cm}$ anterior to the external auditory canal / tragus** and .5	ext{ cm}$ posterior to the lateral orbital rim.
+  - *Depth Transition*: Inferior to the zygomatic arch, the nerve runs deep within the parotid gland. Over the arch, it transitions into the **innominate fascia (sub-SMAS / loose areolar tissue)** on the undersurface of the temporoparietal fascia (TPF).
+  - *Supraorbital Rim Metric*: Above the zygomatic arch, the nerve ascends within the TPF; as it approaches the upper face, it crosses **.5–2.0	ext{ cm}$ superior and lateral to the lateral orbital rim** before arborizing into the deep surface of the frontalis, corrugator, and orbicularis oculi muscles.
+
 ### Safe Surgical Dissection Planes
 1. **Deep to the Nerve (Deep Temporal Fascia Proper)**:
    - Dissecting directly on the **glistening white surface of the deep temporal fascia (DTF)** keeps the nerve safely elevated in the superficial flap.
@@ -59,7 +65,7 @@ flowchart TD
    - Dissecting strictly beneath the periosteum over the zygomatic arch and lateral orbital rim.
 
 ## Critical Surgical Traps & Brow Ptosis
-- **Pitanguy's Line**: A line drawn from **$0.5\text{ cm}$ inferior to the tragus** to a point **$1.5\text{ cm}$ superior to the lateral brow**.
+- **Pitanguy's Line**: A line drawn from **$0.5	ext{ cm}$ inferior to the tragus** to a point **$1.5	ext{ cm}$ superior to the lateral brow**.
 - **Transection Consequence**: Laceration of the frontal branch causes immediate, permanent **unilateral brow ptosis**, inability to elevate the forehead, and loss of upper facial symmetry.
 
 ## Connected Concepts & Graph Traversal

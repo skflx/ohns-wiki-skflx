@@ -25,13 +25,13 @@ aliases:
 ## Active Recall
 
 > [!question]- What sensor montage is used on polysomnography to detect airflow cessation versus respiratory effort, and how do their tracings distinguish obstructive from central apnea?
-> *Answer / Clinical Rationale*: Airflow is monitored using an **oronasal thermal sensor (thermistor)** as the primary sensor for apneas and a **nasal air pressure transducer** for hypopneas and flow limitation. Respiratory effort is recorded using **respiratory inductance plethysmography (RIP) belts** around the thorax and abdomen, or **esophageal manometry**. In an **obstructive apnea**, airflow drops by $\ge 90\%$ for $\ge 10\text{ seconds}$ while thoracoabdominal belts show **persistent or paradoxical respiratory effort** (chest and abdomen moving in opposite directions against a closed airway). In a **central apnea**, airflow drops by $\ge 90\%$ for $\ge 10\text{ seconds}$ with **complete absence of thoracoabdominal effort** throughout the entire event duration.
+> *Answer / Clinical Rationale*: Airflow is monitored using an **oronasal thermal sensor (thermistor)** as the primary sensor for apneas and a **nasal air pressure transducer** for hypopneas and flow limitation. Respiratory effort is recorded using **respiratory inductance plethysmography (RIP) belts** around the thorax and abdomen, or **esophageal manometry**. In an **obstructive apnea**, airflow drops by $\ge 90\%$ for $\ge 10	ext{ seconds}$ while thoracoabdominal belts show **persistent or paradoxical respiratory effort** (chest and abdomen moving in opposite directions against a closed airway). In a **central apnea**, airflow drops by $\ge 90\%$ for $\ge 10	ext{ seconds}$ with **complete absence of thoracoabdominal effort** throughout the entire event duration.
 
 > [!question]- How is a mixed apnea scored on polysomnography, and what pathophysiological mechanism underlies its biphasic morphology?
-> *Answer / Clinical Rationale*: A **mixed apnea** is characterized by airflow cessation ($\ge 90\%$) lasting $\ge 10\text{ seconds}$ that **begins with an initial lack of thoracoabdominal respiratory effort (central component)** and **concludes with the resumption of respiratory effort against an occluded airway without airflow (obstructive component)**. This occurs because central hypopnea or apnea leads to progressive loss of pharyngeal dilator muscle tone during the central pause; when central ventilatory drive abruptly resumes due to hypercapnic chemical stimulation, the collapsed, hypotonic upper airway acts as a Starling resistor, producing physical airway obstruction until cortical arousal restores neuromuscular patency.
+> *Answer / Clinical Rationale*: A **mixed apnea** is characterized by airflow cessation ($\ge 90\%$) lasting $\ge 10	ext{ seconds}$ that **begins with an initial lack of thoracoabdominal respiratory effort (central component)** and **concludes with the resumption of respiratory effort against an occluded airway without airflow (obstructive component)**. This occurs because central hypopnea or apnea leads to progressive loss of pharyngeal dilator muscle tone during the central pause; when central ventilatory drive abruptly resumes due to hypercapnic chemical stimulation, the collapsed, hypotonic upper airway acts as a Starling resistor, producing physical airway obstruction until cortical arousal restores neuromuscular patency.
 
 > [!question]- What are the AASM diagnostic criteria distinguishing the 'recommended' and 'acceptable' rules for scoring adult hypopneas?
-> *Answer / Clinical Rationale*: - **AASM Recommended Rule**: A reduction in airflow by **$\ge 30\%$ from baseline** for at least **$10\text{ seconds}$**, accompanied by a **$\ge 3\%$ oxyhemoglobin desaturation** OR an **electroencephalographic (EEG) arousal**. - **AASM Acceptable / CMS Rule**: A reduction in airflow by **$\ge 30\%$ from baseline** for at least **$10\text{ seconds}$**, accompanied by a **$\ge 4\%$ oxyhemoglobin desaturation** (regardless of EEG arousal).
+> *Answer / Clinical Rationale*: - **AASM Recommended Rule**: A reduction in airflow by **$\ge 30\%$ from baseline** for at least **$10	ext{ seconds}$**, accompanied by a **$\ge 3\%$ oxyhemoglobin desaturation** OR an **electroencephalographic (EEG) arousal**. - **AASM Acceptable / CMS Rule**: A reduction in airflow by **$\ge 30\%$ from baseline** for at least **$10	ext{ seconds}$**, accompanied by a **$\ge 4\%$ oxyhemoglobin desaturation** (regardless of EEG arousal).
 
 ## Core Clinical & Mechanistic Principles
 
@@ -63,21 +63,28 @@ flowchart TD
 
 | Respiratory Event | Airflow Criteria | Duration | Effort / Mechanics Criteria | Arousal / Desaturation Criteria | Clinical Significance |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Obstructive Apnea** *(Fig 9.4 B)* | $\ge 90\%$ reduction from baseline (oronasal thermal sensor) | $\ge 10\text{ seconds}$ | **Continued or increased** thoracoabdominal effort throughout | Desaturation and EEG arousal common but not mandatory | Mechanical pharyngeal collapse requiring anatomic or PAP therapy |
-| **Central Apnea** *(Fig 9.4 A)* | $\ge 90\%$ reduction from baseline | $\ge 10\text{ seconds}$ | **Complete absence** of thoracoabdominal effort throughout | Desaturation occurs; terminates with hyperpneic ventilatory burst | Failure of central respiratory drive; associated with CHF, opioids, or stroke |
-| **Mixed Apnea** | $\ge 90\%$ reduction from baseline | $\ge 10\text{ seconds}$ | **Biphasic**: initial absent effort followed by late obstructed effort | Terminated by EEG arousal upon resumption of airflow | Transition from central pauses to secondary physical collapse |
-| **Hypopnea** *(Fig 9.4 C)* | $\ge 30\%$ reduction from baseline (nasal pressure transducer) | $\ge 10\text{ seconds}$ | Thoracoabdominal effort present | $\ge 3\%$ desat OR EEG arousal (AASM); $\ge 4\%$ desat (CMS) | Partial airway narrowing causing nocturnal hypoxemia and fragmentation |
-| **RERA** | Progressive negative esophageal pressure or waveform flattening | $\ge 10\text{ seconds}$ | Increasing respiratory effort | **EEG arousal mandatory**; does not meet apnea/hypopnea criteria | Hallmark of Upper Airway Resistance Syndrome (UARS) |
+| **Obstructive Apnea** *(Fig 9.4 B)* | $\ge 90\%$ reduction from baseline (oronasal thermal sensor) | $\ge 10	ext{ seconds}$ | **Continued or increased** thoracoabdominal effort throughout | Desaturation and EEG arousal common but not mandatory | Mechanical pharyngeal collapse requiring anatomic or PAP therapy |
+| **Central Apnea** *(Fig 9.4 A)* | $\ge 90\%$ reduction from baseline | $\ge 10	ext{ seconds}$ | **Complete absence** of thoracoabdominal effort throughout | Desaturation occurs; terminates with hyperpneic ventilatory burst | Failure of central respiratory drive; associated with CHF, opioids, or stroke |
+| **Mixed Apnea** | $\ge 90\%$ reduction from baseline | $\ge 10	ext{ seconds}$ | **Biphasic**: initial absent effort followed by late obstructed effort | Terminated by EEG arousal upon resumption of airflow | Transition from central pauses to secondary physical collapse |
+| **Hypopnea** *(Fig 9.4 C)* | $\ge 30\%$ reduction from baseline (nasal pressure transducer) | $\ge 10	ext{ seconds}$ | Thoracoabdominal effort present | $\ge 3\%$ desat OR EEG arousal (AASM); $\ge 4\%$ desat (CMS) | Partial airway narrowing causing nocturnal hypoxemia and fragmentation |
+| **RERA** | Progressive negative esophageal pressure or waveform flattening | $\ge 10	ext{ seconds}$ | Increasing respiratory effort | **EEG arousal mandatory**; does not meet apnea/hypopnea criteria | Hallmark of Upper Airway Resistance Syndrome (UARS) |
+
+### Sleep-Related Hypoventilation Criteria
+Beyond episodic discrete apneas and hypopneas, the AASM defines **Sleep-Related Hypoventilation** as sustained nocturnal hypercapnia on polysomnography:
+- **Diagnostic Criteria**:
+  - An increase in arterial or transcutaneous/end-tidal $	ext{PCO}_2$ ($\	ext{PaCO}_2$, $\	ext{PetCO}_2$, or $\	ext{TcCO}_2$) to **$>55	ext{ mmHg}$ for $\ge 10	ext{ minutes}$**, OR
+  - An increase in $	ext{PCO}_2$ of **$\ge 10	ext{ mmHg}$ above awake supine baseline** to a level **$>50	ext{ mmHg}$ for $\ge 10	ext{ minutes}$**.
+- **Clinical Significance**: Indicates alveolar hypoventilation (e.g., obesity hypoventilation syndrome, chest wall deformity, neuromuscular weakness, or central hypoventilation), often associated with waking morning hypercapnia and daytime headaches, requiring bilevel positive airway pressure (BiPAP) with backup rate rather than standard CPAP.
 
 ### Polysomnographic Indices & Clinical Metrics
 
 1. **Apnea Index (AI)**: Number of apneas per hour of total sleep time (TST).
 2. **Apnea-Hypopnea Index (AHI)**:
-   $$\text{AHI} = \frac{\text{Apneas} + \text{Hypopneas}}{\text{Total Sleep Time (hours)}}$$
-   - Adult severity thresholds: **Mild** ($5.0\text{–}14.9$), **Moderate** ($15.0\text{–}29.9$), **Severe** ($\ge 30.0$).
+   $$	ext{AHI} = \frac{	ext{Apneas} + 	ext{Hypopneas}}{	ext{Total Sleep Time (hours)}}$$
+   - Adult severity thresholds: **Mild** ($5.0	ext{–}14.9$), **Moderate** ($15.0	ext{–}29.9$), **Severe** ($\ge 30.0$).
 3. **Respiratory Disturbance Index (RDI)**:
-   $$\text{RDI} = \frac{\text{Apneas} + \text{Hypopneas} + \text{RERAs}}{\text{Total Sleep Time (hours)}}$$
-4. **Central Apnea Index (CAI)**: Central apneas per hour of TST ($>5/\text{hr}$ defines central sleep apnea).
+   $$	ext{RDI} = \frac{	ext{Apneas} + 	ext{Hypopneas} + 	ext{RERAs}}{	ext{Total Sleep Time (hours)}}$$
+4. **Central Apnea Index (CAI)**: Central apneas per hour of TST ($>5/	ext{hr}$ defines central sleep apnea).
 
 ### Portable Sleep-Monitoring Device Classification
 

@@ -7,7 +7,7 @@ tags:
   - orbital-floor
   - blowout-fracture
   - surgical-technique
-last_revised: 2026-11-03
+last_revised: 2026-11-09
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -77,8 +77,9 @@ flowchart TD
    - Pre-shaped or hand-bent **titanium mesh**, high-density porous polyethylene (Medpor®), or resorbable PLLA/PGA plates are contoured to recreate the gentle upward sloping "orbital hillock".
    - The implant must rest securely on the anterior, medial, and posterior bony ledges to prevent migration into the maxillary sinus.
 4. **Mandatory Final Safeguards**:
-   - Perform a **forced duction test** immediately after implant seating.
+   - Perform a **forced duction test** immediately after implant seating to confirm completely unhindered extraocular motility.
    - Re-approximate periorbita; close conjunctiva with buried absorbable sutures.
+5. **Absolute Contraindication & Hyphema Timing**: Traumatic **hyphema** is an absolute contraindication to immediate elective blowout fracture repair. Surgical exploration must be delayed for **at least 5 days** under strict ophthalmologic care to permit clot stabilization and clearing. Orbital retraction and instrument manipulation in the presence of active hyphema causes acute spikes in intraocular pressure, risking secondary anterior chamber hemorrhage, corneal blood staining, and intractable secondary glaucoma.
 
 ## Connected Concepts & Graph Traversal
 - **ZMC Tetrapod Fractures**: [[Zygomaticomaxillary complex fractures disrupt four buttress articulations requiring multi-point reduction|ZMC Complex Trauma]]

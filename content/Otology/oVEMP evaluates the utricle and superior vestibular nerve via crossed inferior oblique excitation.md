@@ -29,6 +29,7 @@ aliases:
 
 ## Core Clinical & Mechanistic Principles
 **Ocular Vestibular Evoked Myogenic Potential (oVEMP)** evaluates the utriculo-ocular reflex:
+- **Physiological Basis & Sensory Plane**: The **utricular macula** is oriented in the **horizontal plane**, making it the primary vestibular receptor detecting **linear acceleration in the horizontal axis** (e.g., car acceleration/braking, side-to-side translation) as well as static head tilt relative to gravity.
 - **Neural Reflex Arc**:
   1. Sound or bone vibration activates the **utricular macula**.
   2. Signal ascends along the **superior vestibular nerve (SVN)** to the superior and medial vestibular nuclei.

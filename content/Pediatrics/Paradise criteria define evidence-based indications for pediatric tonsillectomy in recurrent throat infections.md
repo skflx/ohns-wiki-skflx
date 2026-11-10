@@ -65,6 +65,14 @@ flowchart TD
   class N5 red
 ```
 
+### Non-Paradise Infectious & Autoinflammatory Indications (PFAPA Syndrome)
+While the Paradise criteria strictly regulate surgery for recurrent GABHS tonsillitis, autoinflammatory periodic fever syndromes represent an evidence-based non-Paradise surgical indication:
+- **PFAPA Syndrome (Periodic Fever, Aphthous Stomatitis, Pharyngitis, Adenitis)**:
+  - An autoinflammatory disorder of early childhood characterized by stereotypic, predictable febrile episodes lasting **$3–7\text{ days}$** that recur cyclically every **$21–42\text{ days}$** in an otherwise healthy child with normal growth and development.
+  - Manifests with abrupt high fevers ($>39^\circ\text{C}$) accompanied by at least one cardinal feature: shallow aphthous oral ulcers, exudative or non-exudative pharyngitis, and tender anterior cervical lymphadenitis. Throat cultures and viral panels remain consistently negative.
+  - *Response to Corticosteroids*: A single dose of oral prednisone ($1–2\text{ mg/kg}$) or betamethasone produces dramatic abortive cessation of fever within hours (pathognomonic clinical feature), though it can paradoxically shorten the interval between flares.
+  - *Surgical Cure*: Bilateral [[Extracapsular total tonsillectomy and intracapsular subtotal tonsillotomy differ in postoperative hemorrhage and recovery|tonsillectomy]] (with or without adenoidectomy) provides a **definitive cure / long-term complete clinical resolution in $>90–95\%$ of affected children**, effectively halting periodic inflammatory cytokine surges.
+
 ### Surgical Technique & Critical Safety Checks
 - **Watchful Waiting**: Children not meeting these stringent criteria should undergo watchful waiting, as spontaneous resolution of recurrent infections occurs in $>50\%$ of children over time.
 - **AAO-HNS Clinical Guidelines for Pediatric Adenoidectomy**:

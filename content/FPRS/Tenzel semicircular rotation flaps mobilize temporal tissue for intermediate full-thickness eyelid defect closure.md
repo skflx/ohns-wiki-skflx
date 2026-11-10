@@ -7,7 +7,7 @@ tags:
   - tenzel-flap
   - semicircular-flap
   - cantholysis
-last_revised: 2026-11-03
+last_revised: 2026-11-09
 status: complete
 sources:
   - "BakerFlaps3e, Ch17, p.401"
@@ -28,7 +28,10 @@ aliases:
 > *Answer / Clinical Rationale*: A **lateral canthotomy** combined with **selective cantholysis of the corresponding crus of the lateral canthal tendon** (inferior crus for lower lid; superior crus for upper lid) must be performed beneath the musculocutaneous flap to release the lid segment from the orbital rim.
 
 ## Core Clinical & Mechanistic Principles
-The Tenzel semicircular advancement flap is the premier single-stage technique for repairing intermediate full-thickness eyelid defects encompassing 33% to 66% (and up to 75% in elderly patients with marked tissue laxity) of the horizontal eyelid margin. It mobilizes periorbital and temporal musculocutaneous tissue along a [[Rotation flaps redistribute closing tension along a curvilinear arc of rotation|curvilinear arc]], combining lateral rotational tissue recruitment with horizontal advancement of the remaining eyelid margin.
+Full-thickness eyelid defect reconstruction is calibrated by horizontal margin loss:
+- **Defects Up to 25–30%**: Full-thickness defects encompassing **up to 25% (and up to 30% in elderly patients with marked eyelid laxity)** are closed primarily via a **pentagonal wedge excision** with direct layered tarsal realignment and gray line silk vertical mattress coaptation, without requiring regional tissue transposition.
+- **Defects 33% to 66%**: Exceed primary approximation capacity and represent the definitive indication for the **Tenzel semicircular rotation-advancement flap**, mobilizing periorbital temporal tissue to bridge intermediate eyelid loss in a single stage.
+- **Defects $>66\%$**: Require two-stage composite lid-sharing flaps (Hughes tarsoconjunctival flap or Cutler-Beard bridge flap) or cheek rotation flaps (Mustardé). It mobilizes periorbital and temporal musculocutaneous tissue along a [[Rotation flaps redistribute closing tension along a curvilinear arc of rotation|curvilinear arc]], combining lateral rotational tissue recruitment with horizontal advancement of the remaining eyelid margin.
 
 Biomechanical and operative components include:
 1. **Flap Design**: Beginning at the lateral canthus, a semicircular arch with a diameter of approximately 20 mm is drawn. For lower lid defects, the arc sweeps superiorly and laterally toward the tail of the eyebrow. This high superior trajectory is critical: because flap wound contraction and gravity pull downward, an elevated arc vector converts closing forces into upward-medial support, preventing postoperative lower lid retraction and ectropion. For upper lid defects, the mirror-image arc sweeps inferiorly across the temple.

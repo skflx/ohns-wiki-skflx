@@ -59,6 +59,14 @@ flowchart TD
   class N13,N14 red
 ```
 
+### Visceral Arteriovenous Malformations (Pulmonary AVM Screening)
+Beyond sinonasal mucosal telangiectasias, visceral organ screening is vital to prevent fatal neurological and embolic complications:
+- **Pulmonary AVMs (PAVMs)**:
+  - Present in **approximately $40\%$ of patients with HHT** (higher prevalence in HHT1 / *ENG* mutations).
+  - *Paradoxical Embolism Hazard*: Right-to-left intrapulmonary vascular shunting bypasses the capillary filtration bed of the lungs, allowing septic microemboli and venous thrombi to reach the systemic arterial circulation, leading to **cryptogenic embolic stroke or recurrent polymicrobial brain abscesses**.
+  - *Screening Standard*: Transthoracic contrast echocardiography (**bubble study**)—delayed appearance of microbubbles in the left atrium after 3 to 8 cardiac cycles confirms intrapulmonary right-to-left shunting, mandating thin-slice chest CT and catheter embolotherapy with detachable coils/vascular plugs for feeding vessels $\ge 2–3\text{ mm}$.
+- **Cerebral & Hepatic AVMs**: Brain MRI screening identifies cerebral AVMs ($10\%$); hepatic AVMs ($40–70\%$) can cause high-output cardiac failure or portal hypertension.
+
 ### Staged Multi-Tier Epistaxis Management
 - **Conservative**: Humidification, mucosal emollients (rose geranium oil), tranexamic acid (oral/topical).
 - **In-Office / OR Coagulation**: **KTP / Nd:YAG laser photocoagulation** or bipolar cautery (monopolar and aggressive packing must be avoided to prevent septal perforation).

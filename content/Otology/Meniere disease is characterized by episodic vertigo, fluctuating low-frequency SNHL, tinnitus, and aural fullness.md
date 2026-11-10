@@ -61,6 +61,8 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
+- **Atypical Variants & Syndromic Phenotypes**:
+  - *Lermoyez Syndrome*: A rare, classic variant of Ménière disease characterized by the **paradoxical phenomenon where hearing improves and tinnitus clears following an attack of true vertigo**. Pathophysiologically, progressive endolymphatic hydrops dampens basilar membrane micromechanics with worsening SNHL and roaring tinnitus; subsequent micro-rupture or release decompressing the scala media triggers an acute vertiginous crisis while restoring mechanical compliance and temporarily improving hearing thresholds.
 - **Tumarkin Otolithic Crisis (Drop Attacks)**: Sudden, catastrophic drop to the floor without loss of consciousness, caused by acute otolithic mechanical deformation.
 
 ## Connected Concepts & Graph Traversal

@@ -29,6 +29,13 @@ aliases:
 
 ## Core Clinical & Mechanistic Principles
 Surgical repair of unilateral cleft lip (**Cheiloplasty**) aims to reconstruct symmetrical lip height, restore the continuous orbicularis oris muscle ring, and correct the cleft nasal deformity:
+- **The Unilateral Cleft Lip Nasal Deformity (Anatomical Hallmarks)**:
+  - *Columella, Caudal Septum & Nasal Tip*: Characteristically deviated towards the **non-cleft side** due to unopposed traction from the intact contralateral facial and perioral musculature.
+  - *Posterior Bony Septum*: Paradoxically deviates towards the **cleft side**, obstructing the cleft-side nasal airway.
+  - *Cleft-Side Lower Lateral Cartilage (Alar Base)*: Slumped, flattened, and laterally, posteriorly, and **inferiorly displaced**, with widening of the alar base.
+  - *Nostril Orientation*: The cleft-side nostril is **horizontally oriented** (in contrast to the normal vertical/oblique orientation on the non-cleft side).
+  - *Columella Length*: Markedly **shorter on the cleft side** than the non-cleft side, necessitating primary cleft rhinoplasty with suspension of the slumped lower lateral cartilage to the ipsilateral upper lateral cartilage and contralateral dome.
+
 - **Millard Rotation-Advancement Technique (Classic Standard)**:
   - **Medial Element (Rotation Flap)**: Rotates the displaced cupid's bow and philtrum downward into the horizontal position via a curved subalar incision.
   - **Lateral Element (Advancement Flap)**: Advances a lateral lip flap into the superior rotation gap beneath the columella.

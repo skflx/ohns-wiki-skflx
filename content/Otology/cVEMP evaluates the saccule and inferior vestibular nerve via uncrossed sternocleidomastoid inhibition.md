@@ -29,6 +29,7 @@ aliases:
 
 ## Core Clinical & Mechanistic Principles
 **Cervical Vestibular Evoked Myogenic Potential (cVEMP)** measures the vestibulocollic reflex:
+- **Physiological Basis & Sensory Plane**: The **saccular macula** is oriented in the **parasagittal (vertical) plane**, making it the primary otolithic organ detecting **linear acceleration in the vertical axis** (e.g., gravitational load, elevator translation, vertical jumping).
 - **Neural Reflex Arc**:
   1. Acoustic stimulus ($500\text{-Hz}$ tone burst) activates the **saccular macula**.
   2. Signal travels along the **inferior vestibular nerve (IVN)** to the lateral vestibular (Deiters) nucleus.

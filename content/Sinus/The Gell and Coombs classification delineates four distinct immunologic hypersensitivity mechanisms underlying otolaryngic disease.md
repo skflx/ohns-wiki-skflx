@@ -60,7 +60,11 @@ The **Gell and Coombs Classification** categorizes immune-mediated tissue injury
    - *Effector Mechanism*: Antibody-independent. Mediated by sensitized **CD4+ T helper cells (Th1 and Th17)** and **CD8+ cytotoxic T lymphocytes (CTLs)**.
    - *Pathology*: Upon secondary antigen recognition presented on MHC molecules, Th1 cells release IFN-γ and TNF-α, recruiting and activating tissue macrophages into epithelioid histiocytes and multinucleated giant cells. CD8+ CTLs induce target cell apoptosis via perforin and granzyme secretion.
    - *Time Course*: Delayed onset, peaking at **48 to 72 hours**.
-   - *Otolaryngic Manifestations*: Allergic contact dermatitis (nickel jewelry, poison ivy / urushiol, topical neomycin or bacitracin), tuberculin purified protein derivative (PPD) cutaneous reaction, chronic solid organ transplant rejection, and sinonasal granulomatous diseases (e.g., granulomatosis with polyangiitis (GPA) and sarcoidosis).
+   - *Diagnostic Evaluation (Epicutaneous Patch Testing)*:
+     - The definitive gold standard for diagnosing Type IV contact hypersensitivity (e.g., contact dermatitis of the external ear canal from neomycin drops, periorbital dermatitis from cosmetics, or oral lichenoid contact reactions).
+     - Standardized allergen panels (e.g., T.R.U.E. Test) are applied to the upper back and secured with hypoallergenic tape.
+     - *Timing Protocol*: Patches are kept dry and **removed at 48 hours (Day 2)** for an initial reading; a **second delayed reading at 72 to 96 hours (Day 3 or 4)** is mandatory, as many delayed hypersensitivity reactions (particularly gold, corticosteroids, or neomycin) only manifest after 72 hours.
+   - *Otolaryngic Manifestations*: Allergic contact dermatitis (nickel jewelry, topical neomycin or bacitracin, adhesive tape), tuberculin purified protein derivative (PPD) cutaneous reaction, chronic solid organ transplant rejection, and sinonasal granulomatous diseases (e.g., granulomatosis with polyangiitis (GPA) and sarcoidosis).
 
 ```mermaid
 %% Gell and Coombs Classification and Anaphylaxis Management

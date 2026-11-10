@@ -28,10 +28,15 @@ aliases:
 
 ## Core Clinical & Mechanistic Principles
 **Sialendoscopy** is a minimally invasive, gland-preserving technique utilizing semi-rigid micro-endoscopes ($0.8\text{–}1.6\text{ mm}$ diameter) to diagnose and treat obstructive ductal disorders:
-- **Core Indications**:
-  - Sialolithiasis (calculi $\le 4\text{–}5\text{ mm}$ in [[Buccal mucosa carcinoma exhibits high rates of local recurrence and Stensen duct involvement|Stensen]]'s duct; $\le 5\text{–}7\text{ mm}$ in Wharton's duct).
-  - Sialodochitis / ductal strictures (post-radioactive iodine sialadenitis, recurrent juvenile parotitis, Sjögren syndrome).
-  - Mucous plugs and foreign bodies.
+- **Etiological Distribution of Chronic Obstructive Sialadenitis**:
+  - **Sialolithiasis (–70\%$)**: The predominant cause of mechanical ductal obstruction (most commonly in Wharton's duct due to viscous, alkaline, calcium-rich secretions and dependent, uphill flow).
+  - **Ductal Stenosis / Strictures (–20\%$)**: Fibrotic strictures resulting from chronic recurrent infection, trauma, autoimmune ductitis (Sjögren syndrome), or post-radioactive iodine ({131}\text{I}$) therapy.
+  - **Chronic Non-Calculous Sialodochitis (–10\%$)**: Mucous plugging, intraductal debris, and inflammatory ductal dysmotility without discrete stone or fibrotic web formation.
+- **Core Interventional Indications**:
+  - Sialolithiasis (calculi $\le 4–5\text{ mm}$ in [[Buccal mucosa carcinoma exhibits high rates of local recurrence and Stensen duct involvement|Stensen]]'s duct; $\le 5–7\text{ mm}$ in Wharton's duct amenable to primary endoscopic basket retrieval).
+  - Sialodochitis and ductal strictures amenable to balloon dilation.
+  - Diagnostic inspection for unexplained mealtime salivary colic.
+
 - **Technical Steps**:
   1. **Papilla Dilation**: Sequential dilation of the ductal punctum using salivary probes (0000 to #6) or conical dilator under topical/local anesthesia.
   2. **Endoscope Insertion & Continuous Irrigation**: Introduce scope with continuous normal saline or lidocaine irrigation to distend the duct lumen.

@@ -56,8 +56,8 @@ flowchart LR
 ```
 
 ### Anatomic & Embryologic Hierarchy of the Four Lamellae
-1. **First Lamella (Uncinate Process)**:
-   - Arises from the descending portion of the first ethmoturbinal (anlagen at 9–10 weeks).
+1. **First Lamella (Uncinate Process & Agger Nasi)**:
+   - Arises embryologically from the **first ethmoturbinal**: the descending portion forms the **uncinate process**, while the ascending portion forms the **agger nasi** (the most anterior ethmoid cell).
    - Serves as the anterior gatekeeper to the [[The hiatus semilunaris and infundibulum form the primary drainage channel of the ostiomeatal complex|ethmoidal infundibulum]] and [[Controlled middle meatal antrostomy enlargement preserves the anterior inferior fontanelle|maxillary sinus natural ostium]].
 2. **Second Lamella (Bulla Ethmoidalis)**:
    - Formed by the anterior-inferior bony wall of the bulla ethmoidalis.
@@ -65,8 +65,9 @@ flowchart LR
 3. **Third Lamella (Basal/Ground Lamella of the Middle Turbinate)**:
    - Attaches vertically to the cribriform junction anteriorly, courses obliquely across the fovea ethmoidalis, and turns horizontally to insert onto the lamina papyracea and perpendicular process of the palatine bone.
    - **Functional Dividing Line**: Separates anterior ethmoid drainage (middle meatus) from posterior ethmoid drainage (superior meatus).
-4. **Fourth Lamella (Superior Turbinate Lamella)**:
+4. **Fourth Lamella (Superior Turbinate Lamella & Supreme Turbinate)**:
    - Originates from the third ethmoturbinal; bounds the superior meatus and guides identification of the sphenoethmoidal recess and sphenoid sinus ostium.
+   - *Supreme Turbinate (Concha Suprema)*: When present ($15–20\%$ of individuals), the supreme turbinate derives from the rudimentary **4th and 5th ethmoturbinals**, bounding the highest (supreme) meatus.
 
 ## Connected Concepts & Graph Traversal
 - **Anatomical Boundary**: [[The basal lamella of the middle turbinate divides anterior from posterior ethmoid cells|Basal Lamella Anatomy]]

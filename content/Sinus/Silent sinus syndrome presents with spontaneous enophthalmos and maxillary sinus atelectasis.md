@@ -6,7 +6,7 @@ tags:
   - silent-sinus-syndrome
   - enophthalmos
   - lamina-papyracea
-last_revised: 2026-11-03
+last_revised: 2026-11-09
 status: complete
 sources:
   - "AtlasESS19, Ch6, p.4"

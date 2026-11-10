@@ -11,6 +11,7 @@ status: complete
 sources:
   - "CummingsReview2017, Ch8, p.185"
 aliases:
+  - "Chandler JNA Staging"
   - "Juvenile Nasopharyngeal Angiofibroma (JNA)"
   - "Radkowski & Fisch JNA Staging"
   - "Endoscopic JNA Resection"
@@ -34,7 +35,18 @@ aliases:
 
 It originates at the posterolateral margin of the nasal cavity at the **[[The crista ethmoidalis guides endoscopic sphenopalatine artery ligation|sphenopalatine foramen]] / vidian canal aperture** and expands through the [[Transpterygoid EEA exposes juvenile nasopharyngeal angiofibromas and lateral sphenoid defects|pterygopalatine fossa]], producing anterior bowing of the posterior maxillary sinus wall (**Holman-Miller sign**).
 
-### Radkowski & Fisch Staging Systems
+### Histopathological Hallmarks & Vascular Micro-Architecture
+- **Microscopic Appearance & Unchecked Hemorrhage**:
+  - Composed of an intimate admixture of fibrous stroma (plump, spindle-shaped fibroblasts and abundant collagen) and variable-sized, irregular vascular channels.
+  - *Absence of Elastic Fibers & Tunica Media*: The vascular channels characteristically consist of simple endothelial-lined spaces that **lack a complete muscularis layer (tunica media) and possess deficient elastic fibers**.
+  - *Surgical Implication*: Because the blood vessels lack smooth muscle and elastica, they are incapable of vasoconstriction or reflexive physiological hemostasis when transected. Any attempt at simple incisional biopsy triggers catastrophic, uncontainable hemorrhage. **Incisional biopsy is strictly contraindicated** in suspected JNA; diagnosis relies entirely on clinical presentation, contrast-enhanced CT/MRI, and diagnostic angiography.
+
+### Chandler, Radkowski & Fisch Staging Systems
+- **Chandler Classification (Historic & Board-Tested Four-Stage Schema)**:
+  - **Chandler Stage I**: Tumor confined strictly to the **nasopharynx**.
+  - **Chandler Stage II**: Tumor extending into the **nasal cavity and/or sphenoid sinus**.
+  - **Chandler Stage III**: Tumor extending into the **maxillary sinus, ethmoid sinuses, infratemporal fossa, orbit, cheek, or cavernous sinus**.
+  - **Chandler Stage IV**: Tumor with **intracranial extension** (dural invasion, middle cranial fossa, or pituitary fossa).
 - **Fisch Classification (Stages I–IV)**:
   - **Stage I**: Tumor limited to the nasal cavity and nasopharynx without bone destruction.
   - **Stage II**: Tumor invading the pterygomaxillary fossa or maxillary, ethmoid, and sphenoid sinuses with bone destruction.

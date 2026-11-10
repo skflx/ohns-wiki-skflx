@@ -33,7 +33,8 @@ AJCC 8th Edition utilizes **Depth of Invasion (DOI)** to stage oral cavity SCC:
   - **T1**: Tumor $\le 2\text{ cm}$ AND $\text{DOI} \le 5\text{ mm}$.
   - **T2**: Tumor $\le 2\text{ cm}$ with $\text{DOI} > 5\text{ mm}$ to $\le 10\text{ mm}$, OR tumor $> 2\text{ cm}$ to $\le 4\text{ cm}$ with $\text{DOI} \le 10\text{ mm}$.
   - **T3**: Tumor $> 4\text{ cm}$ OR any tumor with $\text{DOI} > 10\text{ mm}$.
-  - **T4a**: Gross cortical bone invasion (mandible/maxilla) or deep extrinsic tongue muscles.
+  - **T4a (Moderately Advanced Local Disease)**: Tumor invades adjacent structures: gross cortical bone invasion (mandible or maxilla), extrinsic deep muscles of the tongue (genioglossus, hyoglossus, palatoglossus, styloglossus), maxillary sinus, or facial skin.
+  - **T4b (Very Advanced Local Disease)**: Tumor invades the **masticator space**, **pterygoid plates**, or **skull base**, and/or **encases the internal carotid artery**.
 - **Rule of 4 mm**: Oral cavity SCC with a $\text{DOI} > 4\text{ mm}$ carries a $>20\text{–}30\%$ risk of [[Elective neck dissection is indicated for oral cavity squamous cell carcinoma with depth of invasion exceeding four millimeters|occult nodal metastasis]] and mandates **[[Selective neck dissection targets high-risk nodal basins while sparing low-risk cervical levels|elective neck dissection]] (Levels I–III)**.
 
 ```mermaid

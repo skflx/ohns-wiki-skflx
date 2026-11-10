@@ -6,7 +6,7 @@ tags:
   - cochlear-implantation
   - scala-tympani
   - translocation
-last_revised: 2026-11-03
+last_revised: 2026-11-09
 status: complete
 sources:
   - "KJLee"
@@ -62,6 +62,13 @@ flowchart TD
   classDef red fill:#fee2e2,stroke:#dc2626,color:#7f1d1d
   class N8 red
 ```
+
+### Non-Auditory Side Effects & Cranial Nerve Stimulation
+- **Aberrant Facial Nerve (CN VII) Stimulation**:
+  - Unintended co-stimulation of the facial nerve during CI device activation occurs in 	ext{–}10\%$ of recipients, presenting as painful twitching of the eye, midface, or mouth when hearing specific sound frequencies.
+  - *Mechanism & Predisposing Anatomy*: Driven by current shunting through low-impedance pathways into the **labyrinthine segment of the facial nerve**, which lies only 	ext{–}2	ext{ mm}$ superior to the basal turn of the cochlea.
+  - *High-Risk Cohort*: Patients with **[[Otosclerosis is characterized by abnormal bone remodeling of the otic capsule causing stapes fixation|advanced otosclerosis]]** (where spongy, demineralized otic capsule bone has lost its electrical insulating impedance) or cochlear osteoneogenesis after meningitis.
+  - *Remediation*: Reprogramming to deactivate offending high-charge basal electrodes, switching from monopolar to tripolar/pseudomonopolar stimulation modes, or pulse width widening.
 
 ### Surgical Technique & Critical Safety Checks
 - **Electrode Designs**:
