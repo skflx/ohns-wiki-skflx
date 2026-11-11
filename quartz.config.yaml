@@ -36,7 +36,7 @@ configuration:
         gray: "#B4B6AE"
         darkgray: "#4A4F57"
         dark: "#121418"
-        secondary: "#B8371A"
+        secondary: "#941B1B"
         tertiary: "#2445B0"
         highlight: rgba(36, 69, 176, 0.08)
         textHighlight: "#FFE58A99"
@@ -46,7 +46,7 @@ configuration:
         gray: "#3A3E45"
         darkgray: "#A6AAB2"
         dark: "#ECEBE6"
-        secondary: "#FF6B42"
+        secondary: "#E02A38"
         tertiary: "#8EA7FF"
         highlight: rgba(142, 167, 255, 0.10)
         textHighlight: "#B3AA0288"
@@ -155,7 +155,7 @@ plugins:
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"

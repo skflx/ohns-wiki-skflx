@@ -364,7 +364,7 @@ export function renderPage(
     sidebars,
   } = components
   const Body = BodyConstructor()
-  const SiteTopbar = SiteTopbarConstructor()
+  const SiteTopbar = SiteTopbarConstructor(undefined)
   const frame = resolveFrame(frameName)
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"

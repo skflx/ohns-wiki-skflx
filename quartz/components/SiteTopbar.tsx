@@ -42,7 +42,9 @@ SiteTopbar.afterDOMLoaded = `
       document.documentElement.setAttribute('data-theme', current);
       document.documentElement.setAttribute('saved-theme', current);
       localStorage.setItem('sk_theme', current);
-      window.dispatchEvent(new CustomEvent('themechange', { detail: { theme: current } }));
+      const ev = new CustomEvent('themechange', { detail: { theme: current } });
+      document.dispatchEvent(ev);
+      window.dispatchEvent(ev);
     });
   }
 
