@@ -1,6 +1,7 @@
 import { render } from "preact-render-to-string"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import BodyConstructor from "./Body"
+import SiteTopbarConstructor from "./SiteTopbar"
 import {
   CSSResource,
   JSResource,
@@ -363,6 +364,7 @@ export function renderPage(
     sidebars,
   } = components
   const Body = BodyConstructor()
+  const SiteTopbar = SiteTopbarConstructor()
   const frame = resolveFrame(frameName)
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
@@ -378,6 +380,7 @@ export function renderPage(
       <Head {...componentData} />
       <body data-slug={slug} data-basepath={basePath}>
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
+        <SiteTopbar {...componentData} />
         <div id="quartz-root" class="page" data-frame={frame.name}>
           <Body {...componentData}>
             {[
