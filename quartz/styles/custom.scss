@@ -79,9 +79,18 @@
 .site-nav {
   display: flex;
   gap: 0.5rem;
+  min-width: 0;
 
   @media (max-width: 768px) {
-    display: none;
+    flex: 1 1 auto;
+    overflow-x: auto;
+    white-space: nowrap;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
   }
 }
 
@@ -190,13 +199,13 @@ h3 {
   letter-spacing: -0.015em;
 }
 
-// Additional legacy/fallback rules if needed
 .content-meta, .breadcrumb-container {
   font-family: var(--codeFont);
   font-size: 0.8rem;
   letter-spacing: 0.02em;
 }
 
+// Active Recall: collapsed question callouts have a ruled frame
 .callout[data-callout="question"] {
   --color: var(--tertiary);
   --border: var(--lightgray);
@@ -211,6 +220,7 @@ h3 {
   border-radius: 4px;
 }
 
+// Native Mermaid styling: centered, responsive, dark/light mode compatible
 .mermaid {
   display: flex;
   justify-content: center;
@@ -233,6 +243,7 @@ h3 {
   font-weight: 500;
 }
 
+// Tag chips
 a.tag-link, .tags a {
   white-space: nowrap;
   transition: color 0.15s ease, border-color 0.15s ease;
@@ -243,7 +254,7 @@ a.tag-link, .tags a {
   }
 }
 
-// 5. Browser Surfaces & Active State Indicators (Impeccable craft floor)
+// 5. Browser Surfaces & Active State Indicators
 ::selection {
   background: var(--secondary);
   color: #FAFAF7 !important;
