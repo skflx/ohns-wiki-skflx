@@ -7423,6 +7423,90 @@ var init_Body = __esm({
   }
 });
 
+// quartz/components/SiteTopbar.tsx
+import { jsx as jsx10, jsxs as jsxs3 } from "preact/jsx-runtime";
+var SiteTopbar, SiteTopbarCtor, SiteTopbar_default;
+var init_SiteTopbar = __esm({
+  "quartz/components/SiteTopbar.tsx"() {
+    "use strict";
+    init_registry();
+    SiteTopbar = /* @__PURE__ */ __name((_props) => {
+      return /* @__PURE__ */ jsxs3("header", { class: "site-topbar", children: [
+        /* @__PURE__ */ jsxs3("div", { class: "site-topbar-left", children: [
+          /* @__PURE__ */ jsxs3("a", { href: "https://skflx.github.io/", class: "site-wordmark", children: [
+            "skflx",
+            /* @__PURE__ */ jsx10("span", { class: "wm-md", children: ".MD" })
+          ] }),
+          /* @__PURE__ */ jsx10("span", { class: "site-topbar-title", children: "sk.oto \xB7 OHNS Wiki" })
+        ] }),
+        /* @__PURE__ */ jsxs3("nav", { class: "site-nav", "aria-label": "Global navigation", children: [
+          /* @__PURE__ */ jsx10("a", { href: "https://skflx.github.io/#about", class: "site-navlink", children: "About" }),
+          /* @__PURE__ */ jsx10("a", { href: "https://skflx.github.io/#tools", class: "site-navlink", children: "Tools" }),
+          /* @__PURE__ */ jsx10("a", { href: "https://skflx.github.io/oksat-study.html", class: "site-navlink", children: "OKSAT" }),
+          /* @__PURE__ */ jsx10("a", { href: "https://skflx.github.io/ohns-wiki-skflx/", class: "site-navlink", "aria-current": "page", children: "Wiki" })
+        ] }),
+        /* @__PURE__ */ jsxs3("div", { class: "site-topbar-actions", children: [
+          /* @__PURE__ */ jsx10("button", { type: "button", class: "site-search-btn", "aria-label": "Search", children: /* @__PURE__ */ jsxs3("svg", { xmlns: "http://www.w3.org/2000/svg", width: "16", height: "16", viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", "stroke-width": "2", "stroke-linecap": "round", "stroke-linejoin": "round", children: [
+            /* @__PURE__ */ jsx10("circle", { cx: "11", cy: "11", r: "8" }),
+            /* @__PURE__ */ jsx10("line", { x1: "21", y1: "21", x2: "16.65", y2: "16.65" })
+          ] }) }),
+          /* @__PURE__ */ jsx10("button", { type: "button", class: "site-theme-toggle", id: "sk-theme-toggle", "aria-label": "Toggle dark/light mode", children: /* @__PURE__ */ jsxs3("svg", { viewBox: "0 0 16 16", width: "16", height: "16", "aria-hidden": "true", children: [
+            /* @__PURE__ */ jsx10("circle", { cx: "8", cy: "8", r: "6.5", fill: "none", stroke: "currentColor", "stroke-width": "1.25" }),
+            /* @__PURE__ */ jsx10("path", { d: "M8 1.5a6.5 6.5 0 0 1 0 13z", fill: "currentColor" })
+          ] }) })
+        ] })
+      ] });
+    }, "SiteTopbar");
+    SiteTopbar.beforeDOMLoaded = `
+(function() {
+  try {
+    const theme = localStorage.getItem('sk_theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', theme);
+    document.documentElement.setAttribute('saved-theme', theme);
+  } catch (e) { /* storage blocked: fallback gracefully */ }
+})();
+`;
+    SiteTopbar.afterDOMLoaded = `
+(function() {
+  function bindTopbar() {
+    const toggle = document.getElementById('sk-theme-toggle');
+    if (toggle && !toggle.__wired) {
+      toggle.__wired = true;
+      toggle.addEventListener('click', () => {
+        const current = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', current);
+        document.documentElement.setAttribute('saved-theme', current);
+        try { localStorage.setItem('sk_theme', current); } catch (e) {}
+        const ev = new CustomEvent('themechange', { detail: { theme: current } });
+        document.dispatchEvent(ev);
+        window.dispatchEvent(ev);
+      });
+    }
+
+    const searchBtn = document.querySelector('.site-search-btn');
+    if (searchBtn && !searchBtn.__wired) {
+      searchBtn.__wired = true;
+      searchBtn.addEventListener('click', () => {
+        const searchBarBtn = document.querySelector('.search-button');
+        if (searchBarBtn) searchBarBtn.click();
+      });
+    }
+  }
+
+  document.addEventListener('nav', bindTopbar);
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bindTopbar);
+  } else {
+    bindTopbar();
+  }
+})();
+`;
+    SiteTopbarCtor = /* @__PURE__ */ __name(() => SiteTopbar, "SiteTopbarCtor");
+    componentRegistry.register("site-topbar", SiteTopbarCtor, "quartz/components/SiteTopbar.tsx");
+    SiteTopbar_default = SiteTopbarCtor;
+  }
+});
+
 // quartz/util/clone.ts
 import rfdc from "rfdc";
 var clone;
@@ -7434,13 +7518,13 @@ var init_clone = __esm({
 });
 
 // quartz/components/Header.tsx
-import { jsx as jsx10 } from "preact/jsx-runtime";
+import { jsx as jsx11 } from "preact/jsx-runtime";
 var Header, Header_default;
 var init_Header = __esm({
   "quartz/components/Header.tsx"() {
     "use strict";
     Header = /* @__PURE__ */ __name(({ children }) => {
-      return children.length > 0 ? /* @__PURE__ */ jsx10("header", { children }) : null;
+      return children.length > 0 ? /* @__PURE__ */ jsx11("header", { children }) : null;
     }, "Header");
     Header.css = `
 header {
@@ -7461,7 +7545,7 @@ header h1 {
 });
 
 // quartz/components/frames/DefaultFrame.tsx
-import { Fragment as Fragment2, jsx as jsx11, jsxs as jsxs3 } from "preact/jsx-runtime";
+import { Fragment as Fragment2, jsx as jsx12, jsxs as jsxs4 } from "preact/jsx-runtime";
 var Header2, DefaultFrame;
 var init_DefaultFrame = __esm({
   "quartz/components/frames/DefaultFrame.tsx"() {
@@ -7481,19 +7565,19 @@ var init_DefaultFrame = __esm({
         footer,
         sidebars
       }) {
-        return /* @__PURE__ */ jsxs3(Fragment2, { children: [
-          /* @__PURE__ */ jsx11("div", { class: "left sidebar", "data-sidebar-mode": sidebars?.left ?? "fit", children: left.map((BodyComponent) => /* @__PURE__ */ jsx11(BodyComponent, { ...componentData })) }),
-          /* @__PURE__ */ jsxs3("div", { class: "center", children: [
-            /* @__PURE__ */ jsxs3("div", { class: "page-header", children: [
-              /* @__PURE__ */ jsx11(Header2, { ...componentData, children: header.map((HeaderComponent) => /* @__PURE__ */ jsx11(HeaderComponent, { ...componentData })) }),
-              /* @__PURE__ */ jsx11("div", { class: "popover-hint", children: beforeBody.map((BodyComponent) => /* @__PURE__ */ jsx11(BodyComponent, { ...componentData })) })
+        return /* @__PURE__ */ jsxs4(Fragment2, { children: [
+          /* @__PURE__ */ jsx12("div", { class: "left sidebar", "data-sidebar-mode": sidebars?.left ?? "fit", children: left.map((BodyComponent) => /* @__PURE__ */ jsx12(BodyComponent, { ...componentData })) }),
+          /* @__PURE__ */ jsxs4("div", { class: "center", children: [
+            /* @__PURE__ */ jsxs4("div", { class: "page-header", children: [
+              /* @__PURE__ */ jsx12(Header2, { ...componentData, children: header.map((HeaderComponent) => /* @__PURE__ */ jsx12(HeaderComponent, { ...componentData })) }),
+              /* @__PURE__ */ jsx12("div", { class: "popover-hint", children: beforeBody.map((BodyComponent) => /* @__PURE__ */ jsx12(BodyComponent, { ...componentData })) })
             ] }),
-            /* @__PURE__ */ jsx11(Content, { ...componentData }),
-            /* @__PURE__ */ jsx11("hr", {}),
-            /* @__PURE__ */ jsx11("div", { class: "page-footer", children: afterBody.map((BodyComponent) => /* @__PURE__ */ jsx11(BodyComponent, { ...componentData })) })
+            /* @__PURE__ */ jsx12(Content, { ...componentData }),
+            /* @__PURE__ */ jsx12("hr", {}),
+            /* @__PURE__ */ jsx12("div", { class: "page-footer", children: afterBody.map((BodyComponent) => /* @__PURE__ */ jsx12(BodyComponent, { ...componentData })) })
           ] }),
-          /* @__PURE__ */ jsx11("div", { class: "right sidebar", "data-sidebar-mode": sidebars?.right ?? "fit", children: right.map((BodyComponent) => /* @__PURE__ */ jsx11(BodyComponent, { ...componentData })) }),
-          footer.map((FooterComponent) => /* @__PURE__ */ jsx11(FooterComponent, { ...componentData }))
+          /* @__PURE__ */ jsx12("div", { class: "right sidebar", "data-sidebar-mode": sidebars?.right ?? "fit", children: right.map((BodyComponent) => /* @__PURE__ */ jsx12(BodyComponent, { ...componentData })) }),
+          footer.map((FooterComponent) => /* @__PURE__ */ jsx12(FooterComponent, { ...componentData }))
         ] });
       }
     };
@@ -7501,7 +7585,7 @@ var init_DefaultFrame = __esm({
 });
 
 // quartz/components/frames/FullWidthFrame.tsx
-import { Fragment as Fragment3, jsx as jsx12, jsxs as jsxs4 } from "preact/jsx-runtime";
+import { Fragment as Fragment3, jsx as jsx13, jsxs as jsxs5 } from "preact/jsx-runtime";
 var Header3, FullWidthFrame;
 var init_FullWidthFrame = __esm({
   "quartz/components/frames/FullWidthFrame.tsx"() {
@@ -7518,17 +7602,17 @@ var init_FullWidthFrame = __esm({
         afterBody,
         footer
       }) {
-        return /* @__PURE__ */ jsxs4(Fragment3, { children: [
-          /* @__PURE__ */ jsxs4("div", { class: "center full-width", children: [
-            /* @__PURE__ */ jsxs4("div", { class: "page-header", children: [
-              /* @__PURE__ */ jsx12(Header3, { ...componentData, children: header.map((HeaderComponent) => /* @__PURE__ */ jsx12(HeaderComponent, { ...componentData })) }),
-              /* @__PURE__ */ jsx12("div", { class: "popover-hint", children: beforeBody.map((BodyComponent) => /* @__PURE__ */ jsx12(BodyComponent, { ...componentData })) })
+        return /* @__PURE__ */ jsxs5(Fragment3, { children: [
+          /* @__PURE__ */ jsxs5("div", { class: "center full-width", children: [
+            /* @__PURE__ */ jsxs5("div", { class: "page-header", children: [
+              /* @__PURE__ */ jsx13(Header3, { ...componentData, children: header.map((HeaderComponent) => /* @__PURE__ */ jsx13(HeaderComponent, { ...componentData })) }),
+              /* @__PURE__ */ jsx13("div", { class: "popover-hint", children: beforeBody.map((BodyComponent) => /* @__PURE__ */ jsx13(BodyComponent, { ...componentData })) })
             ] }),
-            /* @__PURE__ */ jsx12(Content, { ...componentData }),
-            /* @__PURE__ */ jsx12("hr", {}),
-            /* @__PURE__ */ jsx12("div", { class: "page-footer", children: afterBody.map((BodyComponent) => /* @__PURE__ */ jsx12(BodyComponent, { ...componentData })) })
+            /* @__PURE__ */ jsx13(Content, { ...componentData }),
+            /* @__PURE__ */ jsx13("hr", {}),
+            /* @__PURE__ */ jsx13("div", { class: "page-footer", children: afterBody.map((BodyComponent) => /* @__PURE__ */ jsx13(BodyComponent, { ...componentData })) })
           ] }),
-          footer.map((FooterComponent) => /* @__PURE__ */ jsx12(FooterComponent, { ...componentData }))
+          footer.map((FooterComponent) => /* @__PURE__ */ jsx13(FooterComponent, { ...componentData }))
         ] });
       }
     };
@@ -7536,7 +7620,7 @@ var init_FullWidthFrame = __esm({
 });
 
 // quartz/components/frames/MinimalFrame.tsx
-import { Fragment as Fragment4, jsx as jsx13, jsxs as jsxs5 } from "preact/jsx-runtime";
+import { Fragment as Fragment4, jsx as jsx14, jsxs as jsxs6 } from "preact/jsx-runtime";
 var MinimalFrame;
 var init_MinimalFrame = __esm({
   "quartz/components/frames/MinimalFrame.tsx"() {
@@ -7544,9 +7628,9 @@ var init_MinimalFrame = __esm({
     MinimalFrame = {
       name: "minimal",
       render({ componentData, pageBody: Content, footer }) {
-        return /* @__PURE__ */ jsxs5(Fragment4, { children: [
-          /* @__PURE__ */ jsx13("div", { class: "center minimal", children: /* @__PURE__ */ jsx13(Content, { ...componentData }) }),
-          footer.map((FooterComponent) => /* @__PURE__ */ jsx13(FooterComponent, { ...componentData }))
+        return /* @__PURE__ */ jsxs6(Fragment4, { children: [
+          /* @__PURE__ */ jsx14("div", { class: "center minimal", children: /* @__PURE__ */ jsx14(Content, { ...componentData }) }),
+          footer.map((FooterComponent) => /* @__PURE__ */ jsx14(FooterComponent, { ...componentData }))
         ] });
       }
     };
@@ -7599,7 +7683,7 @@ var init_frames = __esm({
 // quartz/components/renderPage.tsx
 import { render } from "preact-render-to-string";
 import { styleText as styleText8 } from "util";
-import { jsx as jsx14, jsxs as jsxs6 } from "preact/jsx-runtime";
+import { jsx as jsx15, jsxs as jsxs7 } from "preact/jsx-runtime";
 function headingHasId(heading, id) {
   if (heading.properties?.id === id) return true;
   const hasAlias = /* @__PURE__ */ __name((el) => el.children.some(
@@ -7855,15 +7939,17 @@ function renderPage(cfg, slug, componentData, components, pageResources2, treeTr
     sidebars
   } = components;
   const Body2 = Body_default();
+  const SiteTopbar2 = SiteTopbar_default(void 0);
   const frame = resolveFrame(frameName);
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en";
   const direction = i18n(cfg.locale).direction ?? "ltr";
   const basePath = componentData.ctx.argv.serve || !cfg.baseUrl ? "" : new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "");
-  const doc = /* @__PURE__ */ jsxs6("html", { lang, dir: direction, children: [
-    /* @__PURE__ */ jsx14(Head, { ...componentData }),
-    /* @__PURE__ */ jsxs6("body", { "data-slug": slug, "data-basepath": basePath, children: [
-      frame.css && /* @__PURE__ */ jsx14("style", { dangerouslySetInnerHTML: { __html: frame.css } }),
-      /* @__PURE__ */ jsx14("div", { id: "quartz-root", class: "page", "data-frame": frame.name, children: /* @__PURE__ */ jsx14(Body2, { ...componentData, children: [
+  const doc = /* @__PURE__ */ jsxs7("html", { lang, dir: direction, children: [
+    /* @__PURE__ */ jsx15(Head, { ...componentData }),
+    /* @__PURE__ */ jsxs7("body", { "data-slug": slug, "data-basepath": basePath, children: [
+      frame.css && /* @__PURE__ */ jsx15("style", { dangerouslySetInnerHTML: { __html: frame.css } }),
+      /* @__PURE__ */ jsx15(SiteTopbar2, { ...componentData }),
+      /* @__PURE__ */ jsx15("div", { id: "quartz-root", class: "page", "data-frame": frame.name, children: /* @__PURE__ */ jsx15(Body2, { ...componentData, children: [
         frame.render({
           componentData,
           head: Head,
@@ -7887,6 +7973,7 @@ var init_renderPage = __esm({
   "quartz/components/renderPage.tsx"() {
     "use strict";
     init_Body();
+    init_SiteTopbar();
     init_resources();
     init_path();
     init_clone();
@@ -8075,9 +8162,9 @@ var init_ctx = __esm({
 
 // quartz/util/jsx.tsx
 import { toJsxRuntime } from "hast-util-to-jsx-runtime";
-import { Fragment as Fragment5, jsx as jsx15, jsxs as jsxs7 } from "preact/jsx-runtime";
+import { Fragment as Fragment5, jsx as jsx16, jsxs as jsxs8 } from "preact/jsx-runtime";
 import { h } from "preact";
-import { jsx as jsx16 } from "preact/jsx-runtime";
+import { jsx as jsx17 } from "preact/jsx-runtime";
 function childrenToString(children) {
   if (typeof children === "string") return children;
   if (Array.isArray(children)) return children.map(childrenToString).join("");
@@ -8087,8 +8174,8 @@ function htmlToJsx(fp, tree) {
   try {
     return toJsxRuntime(tree, {
       Fragment: Fragment5,
-      jsx: jsx15,
-      jsxs: jsxs7,
+      jsx: jsx16,
+      jsxs: jsxs8,
       elementAttributeNameCase: "html",
       components: customComponents
     });
@@ -8103,7 +8190,7 @@ var init_jsx = __esm({
     init_trace();
     __name(childrenToString, "childrenToString");
     customComponents = {
-      table: /* @__PURE__ */ __name((props) => /* @__PURE__ */ jsx16("div", { class: "table-container", children: /* @__PURE__ */ jsx16("table", { ...props }) }), "table"),
+      table: /* @__PURE__ */ __name((props) => /* @__PURE__ */ jsx17("div", { class: "table-container", children: /* @__PURE__ */ jsx17("table", { ...props }) }), "table"),
       style: /* @__PURE__ */ __name(({ children, ...rest }) => h("style", { ...rest, dangerouslySetInnerHTML: { __html: childrenToString(children) } }), "style"),
       script: /* @__PURE__ */ __name(({ children, ...rest }) => h("script", { ...rest, dangerouslySetInnerHTML: { __html: childrenToString(children) } }), "script")
     };
