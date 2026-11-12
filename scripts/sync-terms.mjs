@@ -21,8 +21,13 @@ if (!lexicon || typeof lexicon.keys !== "function") {
   throw new Error(`window.OKSATTerms not found in ${SOURCE}`)
 }
 
+// Terms whose meaning is local to the OKSAT guides (research-paper response classes, textbook and institution
+// names) or ambiguous in running clinical prose. A wrong tooltip in a clinical wiki is worse than none.
+const EXCLUDE = new Set(["ES", "EE", "SS", "SE", "KJ", "UW", "A1", "SP", "AR"])
+
 const terms = {}
 for (const abbr of lexicon.keys()) {
+  if (EXCLUDE.has(abbr)) continue
   // Full name first; anything after a semicolon is an alternate name.
   terms[abbr] = String(lexicon.get(abbr)).split(";")[0].trim()
 }
