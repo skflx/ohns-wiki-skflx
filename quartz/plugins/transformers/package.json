@@ -1,0 +1,19 @@
+{
+  "name": "quartz-acronyms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build-time clinical abbreviation expansion (abbr.term-abbr) for sk.oto",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./acronyms.ts"
+    }
+  },
+  "quartz": {
+    "name": "acronyms",
+    "displayName": "Acronyms",
+    "description": "Wraps known clinical abbreviations in prose with their full names at build time",
+    "category": "transformer",
+    "defaultOrder": 90
+  }
+}

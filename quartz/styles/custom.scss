@@ -281,3 +281,12 @@ a.tag-link, .tags a {
   text-decoration-color: var(--secondary);
 }
 
+/* Build-time term expansion (quartz/plugins/transformers/acronyms.ts). Underline only:
+   no border or padding, so the text does not move. */
+abbr.term-abbr {
+  color: inherit;
+  cursor: help;
+  text-decoration: underline 1px dotted;
+  text-underline-offset: 0.15em;
+}
+
