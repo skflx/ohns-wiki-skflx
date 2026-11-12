@@ -11,3 +11,5 @@ A structured residency knowledge graph and surgical decision engine covering 1,0
 - **Craniomaxillofacial Trauma & Orthognathic Surgery** (`Trauma/`)
 
 Live interactive web knowledge graph: **[skflx.github.io/ohns-wiki-skflx](https://skflx.github.io/ohns-wiki-skflx/)**.
+
+Palette source of truth is the site repo, `skflx/skflx.github.io` (`css/site.css`); `node scripts/check-signal.mjs` checks this wiki's secondary colours against it.
