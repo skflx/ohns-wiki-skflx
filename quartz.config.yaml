@@ -273,7 +273,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true # sk: no properties panel above notes; tags stay in the notes
     order: 5
     layout:
       position: beforeBody

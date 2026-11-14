@@ -1,6 +1,9 @@
 // =============================================================
 // sk.oto — Quartz 5 Custom Stylesheet
-// Aesthetics matched to skflx.MD (paper/ink, Archivo typography)
+// Aesthetics matched to skflx.MD (paper/ink, Archivo typography).
+// Token values are copied from css/site.css of the main site:
+//   --light=bg  --lightgray=rule  --gray=rule-strong (decorative only, never text)
+//   --darkgray=ink-muted  --dark=ink  --secondary=signal red (act)  --tertiary=signal blue (science)
 // =============================================================
 @use "./variables.scss" as *;
 
@@ -27,19 +30,19 @@
   src: url("./static/fonts/ibm-plex-mono-latin-500.woff2") format("woff2");
 }
 
-// 1. Topbar Styling
+// 1. Top bar (site.css "TOP BAR")
 .site-topbar {
   position: sticky;
   top: 0;
   left: 0;
   width: 100%;
-  height: 52px;
+  min-height: 52px;
   z-index: 1000;
   box-sizing: border-box;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 0 1.5rem;
+  gap: 1rem;
+  padding: 0 clamp(1rem, 0.5rem + 2.5vw, 2.5rem);
   background: color-mix(in srgb, var(--light) 88%, transparent);
   -webkit-backdrop-filter: saturate(140%) blur(10px);
   backdrop-filter: saturate(140%) blur(10px);
@@ -53,16 +56,24 @@
 }
 
 .site-wordmark {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.05em;
   font-family: var(--headerFont);
   font-weight: 750;
   font-stretch: 112%;
+  font-size: 1.05rem;
   letter-spacing: -0.02em;
   color: var(--dark);
   text-decoration: none;
+  flex-shrink: 0;
 }
 
 .wm-md {
   font-family: var(--codeFont);
+  font-weight: 500;
+  font-size: 0.72em;
+  letter-spacing: 0.02em;
   color: var(--secondary);
 }
 
@@ -72,6 +83,7 @@
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--darkgray);
+  white-space: nowrap;
   border-left: 1px solid var(--lightgray);
   padding-left: 1rem;
 }
@@ -94,15 +106,21 @@
   }
 }
 
+// Only the current site gets the red underline (aria-current="page", set in SiteTopbar.tsx).
 .site-navlink {
   font-family: var(--codeFont);
   font-size: 0.72rem;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--darkgray);
-  padding: 0.4rem 0.6rem;
+  padding: 0.5rem 0.6rem;
+  white-space: nowrap;
   text-decoration: none;
 
-  &:hover,
+  &:hover {
+    color: var(--dark);
+  }
+
   &[aria-current="page"] {
     color: var(--dark);
     box-shadow: inset 0 -2px 0 var(--secondary);
@@ -112,48 +130,49 @@
 .site-topbar-actions {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.25rem;
+  margin-left: auto;
+  flex-shrink: 0;
 }
 
-.site-theme-toggle {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: transparent;
-  border: 1px solid var(--lightgray);
-  cursor: pointer;
-  color: var(--dark);
-
-  svg {
-    transition: transform 0.3s ease;
-  }
-
-  :root[saved-theme="dark"] &,
-  html[data-theme="dark"] & {
-    svg {
-      transform: rotate(180deg);
-    }
-  }
-}
-
+// Day/night toggle and search: one glyph each, a hairline ring on hover (never red).
+.site-theme-toggle,
 .site-search-btn {
   width: 36px;
   height: 36px;
-  border-radius: 50%;
-  display: flex;
+  padding: 0;
+  flex: none;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
+  border-radius: 50%;
   background: transparent;
-  border: 1px solid var(--lightgray);
-  cursor: pointer;
+  border: 1px solid transparent;
   color: var(--dark);
+  cursor: pointer;
+
+  svg {
+    width: 16px;
+    height: 16px;
+  }
 }
 
-// 2. Sidebar Offset (Desktop only - avoids breaking tablet layout)
-@media all and ($desktop) {
+.site-search-btn:hover,
+.site-theme-toggle:hover {
+  border-color: var(--gray);
+}
+
+.site-theme-toggle svg {
+  transition: transform 0.45s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+:root[saved-theme="dark"] .site-theme-toggle svg,
+html[data-theme="dark"] .site-theme-toggle svg {
+  transform: rotate(180deg);
+}
+
+// 2. Sidebar offset: sit below the sticky top bar on desktop and tablet (mobile stacks them)
+@media all and ($desktop), all and ($tablet) {
   .sidebar.left,
   .sidebar.right {
     top: 52px !important;
@@ -161,15 +180,16 @@
   }
 }
 
-// 3. Paper & Ink Links (no blue pills; distinct secondary color for WCAG 1.4.1)
+// 3. Paper & ink links: ink text, grey hairline underline, red on hover
 article a:not(.tag-link) {
-  color: var(--secondary);
+  color: var(--dark);
   text-decoration: underline;
+  text-decoration-color: var(--gray);
   text-decoration-thickness: 1px;
-  text-underline-offset: 0.22em;
+  text-underline-offset: 0.2em;
 
   &:hover {
-    color: var(--dark);
+    text-decoration-color: var(--secondary);
   }
 }
 
@@ -178,13 +198,37 @@ article a.internal {
   padding: 0 !important;
 }
 
-// 4. Stretched Archivo Headings
-article h1.article-title {
+// 4. Reading view: ink body text, a 42rem measure, looser leading
+article {
+  color: var(--dark);
+}
+
+article p,
+article li {
+  line-height: 1.55;
+}
+
+#quartz-body > .center > article,
+#quartz-body > .center > .page-header,
+#quartz-body > .center > .page-footer {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// 5. Stretched Archivo headings
+h1.article-title {
+  font-size: clamp(2rem, 1.3rem + 3vw, 3.4rem);
   font-weight: 750;
   font-stretch: 116%;
   letter-spacing: -0.035em;
   line-height: 1.1;
   text-wrap: balance;
+}
+
+// The note's own first H1 repeats the article title (Quartz renders both). Hide the body copy only.
+article > .markdown-preview-view > h1:first-child {
+  display: none;
 }
 
 h2 {
@@ -205,19 +249,58 @@ h3 {
   letter-spacing: 0.02em;
 }
 
-// Active Recall: collapsed question callouts have a ruled frame
+// 6. Contrast: Quartz sets muted text to --gray (1.8:1 on paper). Text uses --darkgray instead.
+// --gray stays for rules and hover rings only.
+.search > .search-button > p,
+.search .result-card > p,
+.search .ghost-text,
+.bases-board-card-label,
+.bases-card-label,
+.bases-list-separator,
+.bases-separator,
+.bases-table td .bases-empty,
+.bases-table-group-property,
+.bases-view-meta,
+.canvas-node-file .canvas-file-subpath,
+.note-properties .note-properties-count,
+.note-properties .note-properties-empty,
+.note-properties .note-properties-key,
+.note-properties .note-properties-separator,
+.page article li:has(> input[type="checkbox"]:checked) {
+  color: var(--darkgray);
+}
+
+.search .ghost-text {
+  opacity: 0.8;
+}
+
+// Quartz dims the footer (0.7) and TOC entries out of view (0.35) to the point of failing 4.5:1.
+// Keep the dimming, with a floor that passes.
+footer {
+  opacity: 1;
+}
+
+ul.toc-content.overflow > li > a {
+  opacity: 0.7;
+}
+
+ul.toc-content.overflow > li > a.in-view {
+  opacity: 1;
+}
+
+// Active Recall: collapsed question callouts (red = act) have a ruled frame
 .callout[data-callout="question"] {
-  --color: var(--tertiary);
+  --color: var(--secondary);
   --border: var(--lightgray);
   --bg: transparent;
   border-width: 1px 1px 1px 3px;
-  border-radius: 4px;
+  border-radius: 3px;
 }
 
 .callout[data-callout="tip"] {
   --color: var(--secondary);
   --border: var(--secondary);
-  border-radius: 4px;
+  border-radius: 3px;
 }
 
 // Native Mermaid styling: centered, responsive, dark/light mode compatible
@@ -254,10 +337,10 @@ a.tag-link, .tags a {
   }
 }
 
-// 5. Browser Surfaces & Active State Indicators
+// 7. Browser surfaces and active-state indicators
 ::selection {
   background: var(--secondary);
-  color: #FAFAF7 !important;
+  color: #FAFAF7;
 }
 
 :focus-visible {
@@ -265,12 +348,7 @@ a.tag-link, .tags a {
   outline-offset: 3px;
 }
 
-.site-search-btn:hover,
-.site-theme-toggle:hover {
-  border-color: var(--secondary);
-}
-
-// Table of Contents & Navigation Active & Hover States
+// Table of contents and navigation active & hover states
 .toc a:hover,
 .toc a.in-view {
   color: var(--secondary);
@@ -289,4 +367,3 @@ abbr.term-abbr {
   text-decoration: underline 1px dotted;
   text-underline-offset: 0.15em;
 }
-

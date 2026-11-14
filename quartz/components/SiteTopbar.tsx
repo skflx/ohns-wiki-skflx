@@ -11,7 +11,7 @@ export const SiteTopbar: QuartzComponent = (_props: QuartzComponentProps) => {
         <a href="https://skflx.github.io/#about" class="site-navlink">About</a>
         <a href="https://skflx.github.io/#tools" class="site-navlink">Tools</a>
         <a href="https://skflx.github.io/oksat.html" class="site-navlink">OKSAT</a>
-        <a href="https://skflx.github.io/ohns-wiki-skflx/" class="site-navlink" aria-current="true">Wiki</a>
+        <a href="https://skflx.github.io/ohns-wiki-skflx/" class="site-navlink" aria-current="page">Wiki</a>
       </nav>
       <div class="site-topbar-actions">
         <button type="button" class="site-search-btn" aria-label="Search">
