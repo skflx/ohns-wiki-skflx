@@ -14,7 +14,7 @@ export const SiteTopbar: QuartzComponent = (_props: QuartzComponentProps) => {
         <a href="https://skflx.github.io/ohns-wiki-skflx/" class="site-navlink" aria-current="page">Wiki</a>
       </nav>
       <div class="site-topbar-actions">
-        <button type="button" class="site-search-btn" aria-label="Search">
+        <button type="button" class="site-search-btn" aria-label="Search sk.oto" title="Search sk.oto (Ctrl/⌘ K)">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
         </button>
         <button type="button" class="site-theme-toggle" id="sk-theme-toggle" aria-label="Toggle dark/light mode">
