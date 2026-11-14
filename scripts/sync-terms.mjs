@@ -34,3 +34,7 @@ for (const abbr of lexicon.keys()) {
 
 fs.writeFileSync(out, JSON.stringify(terms, null, 2) + "\n")
 console.log(`wrote ${Object.keys(terms).length} terms to ${path.relative(root, out)} (source: ${SOURCE})`)
+
+// The plugin ships a prebuilt bundle with the terms inlined (Quartz never rebuilds a committed dist/),
+// so rebuild it here or the wiki keeps the old terms.
+execFileSync("npm", ["run", "build"], { cwd: path.dirname(out), stdio: "inherit" })

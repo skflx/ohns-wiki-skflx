@@ -58,10 +58,41 @@ const acronymsRehype = () => (tree: Root) => {
   )
 }
 
+// Quartz renders the frontmatter title as the article heading, and most notes repeat it as their
+// first `# H1`. Drop that body H1 (and its ToC entry) only when its text matches the title, so a
+// note that opens with a different heading keeps it.
+const norm = (s: string) =>
+  s
+    .normalize("NFKC")
+    .replace(/[\u2018\u2019\u02BC]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase()
+const textOf = (n: Root["children"][number]): string =>
+  n.type === "text" ? n.value : "children" in n ? n.children.map(textOf).join("") : ""
+
+type TocEntry = { depth: number; text: string; slug: string }
+const dropDuplicateTitle =
+  () => (tree: Root, file: { data: { frontmatter?: { title?: unknown }; toc?: TocEntry[] } }) => {
+    const title = file.data.frontmatter?.title
+    if (typeof title !== "string") return
+    const i = tree.children.findIndex((c) => c.type === "element")
+    const first = tree.children[i]
+    if (!first || first.type !== "element" || first.tagName !== "h1") return
+    if (norm(textOf(first)) !== norm(title)) return
+    tree.children.splice(i, 1)
+    const toc = file.data.toc
+    if (!toc) return
+    const kept = toc.filter((e) => e.slug !== first.properties?.id)
+    const min = Math.min(...kept.map((e) => e.depth))
+    file.data.toc = kept.map((e) => ({ ...e, depth: e.depth - min }))
+  }
+
 const Acronyms: QuartzTransformerPlugin = () => ({
   name: "Acronyms",
   htmlPlugins() {
-    return [() => acronymsRehype()]
+    return [() => acronymsRehype(), dropDuplicateTitle]
   },
 })
 

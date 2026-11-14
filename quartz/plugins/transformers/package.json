@@ -21,5 +21,8 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "esbuild acronyms.ts --bundle --format=esm --platform=node --external:hast-util-find-and-replace --outfile=dist/index.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
   }
 }

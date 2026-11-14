@@ -198,10 +198,26 @@ var acronymsRehype = () => (tree) => {
     { ignore: isSkipped }
   );
 };
+var norm = (s) => s.normalize("NFKC").replace(/[\u2018\u2019\u02BC]/g, "'").replace(/[\u201C\u201D]/g, '"').replace(/\s+/g, " ").trim().toLowerCase();
+var textOf = (n) => n.type === "text" ? n.value : "children" in n ? n.children.map(textOf).join("") : "";
+var dropDuplicateTitle = () => (tree, file) => {
+  const title = file.data.frontmatter?.title;
+  if (typeof title !== "string") return;
+  const i = tree.children.findIndex((c) => c.type === "element");
+  const first = tree.children[i];
+  if (!first || first.type !== "element" || first.tagName !== "h1") return;
+  if (norm(textOf(first)) !== norm(title)) return;
+  tree.children.splice(i, 1);
+  const toc = file.data.toc;
+  if (!toc) return;
+  const kept = toc.filter((e) => e.slug !== first.properties?.id);
+  const min = Math.min(...kept.map((e) => e.depth));
+  file.data.toc = kept.map((e) => ({ ...e, depth: e.depth - min }));
+};
 var Acronyms = () => ({
   name: "Acronyms",
   htmlPlugins() {
-    return [() => acronymsRehype()];
+    return [() => acronymsRehype(), dropDuplicateTitle];
   }
 });
 var acronyms_default = Acronyms;

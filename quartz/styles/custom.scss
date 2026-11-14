@@ -171,10 +171,18 @@ html[data-theme="dark"] .site-theme-toggle svg {
   transform: rotate(180deg);
 }
 
-// 2. Sidebar offset: sit below the sticky top bar on desktop and tablet (mobile stacks them)
-@media all and ($desktop), all and ($tablet) {
+// 2. Sidebar offset: sit below the sticky top bar wherever a sidebar is a sticky column.
+// The right sidebar is a column on desktop only; on tablet it becomes a row under the article.
+@media all and ($desktop) {
   .sidebar.left,
   .sidebar.right {
+    top: 52px !important;
+    height: calc(100vh - 52px) !important;
+  }
+}
+
+@media all and ($tablet) {
+  .sidebar.left {
     top: 52px !important;
     height: calc(100vh - 52px) !important;
   }
@@ -232,11 +240,6 @@ h1.article-title {
   letter-spacing: -0.035em;
   line-height: 1.1;
   text-wrap: balance;
-}
-
-// The note's own first H1 repeats the article title (Quartz renders both). Hide the body copy only.
-article > .markdown-preview-view > h1:first-child {
-  display: none;
 }
 
 h2 {
@@ -382,7 +385,6 @@ a:hover {
   color: var(--dark);
 }
 
-.page-title a,
 .sidebar a,
 .toc a,
 .backlinks-container a,
@@ -404,10 +406,14 @@ a:hover {
   color: var(--dark);
 }
 
+// Every explorer link carries the same inset, so marking the active one moves nothing
+.explorer-content ul li > a {
+  padding-left: 0.4rem;
+}
+
 .explorer-content ul li > a.active {
   color: var(--dark);
   box-shadow: inset 2px 0 0 var(--secondary);
-  padding-left: 0.4rem;
 }
 
 // Active Recall: the question reads in ink; red stays on the icon and the left rule
