@@ -208,6 +208,14 @@ article li {
   line-height: 1.55;
 }
 
+// Quartz colours prose --darkgray; the site sets prose in ink
+article p,
+article li,
+article td,
+article .katex {
+  color: var(--dark);
+}
+
 #quartz-body > .center > article,
 #quartz-body > .center > .page-header,
 #quartz-body > .center > .page-footer {
@@ -218,7 +226,7 @@ article li {
 
 // 5. Stretched Archivo headings
 h1.article-title {
-  font-size: clamp(2rem, 1.3rem + 3vw, 3.4rem);
+  font-size: clamp(1.6rem, 1.2rem + 1.6vw, 2.4rem); // note titles are full sentences
   font-weight: 750;
   font-stretch: 116%;
   letter-spacing: -0.035em;
@@ -366,4 +374,53 @@ abbr.term-abbr {
   cursor: help;
   text-decoration: underline 1px dotted;
   text-underline-offset: 0.15em;
+}
+
+/* Colour meaning, as css/site.css: navigation is ink, red marks only hover and the current item,
+   blue is kept for science. Quartz defaults every link red with a blue hover. */
+a:hover {
+  color: var(--dark);
+}
+
+.page-title a,
+.sidebar a,
+.toc a,
+.backlinks-container a,
+.folder-container div > a,
+.folder-container div > button span,
+.folder-icon {
+  color: var(--darkgray);
+}
+
+.sidebar a:hover,
+.backlinks-container a:hover,
+.folder-container div > a:hover,
+.folder-icon:hover,
+.page-title a:hover {
+  color: var(--dark);
+}
+
+.page-title a {
+  color: var(--dark);
+}
+
+.explorer-content ul li > a.active {
+  color: var(--dark);
+  box-shadow: inset 2px 0 0 var(--secondary);
+  padding-left: 0.4rem;
+}
+
+// Active Recall: the question reads in ink; red stays on the icon and the left rule
+.callout[data-callout="question"] .callout-title-inner,
+.callout[data-callout="question"] .callout-title-inner p {
+  color: var(--dark);
+}
+
+.breadcrumb-container a,
+.breadcrumb-element p {
+  color: var(--darkgray);
+}
+
+.explorer-content ul li > a {
+  opacity: 1;
 }
