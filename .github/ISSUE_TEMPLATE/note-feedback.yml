@@ -1,0 +1,52 @@
+name: Note correction or suggestion
+description: Report an error, gap or unclear wording in an sk.oto note.
+title: "[note] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep sk.oto accurate. Notes are written in the owner's vault and published here,
+        so changes land in the next publish rather than as a pull request. A source makes a correction quick to verify.
+  - type: input
+    id: note
+    attributes:
+      label: Note
+      description: Link to the note (filled in when you come from the "Suggest a correction" link).
+      placeholder: https://skflx.github.io/ohns-wiki-skflx/...
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - Factual error
+        - Outdated (guideline or evidence changed)
+        - Missing or incomplete
+        - Unclear wording
+        - Broken link or display
+        - Suggestion
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What should change
+      description: Quote the passage if you can, then the correction.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Guideline, paper or textbook (with year) that supports the change. Optional, but it speeds review.
+  - type: dropdown
+    id: role
+    attributes:
+      label: You are
+      options:
+        - Resident
+        - Attending
+        - Student
+        - Other

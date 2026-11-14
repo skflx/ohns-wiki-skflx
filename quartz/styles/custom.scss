@@ -226,7 +226,8 @@ article .katex {
 
 #quartz-body > .center > article,
 #quartz-body > .center > .page-header,
-#quartz-body > .center > .page-footer {
+#quartz-body > .center > .page-footer,
+#quartz-body > .center > .note-feedback {
   max-width: 42rem;
   margin-left: auto;
   margin-right: auto;
@@ -408,6 +409,7 @@ a:hover {
 
 // Every explorer link carries the same inset, so marking the active one moves nothing
 .explorer-content ul li > a {
+  display: inline-block; // padding on an inline link indents only its first line
   padding-left: 0.4rem;
 }
 
@@ -429,4 +431,39 @@ a:hover {
 
 .explorer-content ul li > a {
   opacity: 1;
+}
+
+// Reader feedback under each note (quartz/components/NoteFeedback.tsx): a mono metadata line, one link
+.note-feedback {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.75rem;
+  margin: 2.5rem 0 0;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--lightgray);
+  font-family: var(--codeFont);
+  font-size: 0.75rem;
+  color: var(--darkgray);
+}
+
+.note-feedback-label {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.note-feedback-link {
+  color: var(--dark);
+  text-decoration: underline;
+  text-decoration-color: var(--gray);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+
+  &:hover {
+    text-decoration-color: var(--secondary);
+  }
+}
+
+.note-feedback-note {
+  flex-basis: 100%;
 }

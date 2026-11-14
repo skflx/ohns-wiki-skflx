@@ -1,5 +1,6 @@
 import { PageFrame, PageFrameProps } from "./types"
 import HeaderConstructor from "../Header"
+import NoteFeedback from "../NoteFeedback"
 
 const Header = HeaderConstructor()
 
@@ -43,6 +44,7 @@ export const DefaultFrame: PageFrame = {
             </div>
           </div>
           <Content {...componentData} />
+          <NoteFeedback {...componentData} />
           <hr />
           <div class="page-footer">
             {afterBody.map((BodyComponent) => (
