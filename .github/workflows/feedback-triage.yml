@@ -1,0 +1,42 @@
+name: Label reader feedback
+
+# Labels issues filed from the wiki's "Suggest a correction" form (scripts/triage-feedback.mjs).
+# The issue body is untrusted: it reaches the script only through an environment variable.
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  issues: write
+
+jobs:
+  label:
+    if: contains(github.event.issue.body, '### Note')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: scripts
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply labels
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE: ${{ github.event.issue.number }}
+          EVENT_ACTION: ${{ github.event.action }}
+        run: |
+          labels=$(node scripts/triage-feedback.mjs)
+          [ "$labels" = "[]" ] && exit 0
+          # Create any missing label with its declared colour; an existing one is left as the owner set it
+          node scripts/triage-feedback.mjs --labels | node -e '
+            const all = JSON.parse(require("fs").readFileSync(0, "utf8"));
+            const want = JSON.parse(process.argv[1]);
+            for (const l of want) console.log([l, all[l].color, all[l].description].join("\t"));
+          ' "$labels" | while IFS=$'\t' read -r name color desc; do
+            gh label create "$name" --color "$color" --description "$desc" >/dev/null 2>&1 || true
+          done
+          echo "$labels" | node -e 'console.log(JSON.parse(require("fs").readFileSync(0,"utf8")).join(","))' \
+            | xargs -I{} gh issue edit "$ISSUE" --add-label "{}"
