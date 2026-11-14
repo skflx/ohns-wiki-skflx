@@ -205,7 +205,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
-    enabled: false
+    enabled: true # sk: tags shown here, since the properties panel is hidden
     layout:
       position: beforeBody
       priority: 30
@@ -273,7 +273,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true # sk: no properties panel above notes; tag-list shows the tags
     order: 5
     layout:
       position: beforeBody

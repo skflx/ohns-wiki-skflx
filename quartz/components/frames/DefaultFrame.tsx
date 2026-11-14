@@ -29,7 +29,7 @@ export const DefaultFrame: PageFrame = {
             <BodyComponent {...componentData} />
           ))}
         </div>
-        <div class="center">
+        <main class="center">
           <div class="page-header">
             <Header {...componentData}>
               {header.map((HeaderComponent) => (
@@ -49,7 +49,7 @@ export const DefaultFrame: PageFrame = {
               <BodyComponent {...componentData} />
             ))}
           </div>
-        </div>
+        </main>
         <div class="right sidebar" data-sidebar-mode={sidebars?.right ?? "fit"}>
           {right.map((BodyComponent) => (
             <BodyComponent {...componentData} />
