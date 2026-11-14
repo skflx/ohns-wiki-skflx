@@ -8,17 +8,12 @@
  * terms under two characters ignored. Never inside headings, links, code, math (KaTeX) or
  * the topbar, and never inside an existing abbr.
  */
-import fs from "node:fs"
-import path from "node:path"
-import { fileURLToPath } from "node:url"
 import type { Element, Root } from "hast"
 import { findAndReplace } from "hast-util-find-and-replace"
 import type { QuartzTransformerPlugin } from "../types"
+import termsJson from "./terms.json" with { type: "json" }
 
-const here = path.dirname(fileURLToPath(import.meta.url))
-const TERMS: Record<string, string> = JSON.parse(
-  fs.readFileSync(path.join(here, "terms.json"), "utf-8"),
-)
+const TERMS: Record<string, string> = termsJson
 
 const keys = Object.keys(TERMS)
   .filter((k) => k.length >= 2)
@@ -70,4 +65,5 @@ const Acronyms: QuartzTransformerPlugin = () => ({
   },
 })
 
+export { Acronyms }
 export default Acronyms
