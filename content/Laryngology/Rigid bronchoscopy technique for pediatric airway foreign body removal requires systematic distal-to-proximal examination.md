@@ -7,7 +7,7 @@ tags:
   - airway-foreign-body
   - rigid-bronchoscopy
   - operative-technique
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Laryngology"
@@ -28,7 +28,7 @@ aliases:
 > *Answer / Clinical Rationale*: Most aspirated objects are larger than the working channel of the bronchoscope; attempting to pull the object inside the bronchoscope will crush or fragment the object, or shear it off at the distal tip.
 
 ## Core Clinical & Mechanistic Principles
-**Tracheobronchial foreign body aspiration** is a critical pediatric emergency predominantly occurring in children under 3 years of age due to lack of molar dentition, immature swallowing coordination, and exploratory mouthing behaviors. While organic materials (peanuts, popcorn, seeds) induce intense localized chemical bronchitis and swelling, inorganic materials (beads, toy components) produce mechanical ball-valve or complete obstruction. The definitive diagnostic and therapeutic gold standard is **ventilating [[Airway foreign body aspiration mandates rigid bronchoscopy despite normal radiographs|rigid bronchoscopy]] under spontaneous-ventilation general anesthesia**:
+**Tracheobronchial foreign body aspiration** is a critical pediatric emergency predominantly occurring in children under 3 years of age due to lack of molar dentition, immature swallowing coordination, and exploratory mouthing behaviors. While organic materials (peanuts, popcorn, seeds) induce intense localized chemical bronchitis and swelling, inorganic materials (beads, toy components) produce mechanical ball-valve or complete obstruction. The definitive diagnostic and therapeutic gold standard is **ventilating [[Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy|rigid bronchoscopy]] under spontaneous-ventilation general anesthesia**:
 
 - **Anesthetic Principles & Airway Control**:
   - **Spontaneous Ventilation Maintenance**: Inhalation induction with sevoflurane while strictly avoiding neuromuscular blockade. Spontaneous respiratory effort preserves negative intrathoracic caliber dilation during inspiration and prevents converting a partial, air-trapping "ball-valve" bronchial obstruction into total atelectatic collapse.

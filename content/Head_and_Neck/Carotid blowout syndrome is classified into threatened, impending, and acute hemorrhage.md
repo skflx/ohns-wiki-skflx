@@ -6,7 +6,7 @@ tags:
   - emergencies
   - carotid-blowout
   - vascular-crisis
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Head_and_Neck"
@@ -67,7 +67,3 @@ flowchart TD
 - **Endovascular Control**: [[Endovascular covered stenting and coil embolization provide emergent control of carotid blowout|Endovascular Management]]
 - **Radiation Vasculopathy**: [[Post-radiation carotid vasculopathy and osteoradionecrosis represent severe late radiotherapy sequelae|Radiation Vasculopathy]]
 - **Pharyngocutaneous Fistula**: [[Pharyngocutaneous fistula is managed with wound care, nutritional support, and surgical flap closure|Fistula Management]]
-- **Anatomical Foundation**: [[The danger space permits unrestricted infection spread from skull base to posterior mediastinum]]
-- **Surgical Lymphadenectomy**: [[The spinal accessory nerve is identified at the Erb point and anterior border of the SCM]]
-- **Oncologic Resection & Margins**: [[Marginal mandibulectomy preserves basilar bone height when tumor abuts but does not invade marrow]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Circumferential laryngopharyngectomy requires tubed microvascular or visceral flap reconstruction]]

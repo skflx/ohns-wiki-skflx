@@ -6,16 +6,22 @@ tags:
   - airway
   - foreign-body
   - bronchoscopy
+  - emergency
   - surgical-technique
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
+  - "CummingsPed, Ch34, p.13"
 aliases:
   - "Tracheobronchial Foreign Body"
   - "Pediatric Airway Foreign Body"
   - "Rigid Bronchoscopy for Foreign Body"
   - "Airway Foreign Body Aspiration"
+  - "Airway Foreign Body"
+  - "Foreign Body Aspiration"
+  - "Rigid Bronchoscopy"
+  - "Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy"
 ---
 
 # Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy
@@ -37,10 +43,11 @@ aliases:
 - **Pathophysiology of Organic Matter**:
   - Most aspirated objects are **radiolucent organic materials** (e.g., peanuts, carrots, popcorn, sunflower seeds).
   - Organic matter absorbs moisture, swells over hours, and releases irritating free fatty acids that incite intense chemical bronchitis, circumferential mucosal edema, and friable granulation tissue.
-- **Classic Triad (<60% sensitivity)**:
-  1. Sudden-onset coughing / choking paroxysm.
-  2. Unilateral or localized wheezing refractory to bronchodilators.
+- **Classic Triad (<60% sensitivity) & Diagnostic Rule**:
+  1. Sudden-onset coughing / choking paroxysm (**witnessed choking event is the most sensitive indicator**).
+  2. Unilateral or localized wheezing refractory to bronchodilators (delayed presentations masquerade as unilateral "asthma" or recurrent same-lobe pneumonia).
   3. Diminished breath sounds over the affected hemithorax.
+  - **Normal Film Excludes Nothing**: Radiographs support diagnosis (ball-valve asymmetric hyperinflation/air trapping on expiratory or lateral decubitus films, or atelectasis), but a **100% normal chest film does not exclude aspiration**—a convincing choking history mandates OR rigid bronchoscopy. Complete laryngeal obstruction is BLS territory (back blows/chest thrusts vs abdominal thrusts), whereas stable partial obstruction goes directly to the OR.
 - **Anatomical Predilection**: In older children and adults, the **right mainstem bronchus** is favored due to its wider diameter, more vertical take-off angle, and greater airflow volume. In infants and toddlers $<2\text{ years}$, the angles of bifurcation are more symmetrical ($55^\circ$ right vs $40^\circ$ left).
 
 ```mermaid
@@ -77,12 +84,13 @@ flowchart TD
 3. **Extraction & Secondary Survey**:
    - Pass optical peanut or alligator forceps through the sheath.
    - Grasp the foreign body securely under direct rod-lens magnification.
-   - **Withdraw scope, forceps, and object en bloc** through the subglottis.
-   - **Mandatory Second Look**: Immediately re-introduce the bronchoscope to survey the entire tracheobronchial tree, suction distal pus/mucus plugs, and confirm absence of second foreign bodies or fragmented seeds (see [[Pediatric esophageal button battery impaction causes liquefaction necrosis within two hours and mandates emergent endoscopic extraction|Esophageal Button Battery]]).
+   - **Withdraw scope, forceps, and object en bloc** through the subglottis, rotating the object sagittally through the glottis to prevent dislodgement at the vocal cords.
+   - **Mandatory Second Look & Team Choreography**: Align anesthesia on induction/ventilation strategy with sized equipment laid out beforehand and cardiothoracic backup for distal/impacted cases; immediately re-introduce the bronchoscope after retrieval to survey the entire tracheobronchial tree, suction distal pus/mucus plugs, and confirm absence of second foreign bodies or fragmented seeds (see [[Pediatric esophageal button battery impaction causes liquefaction necrosis within two hours and mandates emergent endoscopic extraction|Esophageal Button Battery]]).
 
 ## Connected Concepts & Graph Traversal
 - **Esophageal Battery Emergency**: [[Pediatric esophageal button battery impaction causes liquefaction necrosis within two hours and mandates emergent endoscopic extraction|Esophageal Button Battery]]
 - **Diagnostic Differential**: [[Pediatric stertor and stridor differentiate upper supraglottic airway obstruction from intrathoracic tracheobronchial disease|Pediatric Stridor Evaluation]]
 - **Nasal Foreign Bodies**: [[Nasal foreign bodies presenting with unilateral foul-smelling rhinorrhea mandate urgent removal with particular vigilance for button batteries|Nasal Foreign Bodies]]
 - **Subglottic Sizing**: [[The Cotton-Myer classification grades subglottic stenosis by luminal reduction|Subglottic Stenosis]]
+- **Infectious Mimics**: [[Viral laryngotracheobronchitis croup presents with a barking cough and subglottic steeple sign on radiography|Croup Mimic]]
 - **Aural Foreign Body Extraction**: [[External auditory canal foreign bodies require atraumatic extraction under microscopic guidance to protect the tympanic membrane|EAC Foreign Body]]

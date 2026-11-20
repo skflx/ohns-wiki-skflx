@@ -6,7 +6,7 @@ tags:
   - airway-reconstruction
   - posterior-graft
   - cricoid-split
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Reconstruction of the Auricle"
@@ -71,7 +71,3 @@ flowchart TD
 - **LTR Reconstruction**: [[Single-stage and double-stage laryngotracheal reconstruction LTR repair mature high-grade subglottic stenosis|LTR Reconstruction]]
 - **Anterior Costal Graft**: [[Anterior costal cartilage grafts expand the thyroid and cricoid cartilage framework|Anterior Costal Cartilage Graft]]
 - **Double-Stage LTR**: [[Double-stage LTR maintains a tracheostomy and utilizes an endolaryngeal LT-Mold or Montgomery T-tube stent|Double-Stage LTR]]
-- **Embryological & Sleep Foundation**: [[Pediatric polysomnography criteria define obstructive sleep apnea with an obstructive apnea-hypopnea index exceeding one]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Pediatric DISE identifies persistent multi-level airway collapse following adenotonsillectomy]]
-- **Congenital Airway Pathology**: [[Congenital bilateral vocal fold paralysis presents with severe inspiratory stridor requiring airway protection]]
-- **Open Airway Reconstruction**: [[Preserving the recurrent laryngeal nerves at the cricothyroid articulation is essential during cricotracheal resection]]

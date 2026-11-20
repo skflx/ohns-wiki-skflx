@@ -6,7 +6,7 @@ tags:
   - csf-leak
   - diagnostics
   - beta-2-transferrin
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch4, p.64–66"
@@ -73,6 +73,5 @@ flowchart TD
 - **Flap Closure**: [[The Hadad-Bassagasteguy nasoseptal flap is pedicled on the posterior septal artery|Nasoseptal Flap]]
 - **Intraoperative Dye**: [[Intrathecal fluorescein enables visual localization of occult dural defects|Intrathecal Fluorescein]]
 - **Anatomical Foundation**: [[Spontaneous CSF leaks are strongly associated with idiopathic intracranial hypertension and elevated BMI|Spontaneous CSF Leaks & IIH]]
-- **Critical Safety / Complication**: [[Esthesioneuroblastoma Kadish and Hyams staging determines craniofacial resection and adjuvant therapy|Esthesioneuroblastoma (ENB)]]
-- **Diagnostic Evaluation**: [[Multi-layer underlay and overlay CSF leak closure employs a bath-plug technique with autologous fat and fascia lata to resist intracranial pressure pulsations|Bath-Plug CSF Closure]]
+- **Bath-Plug Repair Craft**: [[Multi-layer underlay and overlay CSF leak closure employs a bath-plug technique with autologous fat and fascia lata to resist intracranial pressure pulsations|Bath-Plug CSF Closure]]
 - **Systematic Confirmation & Repair Sequence**: [[Endoscopic repair of cerebrospinal fluid rhinorrhea employs systematic biochemical confirmation, intrathecal fluorescein localization, and multilayer underlay dural reconstruction to achieve primary closure|Endoscopic CSF Rhinorrhea Repair]]

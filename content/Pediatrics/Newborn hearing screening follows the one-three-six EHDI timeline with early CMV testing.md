@@ -7,7 +7,7 @@ tags:
   - ehdi
   - cmv
   - snhl
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Ch12, p.1"
@@ -67,4 +67,3 @@ flowchart TD
 - **Syndromic SNHL Syndromes**: [[Syndromic pediatric sensorineural hearing loss encompasses Pendred, Usher, Waardenburg, and Jervell and Lange-Nielsen syndromes|Syndromic Hearing Loss]]
 - **Stickler SNHL Syndrome**: [[Stickler syndrome combines progressive sensorineural hearing loss, spondyloepiphyseal dysplasia, and retinal detachment|Stickler Syndrome]]
 - **Treacher Collins Dysostosis**: [[Treacher Collins syndrome results from TCOF1 mutations causing mandibulofacial dysostosis and conductive hearing loss|Treacher Collins Syndrome]]
-- **Pediatric Mastoiditis**: [[Pediatric acute mastoiditis with subperiosteal abscess requires intravenous ceftriaxone, myringotomy tube placement, and cortical mastoidectomy|Pediatric Mastoiditis]]

@@ -6,7 +6,7 @@ tags:
   - reconstruction
   - free-flaps
   - subscapular-system
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch10, p.204"
@@ -60,7 +60,3 @@ flowchart TD
 - **Latissimus Flap**: [[The latissimus dorsi myocutaneous free flap covers massive soft tissue and skull base defects|Latissimus Dorsi Flap]]
 - **Maxillectomy Reconstruction**: [[Hard palate and upper alveolar carcinoma require partial or total maxillectomy|Maxillectomy Reconstruction]]
 - **Fibula Free Flap**: [[The fibula osteocutaneous free flap provides up to twenty-five centimeters of vascularized bone for mandible reconstruction|Fibula Free Flap]]
-- **Anatomical Foundation**: [[Deep cervical fascia divides into superficial, middle, and deep layers that define surgical planes]]
-- **Surgical Lymphadenectomy**: [[Postoperative neck hematoma after thyroidectomy or neck dissection requires emergent bedside wound opening for airway decompression]]
-- **Oncologic Resection & Margins**: [[Step-cut chevron mandibulotomy maximizes bone surface contact and rotational stability]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Pharyngocutaneous fistula is managed with wound care, nutritional support, and surgical flap closure]]

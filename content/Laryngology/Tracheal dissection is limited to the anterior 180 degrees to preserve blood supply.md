@@ -7,7 +7,7 @@ tags:
   - ctr
   - tracheal-blood-supply
   - surgical-anatomy
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch48, p.952"
@@ -67,4 +67,3 @@ flowchart TD
 - **Tension Release Maneuvers**: [[Suprahyoid Montgomery release mobilizes the larynx to reduce anastomotic tension|Suprahyoid Montgomery Release]]
 - **Immobilization Protocol**: [[The guardian chin-to-chest suture prevents cervical hyperextension and anastomotic dehiscence|Guardian Chin-to-Chest Suture]]
 - **Endoscopic Measurement**: [[Rigid bronchoscopy requires 90-degree rotation through the glottis|Operative Rigid Bronchoscopy]]
-- **Clinical Management**: [[Adult tracheostomy tube exchange at one week requires a mature tract, tracheal stay sutures, and bougie guidance|Tracheostomy Tube Exchange]]

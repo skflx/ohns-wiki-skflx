@@ -6,7 +6,7 @@ tags:
   - free-flaps
   - microvascular-salvage
   - thrombosis-protocol
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -65,4 +65,4 @@ flowchart TD
 - **Anatomical Foundation**: [[The fibula free flap provides vascularized cortical bone for composite mandibular reconstruction|Fibula Flap]]
 - **Complication Matrix**: [[High-stakes FPRS complications require proactive landmarking and emergency rescue protocols|High-Stakes FPRS Complications]]
 - **Surgical Craft**: [[Preserving the distal five centimeters of the fibula prevents ankle instability and talar tilt|Distal Fibular Preservation Rule]]
-- **Diagnostic Assessment**: [[The anterolateral thigh free flap provides versatile soft tissue volume based on the LCFA|Anterolateral Thigh (ALT) Flap]]
+- **Soft Tissue Flap Donor**: [[The anterolateral thigh free flap provides versatile soft tissue volume based on the LCFA|Anterolateral Thigh (ALT) Flap]]

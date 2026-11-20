@@ -6,7 +6,7 @@ tags:
   - great-auricular-nerve
   - rhytidectomy
   - complications
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch21, p.398"
@@ -67,5 +67,5 @@ flowchart TD
 - **Frontal Branch Sentinel Vein**: [[The sentinel vein marks the trajectory of the frontal branch of the facial nerve|Sentinel Vein & Frontal Branch]]
 - **Facial Paralysis Staging**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Grading]]
 - **Auricular Otoplasty Sensation**: [[Mustarde and Furnas sutures correct antihelical effacement and conchal hypertrophy|Prominent Ear Otoplasty]]
-- **Microtia Reconstruction**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|Microtia Auricular Craft]]
+- **Microtia Reconstruction**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Microtia Auricular Craft]]
 - **Critical Safety / Danger Zone**: [[The Mustarde cervicofacial rotation-advancement flap recruits cervical and preauricular tissue laxity to reconstruct large cheek and lower eyelid defects|Mustarde Cervicofacial Flap]]

@@ -7,7 +7,7 @@ tags:
   - residency-mastery
   - map-of-content
   - obsidian-wiki
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 vetted: ""
 status: complete
 aliases:
@@ -42,14 +42,14 @@ flowchart TD
 
 | Subspecialty Domain | Cards | Source Coverage | Active Recall Qs | Illustrated Cards | Active Links | Mastery Scope |
 | :--- | ---: | ---: | ---: | ---: | ---: | :--- |
-| **Laryngology, Voice & Upper Airway** (`Laryngology/`) | 151 | 151/151 (100%) | 316 (2.1/card) | 19 (23 figs) | 1,459 | Vocal Fold Microanatomy, Phonosurgery, Lasers, Airway Stenosis, Dysphagia |
-| **Rhinology, Sinus & Anterior Skull Base** (`Sinus/`) | 175 | 175/175 (100%) | 380 (2.2/card) | 52 (82 figs) | 1,392 | CLOSE CT Checklist, FESS, Frontal Outflow (Draf I-III), CSF Leaks, EEA Corridors |
-| **Facial Plastic & Reconstructive Surgery** (`FPRS/`) | 146 | 146/146 (100%) | 310 (2.1/card) | 51 (102 figs) | 1,012 | Angiosomes, Local Flaps, Rhinoplasty, Aging Face, Trauma, Free Tissue |
-| **Head & Neck Surgical Oncology & Reconstruction** (`Head_and_Neck/`) | 182 | 182/182 (100%) | 424 (2.3/card) | 51 (81 figs) | 1,395 | Fascia, Neck Dissection, Oral/Oropharynx, Larynx, Thyroid, Salivary, Free Flap Rescue |
-| **Otology, Neurotology & Lateral Skull Base** (`Otology/`) | 186 | 186/186 (100%) | 418 (2.2/card) | 37 (57 figs) | 1,312 | Micromechanics, Tympanoplasty, Cholesteatoma, Implants, Vestibular, Skull Base |
-| **Pediatric Otolaryngology & Sleep Surgery** (`Pediatrics/`) | 156 | 156/156 (100%) | 343 (2.2/card) | 42 (60 figs) | 1,260 | Branchial Embryology, Pediatric OSA, Stridor/LTR, Cleft, Soft Tissue Sleep, HGNS |
-| **Craniomaxillofacial Trauma & Orthognathic** (`Trauma/`) | 40 | 40/40 (100%) | 80 (2.0/card) | 40 (42 figs) | 240 | AO Principles, Mandibular Fractures, Midface Buttresses, Panfacial, Orthognathic |
-| **Total / Vault-Wide** | **1,036** | **1036/1036 (100%)** | **2,271 (2.2/card)** | **292 (447 figs)** | **8,070** | **Complete Residency & Fellowship Mastery Curriculum** |
+| **Laryngology, Voice & Upper Airway** (`Laryngology/`) | 148 | 148/148 (100%) | 310 (2.1/card) | 19 (23 figs) | 1,433 | Vocal Fold Microanatomy, Phonosurgery, Lasers, Airway Stenosis, Dysphagia |
+| **Rhinology, Sinus & Anterior Skull Base** (`Sinus/`) | 167 | 167/167 (100%) | 368 (2.2/card) | 52 (82 figs) | 1,302 | CLOSE CT Checklist, FESS, Frontal Outflow (Draf I-III), CSF Leaks, EEA Corridors |
+| **Facial Plastic & Reconstructive Surgery** (`FPRS/`) | 142 | 142/142 (100%) | 302 (2.1/card) | 52 (104 figs) | 943 | Angiosomes, Local Flaps, Rhinoplasty, Aging Face, Trauma, Free Tissue |
+| **Head & Neck Surgical Oncology & Reconstruction** (`Head_and_Neck/`) | 178 | 178/178 (100%) | 416 (2.3/card) | 51 (81 figs) | 1,269 | Fascia, Neck Dissection, Oral/Oropharynx, Larynx, Thyroid, Salivary, Free Flap Rescue |
+| **Otology, Neurotology & Lateral Skull Base** (`Otology/`) | 182 | 182/182 (100%) | 410 (2.3/card) | 36 (55 figs) | 1,282 | Micromechanics, Tympanoplasty, Cholesteatoma, Implants, Vestibular, Skull Base |
+| **Pediatric Otolaryngology & Sleep Surgery** (`Pediatrics/`) | 149 | 149/149 (100%) | 329 (2.2/card) | 40 (59 figs) | 845 | Branchial Embryology, Pediatric OSA, Stridor/LTR, Cleft, Soft Tissue Sleep, HGNS |
+| **Craniomaxillofacial Trauma & Orthognathic** (`Trauma/`) | 39 | 39/39 (100%) | 79 (2.0/card) | 39 (41 figs) | 233 | AO Principles, Mandibular Fractures, Midface Buttresses, Panfacial, Orthognathic |
+| **Total / Vault-Wide** | **1,005** | **1005/1005 (100%)** | **2,214 (2.2/card)** | **289 (445 figs)** | **7,307** | **Complete Residency & Fellowship Mastery Curriculum** |
 
 ---
 
@@ -272,7 +272,7 @@ flowchart TD
 - **Cervical Lymphoma**: [[Suspected cervical lymphoma requires excisional or core biopsy because cytology cannot assess architecture|Cervical Lymphoma]]
 
 ### Salivary & Systemic Clinic
-- **Acute Sialadenitis**: [[Acute suppurative sialadenitis affects dehydrated patients and is dominated by Staphylococcus aureus|Acute Sialadenitis]]
+- **Acute Sialadenitis**: [[Suppurative sialadenitis of the parotid and submandibular glands is treated with hydration, sialagogues, and anti-staphylococcal antibiotics|Acute Sialadenitis]]
 - **Sjogren Syndrome**: [[Sjogren syndrome causes autoimmune sicca with parotid enlargement and markedly elevated MALT lymphoma risk|Sjogren Syndrome]]
 - **Plunging Ranula**: [[Plunging ranula is a sublingual mucus extravasation pseudocyst herniating around the mylohyoid free edge|Plunging Ranula]]
 - **Frey Syndrome**: [[Frey syndrome results from aberrant auriculotemporal reinnervation of sweat glands after parotidectomy|Frey Syndrome]]
@@ -372,7 +372,7 @@ flowchart TD
 - **Congenital Neck Masses & Cysts**: [[Thyroglossal duct cyst tract tracks from the foramen cecum through the hyoid bone to the anterior neck|Thyroglossal Duct Cyst Embryology]], [[Sistrunk procedure resects the thyroglossal duct cyst with the central body of the hyoid bone and foramen cecum core|Sistrunk Procedure Technique]], [[First branchial cleft Work Type I and Type II anomalies require superficial parotidectomy with facial nerve dissection|1st Branchial Cleft Anomalies (Work I/II)]], [[Second branchial cleft anomalies represent the most common branchial anomaly situated anterior to the sternocleidomastoid|2nd Branchial Cleft Anomalies]], [[Third and fourth branchial pouch anomalies present as recurrent left thyroid bed abscesses and piriform sinus fistulas|3rd & 4th Branchial Pouch Fistulas]], [[Fibromatosis coli presents as a benign neonatal sternocleidomastoid mass causing congenital muscular torticollis|Fibromatosis Coli & Pseudotumor of Infancy]]
 
 ### Vascular Anomalies of the Head & Neck
-- **Infantile Hemangiomas**: [[Infantile hemangiomas exhibit rapid neonatal proliferation followed by slow involution driven by GLUT-1 positivity|Infantile Hemangioma GLUT-1 Biology]], [[Oral propranolol is the first-line pharmacotherapy for proliferating infantile hemangiomas|Oral Propranolol First-Line Pharmacotherapy]], [[Beard distribution infantile hemangiomas are associated with symptomatic subglottic hemangiomas requiring oral propranolol|Beard Distribution & Subglottic Hemangioma]]
+- **Infantile Hemangiomas**: [[Infantile hemangiomas exhibit rapid neonatal proliferation followed by slow involution driven by GLUT-1 positivity|Infantile Hemangioma GLUT-1 Biology]], [[Oral propranolol is the first-line pharmacotherapy for proliferating infantile hemangiomas|Oral Propranolol First-Line Pharmacotherapy]], [[Subglottic hemangiomas present as biphasic stridor in infants and respond to systemic oral propranolol|Beard Distribution & Subglottic Hemangioma]]
 - **Vascular Malformations & Sclerotherapy**: [[Lymphatic malformations are slow-flow vascular anomalies classified into macrocystic and microcystic lesions|Lymphatic Malformations (Macrocystic vs Microcystic)]], [[Bleomycin and OK-432 picibanil sclerotherapy provide targeted ablation of macrocystic lymphatic malformations|Bleomycin & OK-432 Sclerotherapy]]
 
 ### Pediatric Adenotonsillar Disease & Hearing Loss
@@ -381,8 +381,8 @@ flowchart TD
 
 ### Congenital Midline & Airway Completion
 - **Midline Nasal Masses**: [[Congenital midline nasal masses must be imaged before any biopsy to exclude intracranial connection|Midline Nasal Masses]]
-- **Laryngeal Cleft**: [[Laryngeal clefts are graded by the Benjamin-Inglis classification from interarytenoid notch to intrathoracic extension|Laryngeal Cleft]]
-- **Airway Foreign Body**: [[Airway foreign body aspiration mandates rigid bronchoscopy despite normal radiographs|Airway Foreign Body]]
+- **Laryngeal Cleft**: [[Type I through Type IV laryngeal clefts represent congenital tracheoesophageal communication defects|Laryngeal Cleft]]
+- **Airway Foreign Body**: [[Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy|Airway Foreign Body]]
 - **Esophageal Button Battery**: [[Pediatric esophageal button battery impaction causes liquefaction necrosis within two hours and mandates emergent endoscopic extraction|Esophageal Button Battery & Liquefaction Necrosis]]
 
 ### Function & Development
@@ -414,13 +414,13 @@ flowchart TD
 - **Wound Healing Biology**: [[Wound healing progresses through hemostasis, inflammation, proliferation, and maturation|Wound Healing Kinetics & Collagen Phases]]
 - **SCALP & Facial Lacerations**: [[Scalp laceration repair requires layered subgaleal and galeal closure with galeatomy to achieve tension-free closure|SCALP Laceration Repair & Galeatomy]]
 - **Local Cutaneous Flaps**: [[The Zitelli bilobed flap restricts rotation to ninety degrees to prevent pincushioning|Zitelli Bilobed Flap]], [[Rhombic and Limberg flaps transpose tissue into sixty-degree and one-hundred-twenty-degree defects|Rhombic & Limberg Transposition Flaps]], [[Advancement flaps recruit adjacent tissue laxity along a linear vector without rotation|Advancement Flaps]], [[Rotation flaps redistribute closing tension along a curvilinear arc of rotation|Rotation Flaps]]
-- **Scar Revision Craft**: [[Z-plasty and W-plasty reorient scar vectors and break up linear contracture lines|Z-Plasty & W-Plasty Scar Revision]]
+- **Scar Revision Craft**: [[Scar revision employs Z-plasty W-plasty and geometric broken line closure along relaxed skin tension lines|Z-Plasty & W-Plasty Scar Revision]]
 
 ---
 
 ### Auricular & Adjunct Aesthetic Surgery
 - **Otoplasty**: [[Mustarde and Furnas sutures correct antihelical effacement and conchal hypertrophy|Otoplasty]]
-- **Microtia Reconstruction**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|Microtia Reconstruction]]
+- **Microtia Reconstruction**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Microtia Reconstruction]]
 - **Keloids**: [[Hypertrophic scars and keloids result from abnormal TGF-beta signaling and collagen deposition|Keloids]]
 - **Scar Revision**: [[Scar revision employs Z-plasty W-plasty and geometric broken line closure along relaxed skin tension lines|Scar Revision]]
 - **Cosmetic Botulinum Toxin**: [[Cosmetic botulinum toxin treats dynamic rhytids through presynaptic acetylcholine blockade|Cosmetic Botulinum Toxin]]
@@ -457,14 +457,14 @@ AIRWAY & ESOPHAGEAL FOREIGN BODIES
 - **Button Battery Emergency**: [[Pediatric esophageal button battery impaction causes liquefaction necrosis within two hours and mandates emergent endoscopic extraction|Button Battery Extraction Protocol]]
 
 ADULT TRACHEOSTOMY CONSULT
-- **Open vs. Percutaneous Technique**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open vs Percutaneous Tracheostomy & Operative Note]]
+- **Open vs. Percutaneous Technique**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Open vs Percutaneous Tracheostomy & Operative Note]]
 - **Timing & Prolonged Intubation Risk**: [[Prolonged intubation beyond seven to ten days increases glottic stenosis and ventilator-associated pneumonia risk|Prolonged Intubation Laryngeal Trauma & Timing]]
 - **Tracheotomy Standard Technique**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Standard Open Tracheotomy & Björk Flap Entry]]
 - **Stay Sutures & Exchange Readiness**: [[Adult tracheostomy tube exchange at one week requires a mature tract, tracheal stay sutures, and bougie guidance|Stay Sutures & Stomal Tract Maturation]]
 
 TRACHEOSTOMY TUBE EXCHANGE
 - **First Exchange Timing & Safety**: [[Adult tracheostomy tube exchange at one week requires a mature tract, tracheal stay sutures, and bougie guidance|First Tracheostomy Exchange Protocol]]
-- **Exchange Technique & Procedure Note**: [[Tracheostomy tube exchange technique requires pre-oxygenation, nasal speculum visualization, and endoscopic confirmation|Bedside Exchange Technique, Supplies & Procedure Template]]
+- **Exchange Technique & Procedure Note**: [[Adult tracheostomy tube exchange at one week requires a mature tract, tracheal stay sutures, and bougie guidance|Bedside Exchange Technique, Supplies & Procedure Template]]
 - **Tube Profiles & Biomechanics**: [[Shiley, Bivona, and Portex tracheostomy tubes differ in cannula design, cuff profile, and airway resistance|Shiley vs Bivona vs Portex Specifications]]
 
 TRACHEOSTOMY BLEED
@@ -553,8 +553,8 @@ PEDIATRIC NOISY BREATHING
 - **Acoustic & Dynamic Differentiation**: [[Pediatric stertor and stridor differentiate upper supraglottic airway obstruction from intrathoracic tracheobronchial disease|Stertor vs Stridor Acoustic Localization]]
 - **Respiratory Phase Localization**: [[Inspiratory, biphasic, and expiratory stridor localize pediatric airway obstruction to supraglottic, subglottic, and tracheobronchial subsites|Inspiratory, Biphasic & Expiratory Stridor Mechanics]]
 - **Laryngomalacia Pathophysiology**: [[Laryngomalacia is the most common cause of congenital pediatric stridor characterized by dynamic supraglottic collapse|Laryngomalacia Dynamic Supraglottic Collapse]]
-- **Supraglottoplasty Craft**: [[Supraglottoplasty corrects severe laryngomalacia with failure to thrive, apnea, or cor pulmonale by dividing shortened aryepiglottic folds|Supraglottoplasty Technique & Indications]]
-- **Subglottic Hemangioma**: [[Beard distribution infantile hemangiomas are associated with symptomatic subglottic hemangiomas requiring oral propranolol|Beard Distribution Hemangioma & Oral Propranolol]]
+- **Supraglottoplasty Craft**: [[Endoscopic supraglottoplasty cold-steel and laser division of aryepiglottic folds relieves severe laryngomalacia|Supraglottoplasty Technique & Indications]]
+- **Subglottic Hemangioma**: [[Subglottic hemangiomas present as biphasic stridor in infants and respond to systemic oral propranolol|Beard Distribution Hemangioma & Oral Propranolol]]
 
 NASAL FOREIGN BODIES
 - **Extraction Protocol & Caustic Battery Emergency**: [[Nasal foreign bodies presenting with unilateral foul-smelling rhinorrhea mandate urgent removal with particular vigilance for button batteries|Nasal Foreign Body Extraction, Supplies & Procedure Template]]
@@ -564,7 +564,7 @@ NASAL FOREIGN BODIES
 
 FREE FLAP CHECKS
 - **Emergency Salvage Cascade**: [[Postoperative free flap compromise within forty-eight hours requires emergent surgical re-exploration for pedicle salvage|Free Flap Monitoring Orders, Supplies & Re-Exploration]]
-- **Venous Congestion Diagnostics**: [[Postoperative free flap venous congestion presents with purple discoloration, rapid pinprick dark bleeding, and hyperdynamic Doppler signals|Venous Congestion Signs & Doppler Diagnostics]]
+- **Venous Congestion Diagnostics**: [[Microvascular venous thrombosis presents with violaceous congestion and rapid dark bleeding on pinprick|Venous Congestion Signs & Doppler Diagnostics]]
 - **Medicinal Leech Decompression**: [[Leech therapy with Hirudo medicinalis decompresses venous congested flaps with ciprofloxacin prophylaxis for Aeromonas hydrophila|Leech Therapy Protocol & Ciprofloxacin Prophylaxis]]
 - **Fasciocutaneous Workhorse**: [[The radial forearm free flap provides thin, pliable fasciocutaneous tissue for oral and pharyngeal defects|Radial Forearm Free Flap]]
 - **Vascularized Osseous Flap**: [[The fibula osteocutaneous free flap provides up to twenty-five centimeters of vascularized bone for mandible reconstruction|Fibula Free Flap]]

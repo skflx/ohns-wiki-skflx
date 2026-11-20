@@ -6,7 +6,7 @@ tags:
   - sleep-surgery
   - nasal-surgery
   - cpap-compliance
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -68,7 +68,3 @@ flowchart TD
 - **Positional OSA**: [[Positional obstructive sleep apnea is treated with sleep position trainers and positional avoidance devices|Positional OSA]]
 - **Mandibular Advancement Devices**: [[Mandibular advancement devices MAD advance the mandible to enlarge the retroglossal airway space|Mandibular Advancement Devices]]
 - **Modified UPPP**: [[Modified uvulopalatopharyngoplasty UPPP resects redundant palatal tissue while preserving muscular function|Modified UPPP]]
-- **Embryological & Sleep Foundation**: [[Each branchial arch packages one nerve, one artery, one cartilage bar, and one muscle group]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Post-tonsillectomy hemorrhage is classified into primary within twenty-four hours and secondary beyond twenty-four hours]]
-- **Congenital Airway Pathology**: [[Congenital subglottic stenosis results from incomplete recanalization of the laryngeal lumen during embryogenesis]]
-- **Open Airway Reconstruction**: [[Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates]]

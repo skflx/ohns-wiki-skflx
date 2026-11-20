@@ -6,7 +6,7 @@ tags:
   - sleep-surgery
   - le-fort-i
   - bsso
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch10, p.201"
@@ -79,7 +79,3 @@ flowchart TD
 - **MMA Advancement**: [[Maxillomandibular advancement MMA advances the skeletal framework by ten to twelve millimeters to expand the upper airway|MMA Advancement]]
 - **MMA Success Rates**: [[Maxillomandibular advancement achieves the highest surgical cure rate among all non-CPAP sleep apnea interventions|MMA Success Rates]]
 - **Virtual Surgical Planning**: [[Virtual surgical planning and splint-guided fixation optimize dental occlusion and airway expansion in MMA|Virtual Surgical Planning]]
-- **Embryological & Sleep Foundation**: [[Each branchial arch packages one nerve, one artery, one cartilage bar, and one muscle group]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Coblation lingual tonsillectomy debulks tongue base lymphoid tissue while preserving the lingual neurovascular bundles]]
-- **Congenital Airway Pathology**: [[Myer-Cotton grading system stratifies subglottic stenosis from Grade I less than fifty percent to Grade IV no lumen]]
-- **Open Airway Reconstruction**: [[Tracheomalacia causes dynamic expiratory tracheal collapse and is managed with posterior tracheobronchopexy]]

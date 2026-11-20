@@ -7,7 +7,7 @@ tags:
   - craniosynostosis
   - crouzon
   - airway
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -67,7 +67,6 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Syndromic Differential**: [[Apert syndrome combines acrocephalosyndactyly from FGFR2 mutations with complex hand-foot syndactyly and cleft palate|Apert vs Crouzon Syndactyly Distinction]]
-- **Midface Reconstruction**: [[Isolated anterior table frontal sinus fractures require open reduction and microplate fixation for contour restoration|Craniofacial Osteosynthesis]]
 - **Pediatric OSA Diagnostics**: [[Pediatric polysomnography criteria define obstructive sleep apnea with an obstructive apnea-hypopnea index exceeding one|Pediatric OSA & Polysomnography]]
 - **Branchial Syndromic Differential**: [[Treacher Collins syndrome results from TCOF1 mutations causing mandibulofacial dysostosis and conductive hearing loss|Treacher Collins Comparison]]
 - **Bone Conduction Hearing**: [[Bone-anchored hearing implants BAHA stimulate the cochlea directly via bone conduction pathways|BAHA Implants for EAC Stenosis]]

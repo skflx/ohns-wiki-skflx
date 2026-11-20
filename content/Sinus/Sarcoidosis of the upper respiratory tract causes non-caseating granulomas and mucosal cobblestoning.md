@@ -6,7 +6,7 @@ tags:
   - sarcoidosis
   - granulomatous-disease
   - mucosal-cobblestoning
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch8, p.184–185"
@@ -61,4 +61,3 @@ flowchart TD
 - **Non-T2 Endotype**: [[Non-Type 2 CRS features neutrophilic inflammation associated with cystic fibrosis and ciliopathies|Non-Type 2 CRS]]
 - **Staging**: [[The Lund-Kennedy endoscopic staging system tracks mucosal edema, polyps, and discharge|Lund-Kennedy Endoscopic Score]]
 - **Anatomical Foundation**: [[Respiratory epithelium drives mucociliary clearance toward natural ostia|Mucociliary Clearance Physiology]]
-- **Surgical Craft**: [[AERD manifests with asthma, nasal polyps, and severe aspirin-induced respiratory reactions|AERD Pathophysiology]]

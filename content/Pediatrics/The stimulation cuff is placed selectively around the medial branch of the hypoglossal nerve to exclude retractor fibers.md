@@ -6,7 +6,7 @@ tags:
   - sleep-surgery
   - hgns-surgical-technique
   - cuff-placement
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -69,7 +69,3 @@ flowchart TD
 - **Excluding Retractors**: [[Excluding the branch to the hyoglossus and styloglossus prevents tongue retraction during hypoglossal nerve stimulation|Excluding Retractors]]
 - **HGNS Overview**: [[Hypoglossal nerve stimulation HGNS activates the medial branch of CN XII to advance the tongue during inspiration|HGNS Overview]]
 - **HGNS Sensing Lead**: [[The respiratory sensing lead is placed between the internal and external intercostal muscles to detect inspiratory effort|HGNS Sensing Lead]]
-- **Embryological & Sleep Foundation**: [[Non-rapid eye movement and rapid eye movement sleep architecture dictate pharyngeal muscle tone]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Concentric velopharyngeal collapse on DISE is a contraindication to hypoglossal nerve stimulation]]
-- **Congenital Airway Pathology**: [[Subglottic hemangiomas present as biphasic stridor in infants and respond to systemic oral propranolol]]
-- **Open Airway Reconstruction**: [[Single-stage and double-stage laryngotracheal reconstruction LTR repair mature high-grade subglottic stenosis]]

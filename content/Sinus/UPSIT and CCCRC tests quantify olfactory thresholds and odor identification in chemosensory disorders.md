@@ -7,15 +7,19 @@ tags:
   - olfaction
   - upsit
   - chemosensory-testing
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
+  - "EncycloOto, Vol A, p.173"
 aliases:
   - "UPSIT Smell Identification Test"
   - "CCCRC Chemosensory Test"
   - "Quantitative Olfactory Testing"
   - "Olfactory Malingering and Detection"
+  - "Quantitative olfactory testing with the UPSIT differentiates conductive from sensorineural dysosmia and detects deliberate malingering through below-chance forced-choice scoring"
+  - "UPSIT Chemosensory Evaluation"
+  - "Olfactory Malingering Detection"
 ---
 
 # UPSIT and CCCRC tests quantify olfactory thresholds and odor identification in chemosensory disorders
@@ -31,9 +35,12 @@ aliases:
 > [!question]- Which chemical odorants stimulate the trigeminal nerve ($CN\ V$) rather than the olfactory nerve ($CN\ I$), and how are they used to detect true anosmia vs malingering?
 > *Answer / Clinical Rationale*: Pure **trigeminal stimulants** (e.g., **ammonia, acetic acid / vinegar, menthol, formaldehyde**) stimulate nasal somatosensory and pain receptors ($V_1$ and $V_2$) rather than olfactory receptor neurons. A patient with true complete anosmia ($CN\ I$ loss) will still detect the burning, pungent sensation of ammonia. Inability or refusal to perceive concentrated ammonia confirms malingering or psychogenic unresponsiveness.
 
+> [!question]- How does the binomial forced-choice distribution of the UPSIT prove malingering, and which neurodegenerative disorders exhibit severe preclinical olfactory loss vs spared olfaction?
+> *Answer / Clinical Rationale*: On a 40-item 4-choice test, random guessing yields $\mu = 40 \times 0.25 = 10$ ($\sigma = 2.74$, $95\%$ CI $5\text{–}15$); scoring **$\le 5/40$ ($p < 0.001$)** requires recognizing the correct odor and consciously choosing wrong answers. **Severe olfactory loss (`++++`)**: **idiopathic Parkinson's disease ($>90\%$)**, **Alzheimer's disease**, **dementia with Lewy bodies**, and **idiopathic REM sleep behavior disorder**. **Spared/minimal loss (`0 to +`)**: **essential tremor**, **progressive supranuclear palsy (PSP)**, **multiple system atrophy (MSA)**, **corticobasal degeneration**, and **vascular parkinsonism**.
+
 ## Core Clinical & Mechanistic Principles
 
-Chemosensory testing objectively quantifies olfactory dysfunction into **conductive (transport)** deficits (mechanical obstruction of the olfactory cleft from nasal polyps in [[Type 2 CRS exhibits eosinophilic inflammation responsive to targeted biologics|Type 2 CRS]], severe septal deflection, or mucosal edema) versus **sensorineural** deficits (loss of [[Olfactory neuroepithelium contains bipolar sensory neurons and basal stem cells|bipolar olfactory sensory neurons]], post-viral olfactory neuropathy, post-traumatic shearing of olfactory filia at the [[The Keros classification stages olfactory fossa depth and lateral lamella vulnerability|cribriform plate]], or neurodegenerative $\alpha$-synucleinopathies):
+Chemosensory testing objectively quantifies olfactory dysfunction into **conductive (transport)** deficits (mechanical obstruction of the olfactory cleft—where $<15\%$ of normal laminar airflow enters—from nasal polyps in [[Type 2 CRS exhibits eosinophilic inflammation responsive to targeted biologics|Type 2 CRS]], severe septal deflection, or mucosal edema, often responsive to systemic steroids or cleft unroofing while preserving the [[Preserving the superior septal mucosal strip prevents post-NSF anosmia|olfactory strip]]) versus **sensorineural** deficits (loss of [[Olfactory neuroepithelium contains bipolar sensory neurons and basal stem cells|bipolar olfactory sensory neurons]], post-viral respiratory metaplasia, closed-head coup-contrecoup shearing of olfactory filia at the [[The Keros classification stages olfactory fossa depth and lateral lamella vulnerability|cribriform plate]] without bone fracture, or neurodegenerative $\alpha$-synucleinopathies). Notably, $>90\%$ of patients reporting "loss of taste" actually have impaired retronasal olfaction rather than lingual gustatory loss.
 
 ```mermaid
 %% Olfactory Evaluation and UPSIT Triage Algorithm
@@ -56,7 +63,9 @@ flowchart TD
   class N5,N8 red
 ```
 
-### Chemosensory Testing Battery Metrics & Qualitative Disorders
+### Chemosensory Testing Battery Metrics, Neurodegenerative Stratification & Qualitative Disorders
+- **UPSIT Architecture & Normograms**: Developed by Richard L. Doty, the 40-item forced-choice test comprises four 10-page booklets of $10\text{–}50\,\mu\text{m}$ microencapsulated "scratch-and-sniff" strips (women slightly outperform men; scores decline past age 65). Forced guessing eliminates response bias and enables binomial malingering detection ($\le 5/40$, $p < 0.001$).
+- **Neurodegenerative Biomarker Profile**: Preclinical olfactory testing distinguishes **idiopathic Parkinson's disease** (Lewy bodies in the anterior olfactory nucleus/bulb), **Alzheimer's**, **DLB**, and **REM sleep behavior disorder** (`++++` loss) from **essential tremor**, **PSP**, **MSA**, **corticobasal degeneration**, and **vascular parkinsonism** (`0 to +`).
 - **Qualitative vs Quantitative Olfactory Disorders**:
   - **Anosmia / Hyposmia**: Quantitative reduction in olfactory sensitivity.
   - **Parosmia (Troposmia)**: Distorted qualitative perception of an actual odorant (often foul, rotten, or chemical), commonly seen during aberrant axonal regeneration after post-viral olfactory loss.
@@ -70,4 +79,3 @@ flowchart TD
 - **Type 2 CRS & Polyposis**: [[Type 2 CRS exhibits eosinophilic inflammation responsive to targeted biologics|Type 2 CRS & Anosmia]]
 - **Keros Classification**: [[The Keros classification stages olfactory fossa depth and lateral lamella vulnerability|Keros Classification & Olfactory Fossa Depth]]
 - **Nasal Cycle Mechanics**: [[The nasal cycle provides alternating autonomic mucosal congestion and decongestion|Nasal Cycle Dynamics]]
-- **Forced-Choice Malingering Detection**: [[Quantitative olfactory testing with the UPSIT differentiates conductive from sensorineural dysosmia and detects deliberate malingering through below-chance forced-choice scoring|UPSIT Malingering Detection]]

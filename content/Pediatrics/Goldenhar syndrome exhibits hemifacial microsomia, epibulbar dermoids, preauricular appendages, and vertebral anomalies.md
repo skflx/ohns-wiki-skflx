@@ -7,7 +7,7 @@ tags:
   - goldenhar
   - hemifacial-microsomia
   - branchial-anomalies
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Ch6, p.11"
@@ -73,8 +73,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Branchial Arch Embryology**: [[Each branchial arch packages one nerve, one artery, one cartilage bar, and one muscle group|First and Second Branchial Arch Derivations]]
-- **Microtia Reconstruction**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|Microtia Repair Protocols]]
+- **Microtia Reconstruction**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Microtia Repair Protocols]]
 - **Differential Craniofacial Dysostosis**: [[Treacher Collins syndrome results from TCOF1 mutations causing mandibulofacial dysostosis and conductive hearing loss|Treacher Collins vs Goldenhar Comparison]]
 - **Bone Conduction Hearing**: [[Bone-anchored hearing implants BAHA stimulate the cochlea directly via bone conduction pathways|BAHA Implantation in Microtia]]
-- **Facial Nerve Reanimation**: [[Facial synkinesis is managed with selective neurolysis, myectomy, and botulinum toxin titration|Facial Nerve Reanimation Principles]]
 - **Craniofacial Cleft Classification**: [[Tessier classification organizes craniofacial clefts from zero to fourteen based on orbital and facial anatomical axes radiating from the palpebral fissure|Tessier Craniofacial Cleft Classification]]

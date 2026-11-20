@@ -6,7 +6,7 @@ tags:
   - midface-lift
   - soof-elevation
   - periorbital-rejuvenation
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -59,5 +59,4 @@ flowchart TD
 - **Lower Eyelid**: [[Lower blepharoplasty addresses fat herniation while preserving the inferior oblique muscle|Lower Blepharoplasty]]
 - **Canthal Support**: [[Lateral canthopexy and lateral tarsal strip suspension prevent post-blepharoplasty ectropion|Lateral Tarsal Strip]]
 - **Deep-Plane Midface**: [[Deep-plane rhytidectomy mobilizes the skin and SMAS as a composite flap across retaining ligaments|Deep-Plane Midface]]
-- **Diagnostic Evaluation**: [[High-SMAS rhytidectomy extends dissection above the zygomatic arch to rejuvenate the midface|High-SMAS Technique (Fritz Barton)]]
-- **Anatomical Foundation**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
+- **Midface Lift Alternative**: [[High-SMAS rhytidectomy extends dissection above the zygomatic arch to rejuvenate the midface|High-SMAS Technique (Fritz Barton)]]

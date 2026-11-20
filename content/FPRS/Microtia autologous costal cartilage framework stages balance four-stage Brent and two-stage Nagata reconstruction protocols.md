@@ -8,10 +8,11 @@ tags:
   - brent-technique
   - nagata-technique
   - pediatric
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Ch23, pp. 636-646; Ch22, pp. 592, 616-624"
+  - "BakerFlaps3e, Auricle"
 aliases:
   - "Microtia Framework Staging"
   - "Brent vs Nagata Staging Protocols"
@@ -20,6 +21,9 @@ aliases:
   - "Microtia Reconstruction"
   - "Brent 4-Stage Technique"
   - "Nagata 2-Stage Technique"
+  - "Nagata Technique"
+  - "Costal Cartilage Framework"
+  - "Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols"
 ---
 
 # Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols
@@ -36,7 +40,7 @@ aliases:
 > *Answer / Clinical Rationale*: **Brent** initiates reconstruction earlier at **age 6 to 8 years** (chest circumference $\sim 60\text{ cm}$) using a delicate 4-stage protocol requiring less cartilage volume, whereas **Nagata** delays to **age 10 years or older** (chest circumference $>65\text{ cm}$) because carving the single-stage integrated tragus, antitragus, and concha requires greater rib cartilage mass, and Stage 2 elevation uses a vascularized **temporoparietal fascia flap (TPFF)** plus banked cartilage wedge and split-thickness skin graft.
 
 ## Core Clinical & Mechanistic Principles
-Surgical reconstruction of congenital microtia (Marx Grades I–IV; Aguilar Grades I–III) represents the pinnacle of autologous facial reconstructive complexity. The multi-tiered architecture of the auricle is fabricated using autologous rib cartilage sculpted to replicate the three-dimensional cartilaginous skeleton. Success requires strict coordination between the plastic reconstructive surgeon and the pediatric otologist, adherence to extraperichondrial rib harvest, tension-free skin envelope expansion, and rapid salvage with a [[Pitanguy's line defines the danger zone for the frontal branch of the facial nerve|temporoparietal fascia]] flap if framework exposure develops.
+Surgical reconstruction of congenital microtia (Marx Grades I–IV; Aguilar Grades I–III) represents the pinnacle of autologous facial reconstructive complexity, often presenting alongside syndromic fields such as hemifacial microsomia and Treacher Collins syndrome. The multi-tiered architecture of the auricle is fabricated using autologous rib cartilage sculpted to replicate the three-dimensional cartilaginous skeleton. Success requires strict coordination between the plastic reconstructive surgeon and the pediatric otologist (while bone-conduction devices decouple early hearing rehabilitation from the reconstruction calendar), adherence to extraperichondrial rib harvest (accepting donor-site chest scar and rare pneumothorax in exchange for living, durable tissue), tension-free skin envelope expansion, and rapid salvage with a [[Pitanguy's line defines the danger zone for the frontal branch of the facial nerve|temporoparietal fascia]] flap if framework exposure develops. Modality selection among staged autologous cartilage, synthetic [[Porcine and porous polyethylene Medpor frameworks provide synthetic alternatives in microtia repair|porous polyethylene (Medpor)]], and osseointegrated auricular prostheses (ideal for acquired total defects, failed reconstructions, or radiated fields) is a values-based conversation weighing donor-site tolerance, age, and lifetime implant exposure risk.
 
 ### Rib Cartilage Harvesting Mechanics
 1. **Harvest Site Selection**:

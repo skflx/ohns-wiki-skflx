@@ -6,7 +6,7 @@ tags:
   - oral-cavity
   - floor-of-mouth
   - sublingual-gland
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.213, 218"
@@ -63,6 +63,4 @@ flowchart TD
 - **Level I Dissection**: [[Level I dissection requires facial vessel ligation and preservation of the lingual and hypoglossal nerves|Level I Dissection]]
 - **Transoral Resection**: [[Transoral resection provides oncologic access for early-stage anterior oral cavity neoplasms|Transoral Resection]]
 - **Anatomical Foundation**: [[Post-radiation carotid vasculopathy and osteoradionecrosis represent severe late radiotherapy sequelae]]
-- **Surgical Lymphadenectomy**: [[Superior mediastinal level VII dissection clears paratracheal lymph nodes below the sternal notch]]
 - **Oncologic Resection & Margins**: [[Lip-split paramedian mandibulotomy provides wide exposure for posterior oral cavity and oropharyngeal tumors]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Prophylactic transcervical external carotid ligation reduces fatal secondary hemorrhage after TORS]]

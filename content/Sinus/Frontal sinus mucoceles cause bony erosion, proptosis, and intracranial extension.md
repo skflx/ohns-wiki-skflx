@@ -6,7 +6,7 @@ tags:
   - frontal-sinus
   - mucocele
   - bony-erosion
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Ch10, p.1"
@@ -67,4 +67,4 @@ flowchart TD
 - **Diagnostic Evaluation**: [[Draf I frontal sinusotomy clears obstructing ethmoid cells without instrumenting the ostium|Draf I Frontal Sinusotomy]]
 - **Surgical Craft**: [[Abdominal fat obliteration of the frontal sinus requires meticulous complete mucosal de-epithelialization|Frontal Fat Obliteration]]
 - **Anatomical Foundation**: [[Draf IIb frontal sinusotomy extends from lamina papyracea to the nasal septum|Draf IIb Frontal Sinusotomy]]
-- **Precipitating Condition**: [[Frontal sinus mini-trephination provides above-and-below endoscopic visualization and catheter irrigation for refractory frontal disease|Frontal Sinus Mini-Trephination]]
+- **Hybrid Percutaneous Access**: [[Frontal sinus trephination provides combined endoscopic and percutaneous visualization and irrigation|Frontal Sinus Mini-Trephination]]

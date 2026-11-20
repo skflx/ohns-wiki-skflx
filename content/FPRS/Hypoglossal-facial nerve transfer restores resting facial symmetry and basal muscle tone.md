@@ -3,10 +3,13 @@ title: "Hypoglossal-facial nerve transfer restores resting facial symmetry and b
 tier: "Tier V: Otoplasty, Auricular Frameworks & Comprehensive Facial Reanimation"
 tags:
   - fprs
+  - otology
   - facial-reanimation
+  - facial-nerve
   - hypoglossal-nerve
+  - hypoglossal-transfer
   - nerve-transfer
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -14,6 +17,10 @@ aliases:
   - "Hypoglossal-Facial Transfer (CN XII-to-VII)"
   - "Side-to-End Hypoglossal Transfer"
   - "Hypoglossal Jump Graft"
+  - "Hypoglossal-facial nerve transfer restores resting facial symmetry and basal muscle tone"
+  - "Hypoglossal-to-Facial Anastomosis"
+  - "XII-VII Transfer"
+  - "Side-to-End XII-VII"
 ---
 
 # Hypoglossal-facial nerve transfer restores resting facial symmetry and basal muscle tone
@@ -50,9 +57,10 @@ flowchart TD
   class N3 red
 ```
 
-### Motor Characteristics: Tone vs Spontaneity
-- Excellent resting tone and voluntary excursion (triggered by pushing tongue against hard palate or teeth).
-- **Limitation**: Does **not provide spontaneous, emotional smile** (requires cortical motor retraining).
+### Technique Comparison & Motor Characteristics
+- **Traditional End-to-End XII-VII Transfer**: Complete transection of CN XII in the submandibular neck with direct coaptation to the distal CN VII trunk produces strong tone but causes **complete ipsilateral hemilingual paralysis and tongue atrophy**, yielding severe dysarthria and dysphagia.
+- **Modern Side-to-End / Jump-Graft Technique (May & May)**: A partial **$30\text{–}50\%$ longitudinal hemisection** of CN XII paired with a **Great Auricular Nerve jump graft** (or direct split-XII coaptation) preserves tongue mobility and prevents hemilingual atrophy while delivering robust motor axons within the critical **$<12\text{–}18\text{ month}$** window prior to irreversible motor endplate fibrosis.
+- **Tone vs Spontaneity**: Restores excellent resting symmetry and voluntary excursion (triggered by pushing the tongue against the hard palate or teeth), though it does **not provide a spontaneous emotional smile** without cortical motor retraining.
 
 ## Connected Concepts & Graph Traversal
 - **Trigeminal Donor**: [[The masseteric nerve provides a dense motor donor for single-stage facial reanimation|Masseteric Nerve Transfer]]
@@ -60,3 +68,5 @@ flowchart TD
 - **Cable Grafts**: [[Epineural neurorrhaphy and cable nerve grafting restore facial continuity within twelve months|Cable Grafting Craft]]
 - **Anatomical Foundation**: [[Cross-facial nerve grafting provides coordinated spontaneous smile excursion in children|Cross-Facial Nerve Graft (CFNG)]]
 - **Surgical Craft**: [[Static fascia lata slings suspend the modiolus and nasal valve in non-innervation candidates|Static Facial Slings]]
+- **Corneal Protection Adjunct**: [[Upper eyelid platinum weights and lateral tarsal strips protect the cornea in flaccid facial paralysis|Upper Eyelid Weight Implantation]]
+- **🔗 Intratemporal Anatomy (Otology)**: [[The facial nerve traverses six distinct anatomical segments from the pons to the parotid gland|Extracranial Fallopian Anatomy]]

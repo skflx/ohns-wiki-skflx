@@ -5,15 +5,22 @@ tags:
   - fprs
   - facial-reanimation
   - static-slings
+  - static-suspension
   - fascia-lata
-last_revised: 2026-11-09
+  - eptfe-gore-tex
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
+  - "EncycloOto, Vol S, p.225"
 aliases:
   - "Static Facial Slings"
   - "Autologous Fascia Lata Suspension"
   - "Modiolar & Nasal Valve Static Slings"
+  - "Static fascia lata slings suspend the modiolus and nasal valve in non-innervation candidates"
+  - "Static Facial Paralysis Rehabilitation"
+  - "Gore-Tex Facial Suspension"
+  - "Multivectored Facial Slings"
 ---
 
 # Static fascia lata slings suspend the modiolus and nasal valve in non-innervation candidates
@@ -51,8 +58,14 @@ flowchart TD
   class N6,N7 purple
 ```
 
-### The Overcorrection Mandate
-- Because fascia lata and surrounding tissues undergo **gradual viscoelastic stretching and relaxation (creep)** over the first 6–12 months, the oral commissure must be **significantly overcorrected intraoperatively** (resting commissure elevated $5\text{–}10\text{ mm}$ above the normal contralateral side).
+### Clinical Indications, Materials & Multivectored Operative Craft
+- **Patient Selection**: Elderly or medically frail patients unsuitable for prolonged microvascular free tissue transfer, chronic paralysis ($>24\text{ months}$) with irreversible motor endplate fibrosis, palliative oncologic resections requiring immediate symmetry and eye protection, or as a temporary adjunct supporting soft tissues during the 9–12 months of axonal regeneration after cross-facial nerve grafting.
+- **Suspension Materials**:
+  - *Autologous Fascia Lata*: Harvested from the lateral thigh ($15\text{–}20\text{ cm} \times 3\text{–}4\text{ cm}$); gold standard biocompatibility with zero extrusion risk, at the cost of donor-site morbidity and late stretching.
+  - *Expanded Polytetrafluoroethylene (ePTFE / Gore-Tex)*: Inert microporous ($20\text{–}30\ \mu\text{m}$) synthetic strip with zero donor morbidity and stretch resistance, carrying a $3\%\text{–}5\%$ lifetime risk of extrusion or infection.
+  - *Acellular Dermal Matrix (ADM / AlloDerm)*: Pliable off-the-shelf option with higher elasticity and gradual loss of suspension height.
+- **Three Suspension Vectors & Tunneling**: Rather than a single lateral vector (which creates an unnatural grimace), place $3\text{–}5\text{ mm}$ stab incisions at the melolabial crease, oral commissure, and alar-facial groove to suspend: (1) the **modiolus/oral commissure** (oral competence), (2) the **upper lip philtrum** (Cupid's bow/drooling control), and (3) the **alar base** (reopening the external nasal valve). Tunnel from a $3\text{ cm}$ temporal incision in the deep subcutaneous / [[The superficial musculoaponeurotic system divides facial fat into distinct surgical planes|SMAS plane]] and anchor distally to orbicularis oris/modiolus and proximally to the rigid **deep temporal fascia (DTF)** (protecting the frontal branch; never anchor to loose temporoparietal fascia).
+- **The Overcorrection Mandate & Error Traps**: Because fascia lata and surrounding tissues undergo **gradual viscoelastic stretching and relaxation ($20\%\text{–}30\%$ loss over 4–8 weeks to 6–12 months)**, intentionally overcorrect the oral commissure ($5\text{–}10\text{ mm}$ elevation or displaying $1\text{–}2\text{ mm}$ of maxillary canine/incisor show at rest) and pair with periocular protection (upper lid weight + lateral tarsal strip). Avoid superficial ePTFE tunneling beneath thin dermis (causes ridging and extrusion).
 
 ## Connected Concepts & Graph Traversal
 - **Dynamic Reanimation**: [[Free gracilis muscle transfer provides dynamic smile restoration in chronic facial paralysis|Free Gracilis Transfer]]
@@ -60,5 +73,4 @@ flowchart TD
 - **Tissue Creep**: [[Relaxed skin tension lines minimize scar hypertrophy along perpendicular muscular vectors|Viscoelastic Creep]]
 - **Anatomical Foundation**: [[Cross-facial nerve grafting provides coordinated spontaneous smile excursion in children|Cross-Facial Nerve Graft (CFNG)]]
 - **Surgical Craft**: [[Epineural neurorrhaphy and cable nerve grafting restore facial continuity within twelve months|Direct Epineural Neurorrhaphy]]
-- **Bedrock Principle**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
-- **Multivectored Static Suspension**: [[Static facial suspension utilizes multivectored fascia lata or expanded polytetrafluoroethylene slings to restore symmetry in non-innervation candidates|Static Facial Suspension (Multivectored Slings)]]
+- **SMAS Surgical Plane**: [[The superficial musculoaponeurotic system divides facial fat into distinct surgical planes|SMAS Architecture]]

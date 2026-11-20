@@ -6,7 +6,7 @@ tags:
   - rhinoplasty
   - septal-extension-graft
   - tip-support
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -57,4 +57,4 @@ flowchart TD
 - **Columellar Strut Comparison**: [[Columellar strut grafts support the medial crural footplates to maintain tip projection|Columellar Strut Grafts]]
 - **Lateral Crural Steal**: [[Lateral crural steal and overlay maneuvers dynamically modify tip rotation and projection|Lateral Crural Steal & Overlay]]
 - **Aesthetic Nasal Proportions**: [[Goode's ratio and nasolabial angles define standard aesthetic nasal tip proportions|Goode's Ratio]]
-- **Microtia Costal Donor**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|Costal Cartilage Source]]
+- **Microtia Costal Donor**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Costal Cartilage Source]]

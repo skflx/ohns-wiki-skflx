@@ -6,7 +6,7 @@ tags:
   - tonsillitis-complications
   - peritonsillar-abscess
   - quinsy
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch32, p.618"
@@ -80,4 +80,3 @@ flowchart TD
 - **Acute Tonsillitis Centor Score**: [[Pediatric acute bacterial tonsillitis is differentiated from viral pharyngitis using modified Centor criteria|Bacterial Tonsillitis Centor Score]]
 - **Primary vs Secondary Hemorrhage**: [[Post-tonsillectomy hemorrhage is classified into primary within twenty-four hours and secondary beyond twenty-four hours|Post-Tonsillectomy Hemorrhage Timing]]
 - **Severe Hemorrhage Resuscitation**: [[Severe secondary post-tonsillectomy hemorrhage requires urgent airway stabilization and surgical electrocautery|Severe Hemorrhage Airway Stabilization]]
-- **Deep Neck Infection Spread**: [[Second branchial cleft anomalies represent the most common branchial anomaly situated anterior to the sternocleidomastoid|Lateral Cervical Infection]]

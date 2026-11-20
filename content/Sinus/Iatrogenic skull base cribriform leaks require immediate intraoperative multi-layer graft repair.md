@@ -6,7 +6,7 @@ tags:
   - complications
   - csf-leak-repair
   - lateral-lamella
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
@@ -68,4 +68,3 @@ flowchart TD
 - **Bed Preparation**: [[CSF leak defect preparation requires circumferential bone de-mucosalization|De-Mucosalization Craft]]
 - **Layering Hierarchy**: [[Multi-layer skull base reconstruction combines underlay, inlay, and overlay barriers|Multi-Layer Repair]]
 - **Critical Safety & Complication**: [[Lumbar drain placement and ICP management lower the risk of postoperative CSF fistula recurrence|Lumbar Spinal Drainage Protocol]]
-- **Critical Safety / Complication**: [[Esthesioneuroblastoma Kadish and Hyams staging determines craniofacial resection and adjuvant therapy|Esthesioneuroblastoma (ENB)]]

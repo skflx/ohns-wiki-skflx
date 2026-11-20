@@ -7,7 +7,7 @@ tags:
   - premalignant-conditions
   - hypopharyngeal-carcinoma
   - systemic-disease
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.216, 221"
@@ -64,4 +64,3 @@ flowchart TD
 - **Dysphagia Evaluation**: [[FEES assesses pharyngeal secretions and aspiration under direct vision|FEES & Barium Swallowing Evaluation]]
 - **Differential Esophageal Web**: [[High-resolution manometry classifies achalasia and esophageal motility disorders by the Chicago criteria|Esophageal Motility & Stricture Differentiation]]
 - **Adjacent Anatomy**: [[The carotid sheath is composed of all three layers of deep cervical fascia and forms a vertical neurovascular conduit|Cervical Esophageal Visceral Compartment]]
-- **Muscular Boundary**: [[Broyles' ligament anchors the vocal ligament to thyroid cartilage|Laryngeal Framework Landmarks]]

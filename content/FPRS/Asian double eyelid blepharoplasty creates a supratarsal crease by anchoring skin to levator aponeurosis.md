@@ -6,7 +6,7 @@ tags:
   - asian-blepharoplasty
   - double-eyelid
   - levator-aponeurosis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Reconstruction of the Eyelids"
@@ -58,4 +58,3 @@ flowchart TD
 - **Lower Blepharoplasty**: [[Lower blepharoplasty addresses fat herniation while preserving the inferior oblique muscle|Lower Blepharoplasty]]
 - **Canthal Suspension**: [[Lateral canthopexy and lateral tarsal strip suspension prevent post-blepharoplasty ectropion|Canthopexy]]
 - **Anatomical Foundation**: [[Blepharochalasis causes episodic painless eyelid edema leading to atrophic skin laxity, orbital fat pseudoherniation, and secondary ptosis|Blepharochalasis Syndrome]]
-- **Surgical Craft**: [[Bilateral A-T plasty and H-plasty advancements reconstruct forehead and suprabrow defects by recruiting transverse tissue laxity along relaxed skin tension lines|Forehead A-T Plasty]]

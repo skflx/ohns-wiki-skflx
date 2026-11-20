@@ -7,7 +7,7 @@ tags:
   - risk-stratification
   - endocrine-surgery
   - prognosis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.106–107"
@@ -118,6 +118,6 @@ These scoring metrics dictate whether a patient is adequately treated with thyro
 - **Clinical Guideline Paradigm**: [[The 2025 ATA guidelines establish active surveillance criteria and lobectomy preference for low-risk differentiated thyroid cancer|2025 ATA Guidelines & Lobectomy Selection]]
 - **Anatomical Clearance**: [[Central compartment neck dissection clears level VI nodes between the carotid sheaths and suprasternal notch|Central Compartment Level VI Lymphadenectomy]]
 - **Molecular Driver**: [[BRAF V600E and TERT promoter mutations drive aggressive papillary thyroid carcinoma behavior|BRAF and TERT Prognostic Mutations]]
-- **Cytopathologic Diagnostic Basis**: [[The Bethesda system for reporting thyroid cytopathology stratifies malignancy risk and guides surgical decision-making|Bethesda System Cytopathology]]
+- **Cytopathologic Diagnostic Basis**: [[Bethesda cytology and molecular testing stratify thyroid nodule malignancy risk before surgery|Bethesda System Cytopathology]]
 - **Surgical Craft / Nerve Preservation**: [[The recurrent laryngeal nerve is identified within Simon's triangle and followed through Berry's ligament|Recurrent Laryngeal Nerve Identification]]
 - **Aggressive Histologic Variants**: [[High-risk papillary thyroid carcinoma histologic variants portend aggressive extrathyroidal invasion, radioiodine refractoriness, and adverse prognosis|Aggressive PTC Variants & Radioiodine Refractoriness]]

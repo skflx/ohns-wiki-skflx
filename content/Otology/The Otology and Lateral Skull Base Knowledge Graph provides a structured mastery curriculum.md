@@ -8,7 +8,7 @@ tags:
   - knowledge-graph
   - master-moc
   - residency-curriculum
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch35, p.679"
@@ -39,12 +39,12 @@ flowchart BT
 > [!NOTE] **Subspecialty Knowledge Cards Census & Curriculum Architecture**
 > | Metric | Value | Details |
 > | :--- | :--- | :--- |
-> | **Atomic Cards (Notes)** | **186** | Granular single-concept clinical and surgical factoids |
-> | **Source Coverage** | **186 / 186 (100%)** | Full attribution to authoritative surgical textbooks |
-> | **Active Recall Questions** | **418 total (2.2/card)** | Integrated retrieval prompts with mechanistic rationales |
-> | **Illustrated Cards** | **37 notes (57 figs)** | High-yield operative line drawings and anatomical diagrams |
+> | **Atomic Cards (Notes)** | **182** | Granular single-concept clinical and surgical factoids |
+> | **Source Coverage** | **182 / 182 (100%)** | Full attribution to authoritative surgical textbooks |
+> | **Active Recall Questions** | **410 total (2.3/card)** | Integrated retrieval prompts with mechanistic rationales |
+> | **Illustrated Cards** | **36 notes (55 figs)** | High-yield operative line drawings and anatomical diagrams |
 > | **Personal Notes Guard** | **100% verified** | Cryptographically guarded resident notes region |
-> | **Active Wiki-Links** | **1,312 links** | Bidirectional knowledge graph traversal web |
+> | **Active Wiki-Links** | **1,282 links** | Bidirectional knowledge graph traversal web |
 > | **Mastery Pyramid** | **7 Progressive Tiers** | From Bedrock Foundations to High-Stakes Complication Rescue |
 
 ```mermaid

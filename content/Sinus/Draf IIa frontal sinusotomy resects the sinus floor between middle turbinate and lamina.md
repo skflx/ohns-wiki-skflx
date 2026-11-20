@@ -6,7 +6,7 @@ tags:
   - fess
   - frontal-sinus
   - draf-iia
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, part2_primary_ess"
@@ -63,4 +63,3 @@ flowchart TD
 - **Total Unilateral Step**: [[Draf IIb frontal sinusotomy extends from lamina papyracea to the nasal septum|Draf IIb Procedure]]
 - **Classification**: [[The Kuhn classification stages frontal recess and frontal sinus air cells|Kuhn Frontal Cells]]
 - **Surgical Craft**: [[Entering the ethmoid bulla inferomedially avoids orbital and skull base penetration|Anterior Ethmoidectomy Technique]]
-- **Structural / Flap Alternative**: [[Temporoparietal fascia free and pedicled flaps provide vascularized tissue when nasoseptal flaps fail|Temporoparietal Fascia Flap (TPFF)]]

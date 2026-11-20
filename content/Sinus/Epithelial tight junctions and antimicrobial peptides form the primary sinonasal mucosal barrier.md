@@ -6,7 +6,7 @@ tags:
   - epithelial-barrier
   - innate-immunity
   - tight-junctions
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
@@ -64,5 +64,4 @@ flowchart TD
 - **Type 2 Cascade**: [[Type 2 CRS exhibits eosinophilic inflammation responsive to targeted biologics|Type 2 CRS Endotype]]
 - **Physiology**: [[Nitric oxide produced in the paranasal sinuses provides host defense and ciliary stimulation|Nitric Oxide Defense]]
 - **Ciliary Motility**: [[Respiratory epithelium drives mucociliary clearance toward natural ostia|Mucociliary Clearance Mechanics]]
-- **Structural / Flap Alternative**: [[Temporoparietal fascia free and pedicled flaps provide vascularized tissue when nasoseptal flaps fail|Temporoparietal Fascia Flap (TPFF)]]
 - **Anatomical Foundation**: [[Complement activation cascades, MHC antigen presentation, and leukocyte adhesion molecules orchestrate mucosal innate and adaptive immunity|Complement Cascades]]

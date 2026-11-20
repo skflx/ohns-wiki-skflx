@@ -8,7 +8,7 @@ tags:
   - atresiaplasty
   - canalplasty
   - microtia
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "EncycloOto, Vol S, p.293-300"
@@ -97,7 +97,7 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 
 - **Jahrsdoerfer CT Staging**: [[Congenital aural atresia candidacy is graded by the ten-point Jahrsdoerfer scale]]
-- **Microtia Reconstruction Spectrum**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants]]
+- **Microtia Reconstruction Spectrum**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols]]
 - **Auricular Embryology**: [[The six auricular hillocks of His derive from the first and second branchial arches to form the pinna]]
 - **Bone-Anchored Auditory Implants**: [[Bone-anchored hearing implants BAHA stimulate the cochlea directly via bone conduction pathways]]
 - **Alloplastic Ear Frameworks**: [[Porcine and porous polyethylene Medpor frameworks provide synthetic alternatives in microtia repair]]

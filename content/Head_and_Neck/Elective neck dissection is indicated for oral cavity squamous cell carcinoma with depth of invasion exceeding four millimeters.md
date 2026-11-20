@@ -6,7 +6,7 @@ tags:
   - oral-cavity
   - elective-neck-dissection
   - occult-metastasis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.217–219"
@@ -61,5 +61,4 @@ flowchart TD
 - **Anatomical Foundation**: [[Deep cervical fascia divides into superficial, middle, and deep layers that define surgical planes]]
 - **Surgical Lymphadenectomy**: [[Levels II through IV internal jugular chain dissection mobilizes the carotid sheath packet]]
 - **Oncologic Resection & Margins**: [[Step-cut chevron mandibulotomy maximizes bone surface contact and rotational stability]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Prophylactic transcervical external carotid ligation reduces fatal secondary hemorrhage after TORS]]
 - **Minimally Invasive Staging Alternative**: [[Sentinel lymph node biopsy accurately stages the clinically negative neck in early oral squamous cell carcinoma while reducing shoulder morbidity|Sentinel Lymph Node Biopsy (Oral SCC)]]

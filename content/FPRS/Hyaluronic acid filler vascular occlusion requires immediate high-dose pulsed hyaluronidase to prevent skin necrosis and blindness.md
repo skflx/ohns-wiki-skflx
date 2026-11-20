@@ -7,7 +7,7 @@ tags:
   - vascular-occlusion
   - hyaluronidase
   - filler-complications
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -75,4 +75,3 @@ flowchart TD
 - **Forehead Flap Pedicle**: [[The paramedian forehead flap is an axial interpolated flap pedicled on the supratrochlear artery|Supratrochlear Artery Pedicle]]
 - **Cosmetic Neuromodulators**: [[Cosmetic botulinum toxin treats dynamic rhytids through presynaptic acetylcholine blockade|Botulinum Toxin]]
 - **Wound Revision Dynamics**: [[Scar revision employs Z-plasty W-plasty and geometric broken line closure along relaxed skin tension lines|Scar Revision Techniques]]
-- **Local Transposition Flaps**: [[The Zitelli bilobed flap restricts rotation to ninety degrees to prevent pincushioning|Zitelli Bilobed Flap]]

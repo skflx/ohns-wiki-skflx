@@ -6,7 +6,7 @@ tags:
   - neck-dissection
   - level-vii
   - superior-mediastinum
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -64,7 +64,4 @@ flowchart TD
 - **Central Compartment**: [[Central compartment neck dissection clears level VI nodes between the carotid sheaths and suprasternal notch|Level VI Dissection]]
 - **Thyroid Cancer**: [[Papillary thyroid carcinoma spreads via cervical lymphatics to central and lateral neck compartments|Papillary Thyroid Carcinoma]]
 - **Subglottic SCC**: [[Subglottic carcinoma spreads to level VI central compartment lymphatics and mediastinal nodes|Subglottic Carcinoma]]
-- **Anatomical Foundation**: [[The danger space permits unrestricted infection spread from skull base to posterior mediastinum]]
 - **Surgical Lymphadenectomy**: [[Cervical chyle leaks are managed with MCT diet, octreotide, or surgical thoracic duct ligation]]
-- **Oncologic Resection & Margins**: [[Retromolar trigone carcinoma invades the pterygomandibular raphe and masticator space]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Lingual artery branches require clip ligation during TORS base of tongue resection]]

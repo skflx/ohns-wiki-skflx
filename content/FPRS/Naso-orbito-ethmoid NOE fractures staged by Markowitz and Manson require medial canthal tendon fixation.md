@@ -6,7 +6,7 @@ tags:
   - trauma
   - noe-fractures
   - markowitz-manson
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -57,5 +57,4 @@ flowchart TD
 - **Orbital Trauma**: [[Orbital floor blowout fractures with muscle entrapment or significant enophthalmos mandate reconstruction|Orbital Floor Reconstruction]]
 - **Canthal Support**: [[Lateral canthopexy and lateral tarsal strip suspension prevent post-blepharoplasty ectropion|Canthopexy Principles]]
 - **Pathological Mechanism**: [[Orbital apex syndrome and superior orbital fissure syndrome manifest with ophthalmoplegia and vision loss|Orbital Apex Syndrome (OAS)]]
-- **Diagnostic Evaluation**: [[Coronoidectomy relieves severe trismus caused by temporalis impingement under displaced zygomatic arch|Mandibular Coronoidectomy]]
 - **Anatomical Foundation**: [[Panfacial fracture reconstruction proceeds from known stable peripheral buttresses to central occlusion|Panfacial Fracture Sequencing]]

@@ -7,7 +7,7 @@ tags:
   - hirudo-medicinalis
   - venous-congestion
   - aeromonas-hydrophila
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Essential Otolaryngology"
@@ -28,7 +28,7 @@ aliases:
 > *Answer / Clinical Rationale*: **Passive post-bite oozing** accounts for the vast majority of volume decompression. While active feeding extracts only 5 to 15 mL, the local deposition of hirudin, vasodilators, and hyaluronidase causes continuous slow capillary oozing of 20 to 50 mL over the subsequent 24 to 48 hours.
 
 ## Core Clinical & Mechanistic Principles
-Medicinal leech therapy (*Hirudinotherapy* utilizing *Hirudo medicinalis*) is an established salvage intervention for severe [[Postoperative free flap venous congestion presents with purple discoloration, rapid pinprick dark bleeding, and hyperdynamic Doppler signals|venous congestion]] in microvascular [[Postoperative free flap compromise within forty-eight hours requires emergent surgical re-exploration for pedicle salvage|free tissue transfer]] or pedicled flaps when surgical re-exploration fails to re-establish venous outflow (e.g., due to extensive microvenular thrombosis, no suitable recipient vein, or severe intra-flap venous spasm).
+Medicinal leech therapy (*Hirudinotherapy* utilizing *Hirudo medicinalis*) is an established salvage intervention for severe [[Microvascular venous thrombosis presents with violaceous congestion and rapid dark bleeding on pinprick|venous congestion]] in microvascular [[Postoperative free flap compromise within forty-eight hours requires emergent surgical re-exploration for pedicle salvage|free tissue transfer]] or pedicled flaps when surgical re-exploration fails to re-establish venous outflow (e.g., due to extensive microvenular thrombosis, no suitable recipient vein, or severe intra-flap venous spasm).
 
 The therapeutic efficacy of leeches operates via a dual mechanical and biochemical mechanism:
 1. **Active Sanguinivorous Extraction**: A single hungry leech ingests $5\text{ to }15\text{ mL}$ of blood over 20 to 45 minutes of active feeding.
@@ -67,7 +67,7 @@ flowchart TD
 3. Sartor, C., et al. (2002). Leech therapy in reconstructive surgery: review of the literature and proposal for a protocol of antimicrobial prophylaxis. *J Hosp Infect*, 52(4):259-265.
 
 ## Connected Concepts & Graph Traversal
-- **Physiological Basis**: [[Postoperative free flap venous congestion presents with purple discoloration, rapid pinprick dark bleeding, and hyperdynamic Doppler signals|Free Flap Venous Congestion]]
+- **Physiological Basis**: [[Microvascular venous thrombosis presents with violaceous congestion and rapid dark bleeding on pinprick|Free Flap Venous Congestion]]
 - **Surgical Salvage**: [[Postoperative free flap compromise within forty-eight hours requires emergent surgical re-exploration for pedicle salvage|Free Flap Surgical Salvage]]
 - **Workhorse Free Flap**: [[The radial forearm free flap provides thin, pliable fasciocutaneous tissue for oral and pharyngeal defects|Radial Forearm Free Flap]]
 - **Monitoring Techniques**: [[Postoperative free flap monitoring includes Doppler ultrasound, pinprick bleeding, and capillary refill checks|Flap Monitoring & Doppler Signals]]

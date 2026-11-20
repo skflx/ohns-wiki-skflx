@@ -6,7 +6,7 @@ tags:
   - larynx
   - tlm
   - cordectomy
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.86–87"
@@ -72,4 +72,4 @@ flowchart TD
 - **Airway Fire Prevention**: [[Airway fire prevention requires FiO2 below 30 percent and laser-safe tubes|Airway Laser Safety Protocols]]
 - **Paraglottic Invasion**: [[The paraglottic space facilitates transglottic tumor spread|Paraglottic Space Transglottic Spread]]
 - **Preepiglottic Invasion**: [[The pre-epiglottic space enables rapid supraglottic cancer spread|Preepiglottic Space Topography]]
-- **TEP Voice Restoration**: [[Tracheoesophageal puncture TEP and voice prosthesis restore pulmonary-driven alaryngeal speech|TEP Voice Rehabilitation]]
+- **🔗 TEP Voice Restoration (Laryngology)**: [[Tracheoesophageal puncture diverts pulmonary air through a one-way valve into the neopharynx|TEP Voice Rehabilitation]]

@@ -6,7 +6,7 @@ tags:
   - sleep-medicine
   - osa-endotypes
   - pathophysiology
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -68,7 +68,3 @@ flowchart TD
 - **High Loop Gain**: [[High loop gain causes ventilatory instability and periodic breathing in sleep-disordered breathing|High Loop Gain]]
 - **Low Arousal Threshold**: [[Low arousal threshold causes premature awakening before airway stabilization in obstructive sleep apnea|Low Arousal Threshold]]
 - **Pcrit Stratification**: [[Critical closing pressure Pcrit stratifies upper airway collapsibility from snorers to severe obstructive sleep apnea|Pcrit Stratification]]
-- **Embryological & Sleep Foundation**: [[The Starling resistor model explains upper airway collapsibility and critical closing pressure Pcrit]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Extracapsular total tonsillectomy and intracapsular subtotal tonsillotomy differ in postoperative hemorrhage and recovery]]
-- **Congenital Airway Pathology**: [[Nebulized racemic epinephrine and oral dexamethasone provide rapid treatment for acute croup]]
-- **Open Airway Reconstruction**: [[Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates]]

@@ -4,9 +4,12 @@ tier: "Tier III: Congenital & Pediatric Airway Disorders — Stridor, Laryngomal
 tags:
   - pediatrics
   - subglottic-hemangioma
+  - infantile-hemangioma
+  - beard-distribution
   - vascular-anomalies
   - propranolol
-last_revised: 2026-11-09
+  - propranolol-therapy
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch35, p.681"
@@ -15,6 +18,10 @@ aliases:
   - "Pediatric Airway Hemangioma"
   - "Propranolol Hemangioma"
   - "PHACE Syndrome"
+  - "Beard Distribution Hemangioma"
+  - "Subglottic Infantile Hemangioma"
+  - "Propranolol for Airway Hemangiomas"
+  - "Subglottic hemangiomas present as biphasic stridor in infants and respond to systemic oral propranolol"
 ---
 
 # Subglottic hemangiomas present as biphasic stridor in infants and respond to systemic oral propranolol
@@ -32,12 +39,11 @@ aliases:
 - **Clinical Presentation & Natural History**:
   - Infant is normal at birth; develops **progressive biphasic stridor, [[Viral laryngotracheobronchitis croup presents with a barking cough and subglottic steeple sign on radiography|barking cough]], and respiratory distress at $6\text{ to }12\text{ weeks}$ of life** (coinciding with the rapid proliferative growth phase).
   - Often misdiagnosed as "recurrent croup" or asthma unresponsive to steroids.
-  - **Cutaneous Association**: $50\%$ of infants have concurrent **cutaneous hemangiomas**; large facial "beard distribution" hemangiomas carry a $>60\%$ risk of airway involvement (**PHACE syndrome screening mandatory**).
-- **Endoscopic Appearance**:
-  - Smooth, compressible, submucosal, reddish-pink or bluish mass typically located in the **left posterolateral subglottis** ($>80\%$).
-- **Medical Treatment Standard of Care**:
-  - **Oral Propranolol ($2.0\text{–}3.0\text{ mg/kg/day}$ divided BID/TID)**: Non-selective beta-blocker that causes immediate vasoconstriction, downregulates VEGF and bFGF, and triggers capillary endothelial apoptosis.
-  - Achieves **$>95\%$ resolution**, completely replacing open surgical resection and tracheostomy.
+  - **Cutaneous "Beard Distribution" Association**: $50\%$ of infants have concurrent **cutaneous hemangiomas**; lesions across the **$V_3$ dermatomal "beard distribution"** (preauricular, mandibular body, chin, lower lip, anterior neck) carry a **$50\%\text{–}60\%$ risk** of synchronous symptomatic airway involvement (**PHACE syndrome screening mandatory** with brain MRI/MRA and echocardiogram).
+- **Endoscopic Appearance & Biopsy Contraindication**:
+  - Direct laryngoscopy and bronchoscopy (DLB) reveals a smooth, compressible, non-ulcerated submucosal reddish-pink or bluish mass typically located in the **left posterolateral subglottis** ($>80\%$). **Diagnostic biopsy is strictly contraindicated** due to high-flow capillary/venous channels risking fatal intraluminal airway hemorrhage and asphyxiation.
+- **Medical Treatment Standard of Care (Oral Propranolol)**:
+  - **Pre-Treatment Screening & Dosing**: Obtain baseline vitals and **ECG** (rule out heart block or prolonged QTc) and assess reactive airway history. Initiate on Day 1 at $1.0\text{ mg/kg/day}$ divided BID, escalating on Days 2–3 to **$2.0\text{–}3.0\text{ mg/kg/day}$ divided BID/TID administered with or immediately after feeds** (to prevent hypoglycemia; monitor for bradycardia/hypotension). Non-selective beta-blockade induces immediate vasoconstriction, downregulates VEGF/bFGF, and triggers capillary endothelial apoptosis, achieving **$>95\%$ resolution**.
 
 ```mermaid
 %% Subglottic Hemangioma Presentation and Propranolol Protocol
@@ -65,13 +71,12 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
-- **Treatment Duration**: Propranolol must be continued until **$12\text{–}14\text{ months}$ of age** (through the end of the proliferative phase) to prevent rebound regrowth upon discontinuation.
+- **Treatment Duration & Weaning**: Maintain propranolol until **$12\text{–}14\text{ months}$ of age** (through the proliferative phase), then **wean gradually over 4–6 weeks** to prevent rebound regrowth.
+- **Refractory Surgical Options**: Reserved for propranolol failure—conservative endoscopic $\text{CO}_2$/KTP laser ablation (avoid deep circumferential burns) or open excision with anterior/[[Posterior costal cartilage grafts with a carved flange split the posterior cricoid lamina to expand the glottic lumen|posterior cricoid split]] and cartilage grafting.
 
 ## Connected Concepts & Graph Traversal
 - **Infantile Hemangiomas**: [[Infantile hemangiomas exhibit rapid neonatal proliferation followed by slow involution driven by GLUT-1 positivity|Infantile Hemangiomas]]
 - **Propranolol Therapy**: [[Oral propranolol is the first-line pharmacotherapy for proliferating infantile hemangiomas|Propranolol Therapy]]
 - **Stridor Localization**: [[Inspiratory, biphasic, and expiratory stridor localize pediatric airway obstruction to supraglottic, subglottic, and tracheobronchial subsites|Stridor Localization]]
-- **Embryological & Sleep Foundation**: [[Third and fourth branchial pouch anomalies present as recurrent left thyroid bed abscesses and piriform sinus fistulas]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Rapid maxillary expansion widens the hard palate and nasal floor to improve pediatric nasal breathing and OSA]]
-- **Congenital Airway Pathology**: [[Congenital bilateral vocal fold paralysis presents with severe inspiratory stridor requiring airway protection]]
-- **Open Airway Reconstruction**: [[Single-stage LTR utilizes an endotracheal tube as a temporary stent avoiding tracheostomy placement]]
+- **Subglottic Stenosis Differential**: [[The Cotton-Myer classification grades subglottic stenosis by luminal reduction|Cotton-Myer Subglottic Stenosis]]
+- **Croup Mimic**: [[Nebulized racemic epinephrine and oral dexamethasone provide rapid treatment for acute croup|Acute Croup & Subglottic Edema]]

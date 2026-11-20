@@ -6,7 +6,7 @@ tags:
   - emergencies
   - airway-crisis
   - resuscitation
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Frontal Sinus Surgery & Ostial Clearance"
@@ -71,7 +71,3 @@ flowchart TD
 - **Postoperative Airway**: [[Postoperative airway management in sleep surgery requires continuous pulse oximetry and avoidance of oversedation|Postoperative Airway]]
 - **Severe Tonsil Bleed**: [[Severe secondary post-tonsillectomy hemorrhage requires urgent airway stabilization and surgical electrocautery|Severe Tonsil Bleed]]
 - **Tracheostomy in OSA**: [[Tracheostomy provides immediate definitive relief for severe life-threatening refractory obstructive sleep apnea|Tracheostomy in OSA]]
-- **Embryological & Sleep Foundation**: [[Low arousal threshold causes premature awakening before airway stabilization in obstructive sleep apnea]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[High-risk pediatric criteria mandate overnight inpatient admission following adenotonsillectomy]]
-- **Congenital Airway Pathology**: [[Congenital subglottic stenosis results from incomplete recanalization of the laryngeal lumen during embryogenesis]]
-- **Open Airway Reconstruction**: [[Anterior costal cartilage grafts expand the thyroid and cricoid cartilage framework]]

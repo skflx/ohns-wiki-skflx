@@ -7,7 +7,7 @@ tags:
   - otic-capsule
   - facial-nerve
   - sensorineural-hearing-loss
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AOCMF2012, Ch4.2, p.261"
@@ -56,6 +56,6 @@ Diagnostic and management pearls:
 ## Connected Concepts & Graph Traversal
 - **Facial Nerve Decompression**: [[Immediate complete facial nerve paralysis following temporal bone trauma warrants electroneuronography and surgical decompression|Post-Traumatic Facial Nerve Decompression]]
 - **CSF Fistula Management**: [[Traumatic cerebrospinal fluid otorrhea and rhinorrhea are managed conservatively before considering surgical skull base repair|Traumatic CSF Leak Management]]
-- **Facial Nerve Grading**: [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|House-Brackmann Facial Nerve Grading]]
+- **🔗 Facial Nerve Grading (FPRS)**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Facial Nerve Grading]]
 - **Axonal Degeneration Thresholds**: [[Electroneuronography showing greater than ninety percent degeneration within fourteen days indicates severe facial nerve axonal injury|Electroneuronography Axonal Thresholds]]
 - **Decompression Approaches**: [[Transmastoid and middle cranial fossa facial nerve decompression relieves canalicular compression|Transmastoid and Middle Fossa Decompression]]

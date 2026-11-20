@@ -3,46 +3,56 @@ title: "Acute retrobulbar hematoma in facial trauma requires immediate bedside l
 tier: "Tier VI: Craniomaxillofacial Trauma & Rigid Internal Fixation (AO Principles)"
 tags:
   - fprs
+  - trauma
   - emergencies
   - retrobulbar-hematoma
+  - orbital-compartment-syndrome
   - lateral-canthotomy
-last_revised: 2026-11-03
+  - emergency-procedure
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
+  - "AOCMF2012, Ch3.4, p.231"
 aliases:
   - "Retrobulbar Hematoma in FPRS"
   - "Orbital Compartment Syndrome"
   - "Bedside Canthotomy & Cantholysis"
+  - "Acute post-traumatic retrobulbar hematoma with impending vision loss requires bedside lateral canthotomy and inferior cantholysis"
+  - "Retrobulbar Hematoma Emergency"
+  - "Lateral Canthotomy and Cantholysis"
 ---
 
 # Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy
 
 ## Active Recall
 
-> [!question]- Why is it a critical error to send a patient with suspected acute retrobulbar hematoma for a CT scan?
-> *Answer / Clinical Rationale*: Central retinal artery occlusion causes **permanent ischemic retinal necrosis within 60–90 minutes**. Decompression via bedside lateral canthotomy and inferior cantholysis must be performed immediately without radiological delay.
+> [!question]- What are the cardinal clinical signs of orbital compartment syndrome, at what IOP threshold is decompression indicated, and why is delaying for CT imaging a critical error?
+> *Answer / Clinical Rationale*: Cardinal signs include **progressive proptosis**, intense deep orbital pain, a **"rock-hard" globe** to palpation, **mydriasis (sluggish or non-reactive afferent pupillary defect / Marcus Gunn pupil)**, ophthalmoplegia, subconjunctival chemosis, and progressive vision loss. Decompression is indicated immediately when **IOP exceeds $40\text{ mmHg}$** (normal $= 10\text{–}21\text{ mmHg}$) or upon clinical recognition of vision loss with a tight globe. Central retinal artery occlusion and retinal ganglion cell ischemia cause **permanent irreversible blindness within 60–90 minutes**, so bedside decompression must proceed immediately without CT delay.
 
-> [!question]- How does the surgeon confirm that an inferior cantholysis is complete?
-> *Answer / Clinical Rationale*: The lower eyelid becomes completely loose and un-tethered from the lateral orbital rim ("string-plucking" resistance is gone), and IOP drops markedly.
+> [!question]- How is a bedside lateral canthotomy and inferior cantholysis executed, and how does the surgeon confirm complete release?
+> *Answer / Clinical Rationale*: After infiltrating $1\text{–}2\text{ mL}$ lidocaine with epinephrine and crushing the lateral canthal angle horizontally with a straight hemostat for $30\text{–}60\text{ seconds}$, perform a **$1.0\text{–}1.5\text{ cm}$ horizontal lateral canthotomy** to the orbital rim with straight iris scissors. Retract the lower lid anteriorly and inferiorly, strum the taut **inferior crus of the lateral canthal tendon**, and transect it completely (**inferior cantholysis**). Release is confirmed when the lower eyelid becomes completely flaccid and untethered from the orbital rim ("string-plucking" resistance disappears), the globe prolapses forward, and IOP drops markedly.
+
+> [!question]- What surgical bailout and medical adjuncts are deployed if intraocular pressure remains elevated after inferior cantholysis?
+> *Answer / Clinical Rationale*: If IOP remains $>35\text{–}40\text{ mmHg}$ after inferior cantholysis, perform **superior cantholysis** by transecting the superior crus of the lateral canthal tendon while avoiding the **lacrimal gland**. Concurrent medical adjuncts include **IV mannitol ($1\text{–}2\text{ g/kg}$)**, **IV acetazolamide ($500\text{ mg}$)**, high-dose **IV corticosteroids** (dexamethasone $10\text{–}20\text{ mg}$ or methylprednisolone), and **topical beta-blocker/timolol drops** to reduce aqueous humor production.
 
 ## Core Clinical & Mechanistic Principles
-**[[Post-blepharoplasty retrobulbar hematoma requires immediate bedside decompression to prevent blindness|Retrobulbar Hematoma]]** causing **Orbital Compartment Syndrome** is a catastrophic ophthalmic emergency in facial trauma, blepharoplasty, and sinus surgery. The bony orbit is a rigid, non-compliant cone; arterial hemorrhage rapidly elevates intraocular pressure ($IOP > 40\text{–}50\text{ mmHg}$), exceeding central retinal artery perfusion pressure and causing **permanent irreversible blindness within 60 to 90 minutes**.
+**[[Post-blepharoplasty retrobulbar hematoma requires immediate bedside decompression to prevent blindness|Retrobulbar Hematoma]]** causing **Orbital Compartment Syndrome (OCS)** is a true ophthalmic emergency in craniomaxillofacial trauma (commonly associated with high-energy midface, ZMC, or [[Orbital floor blowout fractures with muscle entrapment or significant enophthalmos mandate reconstruction|orbital blowout fractures]]), blepharoplasty, and sinus surgery. The bony orbit is a rigid, non-compliant conical vault bounded anteriorly by the fibrous orbital septum and globe. Rapid arterial or venous bleeding into the retrobulbar fat space causes an exponential spike in intraorbital pressure ($IOP > 40\text{–}50\text{ mmHg}$), exceeding retinal artery perfusion pressure and producing **irreversible ischemic necrosis of retinal ganglion cells and optic neuropathy within 60 to 90 minutes**.
 
 ```mermaid
 %% Retrobulbar Hematoma Emergency Lateral Canthotomy Protocol
 flowchart TD
-  N1(["Orbital Trauma / Blepharoplasty -> Proptosis, Tense Globe, Vision Loss, IOP >40 mmHg"]) --> N2["Immediate Bedside Diagnosis: Orbital Compartment Syndrome (DO NOT DELAY FOR CT)"]
-  N2 --> N3["Inject 1-2 mL 1% Lidocaine with 1:100k Epi into Lateral Canthal Angle"]
-  N3 --> N4["Straight Hemostat Crush Across Lateral Canthus for 30 Seconds"]
-  N4 --> N5["Lateral Canthotomy: Iris Scissors Incise Lateral Canthal Tendon to Orbital Rim"]
-  N5 --> N6["Inferior Cantholysis: Strum & Strum Inferior Crus of Lateral Canthal Tendon"]
-  N6 --> N7["Complete Release: Lower Lid Drops Completely Away from Globe -> IOP Drops <20 mmHg"]
-  N7 --> N8["Adjunct Medical Decompression: IV Mannitol, Acetazolamide, High-Dose Steroids"]
+  N1(["Orbital / ZMC Trauma or Blepharoplasty -> Proptosis, Tense Globe, RAPD, IOP >40 mmHg"]) --> N2["Immediate Bedside Diagnosis: Orbital Compartment Syndrome (DO NOT DELAY FOR CT)"]
+  N2 --> N3["Inject 1-2 mL 1% Lidocaine with 1:100k Epi + Straight Hemostat Crush (30-60s)"]
+  N3 --> N4["Lateral Canthotomy: Iris Scissors Incise Lateral Canthal Angle 1-1.5 cm to Orbital Rim"]
+  N4 --> N5["Inferior Cantholysis: Strum & Completely Transect Inferior Crus of Lateral Canthal Tendon"]
+  N5 --> N6{"Re-Assess Lower Lid Laxity & Intraocular Pressure"}
+  N6 ==>|"Lower Lid Flaccid & IOP Normalizes (<25 mmHg)"| N7(["Globe Prolapses Forward -> Retinal Perfusion Salvaged"])
+  N6 -.->|"IOP Remains >35-40 mmHg"| N8(["Bailout: Superior Cantholysis (Spare Lacrimal Gland) + IV Mannitol / Acetazolamide / Steroids"])
   classDef blue fill:#dbeafe,stroke:#2563eb,color:#1e3a8a
   class N3 blue
   classDef green fill:#dcfce7,stroke:#16a34a,color:#14532d
-  class N6,N7 green
+  class N7 green
   classDef orange fill:#ffedd5,stroke:#ea580c,color:#7c2d12
   class N4,N5 orange
   classDef purple fill:#f3e8ff,stroke:#9333ea,color:#581c87
@@ -52,10 +62,13 @@ flowchart TD
 ```
 
 ### Emergency Bedside Step-by-Step Cantholysis
-1. **Local Anesthetic**: Inject $1\text{–}2\text{ mL}$ lidocaine with epinephrine into lateral canthus.
-2. **Crush for Hemostasis**: Place straight hemostat across lateral canthal angle for 30 seconds.
-3. **Lateral Canthotomy**: Incise horizontally from lateral canthal angle to the bony orbital rim ($1.0\text{–}1.5\text{ cm}$).
-4. **Inferior Cantholysis**: Retract lower eyelid anteriorly; identify the **inferior crus of the lateral canthal tendon** with scissors pointing strummed against bone, and **transect the tendon completely**.
+1. **Never Send for CT Scanning**: If a patient with facial trauma develops progressive proptosis, decreased visual acuity, and an afferent pupillary defect (RAPD), performing a CT scan delays decompression beyond the window of retinal viability. Decompression must occur at the bedside within minutes.
+2. **Local Anesthetic**: Inject $1\text{–}2\text{ mL}$ lidocaine with epinephrine into the lateral canthus.
+3. **Crush for Hemostasis**: Place a straight hemostat horizontally across the lateral canthal angle for 30–60 seconds.
+4. **Lateral Canthotomy**: Incise full-thickness horizontally from the lateral canthal angle to the bony orbital rim ($1.0\text{–}1.5\text{ cm}$) with straight iris scissors.
+5. **Inferior Cantholysis**: Retract the lower eyelid anteriorly and inferiorly; strum the taut **inferior crus of the lateral canthal tendon** with scissors directed inferiorly against the orbital rim, and **transect the tendon completely** until the lower lid is completely flaccid.
+6. **Superior Cantholysis Bailout & Medical Adjuncts**: If IOP remains $>35\text{–}40\text{ mmHg}$ after inferior cantholysis, transect the **superior crus of the lateral canthal tendon** while carefully avoiding the **lacrimal gland**. Administer IV mannitol ($1\text{–}2\text{ g/kg}$), IV acetazolamide ($500\text{ mg}$), IV dexamethasone ($10\text{–}20\text{ mg}$) or high-dose methylprednisolone, and topical beta-blocker/timolol drops.
+
 ### Key Consultation Supplies
 - Coaxial surgical headlight
 - 1% or 2% lidocaine with 1:100,000 epinephrine with 3 mL syringe and 27-gauge needle
@@ -64,7 +77,6 @@ flowchart TD
 - 0.5 mm Castroviejo or Bishop-Harmon toothed forceps
 - Tono-Pen® or Schiotz tonometer
 - Erythromycin ophthalmic ointment and sterile eye pad
-- Medical adjunctive therapy: IV mannitol (1–2 g/kg), IV acetazolamide (500 mg), and high-dose IV methylprednisolone
 
 ## References
 1. Cornelius, C.P., Gellrich, N., Hillerup, S., et al. Orbit, Orbital Floor Fracture. *AO Foundation Surgery Reference*.

@@ -8,7 +8,7 @@ tags:
   - sphenopalatine-artery
   - surgical-technique
   - skull-base
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, part1_nasal_surgery"
@@ -85,4 +85,4 @@ flowchart TD
 - **Anatomical Innervation & Pterygopalatine Fossa**: [[The sphenopalatine ganglion serves as the primary parasympathetic relay for the sinonasal cavity|Sphenopalatine Ganglion & PPF]]
 - **🔗 Endovascular Embolization (Otology)**: [[Preoperative embolization reduces intraoperative blood loss in hypervascular glomus jugulare tumors|Interventional Embolization]]
 - **Precipitating Condition**: [[Endoscopic sphenopalatine artery ligation requires crista ethmoidalis resection and systematic multi-branch control to prevent recurrent epistaxis|Endoscopic SPA Ligation]]
-- **Critical Safety**: [[Postoperative endoscopic sinus debridement requires staged removal of crusts and fibrin while strictly protecting the sphenopalatine foramen and skull base during mucosal recovery|Postoperative Sinus Debridement]]
+- **Critical Safety**: [[Postoperative FESS debridement timing and technique prevent crusting and synechiae formation|Postoperative Sinus Debridement]]

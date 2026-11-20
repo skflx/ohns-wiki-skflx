@@ -6,7 +6,7 @@ tags:
   - trauma
   - condyle-fractures
   - open-vs-closed-reduction
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Surgical Danger Zones & Orbital Procedures"
@@ -58,8 +58,6 @@ flowchart TD
 - **Mandible Fixation**: [[Champy lines of ideal osteosynthesis dictate monocortical miniplate fixation along mandibular tension zones|Champy's Mandible Fixation]]
 - **Occlusion Setup**: [[Maxillomandibular fixation MMF using arch bars, hybrid systems, and IMF screws re-establishes occlusion|MMF & Occlusion]]
 - **Facial Nerve Safety**: [[The marginal mandibular nerve courses deep to platysma over the facial vessels|Marginal Mandibular Nerve]]
-- **Pathological Mechanism**: [[Orbital apex syndrome and superior orbital fissure syndrome manifest with ophthalmoplegia and vision loss|Orbital Apex Syndrome (OAS)]]
-- **Diagnostic Evaluation**: [[Coronoidectomy relieves severe trismus caused by temporalis impingement under displaced zygomatic arch|Mandibular Coronoidectomy]]
+- **Trismus Complication**: [[Coronoidectomy relieves severe trismus caused by temporalis impingement under displaced zygomatic arch|Mandibular Coronoidectomy]]
 - **Anatomical Foundation**: [[Panfacial fracture reconstruction proceeds from known stable peripheral buttresses to central occlusion|Panfacial Fracture Sequencing]]
-- **Critical Safety / Complication**: [[Osteoradionecrosis of the mandible requires radical bony debridement and vascularized fibula free flap repair|Mandibular Osteoradionecrosis (ORN)]]
-- **🔗 Differential Diagnosis (Head & Neck) (Head and Neck)**: [[Internal derangement of the temporomandibular joint is staged by the Wilkes classification from reducing clicking to disc perforation|TMJ Internal Derangement & Wilkes Staging]]
+- **🔗 Differential Diagnosis (Head and Neck)**: [[Internal derangement of the temporomandibular joint is staged by the Wilkes classification from reducing clicking to disc perforation|TMJ Internal Derangement & Wilkes Staging]]

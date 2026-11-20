@@ -8,7 +8,7 @@ tags:
   - palatal-implants
   - radiofrequency-ablation
   - primary-snoring
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch9, p.192–193, 196"
@@ -88,7 +88,7 @@ flowchart TD
 | **Risk of VPI / Stenosis** | Negligible | Negligible | Documented risk ($2\%\text{--}5\%$ transient VPI) |
 | **Major Complication** | Implant extrusion ($5\%\text{ to }10\%$) | Mucosal ulceration / sloughing ($<3\%$) | Postoperative hemorrhage ($2\%\text{--}4\%$), airway collapse |
 
-Comprehensive anatomical and therapeutic integration links these principles directly to [[Relocating the palatopharyngeus anterolaterally splints the lateral pharyngeal walls in expansion pharyngoplasty|Expansion Pharyngoplasty]].
+Comprehensive anatomical and therapeutic integration links these principles directly to [[Expansion sphincter pharyngoplasty ESP rotates the palatopharyngeus muscle to stabilize lateral pharyngeal wall collapse|Expansion Pharyngoplasty]].
 
 ## Connected Concepts & Graph Traversal
 - **Radiofrequency Physics**: [[Radiofrequency ablation of the inferior turbinates and soft palate stiffens tissue through submucosal fibrosis|Radiofrequency Submucosal Stiffening]]

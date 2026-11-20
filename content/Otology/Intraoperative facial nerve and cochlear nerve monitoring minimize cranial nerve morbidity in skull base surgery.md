@@ -6,7 +6,7 @@ tags:
   - skull-base
   - neuromonitoring
   - cranial-nerve-monitoring
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch15, p.305"
@@ -21,7 +21,7 @@ aliases:
 
 ## Active Recall
 
-> [!question]- What post-resection facial nerve stimulation threshold and amplitude predict excellent ([[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|HB Grade]] I–II) long-term recovery?
+> [!question]- What post-resection facial nerve stimulation threshold and amplitude predict excellent ([[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|HB Grade]] I–II) long-term recovery?
 > *Answer / Clinical Rationale*: A stimulation threshold of **$\le 0.05\text{–}0.1\text{ mA}$** with a CMAP amplitude **$>500\ \mu\text{V}$** at the brainstem root entry zone.
 
 > [!question]- What topical vasodilator is applied to the internal auditory artery when BAEP Wave V deteriorates intraoperatively?

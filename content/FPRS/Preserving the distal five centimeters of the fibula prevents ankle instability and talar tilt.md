@@ -6,7 +6,7 @@ tags:
   - free-flaps
   - fibula-safety
   - ankle-biomechanics
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -59,5 +59,4 @@ flowchart TD
 - **Flap Craft**: [[The fibula free flap provides vascularized cortical bone for composite mandibular reconstruction|Fibula Free Flap]]
 - **Soft Tissue Flap**: [[The anterolateral thigh free flap provides versatile soft tissue volume based on the LCFA|Anterolateral Thigh Flap]]
 - **Microvascular Salvage**: [[Microvascular free flap salvage requires urgent re-exploration within two hours of vascular compromise|Free Flap Monitoring]]
-- **Diagnostic Evaluation**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
 - **Anatomical Foundation**: [[Champy lines of ideal osteosynthesis dictate monocortical miniplate fixation along mandibular tension zones|Champy's Principle of Osteosynthesis]]

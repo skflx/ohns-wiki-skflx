@@ -6,7 +6,7 @@ tags:
   - percutaneous-tracheostomy
   - ciaglia-technique
   - icu-airway
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -72,7 +72,7 @@ flowchart TD
 - **Safety Safeguard**: The endotracheal tube cuff is deflated and the ETT is pulled back under bronchoscopic vision to the level of the vocal cords before needle puncture to prevent transfixing the ETT.
 
 ## Connected Concepts & Graph Traversal
-- **Open Surgical Alternative**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open Tracheostomy]]
+- **Open Surgical Alternative**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Open Tracheostomy]]
 - **Subcutaneous Emphysema Complication**: [[Subcutaneous emphysema arises when tracheotomy incisions are closed too tightly|Subcutaneous Emphysema]]
 - **Tracheoinnominate Erosion**: [[Tracheoinnominate fistula presents with sentinel bleeding requiring hyperinflation tamponade and emergency surgical ligation|Tracheoinnominate Fistula]]
 - **Emergency Airway Resuscitation**: [[Total laryngectomy stomas and tracheostomies require distinct emergency airway resuscitation algorithms|Trach vs Stoma Resuscitation]]

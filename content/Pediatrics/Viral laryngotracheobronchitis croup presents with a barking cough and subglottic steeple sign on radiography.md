@@ -6,7 +6,7 @@ tags:
   - airway-infections
   - croup
   - steeple-sign
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch44, p.809"
@@ -68,7 +68,7 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
-- **Differential Diagnosis**: Spasmodic croup, bacterial tracheitis (toxic appearance, purulent tracheal secretions), and [[Airway foreign body aspiration mandates rigid bronchoscopy despite normal radiographs|foreign body aspiration]].
+- **Differential Diagnosis**: Spasmodic croup, bacterial tracheitis (toxic appearance, purulent tracheal secretions), and [[Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy|foreign body aspiration]].
 
 ## Connected Concepts & Graph Traversal
 - **Croup Pharmacotherapy**: [[Nebulized racemic epinephrine and oral dexamethasone provide rapid treatment for acute croup|Croup Pharmacotherapy]]

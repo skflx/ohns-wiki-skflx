@@ -6,7 +6,7 @@ tags:
   - airway-reconstruction
   - single-stage-ltr
   - nasotracheal-stent
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -73,13 +73,9 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
-- **Accidental Extubation Crisis**: Immediate emergency re-intubation by an experienced pediatric airway team over an airway exchange catheter or emergent [[Airway foreign body aspiration mandates rigid bronchoscopy despite normal radiographs|rigid bronchoscopy]].
+- **Accidental Extubation Crisis**: Immediate emergency re-intubation by an experienced pediatric airway team over an airway exchange catheter or emergent [[Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy|rigid bronchoscopy]].
 
 ## Connected Concepts & Graph Traversal
 - **LTR Reconstruction**: [[Single-stage and double-stage laryngotracheal reconstruction LTR repair mature high-grade subglottic stenosis|LTR Reconstruction]]
 - **Double-Stage LTR**: [[Double-stage LTR maintains a tracheostomy and utilizes an endolaryngeal LT-Mold or Montgomery T-tube stent|Double-Stage LTR]]
 - **Anterior Costal Graft**: [[Anterior costal cartilage grafts expand the thyroid and cricoid cartilage framework|Anterior Costal Cartilage Graft]]
-- **Embryological & Sleep Foundation**: [[Adult polysomnography criteria define obstructive sleep apnea severity by apnea-hypopnea index thresholds of five, fifteen, and thirty]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Post-tonsillectomy hemorrhage is classified into primary within twenty-four hours and secondary beyond twenty-four hours]]
-- **Congenital Airway Pathology**: [[Microdebrider debulking and intralesional cidofovir provide surgical and adjuvant control of RRP]]
-- **Open Airway Reconstruction**: [[Tracheomalacia causes dynamic expiratory tracheal collapse and is managed with posterior tracheobronchopexy]]

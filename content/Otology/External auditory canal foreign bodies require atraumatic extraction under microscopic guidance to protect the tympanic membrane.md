@@ -6,7 +6,7 @@ tags:
   - foreign-body
   - pediatrics
   - surgical-technique
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -94,4 +94,3 @@ flowchart TD
 - **Iatrogenic Complication Rescue**: [[Traumatic tympanic membrane perforations heal spontaneously in the majority of cases without early surgery|Tympanic Membrane Trauma]]
 - **Infectious Sequela**: [[Acute otitis externa is managed with topical antimicrobial-steroid drops and aural debridement|Acute Otitis Externa]]
 - **Anatomical Foundation**: [[Live insect foreign bodies in the ear canal require mineral oil immobilization prior to microscopic extraction|Live Insect EAC Removal]]
-- **Surgical Craft**: [[Active middle ear implants drive ossicular vibration via floating mass transducers to rehabilitate sensorineural and mixed hearing loss without external canal occlusion|Active Middle Ear Implants]]

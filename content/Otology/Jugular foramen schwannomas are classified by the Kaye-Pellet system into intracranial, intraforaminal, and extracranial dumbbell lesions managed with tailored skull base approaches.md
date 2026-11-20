@@ -7,7 +7,7 @@ tags:
   - jugular-foramen
   - schwannoma
   - lower-cranial-nerves
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "EncycloOto, Vol J, p.15-22"
@@ -76,4 +76,4 @@ flowchart TD
 - **Surgical Approach**: [[Fisch infratemporal fossa approach Type A mobilizes the facial nerve and exposes the jugular foramen]]
 - **Anatomical Differential**: [[Jugular paragangliomas arise from the glomus body in the adventitia of the jugular bulb]]
 - **Cranial Nerve Differential**: [[Facial nerve schwannomas present with slow progressive paralysis or facial twitching along the Fallopian canal]]
-- **🔗 Diagnostic Imaging (Head & Neck) (Head and Neck)**: [[Jugular foramen masses differentiate into paraganglioma, schwannoma, and meningioma based on bone erosion patterns and MRI signal characteristics|Jugular Foramen Mass Differential]]
+- **🔗 Diagnostic Imaging (Head and Neck)**: [[Jugular foramen masses differentiate into paraganglioma, schwannoma, and meningioma based on bone erosion patterns and MRI signal characteristics|Jugular Foramen Mass Differential]]

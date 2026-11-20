@@ -7,7 +7,7 @@ tags:
   - tracheotomy
   - bjork-flap
   - pediatric-airway
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -72,4 +72,3 @@ flowchart TD
 - **Alternative Traction Technique**: [[Tracheal stay sutures prevent false tract entry during accidental decannulation|Tracheal Stay Sutures]]
 - **Obesity Variant**: [[Defatting tracheotomy secures the airway in morbidly obese patients|Defatting Tracheotomy]]
 - **Airway Complications**: [[Subcutaneous emphysema arises when tracheotomy incisions are closed too tightly|Subcutaneous Emphysema]]
-- **Clinical Management**: [[The McCaffrey classification stages laryngotracheal stenosis by anatomical subsite|McCaffrey Classification]]

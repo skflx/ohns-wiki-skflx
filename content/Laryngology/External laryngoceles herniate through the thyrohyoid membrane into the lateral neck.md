@@ -8,7 +8,7 @@ tags:
   - external-laryngocele
   - thyrohyoid-membrane
   - neck-mass
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch7, p.158"
@@ -81,4 +81,3 @@ flowchart TD
 - **Protected Neuroanatomy**: [[The superior laryngeal nerve provides supraglottic sensation and cricothyroid motor control|Internal Branch of Superior Laryngeal Nerve (iSLN)]]
 - **Mandatory Biopsy Rule**: [[Adult-onset laryngoceles require ventricular biopsy to rule out occult SCC|Ventricular Biopsy for Occult Carcinoma]]
 - **Anatomical Space**: [[The paraglottic space facilitates transglottic tumor spread|Paraglottic Space]]
-- **Clinical Management**: [[Thyroplasty cartilage window dimensions differ between males and females|Thyroplasty Window Dimensions]]

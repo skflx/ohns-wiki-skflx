@@ -7,7 +7,7 @@ tags:
   - helical-rim
   - antia-buch
   - local-flaps
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Ch22, pp. 601-609"
@@ -74,7 +74,7 @@ flowchart TD
 - **Cupping Deformity**: Inadequate reduction of the inner cartilaginous scapha forces the ear into an unnatural bowl shape with loss of projection.
 
 ## Connected Concepts & Graph Traversal
-- **W-Plasty & Scar Redirection**: [[Z-plasty and W-plasty reorient scar vectors and break up linear contracture lines|W-plasty and Scar Redirection]]
+- **W-Plasty & Scar Redirection**: [[Scar revision employs Z-plasty W-plasty and geometric broken line closure along relaxed skin tension lines|W-plasty and Scar Redirection]]
 - **Nerve Vulnerability**: [[The great auricular nerve emerges at Erb's point and is vulnerable during rhytidectomy|Great Auricular Nerve Anatomy]]
 - **Perforator Angiosomes**: [[Facial angiosomes and perforator choke zones determine cutaneous flap survival boundaries|Perforator Choke Zones & Angiosomes]]
 - **Cartilage Scoring Biomechanics**: [[Stenstrom and Chongchet cartilage scoring utilizes Gibson's principle to fold the antihelix|Gibson's Principle of Cartilage Warping]]

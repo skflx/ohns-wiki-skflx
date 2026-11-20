@@ -7,7 +7,7 @@ tags:
   - dural-venous-thrombophlebitis
   - griesinger-sign
   - intracranial-complications
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch1, p.61"
@@ -82,6 +82,6 @@ flowchart TD
 - **Physiological Basis**: [[Acute coalescent mastoiditis causes trabecular osteoclasis and subperiosteal abscess formation|Acute Coalescent Mastoiditis]]
 - **Intracranial Complication Continuum**: [[Otogenic intracranial complications escalate from meningitis to sigmoid sinus thrombosis and brain abscess|Otogenic Intracranial Complications]]
 - **Surgical Drainage Craft**: [[Complete cortical mastoidectomy unroofs the mastoid antrum and establishes dependent middle ear drainage|Cortical Mastoidectomy & Sigmoid Skeletonization]]
-- **🔗 Cervical Venous Differential (Head & Neck) (Head and Neck)**: [[Lemierre syndrome involves Fusobacterium necrophorum internal jugular thrombophlebitis and septic emboli|Lemierre Syndrome IJV Thrombophlebitis]]
+- **🔗 Cervical Venous Differential (Head and Neck)**: [[Lemierre syndrome involves Fusobacterium necrophorum internal jugular thrombophlebitis and septic emboli|Lemierre Syndrome IJV Thrombophlebitis]]
 - **Intracranial Spread**: [[Gradenigo triad of otorrhea, retroorbital pain, and abducens nerve palsy indicates suppurative petrous apicitis|Petrous Apicitis & Dural Sinuses]]
 - **Primary Precursor**: [[Uncomplicated acute otitis media in pediatric and adult patients is treated with first-line high-dose amoxicillin|Acute Otitis Media]]

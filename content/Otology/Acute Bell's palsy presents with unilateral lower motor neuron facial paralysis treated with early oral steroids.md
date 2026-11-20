@@ -6,7 +6,7 @@ tags:
   - facial-nerve
   - neurotology
   - bells-palsy
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Otology"
@@ -38,7 +38,7 @@ aliases:
 
 **Bell's palsy** is the most common cause of acute, unilateral, lower motor neuron (LMN) facial nerve paralysis ($60\text{–}70\%$ of all cases), widely attributed to latent herpes simplex virus type 1 (HSV-1) reactivation within the **[[The first genu marks the location of the geniculate ganglion and origin of the greater superficial petrosal nerve|geniculate ganglion]]**. Viral inflammation and demyelination cause axonal edema within the rigid, unyielding bony fallopian canal. The narrowest segment of the fallopian canal—the **[[The labyrinthine segment is the narrowest portion of the Fallopian canal and most vulnerable to edema|labyrinthine segment]]** (meatal foramen, mean diameter $0.68\text{ mm}$)—acts as a mechanical bottleneck; axonal swelling here creates a compartment syndrome, leading to vascular compression, ischemia, and conduction block (**neuropraxia**) or axonal degeneration (**axonotmesis**).
 
-Clinical evaluation reveals acute unilateral paresis or complete paralysis peaking within $<72\text{ hours}$ and affecting all five branches of CN VII equally (including forehead weakness, which distinguishes LMN paralysis from upper motor neuron / stroke-related hemiparesis which spares the forehead due to bilateral cortical innervation). Severity is graded using the [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|House-Brackmann (HB) grading scale]] (Grade I normal to Grade VI total flaccid paralysis). Other cranial nerves must be normal, and physical exam must rule out [[Temporal bone longitudinal and transverse fractures cause delayed or immediate facial paralysis|temporal bone trauma]], vesicles of **[[Ramsay Hunt syndrome herpes zoster oticus presents with severe facial paralysis, otalgia, and auricular vesicles|Ramsay Hunt syndrome]]** (Herpes zoster oticus), parotid neoplasms, and middle ear cholesteatoma.
+Clinical evaluation reveals acute unilateral paresis or complete paralysis peaking within $<72\text{ hours}$ and affecting all five branches of CN VII equally (including forehead weakness, which distinguishes LMN paralysis from upper motor neuron / stroke-related hemiparesis which spares the forehead due to bilateral cortical innervation). Severity is graded using the [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann (HB) grading scale]] (Grade I normal to Grade VI total flaccid paralysis). Other cranial nerves must be normal, and physical exam must rule out [[Temporal bone longitudinal and transverse fractures cause delayed or immediate facial paralysis|temporal bone trauma]], vesicles of **[[Ramsay Hunt syndrome herpes zoster oticus presents with severe facial paralysis, otalgia, and auricular vesicles|Ramsay Hunt syndrome]]** (Herpes zoster oticus), parotid neoplasms, and middle ear cholesteatoma.
 
 - **Clinical Evidence-Based Pharmacotherapy (AAO-HNS Guidelines)**:
   1. **Oral Corticosteroids (High-Dose Early Administration — Category 1)**:

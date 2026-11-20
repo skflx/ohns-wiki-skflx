@@ -6,7 +6,7 @@ tags:
   - facial-nerve
   - danger-zones
   - pitanguys-line
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Cheek"
@@ -72,7 +72,7 @@ flowchart TD
 - **Browlift Landmark**: [[The sentinel vein marks the trajectory of the frontal branch of the facial nerve|Sentinel Vein & Browlift]]
 - **Endoscopic Technique**: [[Endoscopic browlift releases the conjoint tendon and arcus marginalis along the supraorbital rim|Endoscopic Browlift]]
 - **SMAS Continuity**: [[The superficial musculoaponeurotic system divides facial fat into distinct surgical planes|SMAS & TPF Continuity]]
-- **Diagnostic Evaluation**: [[Facial synkinesis is managed with selective neurolysis, myectomy, and botulinum toxin titration|Facial Synkinesis Treatment]]
+- **Chronic Facial Palsy Sequela**: [[Facial synkinesis is managed with selective neurolysis, myectomy, and botulinum toxin titration|Facial Synkinesis Treatment]]
 - **Facial Nerve Danger Zone**: [[Parotid duct laceration requires primary microsurgical repair over a silastic stent to prevent sialocele and salivary fistula|Buccal Branch and Stensen Duct]]
 - **Critical Safety / Danger Zone**: [[Cheek reconstruction employs deep SMAS plane elevation superficial to the zygomaticus major to restore volume contour defects while preserving the facial nerve|Deep SMAS Plane Cheek Reconstruction]]
 - **Anatomical Foundation**: [[Forehead reconstruction requires subcutaneous or subfrontalis dissection planes to prevent motor paralysis of the frontalis muscle|Subfrontalis Dissection Plane]]

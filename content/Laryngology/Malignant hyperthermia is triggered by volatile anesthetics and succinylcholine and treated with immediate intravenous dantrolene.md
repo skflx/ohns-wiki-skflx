@@ -7,7 +7,7 @@ tags:
   - anesthesia
   - malignant-hyperthermia
   - emergency-rescue
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch4, p.91"
@@ -65,7 +65,5 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Local Anesthetic Toxicity**: [[Local anesthetic systemic toxicity LAST is managed with airway stabilization and twenty percent intravenous lipid emulsion|LAST Emergency Management]]
-- **Airway Fire Rescue**: [[Airway fire prevention requires FiO2 below 30 percent and laser-safe tubes|Airway Fire Protocol]]
-- **🔗 Cardiac Arrhythmias in ENT (Otology)**: [[Jervell and Lange-Nielsen syndrome combines congenital profound sensorineural hearing loss with a prolonged QT interval|JLNS Arrhythmia Risk]]
 - **Difficult Airway Prediction**: [[Airway assessment classifications predict difficult direct laryngoscopy using anatomical landmarks|Difficult Airway Assessment]]
 - **🔗 Pediatric Airway Safety (Pediatrics)**: [[High-risk pediatric criteria mandate overnight inpatient admission following adenotonsillectomy|High-Risk Airway Admission]]

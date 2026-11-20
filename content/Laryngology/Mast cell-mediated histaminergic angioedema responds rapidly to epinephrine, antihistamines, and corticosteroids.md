@@ -7,7 +7,7 @@ tags:
   - angioedema
   - anaphylaxis
   - emergency-management
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -83,4 +83,4 @@ flowchart TD
 - **Emergency Airway Management**: [[Awake fiberoptic intubation is the preferred airway technique for angioedema with impending obstruction|Awake Intubation for Angioedema]]
 - **Targeted Bradykinin Blockade**: [[Icatibant and ecallantide provide targeted treatment for bradykinin-mediated angioedema refractory to standard therapy|Icatibant & Ecallantide]]
 - **Complement System Genetics**: [[Hereditary angioedema types I through III exhibit distinct C1 esterase inhibitor and C4 complement patterns|Hereditary Angioedema Subtypes]]
-- **Emergency Surgical Airway**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Emergency Surgical Airway]]
+- **Emergency Surgical Airway**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Emergency Surgical Airway]]

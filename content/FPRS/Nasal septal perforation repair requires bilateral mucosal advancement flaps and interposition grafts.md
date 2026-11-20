@@ -6,7 +6,7 @@ tags:
   - septal-perforation
   - mucosal-flaps
   - interposition-graft
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -55,5 +55,4 @@ flowchart TD
 - **Saddle Nose**: [[Saddle nose deformity requires multi-tier dorsal and caudal structural reconstruction|Saddle Nose Deformity]]
 - **Spreader Grafts**: [[Spreader grafts restore internal nasal valve patency and prevent inverted-V deformity|Spreader Grafts]]
 - **Graft Materials**: [[Monofilament versus braided absorbable and non-absorbable sutures have distinct tissue reactivity|Suture & PDS Plate]]
-- **Diagnostic Evaluation**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
 - **Mucosal Flap Technique**: [[Nasal lining reconstruction employs bipedicled vestibular, ipsilateral or contralateral septal mucoperichondrial hinge flaps, and turbinate flaps to prevent cicatricial airway stenosis|Nasal Lining Reconstruction]]

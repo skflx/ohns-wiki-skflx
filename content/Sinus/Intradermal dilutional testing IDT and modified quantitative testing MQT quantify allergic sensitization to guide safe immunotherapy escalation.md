@@ -7,7 +7,7 @@ tags:
   - immunology
   - allergy-testing
   - immunotherapy
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch8, p.186–188"
@@ -80,4 +80,3 @@ flowchart TD
 - **Autonomic Differential**: [[Transnasal endoscopic vidian neurectomy treats refractory non-allergic cholinergic rhinitis|Non-Allergic Vasomotor Rhinitis]]
 - **🔗 Critical Anaphylaxis Rescue (Laryngology)**: [[Mast cell-mediated histaminergic angioedema responds rapidly to epinephrine, antihistamines, and corticosteroids|Acute Mast Cell / Histaminergic Degranulation]]
 - **Biologic Therapy**: [[Allergen immunotherapy induces regulatory T cells and IgG4 blocking antibodies to modulate allergic rhinitis and prevent asthma progression|Allergen Immunotherapy Escalation]]
-- **SCIT/SLIT Dosing Route Mechanism**: [[Allergen immunotherapy via subcutaneous injections or sublingual dosing induces regulatory T cells and allergen-specific IgG4 blocking antibodies to restore immune tolerance|SCIT vs SLIT Immunotherapy]]

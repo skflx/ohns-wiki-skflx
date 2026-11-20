@@ -7,7 +7,7 @@ tags:
   - aesthetic-subunits
   - local-flaps
   - skin-biomechanics
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Ch20, pp. 530-544, 550-558"
@@ -37,7 +37,7 @@ The cheek is the largest aesthetic region of the face, presenting an extensive, 
 1. **Suborbital / Medial Aesthetic Unit**:
    - *Anatomic Profile*: Composed of thick, sebaceous skin with abundant subcutaneous adipose tissue, bordered medially by the nasofacial sulcus and inferiorly by the melolabial fold.
    - *Vascular Supply*: Highly robust perfusion derived from the angular branch of the [[The facial artery and facial vein provide the primary vascular supply to the anterior face|facial and transverse facial arteries]], supporting both random and subcutaneous island flaps.
-   - *Reconstructive Strategies*: Small defects ($\le 1.5\text{ cm}$) are reconstructed with primary linear closure using differential undermining to position scars in natural sulci. When an elliptical excision threatens to cross the alar-facial junction, bilateral [[Z-plasty and W-plasty reorient scar vectors and break up linear contracture lines|M-plasty]] excisions shorten the overall length of the scar. Defects adjacent to the alae are uniquely suited for V-Y subcutaneous island advancement flaps, which harness the sliding mobility of medial cheek fat. Medium-to-large defects require inferiorly based pivotal advancement or cervicofacial rotation-advancement flaps.
+   - *Reconstructive Strategies*: Small defects ($\le 1.5\text{ cm}$) are reconstructed with primary linear closure using differential undermining to position scars in natural sulci. When an elliptical excision threatens to cross the alar-facial junction, bilateral [[Scar revision employs Z-plasty W-plasty and geometric broken line closure along relaxed skin tension lines|M-plasty]] excisions shorten the overall length of the scar. Defects adjacent to the alae are uniquely suited for V-Y subcutaneous island advancement flaps, which harness the sliding mobility of medial cheek fat. Medium-to-large defects require inferiorly based pivotal advancement or cervicofacial rotation-advancement flaps.
 
 2. **Buccomandibular / Central Buccal Aesthetic Unit**:
    - *Anatomic Profile*: Overlies the buccinator muscle and buccal fat pad, presenting pliable, moderately mobile skin.

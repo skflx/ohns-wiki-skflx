@@ -11,7 +11,7 @@ tags:
   - curriculum
   - source-document
   - self-assessment
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
@@ -32,12 +32,12 @@ Welcome to the **Comprehensive Rhinology, Endoscopic Sinus & Anterior Skull Base
 > [!NOTE] **Subspecialty Knowledge Cards Census & Curriculum Architecture**
 > | Metric | Value | Details |
 > | :--- | :--- | :--- |
-> | **Atomic Cards (Notes)** | **175** | Granular single-concept clinical and surgical factoids |
-> | **Source Coverage** | **175 / 175 (100%)** | Full attribution to authoritative surgical textbooks |
-> | **Active Recall Questions** | **380 total (2.2/card)** | Integrated retrieval prompts with mechanistic rationales |
+> | **Atomic Cards (Notes)** | **167** | Granular single-concept clinical and surgical factoids |
+> | **Source Coverage** | **167 / 167 (100%)** | Full attribution to authoritative surgical textbooks |
+> | **Active Recall Questions** | **368 total (2.2/card)** | Integrated retrieval prompts with mechanistic rationales |
 > | **Illustrated Cards** | **52 notes (82 figs)** | High-yield operative line drawings and anatomical diagrams |
 > | **Personal Notes Guard** | **100% verified** | Cryptographically guarded resident notes region |
-> | **Active Wiki-Links** | **1,392 links** | Bidirectional knowledge graph traversal web |
+> | **Active Wiki-Links** | **1,302 links** | Bidirectional knowledge graph traversal web |
 > | **Mastery Pyramid** | **7 Progressive Tiers** | From Bedrock Foundations to High-Stakes Complication Rescue |
 
 ```mermaid

@@ -6,7 +6,7 @@ tags:
   - olfaction
   - histology
   - neuroanatomy
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
@@ -62,4 +62,3 @@ flowchart TD
 - **Surgical Corridor**: [[Transcribriform EEA provides access to olfactory groove meningiomas and esthesioneuroblastomas|Transcribriform EEA]]
 - **Olfactory Neoplasm Staging**: [[Esthesioneuroblastoma Kadish and Hyams staging determines craniofacial resection and adjuvant therapy|Esthesioneuroblastoma (ENB)]]
 - **Small Round Blue Cell Differential**: [[Sinonasal small round blue cell tumors are differentiated by immunohistochemistry into SNUC, olfactory neuroblastoma, melanoma, lymphoma, and rhabdomyosarcoma|Sinonasal SRBCT IHC Panel]]
-- **Quantitative Forensic Testing**: [[Quantitative olfactory testing with the UPSIT differentiates conductive from sensorineural dysosmia and detects deliberate malingering through below-chance forced-choice scoring|UPSIT Malingering Detection]]

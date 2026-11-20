@@ -6,7 +6,7 @@ tags:
   - reconstruction
   - free-flaps
   - latissimus-dorsi
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.99"
@@ -64,7 +64,4 @@ flowchart TD
 - **Subscapular System**: [[The subscapular system provides chimeric bone and soft tissue flaps based on the circumflex scapular artery|Subscapular System]]
 - **ALT Free Flap**: [[The anterolateral thigh flap provides versatile volume and can be harvested as a chimeric flap|ALT Free Flap]]
 - **Venous Couplers**: [[Microvascular venous couplers achieve rapid and reliable end-to-end and end-to-side anastomoses|Microvascular Couplers]]
-- **Anatomical Foundation**: [[Intensity-modulated radiation therapy and cisplatin radiosensitization form the standard definitive chemoradiation regimen]]
-- **Surgical Lymphadenectomy**: [[Carotid blowout syndrome is classified into threatened, impending, and acute hemorrhage]]
 - **Oncologic Resection & Margins**: [[Segmental mandibulectomy resects full-thickness bone for medullary invasion and irradiated bone recurrence]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Subglottic carcinoma spreads to level VI central compartment lymphatics and mediastinal nodes]]

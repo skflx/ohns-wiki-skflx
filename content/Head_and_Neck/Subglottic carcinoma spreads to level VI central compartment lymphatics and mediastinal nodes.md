@@ -6,7 +6,7 @@ tags:
   - larynx
   - subglottic-carcinoma
   - level-vi
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.88–89"
@@ -64,5 +64,3 @@ flowchart TD
 - **Total Laryngectomy**: [[Total laryngectomy achieves en bloc laryngeal resection with permanent end-stoma|Total Laryngectomy]]
 - **Anatomical Foundation**: [[Cervical lymph node levels I through VII define regional metastatic drainage basins]]
 - **Surgical Lymphadenectomy**: [[Radical neck dissection removes levels I through V while sacrificing CN XI, the IJV, and the SCM]]
-- **Oncologic Resection & Margins**: [[Retromolar trigone carcinoma invades the pterygomandibular raphe and masticator space]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Lingual artery branches require clip ligation during TORS base of tongue resection]]

@@ -6,7 +6,7 @@ tags:
   - fess
   - draf-iii
   - modified-lothrop
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Ch9, p.3"
@@ -77,7 +77,6 @@ flowchart TD
 - **Posterior Limit**: [[First olfactory filum marks the posterior limit of frontal drill-out to avoid CSF leak|Olfactory Filum Safety Landmark]]
 - **Disease Driver**: [[AERD manifests with asthma, nasal polyps, and severe aspirin-induced respiratory reactions|AERD Pathophysiology]]
 - **Unilateral Steps**: [[Draf IIb frontal sinusotomy extends from lamina papyracea to the nasal septum|Draf IIb]]
-- **Diagnostic Evaluation**: [[Draf I frontal sinusotomy clears obstructing ethmoid cells without instrumenting the ostium|Draf I Frontal Sinusotomy]]
-- **Critical Safety / Complication**: [[Esthesioneuroblastoma Kadish and Hyams staging determines craniofacial resection and adjuvant therapy|Esthesioneuroblastoma (ENB)]]
+- **Conservative Frontal Tier**: [[Draf I frontal sinusotomy clears obstructing ethmoid cells without instrumenting the ostium|Draf I Frontal Sinusotomy]]
 - **Surgical Technique**: [[Draf IIb versus Draf III modified Lothrop procedures differentiate unilateral middle turbinate resection from bilateral interfrontal septectomy and sinus floor drill-out|Draf IIb vs Draf III]]
 - **Anatomical Foundation**: [[The outside-in Draf III modified endoscopic Lothrop procedure establishes anterior septal and olfactory boundaries before drilling the nasofrontal beak|Outside-In Draf III]]

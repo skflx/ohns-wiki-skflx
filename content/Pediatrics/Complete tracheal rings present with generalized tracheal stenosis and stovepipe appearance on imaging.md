@@ -6,7 +6,7 @@ tags:
   - tracheal-stenosis
   - complete-tracheal-rings
   - pulmonary-artery-sling
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Ch30, p.7"
@@ -67,10 +67,9 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
-- **Surgical Mandate**: Complete rings with pulmonary artery sling are repaired simultaneously via median sternotomy on CPB ([[Slide tracheoplasty expands complete tracheal rings by oblique division and sliding longitudinal reconstruction|Slide Tracheoplasty]] + Left PA Reimplantation into Main Pulmonary Artery).
+- **Surgical Mandate**: Complete rings with pulmonary artery sling are repaired simultaneously via median sternotomy on CPB ([[Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates|Slide Tracheoplasty]] + Left PA Reimplantation into Main Pulmonary Artery).
 
 ## Connected Concepts & Graph Traversal
-- **Slide Tracheoplasty**: [[Slide tracheoplasty expands complete tracheal rings by oblique division and sliding longitudinal reconstruction|Slide Tracheoplasty]]
 - **Slide Tracheoplasty Craft**: [[Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates|Slide Tracheoplasty Craft]]
 - **Innominate Compression**: [[Innominate artery compression syndrome causes dynamic anterior tracheal pulsatile collapse|Innominate Compression]]
 - **Disease Mechanism**: [[Complete vascular rings and pulmonary artery slings cause tracheoesophageal compression requiring surgical division or arterial translocation|Ring-Sling Complex]]

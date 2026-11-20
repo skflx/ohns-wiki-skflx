@@ -6,7 +6,7 @@ tags:
   - infections
   - necrotizing-fasciitis
   - surgical-emergency
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch32, p.625"
@@ -62,7 +62,3 @@ flowchart TD
 - **Danger Space**: [[The danger space permits unrestricted infection spread from skull base to posterior mediastinum|Danger Space]]
 - **Ludwig Angina**: [[Ludwig angina presents with bilateral submandibular cellulitis and woody floor of mouth induration compromising the airway|Ludwig Angina]]
 - **Lemierre Syndrome**: [[Lemierre syndrome involves Fusobacterium necrophorum internal jugular thrombophlebitis and septic emboli|Lemierre Syndrome]]
-- **Anatomical Foundation**: [[Cetuximab targets EGFR overexpression while pembrolizumab and nivolumab inhibit PD-1 in head and neck SCC]]
-- **Surgical Lymphadenectomy**: [[Superior mediastinal level VII dissection clears paratracheal lymph nodes below the sternal notch]]
-- **Oncologic Resection & Margins**: [[Pre-plating the intact mandible before osteotomy preserves accurate dental occlusion and contour]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Lingual artery branches require clip ligation during TORS base of tongue resection]]

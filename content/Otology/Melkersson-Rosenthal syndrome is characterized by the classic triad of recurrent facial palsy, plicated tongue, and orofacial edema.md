@@ -6,7 +6,7 @@ tags:
   - facial-nerve
   - melkersson-rosenthal
   - cheilitis-granulomatosa
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch1, p.66"
@@ -68,7 +68,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Idiopathic Facial Palsy**: [[Acute Bell's palsy presents with unilateral lower motor neuron facial paralysis treated with early oral steroids|Bell's Palsy Differential]]
-- **House-Brackmann Staging**: [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|House-Brackmann Scale]]
+- **🔗 House-Brackmann Staging (FPRS)**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Scale]]
 - **Facial Fallopian Decompression**: [[Transmastoid and middle cranial fossa facial nerve decompression relieves canalicular compression|Facial Nerve Decompression]]
 - **🔗 Corneal Protection (FPRS)**: [[Upper eyelid platinum weights and lateral tarsal strips protect the cornea in flaccid facial paralysis|Upper Eyelid Weight Implantation]]
 - **Herpes Zoster Oticus**: [[Ramsay Hunt syndrome herpes zoster oticus presents with severe facial paralysis, otalgia, and auricular vesicles|Ramsay Hunt Syndrome]]

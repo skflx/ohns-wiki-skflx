@@ -9,7 +9,7 @@ tags:
   - leukocyte-recruitment
   - innate-immunity
   - hematopoiesis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 aliases:
   - "Complement Cascades"
@@ -181,4 +181,3 @@ Comprehensive physiological and surgical principles connect these findings direc
 - **Mucociliary Defense Barrier**: [[Respiratory epithelium drives mucociliary clearance toward natural ostia|Mucociliary Epithelial Clearance]]
 - **Innate Sinonasal Gas Defense**: [[Nitric oxide produced in the paranasal sinuses provides host defense and ciliary stimulation|Nitric Oxide Host Defense]]
 - **Neutrophilic Non-Type 2 Pathways**: [[Non-Type 2 CRS features neutrophilic inflammation associated with cystic fibrosis and ciliopathies|Non-Type 2 CRS]]
-- **Regulatory T Cell / IgG4 Tolerance Induction**: [[Allergen immunotherapy via subcutaneous injections or sublingual dosing induces regulatory T cells and allergen-specific IgG4 blocking antibodies to restore immune tolerance|SCIT vs SLIT Immunotherapy]]

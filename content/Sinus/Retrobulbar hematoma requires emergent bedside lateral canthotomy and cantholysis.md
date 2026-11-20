@@ -6,7 +6,7 @@ tags:
   - emergencies
   - retrobulbar-hematoma
   - lateral-canthotomy
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, part3_4_revision_orbit"
@@ -72,5 +72,3 @@ flowchart TD
 - **Ligation Technique**: [[The 24-12-6 rule governs anterior and posterior ethmoidal artery surgical localization|AEA Ligation]]
 - **Complication Matrix**: [[High-stakes sinonasal complications require proactive landmarking and emergency rescue protocols|High-Stakes Sinonasal Complications]]
 - **High-Stakes Safety**: [[Intraoperative ICA injury requires two-surgeon suction and crushed muscle patch hemostasis|Internal Carotid Artery Crisis Protocol]]
-- **Anatomical Foundation**: [[Acute invasive fungal rhinosinusitis requires emergent surgical debridement and systemic amphotericin B|Acute Invasive Fungal Rhinosinusitis (AIFRS)]]
-- **Surgical Craft**: [[Pituitary apoplexy causes acute chiasmatic compression and life-threatening panhypopituitarism|Pituitary Apoplexy Emergency]]

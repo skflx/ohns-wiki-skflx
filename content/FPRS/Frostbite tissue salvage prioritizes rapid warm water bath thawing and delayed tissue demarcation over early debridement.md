@@ -7,7 +7,7 @@ tags:
   - cold-injury
   - thermal-injury
   - soft-tissue-trauma
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch3, p.53"
@@ -93,4 +93,3 @@ Comprehensive physiological and surgical principles connect these findings direc
 - **Wound Closure Principles**: [[Fusiform ellipse geometry requires a three-to-one ratio to prevent standing cutaneous cones|Surgical Tension and Cone Prevention]]
 - **Facial Vascularity**: [[The facial artery and facial vein provide the primary vascular supply to the anterior face|Facial Angiosome Perfusion]]
 - **Local Flap Repair**: [[Advancement flaps recruit adjacent tissue laxity along a linear vector without rotation|Cutaneous Advancement Flaps]]
-- **Anatomical Foundation**: [[Parotid duct laceration requires primary microsurgical repair over a silastic stent to prevent sialocele and salivary fistula|Stensen Duct Laceration Repair]]

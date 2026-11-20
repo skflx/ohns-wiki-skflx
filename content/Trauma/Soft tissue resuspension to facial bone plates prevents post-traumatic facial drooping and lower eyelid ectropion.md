@@ -7,7 +7,7 @@ tags:
   - soft-tissue-resuspension
   - ectropion-prevention
   - malar-suspension
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AOCMF2012, Ch5.1, p.285"
@@ -58,6 +58,6 @@ Key surgical tenets:
 ## Connected Concepts & Graph Traversal
 - **Zygomatic Arch Frame**: [[Anatomical reduction of the zygomatic arch restores lateral facial width and anteroposterior malar projection in panfacial trauma|Zygomatic Arch Reduction]]
 - **ZMC Sphenozygomatic Key**: [[The sphenozygomatic suture along the lateral orbital wall serves as the primary key for three-dimensional ZMC reduction|Sphenozygomatic Suture Reduction]]
-- **Retrobulbar Emergency Rescue**: [[Acute post-traumatic retrobulbar hematoma with impending vision loss requires bedside lateral canthotomy and inferior cantholysis|Retrobulbar Hematoma Emergency Rescue]]
+- **🔗 Retrobulbar Emergency Rescue (FPRS)**: [[Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy|Retrobulbar Hematoma Emergency Rescue]]
 - **NOE Canthopexy Technique**: [[Type III nasoorbitoethmoidal fractures require transnasal canthopexy directed posterior and superior to the lacrimal crest|Type III NOE Reconstruction]]
 - **Titanium Plate Hardware**: [[Commercially pure titanium forms a passivated titanium dioxide layer ensuring biocompatibility|Titanium Plate Anchorage]]

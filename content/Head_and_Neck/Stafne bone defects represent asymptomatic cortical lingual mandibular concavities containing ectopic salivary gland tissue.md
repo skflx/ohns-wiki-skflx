@@ -7,7 +7,7 @@ tags:
   - pseudocysts
   - salivary-gland
   - radiology
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.221, 234"
@@ -58,6 +58,5 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **Odontogenic Pericoronal Differentials**: [[Dentigerous cysts arise from the follicular epithelium surrounding the crown of an unerupted third molar|Dentigerous Cysts]]
 - **Neoplastic Jaw Multiloculars**: [[Ameloblastoma exhibits multilocular soap-bubble radiolucency and requires segmental resection with one-centimeter bony margins|Ameloblastoma of the Mandible]]
-- **Involved Salivary System**: [[Suppurative sialadenitis of the parotid and submandibular glands is treated with hydration, sialagogues, and anti-staphylococcal antibiotics|Submandibular Gland Physiology]]
 - **Adjacent Bony Architecture**: [[Segmental mandibulectomy resects full-thickness bone for medullary invasion and irradiated bone recurrence|Mandibular Cortical & Medullary Anatomy]]
 - **Surgical Margin Principles**: [[Level I dissection requires facial vessel ligation and preservation of the lingual and hypoglossal nerves|Submandibular Triangle Landmarks]]

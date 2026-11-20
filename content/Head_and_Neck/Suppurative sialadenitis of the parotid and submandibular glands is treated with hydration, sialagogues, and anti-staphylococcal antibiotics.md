@@ -6,14 +6,19 @@ tags:
   - salivary
   - sialadenitis
   - infectious-disease
-last_revised: 2026-11-09
+  - infection
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Head_and_Neck"
+  - "CummingsReview2017, Ch11, p.234, 236"
 aliases:
   - "Suppurative Sialadenitis"
   - "Acute Bacterial Parotitis"
   - "Submandibular Sialadenitis"
+  - "Suppurative sialadenitis of the parotid and submandibular glands is treated with hydration, sialagogues, and anti-staphylococcal antibiotics"
+  - "Acute Sialadenitis"
+  - "Suppurative Parotitis"
 ---
 
 # Suppurative sialadenitis of the parotid and submandibular glands is treated with hydration, sialagogues, and anti-staphylococcal antibiotics
@@ -28,14 +33,14 @@ aliases:
 
 ## Core Clinical & Mechanistic Principles
 
-**Acute suppurative sialadenitis** is an acute bacterial infection of the major salivary glands, most commonly involving the **parotid gland** (acute [[Acute suppurative sialadenitis affects dehydrated patients and is dominated by Staphylococcus aureus|suppurative parotitis]]) and less frequently the **submandibular gland**. Pathophysiologically, the parotid gland produces purely serous secretions that have lower baseline mucin and lysozyme content than the mixed mucous secretions of the submandibular gland, rendering it more vulnerable to retrograde bacterial ascension from the oral cavity.
+**Acute suppurative sialadenitis** is an acute bacterial infection of the major salivary glands, most commonly involving the **parotid gland** (acute suppurative parotitis) and less frequently the **submandibular gland**. Pathophysiologically, the parotid gland produces purely serous secretions that have lower baseline mucin and lysozyme content than the mixed mucous secretions of the submandibular gland, rendering it more vulnerable to retrograde bacterial ascension from the oral cavity.
 
-The primary predisposing etiology is **salivary stasis and ductal hyposecretion** triggered by dehydration, debilitation, general anesthesia, anticholinergic medications, ductal obstruction (**sialolithiasis**), or autoimmune disease ([[Sarcoidosis of the upper respiratory tract causes non-caseating granulomas and mucosal cobblestoning|Sjögren syndrome]]). The predominant pathogen is **Staphylococcus aureus** (~50–70%, including community-acquired MRSA), followed by *Streptococcus viridans*, *Streptococcus pneumoniae*, and anaerobes.
+The classic host is an elderly, dehydrated, postoperative, or anticholinergic-medicated patient with **salivary stasis and ductal hyposecretion**, or ductal obstruction (**sialolithiasis**) or autoimmune hyposalivation ([[Sjogren syndrome causes autoimmune sicca with parotid enlargement and markedly elevated MALT lymphoma risk|Sjögren syndrome]]). The predominant pathogen is **Staphylococcus aureus** (~50–70%, including community-acquired MRSA), followed by *Streptococcus viridans*, *Streptococcus pneumoniae*, and anaerobes.
 
 Clinically, patients present with rapid-onset unilateral preauricular or submandibular pain, severe warmth, overlying erythema, and marked glandular tenderness. Diagnostic physical examination involves gentle bimanual massage of the involved gland along the ductal axis toward the papilla:
 - **Stensen's duct** (opposite the upper second maxillary molar) for the parotid.
 - **Wharton's duct** (sublingual caruncle adjacent to the lingual frenulum) for the submandibular gland.
-Exudation of frank, cloudy **purulence from the duct orifice** confirms suppurative sialadenitis and provides specimen for Gram stain and culture.
+Exudation of frank, cloudy **purulence from the duct orifice** on massage separates suppurative sialadenitis from viral parotitis (mumps: typically bilateral and non-suppurative) and inflammatory mimics, while providing specimen for Gram stain and culture. Importantly, the **dense parotid fascia resists fluctuance**, so exam under-calls deep parotid abscess—nonresponders after 48–72 hours require contrast CT or ultrasound rather than reassurance. Recurrent episodes warrant evaluation for stone, stricture, Sjögren hyposalivation, or ductal anatomy via [[Sialendoscopy enables diagnostic visualization and stone extraction in chronic obstructive sialadenitis|sialendoscopy]].
 
 ```mermaid
 %% Suppurative Sialadenitis Pathogenesis and Treatment Cascade
@@ -84,5 +89,7 @@ flowchart TD
 - **Anatomical Facial Nerve Protection**: [[The facial nerve main trunk is localized using the tragal pointer, tympanomastoid suture, and digastric ridge|Facial Nerve Landmarks in Parotid]]
 - **Neoplastic Differential**: [[Pleomorphic adenoma requires superficial parotidectomy with a cuff of normal tissue to prevent pseudopod recurrence|Pleomorphic Adenoma]]
 - **Cystic Salivary Neoplasm**: [[Warthin tumor presents as a cystic parotid neoplasm associated with smoking and bilateral occurrence|Warthin Tumor]]
-- **Autoimmune Ductal Hyposecretion**: [[Sarcoidosis of the upper respiratory tract causes non-caseating granulomas and mucosal cobblestoning|Sjögren & Sarcoidosis]]
+- **Autoimmune Ductal Hyposecretion**: [[Sjogren syndrome causes autoimmune sicca with parotid enlargement and markedly elevated MALT lymphoma risk|Sjögren Hyposalivation Substrate]]
+- **Diagnostic Sialendoscopy**: [[Sialendoscopy enables diagnostic visualization and stone extraction in chronic obstructive sialadenitis|Sialendoscopic Intervention]]
+- **Obstructive Stone Driver**: [[Wharton duct sialolithiasis is managed with transoral sialodochoplasty or sialendoscopy|Wharton Duct Sialolithiasis]]
 - **Deep Space Spread**: [[Deep neck space infections spread along cervical fascial planes between the pharynx, mediastinum, and skull base|Parapharyngeal Space Infection]]

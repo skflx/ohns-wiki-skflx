@@ -6,7 +6,7 @@ tags:
   - rhinoplasty
   - internal-nasal-valve
   - spreader-grafts
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch48, p.948"
@@ -69,4 +69,4 @@ flowchart TD
 - **Dorsal Osteotomies**: [[Medial, intermediate, and lateral osteotomies close open roof deformities after hump resection|Nasal Osteotomies]]
 - **Deformity**: [[Pollybeak deformities arise from cartilaginous over-projection or supratip soft tissue fibrosis|Pollybeak Deformity]]
 - **Anatomical Foundation**: [[Cephalic trim of lower lateral cartilages must preserve at least six millimeters of lateral crus|Cephalic Trim 6-mm Rule]]
-- **Diagnostic Evaluation**: [[Lateral crural steal and overlay maneuvers dynamically modify tip rotation and projection|Lateral Crural Steal]]
+- **Tip Modification Adjunct**: [[Lateral crural steal and overlay maneuvers dynamically modify tip rotation and projection|Lateral Crural Steal]]

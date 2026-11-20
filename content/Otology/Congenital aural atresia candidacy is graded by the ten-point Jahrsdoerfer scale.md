@@ -6,7 +6,7 @@ tags:
   - congenital
   - atresia
   - microtia
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch45, p.845"
@@ -64,7 +64,7 @@ flowchart TD
 - Intraoperative facial nerve monitoring is mandatory; the nerve is assumed displaced until proven otherwise.
 
 ## Connected Concepts & Graph Traversal
-- **🔗 Auricular Reconstruction Staging (FPRS)**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|Microtia Reconstruction]]
+- **🔗 Auricular Reconstruction Staging (FPRS)**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Microtia Reconstruction]]
 - **Bone Conduction Pathway**: [[Bone-anchored hearing implants BAHA stimulate the cochlea directly via bone conduction pathways|BAHA Systems]]
 - **🔗 Branchial Cleft Lineage (Pediatrics)**: [[First branchial cleft Work Type I and Type II anomalies require superficial parotidectomy with facial nerve dissection|Work I and II Anomalies]]
 - **Facial Nerve Course Distortion**: [[The infant mastoid lacks a developed tip placing the facial nerve in a subcutaneous vulnerable position at the stylomastoid foramen|Aberrant Fallopian Canal Course]]

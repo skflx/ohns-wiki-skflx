@@ -6,7 +6,7 @@ tags:
   - cutaneous-surgery
   - fusiform-ellipse
   - dog-ear-management
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Reconstruction of the Lips"
@@ -59,5 +59,3 @@ flowchart TD
 - **Biomechanical Lines**: [[Relaxed skin tension lines minimize scar hypertrophy along perpendicular muscular vectors|Relaxed Skin Tension Lines]]
 - **Aesthetic Units**: [[Gonzalez-Ulloa facial aesthetic subunits guide complete subunit reconstruction|Gonzalez-Ulloa Aesthetic Subunits]]
 - **Local Flaps**: [[Advancement flaps recruit adjacent tissue laxity along a linear vector without rotation|Advancement Flaps]]
-- **Diagnostic Evaluation**: [[Gilles fan flaps and Webster-Bernard cheek advancements reconstruct large lower lip defects|Gilles Fan Flap]]
-- **Anatomical Foundation**: [[Composite conchal cartilage grafts provide three-dimensional structural support and cutaneous coverage for auricular and facial defects|Composite Conchal Grafts]]

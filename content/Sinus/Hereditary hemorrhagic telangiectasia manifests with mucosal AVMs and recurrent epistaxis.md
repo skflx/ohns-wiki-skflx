@@ -6,7 +6,7 @@ tags:
   - hht
   - osler-weber-rendu
   - epistaxis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch10, p.211–212"
@@ -76,6 +76,5 @@ Beyond sinonasal mucosal telangiectasias, visceral organ screening is vital to p
 ## Connected Concepts & Graph Traversal
 - **SPA Ligation**: [[The crista ethmoidalis guides endoscopic sphenopalatine artery ligation|Endoscopic SPA Ligation]]
 - **Anatomy**: [[The 24-12-6 rule governs anterior and posterior ethmoidal artery surgical localization|AEA & PEA Ligation]]
-- **Laser Craft**: [[The Lund-Kennedy endoscopic staging system tracks mucosal edema, polyps, and discharge|Endoscopic Staging]]
 - **Anatomical Foundation**: [[Endoscopic sphenopalatine artery ligation requires crista ethmoidalis resection and systematic multi-branch control to prevent recurrent epistaxis|Endoscopic SPA Multi-Branch Ligation]]
 - **Surgical Craft**: [[Kiesselbach plexus anterior epistaxis is managed with cautery and anterior nasal packing|Anterior Epistaxis]]

@@ -7,7 +7,7 @@ tags:
   - airway
   - emergency
   - schaefer
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch7, p.166–167"
@@ -62,8 +62,7 @@ flowchart TD
 - Late repair is the enemy of voice and airway: granulation, stenosis, and fixed cords are the price of delay.
 
 ## Connected Concepts & Graph Traversal
-- **Airway Fire & Safety**: [[Airway fire prevention requires FiO2 below 30 percent and laser-safe tubes|Airway Fire Safety]]
-- **Open Tracheostomy Rescue**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open Tracheostomy]]
+- **Open Tracheostomy Rescue**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Open Tracheostomy]]
 - **Cricoarytenoid Dislocation**: [[The cricoarytenoid joint moves via coupled rocking and sliding|Cricoarytenoid Joint]]
 - **Broyles Ligament Avulsion**: [[Broyles' ligament anchors the vocal ligament to thyroid cartilage|Broyles' Ligament]]
 - **High-Stakes Rescue**: [[High-stakes laryngeal complications require proactive landmarking and rescue protocols|Laryngeal Rescue Protocols]]

@@ -6,7 +6,7 @@ tags:
   - salivary-gland
   - acinic-cell-carcinoma
   - serous-acinar
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.102"
@@ -58,7 +58,3 @@ flowchart TD
 - **Mucoepidermoid Carcinoma**: [[Mucoepidermoid carcinoma is graded by AFIP Brandwein criteria and driven by CRTC1-MAML2 translocation|Mucoepidermoid Carcinoma]]
 - **Superficial Parotidectomy**: [[Superficial parotidectomy dissects the facial nerve branches to resect the lateral salivary lobe|Superficial Parotidectomy]]
 - **Facial Nerve Grafting**: [[Immediate facial nerve grafting with the great auricular or sural nerve restores facial reanimation|Facial Nerve Grafting]]
-- **Anatomical Foundation**: [[AJCC 8th edition incorporates depth of invasion into oral cavity T-staging]]
-- **Surgical Lymphadenectomy**: [[Central compartment neck dissection clears level VI nodes between the carotid sheaths and suprasternal notch]]
-- **Oncologic Resection & Margins**: [[Marginal mandibulectomy preserves basilar bone height when tumor abuts but does not invade marrow]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Subglottic carcinoma spreads to level VI central compartment lymphatics and mediastinal nodes]]

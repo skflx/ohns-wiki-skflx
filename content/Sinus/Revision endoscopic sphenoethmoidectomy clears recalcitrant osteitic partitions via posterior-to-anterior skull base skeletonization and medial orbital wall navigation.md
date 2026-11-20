@@ -7,7 +7,7 @@ tags:
   - revision-fess
   - surgical-technique
   - osteitis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Ch14, p.115-121"
@@ -73,4 +73,4 @@ flowchart TD
 - **Vascular Protection**: [[Posterior epistaxis from sphenopalatine artery arborization requires endoscopic ligation or embolization|Sphenopalatine Artery Septal Branch Protection]]
 - **Postoperative Maintenance**: [[Postoperative FESS debridement timing and technique prevent crusting and synechiae formation|Postoperative Cavity Debridement]]
 - **Surgical Instrumentation**: [[Powered microdebrider blade selection and suction irrigation maintain clean surgical optics|Microdebrider Mucosal Sparing]]
-- **Distorted Anatomy Navigation**: [[Stereotactic image-guided navigation combines electromagnetic or optical tracking with CT-MRI fusion to maintain spatial orientation in distorted revision sinus and skull base surgery|Stereotactic Image-Guided Navigation]]
+- **Distorted Anatomy Navigation**: [[Image-guided surgery registration and real-time tracking enhance navigation in distorted anatomy|Image-Guided Surgical Navigation]]

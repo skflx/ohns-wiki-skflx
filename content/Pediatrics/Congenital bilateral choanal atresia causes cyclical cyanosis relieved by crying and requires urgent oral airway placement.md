@@ -6,7 +6,7 @@ tags:
   - choanal-atresia
   - neonatal-airway
   - charge-syndrome
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Ch27, p.2"
@@ -78,7 +78,3 @@ flowchart TD
 - **Choanal Atresia Repair**: [[Transnasal endoscopic resection of the atretic plate and posterior vomer establishes choanal patency without stents|Choanal Atresia Repair]]
 - **Pyriform Aperture Stenosis**: [[Congenital pyriform aperture stenosis causes neonatal nasal obstruction and presents with a solitary central incisor|Pyriform Aperture Stenosis]]
 - **Pediatric Emergency**: [[High-stakes pediatric and adult sleep airway complications require rapid structured algorithmic emergency rescue|Airway Emergency Rescue]]
-- **Embryological & Sleep Foundation**: [[Critical closing pressure Pcrit stratifies upper airway collapsibility from snorers to severe obstructive sleep apnea]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Lingual tonsil hypertrophy causes persistent pediatric obstructive sleep apnea and base of tongue collapse]]
-- **Congenital Airway Pathology**: [[Inspiratory, biphasic, and expiratory stridor localize pediatric airway obstruction to supraglottic, subglottic, and tracheobronchial subsites]]
-- **Open Airway Reconstruction**: [[Aortopexy suspends the aorta to the sternum to relieve anterior vascular tracheal compression]]

@@ -6,7 +6,7 @@ tags:
   - trauma
   - nasal-fracture
   - closed-reduction
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, FPRS"
@@ -118,4 +118,3 @@ flowchart TD
 - **Midface Buttress Integration**: [[Zygomaticomaxillary complex fractures disrupt four buttress articulations requiring multi-point reduction|ZMC & Midface Fractures]]
 - **🔗 Epistaxis Control (Sinus)**: [[Kiesselbach plexus anterior epistaxis is managed with cautery and anterior nasal packing|Epistaxis Protocols]]
 - **Secondary Reconstructive Rhinoplasty**: [[Saddle nose deformity requires multi-tier dorsal and caudal structural reconstruction|Saddle Nose Reconstruction]]
-- **Pediatric Facial Trauma**: [[Pediatric white-eyed blowout fractures cause muscle entrapment requiring emergent surgical release|Pediatric Facial Trauma]]

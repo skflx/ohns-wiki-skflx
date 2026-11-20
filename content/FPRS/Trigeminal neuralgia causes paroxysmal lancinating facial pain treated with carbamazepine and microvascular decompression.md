@@ -6,7 +6,7 @@ tags:
   - craniofacial-pain
   - trigeminal-neuralgia
   - janetta-procedure
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch6, p.156"
@@ -70,6 +70,4 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **Masseteric Motor Donor**: [[The masseteric nerve provides a dense motor donor for single-stage facial reanimation|Masseteric Motor Branch (V3)]]
 - **Facial Sensory Anatomy**: [[The facial artery and facial vein provide the primary vascular supply to the anterior face|Facial Neurovascular Supply]]
-- **Facial Paralysis Differential**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Scale]]
 - **Botulinum Toxin Relief**: [[Cosmetic botulinum toxin treats dynamic rhytids through presynaptic acetylcholine blockade|Botulinum Toxin Injections]]
-- **Dynamic Reanimation Alternative**: [[Temporalis muscle tendon transfer provides regional dynamic smile reanimation|Temporalis Tendon Transfer]]

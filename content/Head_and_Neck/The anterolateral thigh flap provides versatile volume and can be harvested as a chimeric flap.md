@@ -6,7 +6,7 @@ tags:
   - reconstruction
   - free-flaps
   - alt-flap
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.92"
@@ -64,7 +64,5 @@ flowchart TD
 - **RFFF Flap**: [[The radial forearm free flap provides thin, pliable fasciocutaneous tissue for oral and pharyngeal defects|RFFF Free Flap]]
 - **Tubed Pharyngectomy**: [[Circumferential laryngopharyngectomy requires tubed microvascular or visceral flap reconstruction|Tubed ALT Reconstruction]]
 - **Venous Couplers**: [[Microvascular venous couplers achieve rapid and reliable end-to-end and end-to-side anastomoses|Microvascular Couplers]]
-- **Anatomical Foundation**: [[Cetuximab targets EGFR overexpression while pembrolizumab and nivolumab inhibit PD-1 in head and neck SCC]]
-- **Surgical Lymphadenectomy**: [[Level V dissection requires skeletonization of the prevertebral fascia while protecting the phrenic nerve]]
 - **Oncologic Resection & Margins**: [[Segmental mandibulectomy resects full-thickness bone for medullary invasion and irradiated bone recurrence]]
 - **Aerodigestive / Pharyngolaryngeal**: [[Pectoralis major muscle flap reinforcement prevents pharyngocutaneous fistula in salvage laryngectomy]]

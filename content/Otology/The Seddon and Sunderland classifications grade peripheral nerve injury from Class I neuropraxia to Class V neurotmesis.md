@@ -7,7 +7,7 @@ tags:
   - nerve-injury-classification
   - sunderland
   - seddon
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -68,7 +68,7 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **ENoG Degeneration Threshold**: [[Electroneuronography showing greater than ninety percent degeneration within fourteen days indicates severe facial nerve axonal injury|ENoG 90% Degeneration Threshold]]
 - **EMG Denervation Potentials**: [[Electromyography EMG detects voluntary motor unit potentials and fibrillations indicating denervation|EMG Fibrillation Potentials]]
-- **House-Brackmann Grading**: [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|House-Brackmann Clinical Staging]]
+- **🔗 House-Brackmann Grading (FPRS)**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Clinical Staging]]
 - **Direct Nerve Repair**: [[Immediate direct epineurial end-to-end repair is the gold standard for transected facial nerve injury|Epineurial End-to-End Coaptation]]
 - **🔗 Facial Synkinesis Treatment (FPRS)**: [[Facial synkinesis is managed with selective neurolysis, myectomy, and botulinum toxin titration|Synkinesis & Botox Neuromodulation]]
 - **Bell's Palsy Pathophysiology**: [[Acute Bell's palsy presents with unilateral lower motor neuron facial paralysis treated with early oral steroids|Bell's Palsy Edema]]

@@ -9,7 +9,7 @@ tags:
   - surgical-oncology
   - microvascular-reconstruction
   - endocrine-surgery
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch10, p.200–212"
@@ -40,12 +40,12 @@ flowchart BT
 > [!NOTE] **Subspecialty Knowledge Cards Census & Curriculum Architecture**
 > | Metric | Value | Details |
 > | :--- | :--- | :--- |
-> | **Atomic Cards (Notes)** | **182** | Granular single-concept clinical and surgical factoids |
-> | **Source Coverage** | **182 / 182 (100%)** | Full attribution to authoritative surgical textbooks |
-> | **Active Recall Questions** | **424 total (2.3/card)** | Integrated retrieval prompts with mechanistic rationales |
+> | **Atomic Cards (Notes)** | **178** | Granular single-concept clinical and surgical factoids |
+> | **Source Coverage** | **178 / 178 (100%)** | Full attribution to authoritative surgical textbooks |
+> | **Active Recall Questions** | **416 total (2.3/card)** | Integrated retrieval prompts with mechanistic rationales |
 > | **Illustrated Cards** | **51 notes (81 figs)** | High-yield operative line drawings and anatomical diagrams |
 > | **Personal Notes Guard** | **100% verified** | Cryptographically guarded resident notes region |
-> | **Active Wiki-Links** | **1,395 links** | Bidirectional knowledge graph traversal web |
+> | **Active Wiki-Links** | **1,269 links** | Bidirectional knowledge graph traversal web |
 > | **Mastery Pyramid** | **7 Progressive Tiers** | From Bedrock Foundations to High-Stakes Complication Rescue |
 
 ```mermaid
@@ -214,7 +214,7 @@ Self-Assessment Checkpoint: Tier IV TORS & Larynx (Click to Expand)
 **Q1: Why is prophylactic transcervical ligation of the lingual artery / facial artery performed during TORS base of tongue resection?**  
 *A:* Secondary oropharyngeal hemorrhage following TORS occurs in 3% to 8% of cases around postoperative day 5–10 when mucosal sloughing occurs. Because transoral control of an arterial base of tongue bleed in an awake, swollen patient can be fatal, elective proximal ligation in the neck reduces high-flow arterial perfusion pressure.  
 **Q2: What is the primary functional advantage of a tubed ALT free flap over a free jejunal transfer for circumferential pharyngeal reconstruction?**  
-*A:* The tubed [[The anterolateral thigh flap provides versatile volume and can be harvested as a chimeric flap|ALT flap]] is a non-secretory, non-motile skin conduit that provides excellent long-term [[Tracheoesophageal puncture TEP and voice prosthesis restore pulmonary-driven alaryngeal speech|tracheoesophageal puncture]] (TEP) speech rehabilitation without excessive wet gurgling voice quality, whereas jejunal grafts secrete copious mucus and exhibit uncoordinated intrinsic peristalsis that impairs intelligible TEP voice.
+*A:* The tubed [[The anterolateral thigh flap provides versatile volume and can be harvested as a chimeric flap|ALT flap]] is a non-secretory, non-motile skin conduit that provides excellent long-term [[Tracheoesophageal puncture diverts pulmonary air through a one-way valve into the neopharynx|tracheoesophageal puncture]] (TEP) speech rehabilitation without excessive wet gurgling voice quality, whereas jejunal grafts secrete copious mucus and exhibit uncoordinated intrinsic peristalsis that impairs intelligible TEP voice.
 
 ---
 
@@ -367,7 +367,7 @@ Self-Assessment Checkpoint: Tier VII Microvascular Surgery (Click to Expand)
 - **Bethesda Cytology & Molecular Testing**: [[Bethesda cytology and molecular testing stratify thyroid nodule malignancy risk before surgery|Bethesda Cytology & Molecular Testing]]
 - **Carotid Body Paraganglioma**: [[Carotid body paragangliomas splay the bifurcation and are graded by the Shamblin classification|Carotid Body Tumor (Shamblin)]]
 - **Cervical Lymphoma**: [[Suspected cervical lymphoma requires excisional or core biopsy because cytology cannot assess architecture|Cervical Lymphoma Diagnosis]]
-- **Acute Suppurative Sialadenitis**: [[Acute suppurative sialadenitis affects dehydrated patients and is dominated by Staphylococcus aureus|Acute Suppurative Sialadenitis]]
+- **Acute Suppurative Sialadenitis**: [[Suppurative sialadenitis of the parotid and submandibular glands is treated with hydration, sialagogues, and anti-staphylococcal antibiotics|Acute Suppurative Sialadenitis]]
 - **Sjögren Syndrome & MALT Lymphoma**: [[Sjogren syndrome causes autoimmune sicca with parotid enlargement and markedly elevated MALT lymphoma risk|Sjögren Syndrome]]
 - **Plunging Ranula**: [[Plunging ranula is a sublingual mucus extravasation pseudocyst herniating around the mylohyoid free edge|Plunging Ranula]]
 - **Frey Syndrome**: [[Frey syndrome results from aberrant auriculotemporal reinnervation of sweat glands after parotidectomy|Frey Syndrome]]
@@ -406,7 +406,7 @@ Self-Assessment Checkpoint: Tier VII Microvascular Surgery (Click to Expand)
 - **Bethesda Cytology & Molecular Testing**: [[Bethesda cytology and molecular testing stratify thyroid nodule malignancy risk before surgery|Bethesda Cytology & Molecular Testing]]
 - **Carotid Body Paraganglioma**: [[Carotid body paragangliomas splay the bifurcation and are graded by the Shamblin classification|Carotid Body Tumor (Shamblin)]]
 - **Cervical Lymphoma**: [[Suspected cervical lymphoma requires excisional or core biopsy because cytology cannot assess architecture|Cervical Lymphoma Diagnosis]]
-- **Acute Suppurative Sialadenitis**: [[Acute suppurative sialadenitis affects dehydrated patients and is dominated by Staphylococcus aureus|Acute Suppurative Sialadenitis]]
+- **Acute Suppurative Sialadenitis**: [[Suppurative sialadenitis of the parotid and submandibular glands is treated with hydration, sialagogues, and anti-staphylococcal antibiotics|Acute Suppurative Sialadenitis]]
 - **Sjögren Syndrome & MALT Lymphoma**: [[Sjogren syndrome causes autoimmune sicca with parotid enlargement and markedly elevated MALT lymphoma risk|Sjögren Syndrome]]
 - **Plunging Ranula**: [[Plunging ranula is a sublingual mucus extravasation pseudocyst herniating around the mylohyoid free edge|Plunging Ranula]]
 - **Frey Syndrome**: [[Frey syndrome results from aberrant auriculotemporal reinnervation of sweat glands after parotidectomy|Frey Syndrome]]

@@ -4,16 +4,24 @@ tier: "Tier VII: Microvascular Free Flaps & High-Stakes Complication Rescue"
 tags:
   - head-and-neck
   - microsurgery
+  - free-flaps
+  - microvascular-reconstruction
   - venous-thrombosis
+  - venous-congestion
   - flap-crisis
-last_revised: 2026-11-09
+  - flap-salvage
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch31, p.596"
+  - "CummingsReview2017, Ch 5 (Head and Neck)"
 aliases:
   - "Venous Thrombosis"
   - "Free Flap Venous Congestion"
   - "Venous Crisis"
+  - "Microvascular venous thrombosis presents with violaceous congestion and rapid dark bleeding on pinprick"
+  - "Venous Pedicle Thrombosis Signs"
+  - "Flap Venous Outflow Failure"
 ---
 
 # Microvascular venous thrombosis presents with violaceous congestion and rapid dark bleeding on pinprick
@@ -27,16 +35,16 @@ aliases:
 > *Answer / Clinical Rationale*: **Tissue Plasminogen Activator (tPA)** (2–4 mg).
 
 ## Core Clinical & Mechanistic Principles
-**Venous thrombosis** is the most common cause of microvascular free flap failure ($60\text{–}70\%$ of all vascular crises):
+**Venous thrombosis** or mechanical outflow obstruction is the most common cause of microvascular free flap failure (**$60\text{–}80\%$** of all vascular crises, outnumbering arterial compromise by $>3$-fold):
 - **Pathophysiology**:
   - Occlusion of the [[Microvascular venous couplers achieve rapid and reliable end-to-end and end-to-side anastomoses|venous anastomosis]] causes acute cessation of venous drainage while arterial inflow continues under systemic pressure.
-  - Microcirculatory beds engorge with deoxygenated blood; capillary hydrostatic pressure skyrockets, causing massive tissue edema, microthrombi formation, and secondary arterial standstill.
-- **Pathognomonic Clinical Signs**:
-  - **Color**: Dark blue, violaceous, or purple mottling.
-  - **Turgor**: Extremely tense, turgid, and swollen ("firm wooden" feel).
-  - **Capillary Refill**: Ultra-rapid, brisk refill ($<1.0\text{ second}$).
-  - **Pinprick Test**: **Immediate brisk flow of dark, blackish-purple venous blood**.
-  - **Venous Doppler**: Absent venous flow (arterial Doppler may initially show high-resistance "hammering" spikes before dying).
+  - Microcirculatory beds engorge with deoxygenated blood; capillary hydrostatic pressure skyrockets, causing massive interstitial edema, microthrombi formation, and the **"no-reflow" phenomenon**, precipitating progressive [[Microvascular arterial thrombosis presents with a pale, flat flap and requires immediate surgical exploration|arterial thrombosis]] and irreversible flap necrosis within **4 to 8 hours**.
+- **Pathognomonic Clinical Signs & Bedside Diagnostics**:
+  - **Color**: Progressive dusky, dark blue, violaceous, or purple mottling.
+  - **Turgor**: Extremely tense, turgid, boggy, and non-compressible ("firm wooden" feel).
+  - **Capillary Refill**: Ultra-rapid, brisk refill ($<1.0\text{ second}$) early due to venous pooling, progressing to mottled non-blanching stasis.
+  - **Pinprick / Scratch Test (25G/27G needle or light 15-blade)**: **Immediate brisk welling of dark, blackish-purple deoxygenated venous blood** (contrasting with arterial insufficiency, which produces no bleeding or only dry straw-colored interstitial fluid).
+  - **Doppler Ultrasound (8-MHz pencil or Cook-Swartz probe)**: Loss of continuous low-frequency respiratory-phasic "venous hum," accompanied by a paradoxical high-resistance, sharp, abrupt **"water-hammer" arterial spike** as inflow hits a rigid non-compliant vascular bed.
 
 ```mermaid
 %% Free Flap Venous Thrombosis Pathogenesis and Surgical Rescue
@@ -62,7 +70,13 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
-- **Thrombolytic Protocol**: Intra-arterial or intra-venous flush of **Tissue Plasminogen Activator (tPA, 2–4 mg in 20 mL saline)** directly into the flap bed to dissolve microvascular clots.
+- **Immediate Bedside Actions**: Immediately release tight circumferential neck dressings, tracheostomy collars/ties, or compressive skin sutures overlying the pedicle, position flat (or head-up $15^\circ$) with neutral neck alignment, and activate STAT OR take-back.
+- **Thrombolytic Protocol**: Intra-arterial or intra-venous flush of **Tissue Plasminogen Activator (tPA, 2–4 mg in 20 mL saline)** directly into the flap bed to dissolve microvascular clots, followed by catheter thrombectomy and venous re-anastomosis.
+
+## References
+1. Chepeha, D.B. (2013). Reconstructive Microsurgery of the Head and Neck. In Johnson, J.J., Rosen, C.A. (Eds.), *Bailey’s Head and Neck Surgery-Otolaryngology* 5e (pp. 2824-2848). Baltimore, MD: Lippincott Williams & Wilkins.
+2. Novakovic, D., Patel, R.S., Goldstein, D.P., et al. (2009). Salvage of failed free flaps used in head and neck reconstruction. *Head Neck Oncol*, 1:33.
+3. Başaran, B., Ünsaler, S., Kesimli, M.C., et al. (2021). Free flap reconstruction of the head and neck region: A series of 127 flaps performed by otolaryngologists. *Turk Arch Otorhinolaryngol*, 59(2):103-110.
 
 ## Connected Concepts & Graph Traversal
 - **Arterial Thrombosis Contrast**: [[Microvascular arterial thrombosis presents with a pale, flat flap and requires immediate surgical exploration|Arterial Thrombosis Distinction]]

@@ -6,7 +6,7 @@ tags:
   - interventional-neuroradiology
   - ica-injury
   - pseudoaneurysm
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
@@ -64,5 +64,3 @@ flowchart TD
 - **Intraoperative Crisis**: [[Intraoperative ICA injury requires two-surgeon suction and crushed muscle patch hemostasis|ICA Injury Crisis Protocol]]
 - **Checklist Prevention**: [[The CLOSE checklist systematically evaluates critical radiological danger zones|CLOSE Checklist ("S" for Sphenoid)]]
 - **Corridors**: [[Transclival EEA provides midline access to clival chordomas and chondrosarcomas|Transclival EEA]]
-- **Anatomical Foundation**: [[Endoscopic endonasal anterior ethmoidal artery ligation requires skull base skeletonization to prevent orbital fat prolapse and vessel retraction|Endoscopic AEA Ligation]]
-- **Surgical Craft**: [[The endoscopic cross-over flap technique reconstructs congenital choanal atresia by covering denuded bone without circumferential stenting|Stamm Cross-Over Flap Technique]]

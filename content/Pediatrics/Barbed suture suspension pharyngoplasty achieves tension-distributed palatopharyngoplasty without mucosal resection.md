@@ -6,7 +6,7 @@ tags:
   - sleep-surgery
   - barbed-pharyngoplasty
   - knotless-sutures
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -62,7 +62,6 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Surgical Alternative**: [[Expansion sphincter pharyngoplasty ESP rotates the palatopharyngeus muscle to stabilize lateral pharyngeal wall collapse|Expansion Sphincter Pharyngoplasty]]
-- **Muscle Vector Foundation**: [[Relocating the palatopharyngeus anterolaterally splints the lateral pharyngeal walls in expansion pharyngoplasty|Palatopharyngeus Muscle Relocation]]
 - **Traditional Palatal Surgery**: [[Modified uvulopalatopharyngoplasty UPPP resects redundant palatal tissue while preserving muscular function|Modified Uvulopalatopharyngoplasty]]
 - **Dynamic Endoscopic Assessment**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|DISE Multi-Level Airway Mapping]]
 - **Postoperative Complication**: [[Post-tonsillectomy hemorrhage is classified into primary within twenty-four hours and secondary beyond twenty-four hours|Post-Tonsillectomy Hemorrhage Management]]

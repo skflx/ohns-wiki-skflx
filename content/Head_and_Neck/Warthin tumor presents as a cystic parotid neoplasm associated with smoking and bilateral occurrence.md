@@ -6,7 +6,7 @@ tags:
   - salivary-gland
   - warthin-tumor
   - cystadenolymphoma
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.100"
@@ -61,7 +61,3 @@ flowchart TD
 - **Pleomorphic Adenoma**: [[Pleomorphic adenoma requires superficial parotidectomy with a cuff of normal tissue to prevent pseudopod recurrence|Pleomorphic Adenoma]]
 - **Superficial Parotidectomy**: [[Superficial parotidectomy dissects the facial nerve branches to resect the lateral salivary lobe|Superficial Parotidectomy]]
 - **Frey Syndrome**: [[Frey syndrome results from aberrant auriculotemporal reinnervation of sweat glands after parotidectomy|Frey Syndrome]]
-- **Anatomical Foundation**: [[Ludwig angina presents with bilateral submandibular cellulitis and woody floor of mouth induration compromising the airway]]
-- **Surgical Lymphadenectomy**: [[Carotid blowout syndrome is classified into threatened, impending, and acute hemorrhage]]
-- **Oncologic Resection & Margins**: [[Transoral resection provides oncologic access for early-stage anterior oral cavity neoplasms]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Postcricoid hypopharyngeal carcinoma frequently invades the cervical esophagus and bilateral RLNs]]

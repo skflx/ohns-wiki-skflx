@@ -6,7 +6,7 @@ tags:
   - orbital-trauma
   - pediatric-fracture
   - trapdoor-blowout
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -61,5 +61,3 @@ flowchart TD
 - **Adult Reconstruction**: [[Orbital floor blowout fractures with muscle entrapment or significant enophthalmos mandate reconstruction|Orbital Floor Reconstruction]]
 - **Ophthalmic Emergency**: [[Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy|Retrobulbar Hematoma]]
 - **Muscle Anatomy**: [[Lower blepharoplasty addresses fat herniation while preserving the inferior oblique muscle|Inferior Oblique & Rectus]]
-- **Diagnostic Evaluation**: [[Champy lines of ideal osteosynthesis dictate monocortical miniplate fixation along mandibular tension zones|Champy's Principle of Osteosynthesis]]
-- **Anatomical Foundation**: [[The Zitelli bilobed flap restricts rotation to ninety degrees to prevent pincushioning|Zitelli Bilobed Flap]]

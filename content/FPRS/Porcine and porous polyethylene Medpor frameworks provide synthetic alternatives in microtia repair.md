@@ -6,7 +6,7 @@ tags:
   - microtia
   - medpor
   - synthetic-frameworks
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Reconstruction of the Auricle"
@@ -27,7 +27,7 @@ aliases:
 > *Answer / Clinical Rationale*: Medpor can be performed as early as **$3\text{ to }5\text{ years}$ of age** (because it does not require donor rib growth), whereas autologous rib requires waiting until age **$6\text{ to }10\text{ years}$** (chest circumference $>60\text{ cm}$).
 
 ## Core Clinical & Mechanistic Principles
-While autologous costal cartilage (Brent/Nagata) remains the global gold standard, **Porous Polyethylene (Medpor / Su-Por)** frameworks provide a pre-formed, synthetic alternative for [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|microtia reconstruction]] that eliminates **donor site rib harvest morbidity and can be performed at an earlier age ($3\text{–}5\text{ years}$)**.
+While autologous costal cartilage (Brent/Nagata) remains the global gold standard, **Porous Polyethylene (Medpor / Su-Por)** frameworks provide a pre-formed, synthetic alternative for [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|microtia reconstruction]] that eliminates **donor site rib harvest morbidity, supports single-stage-capable reconstruction, and can be performed at an earlier age ($3\text{–}5\text{ years}$)** in exchange for lifetime exposure or fracture risk under a flap-dependent cover. The **temporoparietal fascia flap (TPFF)** is the alloplastic operation's essential insurance policy, so its superficial temporal vascular pedicle must be protected from the very first incision. For acquired total auricular defects, failed reconstructions, and radiated fields, osseointegrated implant-retained prosthetic ears provide an alternative option.
 
 ```mermaid
 %% Porcine vs Medpor Synthetic Auricular Frameworks
@@ -53,7 +53,5 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Autologous Standard**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Brent & Nagata Microtia]]
-- **Fascial Flap**: [[Endoscopic browlift releases the conjoint tendon and arcus marginalis along the supraorbital rim|Temporal Fascial Anatomy]]
 - **Otoplasty Sutures**: [[Mustarde and Furnas sutures correct antihelical effacement and conchal hypertrophy|Otoplasty Sutures]]
-- **Diagnostic Evaluation**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
-- **Anatomical Foundation**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|Microtia Reconstruction]]
+- **Small Auricular Graft Alternative**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]

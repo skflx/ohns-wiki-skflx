@@ -7,7 +7,7 @@ tags:
   - laser-safety
   - airway-fire
   - protocol
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch7, p.153–154"
@@ -95,5 +95,5 @@ sequenceDiagram
 - **CO2 Laser Physics**: [[The CO2 laser vaporizes tissue via 10600 nm water absorption|CO2 Laser Mechanics]]
 - **KTP Photoangiolysis**: [[The KTP laser targets oxyhemoglobin at 532 nm for photoangiolysis|KTP Laser]]
 - **Emergency Airway Rescue**: [[Total laryngectomy stomas and tracheostomies require distinct emergency airway resuscitation algorithms|Emergency Airway Protocols]]
-- **Open Tracheostomy**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open Tracheostomy]]
+- **Open Tracheostomy**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Open Tracheostomy]]
 - **High-Stakes Rescue**: [[High-stakes laryngeal complications require proactive landmarking and rescue protocols|Laryngeal Complication Protocols]]

@@ -8,7 +8,7 @@ tags:
   - prolonged-intubation
   - subglottic-stenosis
   - ventilator-associated-pneumonia
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Laryngology"
@@ -75,7 +75,6 @@ flowchart TD
 3. Kraft, S.M., Schindler, J.S. (2020). Tracheotomy. In Flint, P.W., et al. (Eds.), *Cummings Otolaryngology Head and Neck Surgery* 7e (pp. 95-103). Philadelphia, PA: Elsevier.
 
 ## Connected Concepts & Graph Traversal
-- **Surgical Approach**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open vs Percutaneous Tracheostomy]]
 - **Laryngeal Stenosis Grading**: [[The Cotton-Myer classification grades subglottic stenosis by luminal reduction|Subglottic Stenosis Classification]]
 - **Tube Exchange Protocol**: [[Adult tracheostomy tube exchange at one week requires a mature tract, tracheal stay sutures, and bougie guidance|Tracheostomy Exchange Timing]]
 - **Emergency Surgical Airway**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Standard Open Tracheotomy]]

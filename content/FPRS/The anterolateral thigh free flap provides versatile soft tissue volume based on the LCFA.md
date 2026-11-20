@@ -6,7 +6,7 @@ tags:
   - free-flaps
   - alt-flap
   - perforator-flaps
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -64,4 +64,3 @@ flowchart TD
 - **Subscapular Composite Flap**: [[The subscapular system provides composite scapular bone and latissimus dorsi muscle flaps|Subscapular System]]
 - **Recipient Facial Vessels**: [[The facial artery and facial vein provide the primary vascular supply to the anterior face|Facial Vessels]]
 - **Scalp Defect Reconstruction**: [[Scalp laceration repair requires layered subgaleal and galeal closure with galeatomy to achieve tension-free closure|Scalp Reconstruction]]
-- **Mandibular AO Principles**: [[Mandible fractures require anatomical reduction and load-sharing miniplate fixation along Champy lines of ideal osteosynthesis|Mandible Fracture Fixation]]

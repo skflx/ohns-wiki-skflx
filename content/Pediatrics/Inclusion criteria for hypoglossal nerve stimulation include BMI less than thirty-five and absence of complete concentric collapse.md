@@ -6,7 +6,7 @@ tags:
   - sleep-surgery
   - hgns-candidacy
   - fda-criteria
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -76,7 +76,3 @@ flowchart TD
 - **HGNS Overview**: [[Hypoglossal nerve stimulation HGNS activates the medial branch of CN XII to advance the tongue during inspiration|HGNS Overview]]
 - **Concentric Collapse**: [[Concentric velopharyngeal collapse on DISE is a contraindication to hypoglossal nerve stimulation|Concentric Collapse]]
 - **HGNS Cuff Placement**: [[The stimulation cuff is placed selectively around the medial branch of the hypoglossal nerve to exclude retractor fibers|HGNS Cuff Placement]]
-- **Embryological & Sleep Foundation**: [[Adult polysomnography criteria define obstructive sleep apnea severity by apnea-hypopnea index thresholds of five, fifteen, and thirty]]
-- **Adenotonsillar & Endoscopic DISE**: [[Nasal steroid sprays and montelukast provide medical therapy for mild pediatric sleep-disordered breathing]]
-- **Congenital Airway Pathology**: [[Type I through Type IV laryngeal clefts represent congenital tracheoesophageal communication defects]]
-- **Open Airway Reconstruction**: [[Anterior costal cartilage grafts expand the thyroid and cricoid cartilage framework]]

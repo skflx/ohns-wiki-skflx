@@ -6,7 +6,7 @@ tags:
   - thyroid
   - rln
   - simons-triangle
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.104–105"
@@ -82,7 +82,3 @@ flowchart TD
 - **Anatomical Anomaly**: [[A nonrecurrent laryngeal nerve arises directly from the vagus due to an aberrant retroesophageal right subclavian artery|Nonrecurrent Laryngeal Nerve]]
 - **Neuromonitoring**: [[Intraoperative neuromonitoring of the RLN and EBSLN verifies nerve integrity and aids nerve identification|Neuromonitoring]]
 - **Parathyroid Anatomy**: [[Superior and inferior parathyroid glands maintain constant anatomical relationships to the RLN and ITA|Parathyroid Anatomy]]
-- **Anatomical Foundation**: [[Level II lymph nodes are anatomically divided into IIA and IIB by the spinal accessory nerve]]
-- **Surgical Lymphadenectomy**: [[Level I dissection requires facial vessel ligation and preservation of the lingual and hypoglossal nerves]]
-- **Oncologic Resection & Margins**: [[Elective neck dissection is indicated for oral cavity squamous cell carcinoma with depth of invasion exceeding four millimeters]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Tracheoesophageal puncture TEP and voice prosthesis restore pulmonary-driven alaryngeal speech]]

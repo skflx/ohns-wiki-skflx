@@ -6,7 +6,7 @@ tags:
   - tracheostomy-complications
   - tif
   - surgical-emergencies
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Laryngology"
@@ -68,7 +68,7 @@ flowchart TD
 3. Kraft, S.M., Schindler, J.S. (2020). Tracheotomy. In Flint, P.W., et al. (Eds.), *Cummings Otolaryngology Head and Neck Surgery* 7e (pp. 95-103). Philadelphia, PA: Elsevier.
 
 ## Connected Concepts & Graph Traversal
-- **Open Tracheostomy Steps**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open Tracheostomy]]
+- **Open Tracheostomy Steps**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Open Tracheostomy]]
 - **Percutaneous Tracheostomy**: [[Percutaneous dilatational tracheostomy utilizes bronchoscopic guidance and Seldinger dilation between tracheal rings|Percutaneous Tracheostomy]]
 - **Emergency Resuscitation**: [[Total laryngectomy stomas and tracheostomies require distinct emergency airway resuscitation algorithms|Emergency Airway Algorithms]]
 - **Subcutaneous Emphysema**: [[Subcutaneous emphysema arises when tracheotomy incisions are closed too tightly|Subcutaneous Emphysema]]

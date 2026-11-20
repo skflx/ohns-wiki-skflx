@@ -8,7 +8,7 @@ tags:
   - papillary-thyroid-carcinoma
   - aggressive-variants
   - surgical-pathology
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.241–246"
@@ -101,6 +101,6 @@ flowchart TD
 - **Molecular Driver Synergy**: [[BRAF V600E and TERT promoter mutations drive aggressive papillary thyroid carcinoma behavior|BRAF and TERT Synergistic Oncogenesis]]
 - **Cervical Nodal Metastatic Pathways**: [[Papillary thyroid carcinoma spreads via cervical lymphatics to central and lateral neck compartments|PTC Lymphatic Dissemination]]
 - **Lethal Undifferentiated Transformation**: [[Anaplastic thyroid carcinoma is an airway and molecular emergency requiring immediate BRAF testing|Anaplastic Thyroid Transformation]]
-- **Preoperative Cytopathology Staging**: [[The Bethesda system for reporting thyroid cytopathology stratifies malignancy risk and guides surgical decision-making|Bethesda Cytopathology Staging]]
+- **Preoperative Cytopathology Staging**: [[Bethesda cytology and molecular testing stratify thyroid nodule malignancy risk before surgery|Bethesda Cytopathology Staging]]
 - **Prognostic Risk Stratification**: [[Differentiated thyroid carcinoma prognostic scoring systems AMES, AGES, and MACIS stratify low and high risk disease to guide the extent of thyroidectomy|AMES, AGES, and MACIS Risk Scoring]]
 - **Capsular & Vascular Invasion Paradigm**: [[Follicular thyroid carcinoma is distinguished from follicular adenoma by capsular and vascular invasion|Follicular Thyroid Carcinoma]]

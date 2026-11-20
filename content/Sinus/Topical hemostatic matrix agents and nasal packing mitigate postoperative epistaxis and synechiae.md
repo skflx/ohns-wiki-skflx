@@ -6,7 +6,7 @@ tags:
   - hemostasis
   - biomaterials
   - nasal-packing
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Vascular Control & Epistaxis Management"
@@ -55,5 +55,3 @@ flowchart TD
 - **Debridement**: [[Postoperative FESS debridement timing and technique prevent crusting and synechiae formation|Postoperative Debridement]]
 - **Steroid Stent**: [[Steroid-eluting sinus implants deliver localized anti-inflammatory therapy to prevent restenosis|Steroid-Eluting Implants]]
 - **Surgical Craft**: [[TIVA and greater palatine canal blocks optimize surgical field visibility in FESS|FESS Hemostasis Optimization]]
-- **Structural / Flap Alternative**: [[Temporoparietal fascia free and pedicled flaps provide vascularized tissue when nasoseptal flaps fail|Temporoparietal Fascia Flap (TPFF)]]
-- **Critical Safety / Complication**: [[Esthesioneuroblastoma Kadish and Hyams staging determines craniofacial resection and adjuvant therapy|Esthesioneuroblastoma (ENB)]]

@@ -6,7 +6,7 @@ tags:
   - facial-nerve
   - emg
   - electromyography
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch21, p.373"
@@ -68,7 +68,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Electroneuronography Degeneration**: [[Electroneuronography showing greater than ninety percent degeneration within fourteen days indicates severe facial nerve axonal injury|ENoG Evoked Compound Potentials]]
-- **Clinical Severity Staging**: [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|House-Brackmann Grading Scale]]
-- **Dynamic Smile Reanimation**: [[Masseteric nerve transfer to facial nerve branches restores rapid, powerful dynamic smile reanimation|Masseteric Nerve Transfer]]
+- **🔗 Clinical Severity Staging (FPRS)**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Grading Scale]]
+- **🔗 Dynamic Smile Reanimation (FPRS)**: [[The masseteric nerve provides a dense motor donor for single-stage facial reanimation|Masseteric Nerve Transfer]]
 - **🔗 Cable Graft Reinnervation (FPRS)**: [[Hypoglossal-facial nerve transfer restores resting facial symmetry and basal muscle tone|Hypoglossal-Facial Transfer]]
 - **Intratemporal Nerve Anatomy**: [[The facial nerve traverses six distinct anatomical segments from the pons to the parotid gland|Fallopian Canal Segments]]

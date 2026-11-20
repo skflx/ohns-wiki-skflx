@@ -6,7 +6,7 @@ tags:
   - maxillary-antrostomy
   - surgical-craft
   - lacrimal-safety
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, part2_primary_ess"
@@ -63,6 +63,6 @@ flowchart TD
 - **Uncinectomy Step**: [[Incisive uncinectomy exposes the ethmoid infundibulum while protecting the nasolacrimal duct|Incisive Uncinectomy]]
 - **Physiology**: [[Separate inferior antrostomies cause recirculating mucus and recalcitrant sinusitis|Mucus Recirculation Phenomenon]]
 - **Vascular Boundary**: [[The crista ethmoidalis guides endoscopic sphenopalatine artery ligation|Sphenopalatine Foramen Posterior Limit]]
-- **Lacrimal Anatomy**: [[Endoscopic dacryocystorhinostomy achieves lacrimal sac marsupialization via axillary osteotomy and bivalve mucosal flaps apposed to the agger nasi|Nasolacrimal Duct & Lacrimal Sac Anatomy]]
+- **Lacrimal Anatomy**: [[Endoscopic dacryocystorhinostomy bypasses nasolacrimal duct obstruction via lacrimal sac marsupialization into the middle meatus|Nasolacrimal Duct & Lacrimal Sac Anatomy]]
 - **Diagnostic Evaluation**: [[Jones primary and secondary dye tests differentiate canalicular from nasolacrimal duct obstruction|Jones Dye Testing at the Valve of Hasner]]
 - **Pediatric Conservative Escalation**: [[Pediatric endoscopic sinus surgery employs a stepwise escalation algorithm following adenoidectomy and preserves midfacial growth centers through conservative mucosal sparing dissection|Pediatric ESS Escalation]]

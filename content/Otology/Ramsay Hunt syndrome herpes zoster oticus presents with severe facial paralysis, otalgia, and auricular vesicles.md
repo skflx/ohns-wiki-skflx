@@ -6,7 +6,7 @@ tags:
   - facial-nerve
   - ramsay-hunt
   - herpes-zoster-oticus
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch2, p.22–24"
@@ -68,7 +68,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Idiopathic Facial Palsy**: [[Acute Bell's palsy presents with unilateral lower motor neuron facial paralysis treated with early oral steroids|Bell's Palsy Differential]]
-- **House-Brackmann Staging**: [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|House-Brackmann Scale]]
+- **🔗 House-Brackmann Staging (FPRS)**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Scale]]
 - **Electrodiagnostic ENoG**: [[Electroneuronography showing greater than ninety percent degeneration within fourteen days indicates severe facial nerve axonal injury|ENoG Prognostication]]
 - **🔗 Corneal Lagophthalmos Protection (FPRS)**: [[Upper eyelid platinum weights and lateral tarsal strips protect the cornea in flaccid facial paralysis|Upper Eyelid Weight Implantation]]
 - **Suppurative Labyrinthitis Spread**: [[Labyrinthitis presents with acute prolonged vertigo combined with sudden sensorineural hearing loss|Suppurative Labyrinthitis]]

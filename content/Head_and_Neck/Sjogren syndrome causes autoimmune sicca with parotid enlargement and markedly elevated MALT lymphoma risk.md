@@ -7,7 +7,7 @@ tags:
   - sjogren
   - autoimmune
   - lymphoma
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.221, 234, 235"
@@ -58,7 +58,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Diagnostic Biopsy Architecture**: [[Suspected cervical lymphoma requires excisional or core biopsy because cytology cannot assess architecture|Lymphoma Biopsy Architecture]]
-- **Recurrent Infection Substrate**: [[Acute suppurative sialadenitis affects dehydrated patients and is dominated by Staphylococcus aureus|Suppurative Sialadenitis Risk]]
+- **Recurrent Infection Substrate**: [[Suppurative sialadenitis of the parotid and submandibular glands is treated with hydration, sialagogues, and anti-staphylococcal antibiotics|Suppurative Sialadenitis Risk]]
 - **Sialendoscopic Intervention**: [[Sialendoscopy enables diagnostic visualization and stone extraction in chronic obstructive sialadenitis|Diagnostic & Interventional Sialendoscopy]]
 - **Benign Parotid Neoplasm**: [[Warthin tumor presents as a cystic parotid neoplasm associated with smoking and bilateral occurrence|Warthin Tumor & Parotid Swelling]]
 - **Granulomatous Salivary Disease**: [[Sarcoidosis of the upper respiratory tract causes non-caseating granulomas and mucosal cobblestoning|Sarcoidosis & Heerfordt Syndrome]]

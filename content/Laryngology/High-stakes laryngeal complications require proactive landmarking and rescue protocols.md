@@ -7,7 +7,7 @@ tags:
   - patient-safety
   - rescue-protocols
   - complication-matrix
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Frontal Sinus Surgery & Ostial Clearance"
@@ -97,7 +97,7 @@ Surgical procedures within the larynx and upper aerodigestive tract occur in a h
 > [!CAUTION] **Tier VII: Conservation & Total Laryngectomy**
 > - **Procedure / Milestone**: Conservation & [[Total laryngectomy achieves en bloc laryngeal resection with permanent end-stoma|Total Laryngectomy]]
 > - **Key Anatomical Landmarks**: $\ge 1$ mobile arytenoid in SCPL, 3-layer pharyngeal closure
-> - **Catastrophic Failure Mode**: Intractable aspiration; [[Pharyngeal reconstruction requires a three-layer closure to prevent fistula|pharyngocutaneous fistula]]; carotid blowout.
+> - **Catastrophic Failure Mode**: Intractable aspiration; [[Primary pharyngeal closure after total laryngectomy utilizes an inverting Connell technique|pharyngocutaneous fistula]]; carotid blowout.
 > - **Proactive Prevention & Rescue**: Strict pulmonary candidacy ($\text{FEV}_1 > 50\%$); perform inverting 3-layer mucosal closure; vascularized flap coverage in irradiated necks (see pharyngeal reconstruction).
 
 ```mermaid

@@ -7,7 +7,7 @@ tags:
   - caustic
   - emergency
   - pediatric
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch7, p.168–169"
@@ -65,5 +65,4 @@ flowchart TD
 - **Esophageal Motility Evaluation**: [[High-resolution manometry classifies achalasia and esophageal motility disorders by the Chicago criteria|High-Resolution Manometry]]
 - **Airway Dilation Rescue**: [[Endoscopic airway dilation combines radial incisions with balloon bronchoplasty|Endoscopic Airway Dilation]]
 - **Penetration/Aspiration Scale**: [[The Rosenbek Scale standardizes the depth of airway penetration and aspiration|Rosenbek Penetration-Aspiration Scale]]
-- **Emergency Airway Protocol**: [[Total laryngectomy stomas and tracheostomies require distinct emergency airway resuscitation algorithms|Airway Resuscitation Protocols]]
 - **Reflux Complications**: [[Active reflux and eosinophilic esophagitis compromise airway graft survival|Reflux & Esophagitis]]

@@ -6,7 +6,7 @@ tags:
   - wound-healing
   - collagen-synthesis
   - tensile-strength
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -60,5 +60,3 @@ flowchart TD
 - **Scar Pathophysiology**: [[Hypertrophic scars and keloids result from abnormal TGF-beta signaling and collagen deposition|Hypertrophic Scars & Keloids]]
 - **Tension Alignment**: [[Relaxed skin tension lines minimize scar hypertrophy along perpendicular muscular vectors|Relaxed Skin Tension Lines]]
 - **Suture Selection**: [[Monofilament versus braided absorbable and non-absorbable sutures have distinct tissue reactivity|Suture Materials]]
-- **Anatomical Foundation**: [[O-to-Z rotation-advancement flaps and secondary intention healing reconstruct lateral forehead defects and concave anatomical transition zones|Forehead O-to-Z Flap]]
-- **Surgical Craft**: [[Pediatric oral commissure electrical burns risk delayed labial artery hemorrhage and require dynamic microstomia splinting|Oral Commissure Electrical Burns]]

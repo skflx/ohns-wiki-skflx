@@ -7,7 +7,7 @@ tags:
   - total-laryngectomy
   - surgical-technique
   - tracheostoma
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch38, p.715"
@@ -68,7 +68,7 @@ flowchart TD
 3. **Suprahyoid Release**: Skeletonize the upper border of the hyoid bone, dividing geniohyoid, mylohyoid, and digastric tendon insertions.
 4. **Pharyngeal Entry (Contralateral Rule)**: Enter the pharynx **strictly contralateral to the primary tumor site** (via the contralateral vallecula or pyriform sinus) to confirm tumor margins under direct internal vision.
 5. **Larynx Excision & Tracheal Transection**: Cut along the pyriform sinuses and post-cricoid mucosa, maximizing mucosal preservation for closure. Transect the trachea between rings 1–2 or 2–3, beveling the cut superiorly on the posterior wall.
-6. **Pharyngeal Reconstruction**: Perform a tension-free, 3-layer closure (see [[Pharyngeal reconstruction requires a three-layer closure to prevent fistula|pharyngeal reconstruction]]).
+6. **Pharyngeal Reconstruction**: Perform a tension-free, 3-layer closure (see [[Primary pharyngeal closure after total laryngectomy utilizes an inverting Connell technique|pharyngeal reconstruction]]).
 7. **Tracheostoma Maturation**: Create a circular dermal cutout in the lower skin flap; suture the beveled trachea to the dermis with interrupted **3-0 Prolene or Nylon sutures**, locking the cartilaginous rings to the skin to prevent stomal stenosis.
 
 ## Critical Failure Modes & Error Traps

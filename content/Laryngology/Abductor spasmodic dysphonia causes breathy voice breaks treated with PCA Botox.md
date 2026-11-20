@@ -8,7 +8,7 @@ tags:
   - absd
   - botox
   - pca
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch7, p.152"
@@ -78,4 +78,3 @@ flowchart TD
 - **Target Muscle**: [[The posterior cricoarytenoid is the sole vocal fold abductor|Posterior Cricoarytenoid (PCA) Muscle]]
 - **Diagnostic Verification**: [[Laryngeal electromyography differentiates vocal fold paralysis from joint fixation|LEMG Activation with Sniff]]
 - **Avoided Airway Emergency**: [[Bilateral abductor vocal fold paralysis causes acute airway compromise requiring glottic enlargement|Bilateral Abductor Paralysis]]
-- **Clinical Management**: [[Thyroplasty cartilage window dimensions differ between males and females|Thyroplasty Window Dimensions]]

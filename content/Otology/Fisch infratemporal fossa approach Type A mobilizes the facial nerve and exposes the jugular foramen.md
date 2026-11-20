@@ -6,7 +6,7 @@ tags:
   - skull-base
   - fisch-type-a
   - infratemporal-fossa
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch21, p.385"
@@ -65,7 +65,7 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
-- **Facial Function Outcome**: Anterior rerouting causes transient House-Brackmann Grade III/IV paresis, recovering to **[[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|HB Grade]] II or III in $>80\%$** within 6–12 months.
+- **🔗 Facial Function Outcome (FPRS)**: Anterior rerouting causes transient House-Brackmann Grade III/IV paresis, recovering to **[[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|HB Grade]] II or III in $>80\%$** within 6–12 months.
 
 ## Connected Concepts & Graph Traversal
 - **Tumor Staging System**: [[Fisch classification categorizes temporal bone and skull base paragangliomas from Class A to Class D|Fisch Classification]]

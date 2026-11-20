@@ -6,7 +6,7 @@ tags:
   - emergencies
   - internal-carotid-artery
   - crushed-muscle-patch
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
@@ -67,5 +67,3 @@ flowchart TD
 - **Corridors**: [[Transclival EEA provides midline access to clival chordomas and chondrosarcomas|Transclival EEA]]
 - **Anatomical Foundation**: [[Transpterygoid EEA exposes juvenile nasopharyngeal angiofibromas and lateral sphenoid defects|Transpterygoid EEA]]
 - **High-Stakes Safety**: [[Retrobulbar hematoma requires emergent bedside lateral canthotomy and cantholysis|Retrobulbar Hematoma Protocol]]
-- **Surgical Craft**: [[Acute invasive fungal rhinosinusitis requires emergent surgical debridement and systemic amphotericin B|Acute Invasive Fungal Rhinosinusitis (AIFRS)]]
-- **Structural / Flap Alternative**: [[Temporoparietal fascia free and pedicled flaps provide vascularized tissue when nasoseptal flaps fail|Temporoparietal Fascia Flap (TPFF)]]

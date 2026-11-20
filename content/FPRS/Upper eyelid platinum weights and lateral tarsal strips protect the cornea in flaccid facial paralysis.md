@@ -3,17 +3,27 @@ title: "Upper eyelid platinum weights and lateral tarsal strips protect the corn
 tier: "Tier V: Otoplasty, Auricular Frameworks & Comprehensive Facial Reanimation"
 tags:
   - fprs
+  - otology
   - facial-paralysis
+  - facial-nerve
   - corneal-protection
+  - lagophthalmos
   - platinum-weight
-last_revised: 2026-11-09
+  - gold-weight
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Eyelids"
+  - "BakerFlaps3e, Ch17, p.393"
 aliases:
   - "Upper Eyelid Gold/Platinum Weight"
+  - "Gold Weight Implant"
+  - "Platinum Weight"
+  - "Lagophthalmos"
+  - "Corneal Protection"
   - "Paralytic Lagophthalmos Management"
   - "Static Eye Protection in Facial Paralysis"
+  - "Upper eyelid platinum weights and lateral tarsal strips protect the cornea in flaccid facial paralysis"
 ---
 
 # Upper eyelid platinum weights and lateral tarsal strips protect the cornea in flaccid facial paralysis
@@ -51,13 +61,17 @@ flowchart TD
   class N7,N8 orange
 ```
 
-### Preoperative Weight Sizing Protocol
-- Trial weights ($0.8\text{ to }1.6\text{ g}$) are taped to the upper eyelid in the clinic.
-- The ideal weight provides **complete eyelid closure in the upright position without inducing $>1.0\text{ mm}$ of mechanical ptosis** in primary gaze.
+### Preoperative Weight Sizing & Pretarsal Surgical Inset
+- **Sizing**: Trial weights ($0.6\text{ to }1.6\text{ g}$) are taped to the upper eyelid in the clinic; the ideal weight provides **complete eyelid closure in the upright position without inducing $>1.0\text{–}2.0\text{ mm}$ of mechanical ptosis** in primary gaze.
+- **Platinum vs Gold**: Platinum ($21.45\text{ g/cm}^3$) is denser than gold ($19.3\text{ g/cm}^3$), permitting a **$10\text{–}12\%$ thinner, lower-profile implant** with reduced visibility and lower capsule allergy/extrusion rates.
+- **Surgical Inset**: Make a supratarsal crease incision, dissect through orbicularis oculi to expose the anterior **tarsal plate**, fixate the weight to the upper half of the tarsus (centered medial to the pupil) with **6-0 Prolene** sutures, and perform layered muscle and skin closure.
 
 ## Connected Concepts & Graph Traversal
 - **Dynamic Reanimation**: [[Free gracilis muscle transfer provides dynamic smile restoration in chronic facial paralysis|Gracilis Free Transfer]]
 - **Lid Suspension**: [[Lateral canthopexy and lateral tarsal strip suspension prevent post-blepharoplasty ectropion|Lateral Tarsal Strip]]
 - **Blepharoplasty**: [[Upper blepharoplasty requires precise skin crease marking to avoid lagophthalmos|Upper Blepharoplasty]]
+- **House-Brackmann Staging**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Scale]]
+- **Dynamic Smile Donor**: [[The masseteric nerve provides a dense motor donor for single-stage facial reanimation|Masseteric Nerve Transfer]]
 - **Critical Safety / Corneal Protection**: [[Cutler-Beard bridge flaps reconstruct full-thickness upper eyelid defects via lower eyelid tissue advancement beneath a spared margin|Cutler-Beard Bridge Flap]]
-- **Static Symmetry Restoration**: [[Static facial suspension utilizes multivectored fascia lata or expanded polytetrafluoroethylene slings to restore symmetry in non-innervation candidates|Static Facial Suspension (Multivectored Slings)]]
+- **Static Symmetry Restoration**: [[Static fascia lata slings suspend the modiolus and nasal valve in non-innervation candidates|Static Facial Suspension (Multivectored Slings)]]
+- **🔗 Acute Bell's Palsy Eye Care (Otology)**: [[Acute Bell's palsy presents with unilateral lower motor neuron facial paralysis treated with early oral steroids|Bell's Palsy Eye Care]]

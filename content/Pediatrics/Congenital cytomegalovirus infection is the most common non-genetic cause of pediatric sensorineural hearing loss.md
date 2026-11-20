@@ -7,7 +7,7 @@ tags:
   - congenital-hearing-loss
   - torch-infections
   - viral-ototoxicity
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -91,4 +91,3 @@ flowchart TD
 - **Syndromic Genetic SNHL**: [[Syndromic pediatric sensorineural hearing loss encompasses Pendred, Usher, Waardenburg, and Jervell and Lange-Nielsen syndromes|Syndromic Pediatric SNHL]]
 - **Cochlear Implant Candidates**: [[Cochlear implant candidacy criteria include severe to profound bilateral sensorineural hearing loss|Pediatric CI Candidacy]]
 - **Stria Vascularis Pathology**: [[The stria vascularis generates the endocochlear potential of positive eighty millivolts|Stria Vascularis Endocochlear Potential]]
-- **Pediatric Airway and Speech**: [[Adenotonsillectomy is the first-line surgical treatment for pediatric obstructive sleep apnea|Pediatric Otolaryngology Care]]

@@ -9,7 +9,7 @@ tags:
   - slit
   - treg
   - igg4
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 aliases:
   - "Allergen Immunotherapy"
@@ -17,8 +17,12 @@ aliases:
   - "Sublingual Immunotherapy"
   - "SCIT vs SLIT"
   - "AIT Mechanisms"
+  - "Allergen immunotherapy via subcutaneous injections or sublingual dosing induces regulatory T cells and allergen-specific IgG4 blocking antibodies to restore immune tolerance"
+  - "Allergen Immunotherapy Mechanisms"
+  - "Allergen Desensitization and Immune Tolerance"
 sources:
   - "CummingsReview2017, Ch8, p.188–189"
+  - "EncycloOto, Vol O, p.101"
 ---
 
 # Allergen immunotherapy induces regulatory T cells and IgG4 blocking antibodies to modulate allergic rhinitis and prevent asthma progression
@@ -38,7 +42,7 @@ sources:
 *(CummingsReview2017, Ch8, p.188–189)*
 
 ## Core Clinical & Mechanistic Principles
-**Allergen Immunotherapy (AIT)** represents the only disease-modifying therapeutic modality for IgE-mediated allergic disease. By systematically exposing the mucosal or cutaneous immune system to escalating doses of specific aeroallergens, AIT shifts the immune balance from inflammatory hypersensitivity to durable peripheral immune tolerance.
+**Allergen Immunotherapy (AIT)** represents the only disease-modifying therapeutic modality for IgE-mediated (Gell & Coombs Type I) allergic disease, altering the underlying immunological trajectory to prevent new aeroallergen sensitizations and childhood progression to allergic asthma. Sensitization occurs when inhaled allergens are captured by airway dendritic cells and drive Th2 differentiation (IL-4, IL-5, IL-13), B-cell IgE class-switching, and high-affinity $\text{Fc}\varepsilon\text{RI}$ receptor binding on submucosal mast cells—precipitating an immediate **early-phase response** (histamine, tryptase, $\text{LTC}_4/\text{LTD}_4$ within minutes) followed at **4–8 hours** by a **late-phase response** driven by eosinophil infiltration, major basic protein, and [[Type 2 CRS exhibits eosinophilic inflammation responsive to targeted biologics|Type 2 eosinophilic inflammation]] (seen clinically in severe fungal-atopic phenotypes like [[Allergic fungal rhinosinusitis presents with eosinophilic mucin and Charcot-Leyden crystals|allergic fungal rhinosinusitis]]). By systematically exposing the mucosal or cutaneous immune system to escalating doses of specific aeroallergens, AIT shifts the immune balance from inflammatory hypersensitivity to durable peripheral immune tolerance, accompanied by **several hundred-fold increases in serum allergen-specific IgG4** during maintenance therapy.
 
 ### Cellular & Molecular Mechanisms of Immune Tolerance
 1. **Early Phase (Hours to Days)**:
@@ -133,6 +137,9 @@ flowchart TD
 - **Duration of Therapy**:
   - Full clinical benefits typically manifest within **6 to 12 months** of achieving maintenance.
   - Treatment is maintained for **3 to 5 consecutive years**. Discontinuation after 3–5 years results in prolonged, persistent symptom remission in the vast majority of patients.
+- **Aeroallergen vs. Food Contraindication**:
+  - **Approved Inhalant/Venom Indications**: SCIT and SLIT are indicated for **inhalant aeroallergens** (tree/grass/weed pollens, dust mites, animal dander, molds) and **Hymenoptera venom**.
+  - **Strict Contraindication for Food SCIT**: **Food allergens are strictly contraindicated for subcutaneous immunotherapy (SCIT)** due to unacceptably high rates of severe, fatal systemic anaphylaxis; inhalant SCIT protocols must never incorporate food extracts (distinct from investigational oral or epicutaneous food desensitization protocols).
 
 Comprehensive physiological and surgical principles connect these findings directly to [[The Gell and Coombs classification delineates four distinct immunologic hypersensitivity mechanisms underlying otolaryngic disease|hypersensitivity mechanisms]].
 

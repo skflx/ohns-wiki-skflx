@@ -6,7 +6,7 @@ tags:
   - complications
   - emergency-protocols
   - surgical-safety
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Frontal Sinus Surgery & Ostial Clearance"
@@ -89,5 +89,4 @@ flowchart TD
 - **Microvascular Crisis**: [[Microvascular free flap salvage requires urgent re-exploration within two hours of vascular compromise|Free Flap Salvage]]
 - **Ectropion Rescue**: [[Lateral canthopexy and lateral tarsal strip suspension prevent post-blepharoplasty ectropion|Lateral Tarsal Strip]]
 - **High-Stakes Safety**: [[Pollybeak deformities arise from cartilaginous over-projection or supratip soft tissue fibrosis|Pollybeak Deformity]]
-- **Structural / Flap Alternative**: [[Champy lines of ideal osteosynthesis dictate monocortical miniplate fixation along mandibular tension zones|Champy's Principle of Osteosynthesis]]
 - **Emergency Protocol**: [[Frostbite tissue salvage prioritizes rapid warm water bath thawing and delayed tissue demarcation over early debridement|Frostbite Rewarming Protocol]]

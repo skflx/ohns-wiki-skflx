@@ -8,7 +8,7 @@ tags:
   - knowledge-graph
   - master-moc
   - residency-curriculum
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -38,12 +38,12 @@ flowchart BT
 > [!NOTE] **Subspecialty Knowledge Cards Census & Curriculum Architecture**
 > | Metric | Value | Details |
 > | :--- | :--- | :--- |
-> | **Atomic Cards (Notes)** | **156** | Granular single-concept clinical and surgical factoids |
-> | **Source Coverage** | **156 / 156 (100%)** | Full attribution to authoritative surgical textbooks |
-> | **Active Recall Questions** | **343 total (2.2/card)** | Integrated retrieval prompts with mechanistic rationales |
-> | **Illustrated Cards** | **42 notes (60 figs)** | High-yield operative line drawings and anatomical diagrams |
+> | **Atomic Cards (Notes)** | **149** | Granular single-concept clinical and surgical factoids |
+> | **Source Coverage** | **149 / 149 (100%)** | Full attribution to authoritative surgical textbooks |
+> | **Active Recall Questions** | **329 total (2.2/card)** | Integrated retrieval prompts with mechanistic rationales |
+> | **Illustrated Cards** | **40 notes (59 figs)** | High-yield operative line drawings and anatomical diagrams |
 > | **Personal Notes Guard** | **100% verified** | Cryptographically guarded resident notes region |
-> | **Active Wiki-Links** | **1,260 links** | Bidirectional knowledge graph traversal web |
+> | **Active Wiki-Links** | **845 links** | Bidirectional knowledge graph traversal web |
 > | **Mastery Pyramid** | **7 Progressive Tiers** | From Bedrock Foundations to High-Stakes Complication Rescue |
 
 ```mermaid
@@ -334,8 +334,8 @@ Self-Assessment Checkpoint: Tier VII HGNS & MMA (Click to Expand)
 ### 📖 Tier S Clinical Foundations & Craft Nuances
 
 - **Midline Nasal Masses**: [[Congenital midline nasal masses must be imaged before any biopsy to exclude intracranial connection|Congenital Midline Nasal Masses]] (dermoids, encephaloceles, gliomas) mandate pre-biopsy MRI/CT to evaluate for anterior skull base defect (foramen cecum) before instrumentation.
-- **Laryngeal Cleft**: [[Laryngeal clefts are graded by the Benjamin-Inglis classification from interarytenoid notch to intrathoracic extension|Laryngeal Cleft (Benjamin-Inglis)]] stages defects from Type I (interarytenoid) to Type IV (intrathoracic).
-- **Airway Foreign Body**: [[Airway foreign body aspiration mandates rigid bronchoscopy despite normal radiographs|Airway Foreign Body Aspiration]] requires rigid endoscopy on clinical suspicion regardless of normal initial films.
+- **Laryngeal Cleft**: [[Type I through Type IV laryngeal clefts represent congenital tracheoesophageal communication defects|Laryngeal Cleft (Benjamin-Inglis)]] stages defects from Type I (interarytenoid) to Type IV (intrathoracic).
+- **Airway Foreign Body**: [[Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy|Airway Foreign Body Aspiration]] requires rigid endoscopy on clinical suspicion regardless of normal initial films.
 - **Pediatric Sialorrhea**: [[Pediatric sialorrhea is managed along a ladder from anticholinergics and botulinum toxin to duct surgery|Pediatric Sialorrhea]] progresses from speech/behavioral therapy to glycopyrrolate/scopolamine, intraglandular Botox, and duct relocation (Wilke) or submandibular excision.
 - **Newborn Hearing Screening**: [[Newborn hearing screening follows the one-three-six EHDI timeline with early CMV testing|Newborn Hearing Screening (1-3-6 EHDI)]] screens by 1 month, diagnoses by 3 months, and intervenes by 6 months, incorporating targeted congenital CMV testing.
 - **Ankyloglossia Release**: [[Ankyloglossia release is indicated for functional breastfeeding impairment rather than appearance|Ankyloglossia Release]] addresses frenulum restriction causing maternal nipple pain and poor latch rather than isolated cosmetic tongue-tie.
@@ -359,8 +359,8 @@ Self-Assessment Checkpoint: Tier VII HGNS & MMA (Click to Expand)
 
 ## **Tier S: Congenital Midline, Airway & Development Completion**
 - **Midline Nasal Masses**: [[Congenital midline nasal masses must be imaged before any biopsy to exclude intracranial connection|Congenital Midline Nasal Masses]] (dermoids, encephaloceles, gliomas) mandate pre-biopsy MRI/CT to evaluate for anterior skull base defect (foramen cecum) before instrumentation.
-- **Laryngeal Cleft**: [[Laryngeal clefts are graded by the Benjamin-Inglis classification from interarytenoid notch to intrathoracic extension|Laryngeal Cleft (Benjamin-Inglis)]] stages defects from Type I (interarytenoid) to Type IV (intrathoracic).
-- **Airway Foreign Body**: [[Airway foreign body aspiration mandates rigid bronchoscopy despite normal radiographs|Airway Foreign Body Aspiration]] requires rigid endoscopy on clinical suspicion regardless of normal initial films.
+- **Laryngeal Cleft**: [[Type I through Type IV laryngeal clefts represent congenital tracheoesophageal communication defects|Laryngeal Cleft (Benjamin-Inglis)]] stages defects from Type I (interarytenoid) to Type IV (intrathoracic).
+- **Airway Foreign Body**: [[Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy|Airway Foreign Body Aspiration]] requires rigid endoscopy on clinical suspicion regardless of normal initial films.
 - **Pediatric Sialorrhea**: [[Pediatric sialorrhea is managed along a ladder from anticholinergics and botulinum toxin to duct surgery|Pediatric Sialorrhea]] progresses from speech/behavioral therapy to glycopyrrolate/scopolamine, intraglandular Botox, and duct relocation (Wilke) or submandibular excision.
 - **Newborn Hearing Screening**: [[Newborn hearing screening follows the one-three-six EHDI timeline with early CMV testing|Newborn Hearing Screening (1-3-6 EHDI)]] screens by 1 month, diagnoses by 3 months, and intervenes by 6 months, incorporating targeted congenital CMV testing.
 - **Ankyloglossia Release**: [[Ankyloglossia release is indicated for functional breastfeeding impairment rather than appearance|Ankyloglossia Release]] addresses frenulum restriction causing maternal nipple pain and poor latch rather than isolated cosmetic tongue-tie.

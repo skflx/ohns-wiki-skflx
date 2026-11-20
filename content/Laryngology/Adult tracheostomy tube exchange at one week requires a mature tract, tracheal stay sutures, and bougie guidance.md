@@ -4,9 +4,13 @@ tier: "Tier II: Complex Surgical Airway & Reconstructive Interventions"
 tags:
   - laryngology
   - tracheostomy
+  - tracheostomy-exchange
   - surgical-airway
+  - airway-surgery
+  - procedure-technique
   - emergency-protocol
-last_revised: 2026-11-03
+  - safety-protocols
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Laryngology"
@@ -14,6 +18,10 @@ aliases:
   - "Tracheostomy Tube Exchange"
   - "First Trach Change Protocol"
   - "False Lumen Management"
+  - "Adult tracheostomy tube exchange at one week requires a mature tract, tracheal stay sutures, and bougie guidance"
+  - "Tracheostomy Tube Exchange Technique"
+  - "Bedside Tracheostomy Exchange Protocol"
+  - "Safe Tracheostomy Exchange"
 ---
 
 # Adult tracheostomy tube exchange at one week requires a mature tract, tracheal stay sutures, and bougie guidance
@@ -58,20 +66,25 @@ flowchart TD
 
 ### Surgical Technique & Craft Nuance: Step-by-Step First Exchange
 
-1. **Equipment Readiness**: Essential bedside equipment includes:
-   - Identical size tracheostomy tube AND a tube **one size smaller** (with corresponding obturators).
-   - Suction setup with French catheters and Yankauer.
-   - Tracheal dilator (Trousseau dilator or Laborde 3-bladed dilator).
-   - Lubricated endotracheal **bougie (Cook airway exchange catheter)**.
-   - Headlight, 10 mL syringe for cuff deflation, and supplemental $O_2$.
-2. **Pre-Oxygenation & Suctioning**: The patient is pre-oxygenated with 100% $O_2$, the cuff is suctioned above the cuff and deflated, and the neck is slightly extended with a shoulder roll.
-3. **Stay Suture Traction**: Lateral tracheal stay sutures (labeled "Left" and "Right") are identified. An assistant applies steady anterior and lateral traction on both stay sutures to pull the trachea against the anterior neck wall.
-4. **Bougie-Assisted Exchange**: A lubricated bougie is introduced through the existing tracheostomy tube into the distal trachea. The old tube is withdrawn over the bougie while maintaining the bougie in the tracheal lumen. The new, lubricated, cuffed tube with obturator (or rail-roaded over the bougie) is smoothly advanced into the trachea with a 90-degree rotary motion following the tracheal curve.
-5. **Confirmation of Placement**: Immediate confirmation of correct intratracheal positioning is verified by:
-   - Waveform **end-tidal $CO_2$ ($EtCO_2$)** or colorimetric capnography.
-   - Equal bilateral chest rise and breath sounds.
-   - Free passage of a flexible suction catheter into the distal bronchus.
-   - Flexible tracheoscopy if any resistance is encountered.
+1. **Equipment Readiness & Two-Provider Standard**: Minimum two providers (physician + RT/nurse) at bedside with:
+   - Pre-tested, water-soluble lubricated target tracheostomy tube AND a **backup tube one size smaller** (with obturators).
+   - Suction setup (French catheters, Yankauer), **Vienna or Killian nasal speculum** / Trousseau or Laborde tracheal dilator, Army-Navy/Senn retractors, cricoid hook.
+   - Lubricated endotracheal **bougie (Cook airway exchange catheter)**, **flexible fiberoptic tracheoscope/bronchoscope**, headlight, 10 mL syringe (air for [[Shiley, Bivona, and Portex tracheostomy tubes differ in cannula design, cuff profile, and airway resistance|Shiley]], sterile water for Bivona TTS), and oral intubation gear.
+2. **Pre-Oxygenation & Suctioning**: Pre-oxygenate with **$100\%\text{ }FiO_2$ for 3–5 minutes**, position supine with gentle neck extension, deeply suction oral cavity and airway, cut retention sutures while stabilizing flanges, and completely deflate the cuff.
+3. **Stay Suture Traction & Direct Nasal Speculum Visualization**: Apply upward and outward traction on labeled lateral stay sutures and immediately insert a **nasal speculum** into the stoma, spreading gently to directly visualize the glistening white cartilaginous tracheal rings. *Never advance a new tube blindly against resistance.*
+4. **Insertion, Obturator Removal & Bougie Option**: Smoothly advance the lubricated tube along the tract curve (or rail-road over a lubricated bougie passed through the old tube in deep/obese necks or recent PDT), **instantly withdraw the occlusive obturator**, insert the inner cannula, and inflate the cuff.
+5. **Objective Triad Confirmation & Collar Fit**: Immediately verify (1) continuous waveform **$EtCO_2$**, (2) equal bilateral chest rise and breath sounds, and (3) **flexible fiberoptic tracheoscopy** confirming the distal tip sits centered in the true lumen **$>2\text{–}3\text{ cm}$ above the carina** without bevel impingement. Fasten the collar with two fingerbreadths of clearance.
+6. **Recognizing a False Passage**: Zero $EtCO_2$, peak inspiratory pressure $>40\text{ cm }H_2O$, progressive subcutaneous crepitus, and absent breath sounds indicate pretracheal false passage—remove the tube immediately, pull stay sutures to expose the true lumen, or orally intubate from above.
+
+> [!example]- **Operative Note Template: Bedside tracheostomy tube exchange**
+> **PROCEDURE**: Bedside tracheostomy tube exchange
+> **PRE-PROCEDURAL DIAGNOSIS**: Tracheostomy-dependent state requiring routine tube exchange / downsizing
+> **POST-PROCEDURAL DIAGNOSIS**: Tracheostomy-dependent state status-post successful tube exchange
+> **SURGEON**: [Surgeon Name, MD] | **ASSISTANT**: [Resident/Fellow Name, MD], [RT/RN Name]
+>
+> **PROCEDURE IN DETAIL**:
+> After consent, surgical pause, supine positioning, and 3 minutes of 100% $FiO_2$ pre-oxygenation, deep suctioning and diagnostic tracheoscopy confirmed a mature tract without granulation or erosion. Retention sutures were cut, cuff completely deflated, and the old tube withdrawn while maintaining direct stomal visualization with a nasal speculum. A pre-tested, lubricated replacement tube was inserted smoothly without resistance, the obturator immediately removed, inner cannula secured, and cuff inflated to 22 cm $H_2O$. Waveform $EtCO_2$, symmetric bilateral breath sounds, and flexible fiberoptic confirmation (>2 cm above carina) were verified, and the flange secured with two fingerbreadths of clearance.
+
 ## References
 1. Mitchell, R.B., Hussey, H.M., Setzen, G., et al. (2013). Clinical consensus statement: Tracheostomy care. *Otolaryngol Head Neck Surg*, 148(1):6-20.
 2. Kraft, S.M., Schindler, J.S. (2020). Tracheotomy. In Flint, P.W., et al. (Eds.), *Cummings Otolaryngology Head and Neck Surgery* 7e (pp. 95-103). Philadelphia, PA: Elsevier.
@@ -81,5 +94,7 @@ flowchart TD
 - **Surgical Flap Alternative**: [[The Bjork flap facilitates emergency tracheostomy recannulation|Björk Flap Technique]]
 - **Primary Open Procedure**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Standard Open Tracheotomy]]
 - **Percutaneous Alternative**: [[Percutaneous dilatational tracheostomy utilizes bronchoscopic guidance and Seldinger dilation between tracheal rings|Percutaneous Tracheostomy]]
+- **Tube System Differences**: [[Shiley, Bivona, and Portex tracheostomy tubes differ in cannula design, cuff profile, and airway resistance|Shiley vs Bivona vs Portex]]
+- **Stomal Bleeding Rescue**: [[Tracheostomy stomal bleeding is controlled with cuff overinflation, hemostatic agents, and silver nitrate cautery|Stomal Bleeding Management]]
 - **Critical Vascular Complication**: [[Tracheoinnominate fistula presents with sentinel bleeding requiring hyperinflation tamponade and emergency surgical ligation|Tracheoinnominate Fistula]]
 - **Emergency Resuscitation Protocol**: [[Total laryngectomy stomas and tracheostomies require distinct emergency airway resuscitation algorithms|Laryngectomy vs Trach Resuscitation]]

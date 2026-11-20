@@ -7,7 +7,7 @@ tags:
   - friedman-staging
   - uppp
   - osa
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -67,7 +67,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Palatal Sleep Surgery**: [[Modified uvulopalatopharyngoplasty UPPP resects redundant palatal tissue while preserving muscular function|Modified UPPP Surgical Craft]]
-- **Lateral Wall Splinting**: [[Relocating the palatopharyngeus anterolaterally splints the lateral pharyngeal walls in expansion pharyngoplasty|Expansion Sphincter Pharyngoplasty]]
+- **Lateral Wall Splinting**: [[Expansion sphincter pharyngoplasty ESP rotates the palatopharyngeus muscle to stabilize lateral pharyngeal wall collapse|Expansion Sphincter Pharyngoplasty]]
 - **DISE Evaluation**: [[VOTE classification standardizes drug-induced sleep endoscopy findings across velum, oropharynx, tongue base, and epiglottis|VOTE Classification System]]
 - **Adult PSG Criteria**: [[Adult polysomnography criteria define obstructive sleep apnea severity by apnea-hypopnea index thresholds of five, fifteen, and thirty|Adult PSG Criteria]]
 - **Hypoglossal Stimulation**: [[Inclusion criteria for hypoglossal nerve stimulation include BMI less than thirty-five and absence of complete concentric collapse|HGNS Inclusion & Selection]]

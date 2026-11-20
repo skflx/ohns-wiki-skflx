@@ -6,7 +6,7 @@ tags:
   - neck-dissection
   - level-i
   - submandibular-triangle
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch10, p.201–203"
@@ -68,6 +68,4 @@ flowchart TD
 - **Submandibular Excision**: [[Submandibular gland excision requires preservation of the marginal mandibular, lingual, and hypoglossal nerves|Submandibular Excision]]
 - **Oral Tongue SCC**: [[Oral tongue carcinoma spreads along intrinsic lingual musculature to bilateral cervical lymphatics|Oral Tongue SCC]]
 - **Anatomical Foundation**: [[Post-radiation carotid vasculopathy and osteoradionecrosis represent severe late radiotherapy sequelae]]
-- **Surgical Lymphadenectomy**: [[Cervical chyle leaks are managed with MCT diet, octreotide, or surgical thoracic duct ligation]]
 - **Oncologic Resection & Margins**: [[Floor of mouth carcinoma requires sublingual gland excision and Wharton duct relocation]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Tracheoesophageal puncture TEP and voice prosthesis restore pulmonary-driven alaryngeal speech]]

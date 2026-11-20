@@ -6,7 +6,7 @@ tags:
   - anatomy
   - spinal-accessory-nerve
   - erb-point
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch43, p.776"
@@ -71,7 +71,3 @@ flowchart TD
 - **Level IIA/IIB**: [[Level II lymph nodes are anatomically divided into IIA and IIB by the spinal accessory nerve|Level II Subdivisions]]
 - **MRND**: [[Modified radical neck dissection types I, II, and III preserve non-lymphatic structures|MRND]]
 - **Level V Dissection**: [[Level V dissection requires skeletonization of the prevertebral fascia while protecting the phrenic nerve|Level V Dissection]]
-- **Anatomical Foundation**: [[The danger space permits unrestricted infection spread from skull base to posterior mediastinum]]
-- **Surgical Lymphadenectomy**: [[Superior mediastinal level VII dissection clears paratracheal lymph nodes below the sternal notch]]
-- **Oncologic Resection & Margins**: [[Marginal mandibulectomy preserves basilar bone height when tumor abuts but does not invade marrow]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Circumferential laryngopharyngectomy requires tubed microvascular or visceral flap reconstruction]]

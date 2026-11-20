@@ -6,7 +6,7 @@ tags:
   - biomaterials
   - resorbable-plates
   - polymers
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AOCMF2012, Ch1.4, p.45"
@@ -66,7 +66,6 @@ Surgical craft nuances for resorbables:
 
 ## Connected Concepts & Graph Traversal
 - **Permanent Titanium Comparison**: [[Commercially pure titanium forms a passivated titanium dioxide layer ensuring biocompatibility|Titanium Biocompatibility & Passivation]]
-- **Pediatric Fracture Management**: [[Pediatric white-eyed blowout fractures cause muscle entrapment requiring emergent surgical release|Pediatric Craniofacial Trauma]]
 - **Interfragmentary Strain Limits**: [[Perren strain theory dictates tissue differentiation and mechanical thresholds for osteogenesis|Perren Strain Theory]]
 - **Locking Plate Design**: [[Locking internal fixator plates preserve periosteal microvascular perfusion without frictional bone compression|Locking Internal Fixator Technology]]
 - **Midface Buttress Coordination**: [[The facial skeleton absorbs impact forces through vertical and horizontal structural buttresses|Facial Buttress System Architecture]]

@@ -7,7 +7,7 @@ tags:
   - advancement-flaps
   - a-t-plasty
   - h-plasty
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Ch21, pp. 571-576, 579-583"
@@ -34,7 +34,7 @@ Advancement techniques in the forehead utilize two primary geometric configurati
 1. **H-Plasty (Bilateral Rectangular Advancement)**: Two horizontal parallel incisions are made extending medially and laterally from the superior and inferior edges of the defect. The borders of the defect are squared into a rectangle. Standing cutaneous deformities (Burow triangles) are excised on opposite sides of the flap bases. For defects located immediately superior to the eyebrow, the inferior horizontal incision is placed precisely along the superior border of the eyebrow cilia. Excising additional normal skin between the defect and the brow margin allows the entire inferior scar line to hide within the eyebrow border.
 2. **A-T Plasty (Single-Incision Bilateral Advancement)**: Indicated for triangular or hemispherical defects where the base of the defect aligns with a natural aesthetic boundary (such as the eyebrow or a deep horizontal furrow). A single transverse incision is made along the base, creating two opposing advancement flaps that pivot and slide medially to appose in a vertical midline stem. The vertical closure line is limited in height, while the transverse limbs hide seamlessly along the brow or rhytid. For smaller defects ($\le 1.5\text{ cm}$), a unilateral A-T modification utilizing a single lateral incision and a lateral Burow triangle in the crow's-feet rhytids provides complete closure.
 
-Management of redundant standing cones during advancement relies on [[Z-plasty and W-plasty reorient scar vectors and break up linear contracture lines|W-plasty]] excisions or the "rule of halves" suturing technique. By distributing unequal wound margin lengths with bisecting sutures, standing cutaneous deformities at the lateral flap base can often be sewn out entirely without lengthening incisions.
+Management of redundant standing cones during advancement relies on [[Scar revision employs Z-plasty W-plasty and geometric broken line closure along relaxed skin tension lines|W-plasty]] excisions or the "rule of halves" suturing technique. By distributing unequal wound margin lengths with bisecting sutures, standing cutaneous deformities at the lateral flap base can often be sewn out entirely without lengthening incisions.
 
 ```mermaid
 %% Forehead Advancement Flap Selection

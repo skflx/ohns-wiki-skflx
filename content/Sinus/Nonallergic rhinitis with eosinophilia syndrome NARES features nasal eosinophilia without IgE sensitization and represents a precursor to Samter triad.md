@@ -7,7 +7,7 @@ tags:
   - NARES
   - atrophic-rhinitis
   - non-allergic-rhinitis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "EncycloOto, Vol R, p.67"
@@ -109,8 +109,8 @@ In severe primary atrophic rhinitis failing conservative therapy, surgical narro
 
 ## Connected Concepts & Graph Traversal
 - **IgE-Mediated Contrast**: [[Rhinitis subtypes are differentiated into allergic, vasomotor, gustatory, and rhinitis medicamentosa|Rhinitis Subtype Classification]]
-- **Aspirin Sensitivity Progression**: [[Non-Type 2 CRS features neutrophilic inflammation associated with cystic fibrosis and ciliopathies|Non-Type-2 CRS Pathway]]
-- **Klebsiella Sinonasal Infection**: [[Granulomatosis with polyangiitis presents with necrotizing sinonasal granulomas and saddle nose|Sinonasal Granulomatous DDx]]
+- **Aspirin Sensitivity Progression**: [[AERD manifests with asthma, nasal polyps, and severe aspirin-induced respiratory reactions|AERD Progression]]
+- **Granulomatous Differential**: [[Granulomatosis with polyangiitis presents with necrotizing sinonasal granulomas and saddle nose|Sinonasal Granulomatous DDx]]
 - **Biologic Escalation**: [[Biologic therapeutics in chronic rhinosinusitis target IgE, IL-4, IL-5, and IL-13 inflammatory pathways|CRS Biologic Therapy]]
 - **Parasympathetic Relay**: [[The sphenopalatine ganglion serves as the primary parasympathetic relay for the sinonasal cavity|Sphenopalatine Ganglion Autonomics]]
 - **Olfactory Impairment**: [[Olfactory neuroepithelium contains bipolar sensory neurons and basal stem cells|Olfactory Neuroepithelium and Atrophy]]

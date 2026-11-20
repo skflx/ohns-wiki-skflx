@@ -6,7 +6,7 @@ tags:
   - salivary-gland
   - pleomorphic-adenoma
   - benign-mixed-tumor
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.236, 239"
@@ -64,8 +64,4 @@ flowchart TD
 - **Superficial Parotidectomy**: [[Superficial parotidectomy dissects the facial nerve branches to resect the lateral salivary lobe|Superficial Parotidectomy]]
 - **Warthin Tumor**: [[Warthin tumor presents as a cystic parotid neoplasm associated with smoking and bilateral occurrence|Warthin Tumor]]
 - **Mucoepidermoid Carcinoma**: [[Mucoepidermoid carcinoma is graded by AFIP Brandwein criteria and driven by CRTC1-MAML2 translocation|Mucoepidermoid Carcinoma]]
-- **Anatomical Foundation**: [[AJCC 8th edition incorporates depth of invasion into oral cavity T-staging]]
-- **Surgical Lymphadenectomy**: [[Levels II through IV internal jugular chain dissection mobilizes the carotid sheath packet]]
-- **Oncologic Resection & Margins**: [[Buccal mucosa carcinoma exhibits high rates of local recurrence and Stensen duct involvement]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Postcricoid hypopharyngeal carcinoma frequently invades the cervical esophagus and bilateral RLNs]]
 - **Malignant Transformation**: [[Carcinoma ex pleomorphic adenoma arises from longstanding benign mixed tumors and is stratified by capsular invasion into noninvasive, minimally invasive, and widely invasive subtypes|Carcinoma ex Pleomorphic Adenoma]]

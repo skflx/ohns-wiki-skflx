@@ -6,7 +6,7 @@ tags:
   - hypopharynx
   - circumferential-resection
   - free-flaps
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch49, p.945"
@@ -30,7 +30,7 @@ aliases:
 Resection of extensive hypopharyngeal or cervical esophageal carcinomas often requires a **circumferential total laryngopharyngectomy**, leaving a complete $360^\circ$ pharyngoesophageal defect from the oropharynx to the mediastinal esophagus:
 - **Reconstructive Options**:
   1. **Tubed Anterolateral Thigh (ALT) Free Flap**:
-     - *Advantages*: Large, pliable skin paddle, low donor site morbidity, non-mucus secreting (prevents 'wet' voice), facilitates excellent [[Tracheoesophageal puncture TEP and voice prosthesis restore pulmonary-driven alaryngeal speech|tracheoesophageal puncture]] (TEP) speech.
+     - *Advantages*: Large, pliable skin paddle, low donor site morbidity, non-mucus secreting (prevents 'wet' voice), facilitates excellent [[Tracheoesophageal puncture diverts pulmonary air through a one-way valve into the neopharynx|tracheoesophageal puncture]] (TEP) speech.
      - *Execution*: Skin paddle is rolled into a cylinder over a salivary bypass tube / bougie with an inverting seam.
   2. **Tubed Radial Forearm Free Flap (RFFF)**:
      - *Advantages*: Ultra-thin and pliable; ideal for short-to-medium segmental defects.
@@ -66,5 +66,3 @@ flowchart TD
 - **RFFF Free Flap**: [[The radial forearm free flap provides thin, pliable fasciocutaneous tissue for oral and pharyngeal defects|RFFF Free Flap]]
 - **Anatomical Foundation**: [[Extranodal extension in cervical lymph nodes upstages nodal disease and dictates adjuvant chemoradiotherapy]]
 - **Surgical Lymphadenectomy**: [[Cervical chyle leaks are managed with MCT diet, octreotide, or surgical thoracic duct ligation]]
-- **Oncologic Resection & Margins**: [[Buccal mucosa carcinoma exhibits high rates of local recurrence and Stensen duct involvement]]
-- **Aerodigestive / Pharyngolaryngeal**: [[TORS radical tonsillectomy requires careful identification of the internal carotid artery posterolaterally]]

@@ -6,7 +6,7 @@ tags:
   - airway-emergencies
   - laryngectomy-stoma
   - tracheostomy-resuscitation
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -69,7 +69,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **En Bloc Total Laryngectomy**: [[Total laryngectomy achieves en bloc laryngeal resection with permanent end-stoma|Total Laryngectomy]]
-- **Open Tracheostomy Surgical Steps**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open Tracheostomy]]
+- **Open Tracheostomy Surgical Steps**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Open Tracheostomy]]
 - **Tracheoinnominate Fistula**: [[Tracheoinnominate fistula presents with sentinel bleeding requiring hyperinflation tamponade and emergency surgical ligation|Tracheoinnominate Fistula]]
 - **Subcutaneous Emphysema**: [[Subcutaneous emphysema arises when tracheotomy incisions are closed too tightly|Subcutaneous Emphysema]]
 - **Hands-Free Stoma Slings**: [[Hands-free stomaplasty stabilizes the peristomal contour using fascia lata slings|Hands-Free Stomaplasty]]

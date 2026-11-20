@@ -6,7 +6,7 @@ tags:
   - fess
   - basal-lamella
   - posterior-ethmoids
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
@@ -62,5 +62,3 @@ flowchart TD
 - **Preceding Step**: [[Entering the ethmoid bulla inferomedially avoids orbital and skull base penetration|Anterior Ethmoidectomy]]
 - **Diagnostic Evaluation**: [[Draf I frontal sinusotomy clears obstructing ethmoid cells without instrumenting the ostium|Draf I Frontal Sinusotomy]]
 - **Surgical Craft**: [[TIVA and greater palatine canal blocks optimize surgical field visibility in FESS|FESS Hemostasis Optimization]]
-- **Structural / Flap Alternative**: [[Temporoparietal fascia free and pedicled flaps provide vascularized tissue when nasoseptal flaps fail|Temporoparietal Fascia Flap (TPFF)]]
-- **Critical Safety / Complication**: [[Esthesioneuroblastoma Kadish and Hyams staging determines craniofacial resection and adjuvant therapy|Esthesioneuroblastoma (ENB)]]

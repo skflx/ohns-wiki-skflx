@@ -6,7 +6,7 @@ tags:
   - parathyroid
   - miami-criterion
   - iopth
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.112"
@@ -62,7 +62,3 @@ flowchart TD
 - **Hyperparathyroidism**: [[Primary hyperparathyroidism is caused by single adenomas, multigland hyperplasia, or parathyroid carcinoma|Hyperparathyroidism]]
 - **Parathyroid Localization**: [[Preoperative sestamibi SPECT and 4D-CT localize hyperfunctioning parathyroid glands|Parathyroid Localization]]
 - **Parathyroid Anatomy**: [[Superior and inferior parathyroid glands maintain constant anatomical relationships to the RLN and ITA|Parathyroid Anatomy]]
-- **Anatomical Foundation**: [[Level II lymph nodes are anatomically divided into IIA and IIB by the spinal accessory nerve]]
-- **Surgical Lymphadenectomy**: [[Endovascular covered stenting and coil embolization provide emergent control of carotid blowout]]
-- **Oncologic Resection & Margins**: [[Retromolar trigone carcinoma invades the pterygomandibular raphe and masticator space]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Prophylactic transcervical external carotid ligation reduces fatal secondary hemorrhage after TORS]]

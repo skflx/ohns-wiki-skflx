@@ -8,7 +8,7 @@ tags:
   - pharmacology
   - corticosteroids
   - steroid-equivalency
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Airway & Stridor Evaluation"
@@ -68,5 +68,3 @@ flowchart TD
 - **Sudden SNHL Salvage**: [[Idiopathic sudden sensorineural hearing loss requires prompt systemic corticosteroids and intratympanic salvage injection|Sudden SNHL Management]]
 - **Bell's Palsy**: [[Acute Bell's palsy presents with unilateral lower motor neuron facial paralysis treated with early oral steroids|Bell's Palsy Protocol]]
 - **Pediatric Croup**: [[Nebulized racemic epinephrine and oral dexamethasone provide rapid treatment for acute croup|Pediatric Croup Management]]
-- **Airway Fire & Safety**: [[Airway fire prevention requires FiO2 below 30 percent and laser-safe tubes|Airway Fire Protocol]]
-- **Reflux Therapeutics**: [[Laryngopharyngeal reflux presents with globus and throat clearing but responds inconsistently to empiric PPIs|Acid Suppression Pharmacotherapy]]

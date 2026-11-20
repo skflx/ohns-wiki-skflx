@@ -7,7 +7,7 @@ tags:
   - microvascular-surgery
   - donor-site-morbidity
   - surgical-technique
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "EncycloOto, Vol D, p.64-71"
@@ -85,6 +85,6 @@ flowchart TD
 
 - **Massive Myocutaneous Alternative**: [[The latissimus dorsi myocutaneous free flap covers massive soft tissue and skull base defects|Latissimus Dorsi Donor Morbidity]]
 - **Emergent Re-exploration Protocol**: [[Postoperative free flap compromise within forty-eight hours requires emergent surgical re-exploration for pedicle salvage|Free Flap Re-Exploration Criteria]]
-- **Microvascular Venous Salvage**: [[Postoperative free flap venous congestion presents with purple discoloration, rapid pinprick dark bleeding, and hyperdynamic Doppler signals|Venous Congestion Management]]
+- **Microvascular Venous Salvage**: [[Microvascular venous thrombosis presents with violaceous congestion and rapid dark bleeding on pinprick|Venous Congestion Management]]
 - **Preoperative Planning & Bone Jigs**: [[Virtual surgical planning and 3D cutting guides optimize fibula contouring and dental implant rehabilitation|Virtual Surgical Planning & Cutting Guides]]
 - **Pedicled Regional Alternative**: [[Pectoralis major muscle flap reinforcement prevents pharyngocutaneous fistula in salvage laryngectomy|Pectoralis Major Flap Preservation]]

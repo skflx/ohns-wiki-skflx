@@ -6,7 +6,7 @@ tags:
   - csf-leak
   - surgical-technique
   - de-mucosalization
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
@@ -69,7 +69,4 @@ flowchart TD
 - **Multi-Layering**: [[Multi-layer skull base reconstruction combines underlay, inlay, and overlay barriers|Multi-Layer Reconstruction]]
 - **Vascularized Flap**: [[The Hadad-Bassagasteguy nasoseptal flap is pedicled on the posterior septal artery|Nasoseptal Flap (NSF)]]
 - **Complication Matrix**: [[High-stakes sinonasal complications require proactive landmarking and emergency rescue protocols|High-Stakes Sinonasal Complications]]
-- **Surgical Craft**: [[Powered microdebrider blade selection and suction irrigation maintain clean surgical optics|Powered Microdebrider Craft]]
 - **Anatomical Foundation**: [[Spontaneous CSF leaks are strongly associated with idiopathic intracranial hypertension and elevated BMI|Spontaneous CSF Leaks & IIH]]
-- **Diagnostic Assessment**: [[Entering the ethmoid bulla inferomedially avoids orbital and skull base penetration|Anterior Ethmoidectomy Technique]]
-- **Critical Safety / Complication**: [[Esthesioneuroblastoma Kadish and Hyams staging determines craniofacial resection and adjuvant therapy|Esthesioneuroblastoma (ENB)]]

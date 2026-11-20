@@ -7,7 +7,7 @@ tags:
   - orbital-floor
   - blowout-fracture
   - surgical-technique
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -86,4 +86,3 @@ flowchart TD
 - **Pediatric Entrapment Emergency**: [[Pediatric white-eyed blowout fractures cause muscle entrapment requiring emergent surgical release|Pediatric White-Eyed Blowout]]
 - **Acute Compartment Rescue**: [[Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy|Retrobulbar Hematoma Rescue]]
 - **🔗 Medial Wall Fractures (Sinus)**: [[Lamina papyracea dehiscence predisposes to orbital fat herniation and medial rectus injury|Lamina Papyracea Dehiscence & Orbit]]
-- **Anatomical Foundation**: [[The Zitelli bilobed flap restricts rotation to ninety degrees to prevent pincushioning|Zitelli Bilobed Flap]]

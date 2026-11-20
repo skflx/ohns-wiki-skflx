@@ -6,7 +6,7 @@ tags:
   - trauma
   - coronoidectomy
   - trismus
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -60,6 +60,4 @@ flowchart TD
 - **ZMC Reduction**: [[Zygomaticomaxillary complex fractures disrupt four buttress articulations requiring multi-point reduction|ZMC Tetrapod Fixation]]
 - **Panfacial Trauma**: [[Panfacial fracture reconstruction proceeds from known stable peripheral buttresses to central occlusion|Panfacial Sequencing]]
 - **Temporalis Anatomy**: [[Temporalis muscle tendon transfer provides regional dynamic smile reanimation|Temporalis Muscle Anatomy]]
-- **Pathological Mechanism**: [[Orbital apex syndrome and superior orbital fissure syndrome manifest with ophthalmoplegia and vision loss|Orbital Apex Syndrome (OAS)]]
 - **Anatomical Foundation**: [[Maxillomandibular fixation MMF using arch bars, hybrid systems, and IMF screws re-establishes occlusion|Maxillomandibular Fixation (MMF / IMF)]]
-- **Critical Safety / Complication**: [[Osteoradionecrosis of the mandible requires radical bony debridement and vascularized fibula free flap repair|Mandibular Osteoradionecrosis (ORN)]]

@@ -9,7 +9,7 @@ tags:
   - master-index
   - source-document
   - self-assessment
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -31,12 +31,12 @@ Welcome to the **Comprehensive Laryngology Residency Mastery Knowledge Graph**. 
 > [!NOTE] **Subspecialty Knowledge Cards Census & Curriculum Architecture**
 > | Metric | Value | Details |
 > | :--- | :--- | :--- |
-> | **Atomic Cards (Notes)** | **151** | Granular single-concept clinical and surgical factoids |
-> | **Source Coverage** | **151 / 151 (100%)** | Full attribution to authoritative surgical textbooks |
-> | **Active Recall Questions** | **316 total (2.1/card)** | Integrated retrieval prompts with mechanistic rationales |
+> | **Atomic Cards (Notes)** | **148** | Granular single-concept clinical and surgical factoids |
+> | **Source Coverage** | **148 / 148 (100%)** | Full attribution to authoritative surgical textbooks |
+> | **Active Recall Questions** | **310 total (2.1/card)** | Integrated retrieval prompts with mechanistic rationales |
 > | **Illustrated Cards** | **19 notes (23 figs)** | High-yield operative line drawings and anatomical diagrams |
 > | **Personal Notes Guard** | **100% verified** | Cryptographically guarded resident notes region |
-> | **Active Wiki-Links** | **1,459 links** | Bidirectional knowledge graph traversal web |
+> | **Active Wiki-Links** | **1,433 links** | Bidirectional knowledge graph traversal web |
 > | **Mastery Pyramid** | **7 Progressive Tiers** | From Bedrock Foundations to High-Stakes Complication Rescue |
 
 ```mermaid
@@ -443,7 +443,7 @@ The ELS Cordectomy Classification standardizes transoral endoscopic laser resect
 > 3. **Suprahyoid Release:** Skeletonize the upper border of the hyoid bone, dividing geniohyoid, mylohyoid, and digastric tendon insertions.  
 > 4. **Pharyngeal Entry:** Enter pharynx *contralateral to tumor origin* via the vallecula or contralateral pyriform sinus. Inspect endolarynx under direct visualization to confirm tumor boundaries.  
 > 5. **Larynx Excision:** Extend pharyngeal cuts inferiorly along both pyriform sinuses to the post-cricoid region, maximizing mucosal preservation. Bevel tracheal transection between rings 1–2 or 2–3, angling cut superiorly on the posterior wall.  
-> 6. **[[Pharyngeal reconstruction requires a three-layer closure to prevent fistula|Pharyngeal Reconstruction]]:** Perform a 3-layer tension-free closure in a "T" or vertical configuration using continuous inverting Connell mucosal sutures with 3-0 Vicryl, followed by muscularis and adventitial reinforcement layers to prevent pharyngocutaneous fistula.  
+> 6. **[[Primary pharyngeal closure after total laryngectomy utilizes an inverting Connell technique|Pharyngeal Reconstruction]]:** Perform a 3-layer tension-free closure in a "T" or vertical configuration using continuous inverting Connell mucosal sutures with 3-0 Vicryl, followed by muscularis and adventitial reinforcement layers to prevent pharyngocutaneous fistula.  
 > 7. **Tracheostoma Maturation:** Create circular dermal excision in inferior skin flap. Suture beveled trachea to skin with interrupted 3-0 nonabsorbable sutures (e.g., Prolene/Nylon) securing cartilaginous rings to dermis.
 
 ### **4. Alaryngeal Voice Rehabilitation & Tracheoesophageal Puncture (TEP)**
@@ -605,7 +605,7 @@ For complete landmarking, failure modes, and systematic rescue drills across all
   - [[SCPL with CHEP preserves the epiglottis, cricoid, and one mobile arytenoid|SCPL with CHEP]]
   - [[SCPL with CHP resects the epiglottis and vocal folds for supraglottic cancer|SCPL with CHP]]
   - [[Total laryngectomy achieves en bloc laryngeal resection with permanent end-stoma|Total laryngectomy]]
-  - [[Pharyngeal reconstruction requires a three-layer closure to prevent fistula|Three-layer pharyngeal closure]]
+  - [[Primary pharyngeal closure after total laryngectomy utilizes an inverting Connell technique|Three-layer pharyngeal closure]]
   - [[The electrolarynx provides immediate mechanical speech via acoustic coupling|Electrolarynx]]
   - [[Esophageal speech utilizes swallowed air across the PE segment for voicing|Esophageal speech]]
   - [[Tracheoesophageal puncture diverts pulmonary air through a one-way valve into the neopharynx|Tracheoesophageal puncture (TEP)]]

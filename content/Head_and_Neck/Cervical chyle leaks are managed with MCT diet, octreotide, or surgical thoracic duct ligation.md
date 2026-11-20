@@ -6,7 +6,7 @@ tags:
   - complications
   - chyle-leak
   - thoracic-duct
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -65,5 +65,3 @@ flowchart TD
 - **Neck Dissection**: [[Radical neck dissection removes levels I through V while sacrificing CN XI, the IJV, and the SCM|Neck Dissection]]
 - **Anatomical Foundation**: [[Extranodal extension in cervical lymph nodes upstages nodal disease and dictates adjuvant chemoradiotherapy]]
 - **Surgical Lymphadenectomy**: [[Modified radical neck dissection types I, II, and III preserve non-lymphatic structures]]
-- **Oncologic Resection & Margins**: [[Oral tongue carcinoma spreads along intrinsic lingual musculature to bilateral cervical lymphatics]]
-- **Aerodigestive / Pharyngolaryngeal**: [[TORS radical tonsillectomy requires careful identification of the internal carotid artery posterolaterally]]

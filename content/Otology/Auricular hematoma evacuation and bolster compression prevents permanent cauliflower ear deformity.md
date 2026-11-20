@@ -6,7 +6,7 @@ tags:
   - trauma
   - auricular-reconstruction
   - hematoma-management
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Otology"
@@ -107,4 +107,3 @@ flowchart TD
 - **🔗 Differential Diagnosis (Laryngology)**: [[Relapsing polychondritis causes autoimmune auricular and laryngotracheal chondritis with sparing of the non-cartilaginous lobule|Relapsing Polychondritis]]
 - **Otologic Trauma**: [[Temporal bone longitudinal and transverse fractures cause delayed or immediate facial paralysis|Temporal Bone Trauma]]
 - **Anatomical Foundation**: [[Traumatic tympanic membrane perforations heal spontaneously in the majority of cases without early surgery|Traumatic TM Perforation]]
-- **Surgical Craft**: [[Complete cortical mastoidectomy unroofs the mastoid antrum and establishes dependent middle ear drainage|Cortical Mastoidectomy]]

@@ -6,7 +6,7 @@ tags:
   - otoplasty
   - gibsons-principle
   - cartilage-scoring
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -61,6 +61,4 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **Suture Technique**: [[Mustarde and Furnas sutures correct antihelical effacement and conchal hypertrophy|Mustarde & Furnas Sutures]]
 - **Microtia Craft**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Costal Cartilage Framework]]
-- **Rhinoplasty Warping**: [[Goode's ratio and nasolabial angles define standard aesthetic nasal tip proportions|Cartilage Graft Mechanics]]
-- **Diagnostic Evaluation**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
-- **Anatomical Foundation**: [[Antia-Buch helical rim chondrocutaneous advancement flaps mobilize the helical margin and lobule to close defects up to two centimeters|Antia-Buch Flap]]
+- **Cartilage Warping & Gibson's Principle**: [[Costal cartilage harvest and concentric carving prevent structural graft warping in revision rhinoplasty|Concentric Carving & Gibson's Principle]]

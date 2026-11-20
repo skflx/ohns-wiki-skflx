@@ -6,7 +6,7 @@ tags:
   - facial-nerve
   - nerve-repair
   - microneurorrhaphy
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch28, p.538"
@@ -63,8 +63,8 @@ flowchart TD
 - **Realistic Recovery Expectations**: Following complete transection and repair, the best possible functional outcome is **House-Brackmann Grade III** (mass movement with synkinesis); Grade I or II recovery is biologically impossible due to non-specific axonal misdirection.
 
 ## Connected Concepts & Graph Traversal
-- **Dynamic Reanimation Alternative**: [[Masseteric nerve transfer to facial nerve branches restores rapid, powerful dynamic smile reanimation|Masseteric Nerve Transfer]]
-- **Hypoglossal Cable Transfer**: [[Hypoglossal-to-facial nerve anastomosis restores resting facial tone and voluntary smile with tongue movement|Hypoglossal-Facial Anastomosis]]
+- **🔗 Dynamic Reanimation Alternative (FPRS)**: [[The masseteric nerve provides a dense motor donor for single-stage facial reanimation|Masseteric Nerve Transfer]]
+- **🔗 Hypoglossal Cable Transfer (FPRS)**: [[Hypoglossal-facial nerve transfer restores resting facial symmetry and basal muscle tone|Hypoglossal-Facial Anastomosis]]
 - **Intratemporal Fallopian Course**: [[The facial nerve traverses six distinct anatomical segments from the pons to the parotid gland|Fallopian Canal Landmarks]]
 - **Traumatic Temporal Bone Injury**: [[Temporal bone longitudinal and transverse fractures cause delayed or immediate facial paralysis|Temporal Bone Fractures]]
 - **🔗 Corneal Lagophthalmos Protection (FPRS)**: [[Upper eyelid platinum weights and lateral tarsal strips protect the cornea in flaccid facial paralysis|Upper Eyelid Weight Implantation]]

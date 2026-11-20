@@ -6,7 +6,7 @@ tags:
   - sleep-medicine
   - concentric-collapse
   - hgns-contraindication
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Cleft Lip and Palate Reconstruction"
@@ -68,7 +68,3 @@ flowchart TD
 - **VOTE Classification**: [[VOTE classification standardizes drug-induced sleep endoscopy findings across velum, oropharynx, tongue base, and epiglottis|VOTE Classification]]
 - **HGNS Stimulation**: [[Hypoglossal nerve stimulation HGNS activates the medial branch of CN XII to advance the tongue during inspiration|HGNS Stimulation]]
 - **Expansion Pharyngoplasty**: [[Expansion sphincter pharyngoplasty ESP rotates the palatopharyngeus muscle to stabilize lateral pharyngeal wall collapse|Expansion Pharyngoplasty]]
-- **Embryological & Sleep Foundation**: [[Second branchial cleft anomalies represent the most common branchial anomaly situated anterior to the sternocleidomastoid]]
-- **Adenotonsillar & Endoscopic DISE**: [[Dexmedetomidine and propofol titrations simulate natural sleep architecture during DISE]]
-- **Congenital Airway Pathology**: [[Omega-shaped epiglottis, foreshortened aryepiglottic folds, and redundant arytenoid mucosa define laryngomalacia]]
-- **Open Airway Reconstruction**: [[Suprahyoid and infrahyoid laryngeal release maneuvers reduce anastomotic tension in tracheal surgery]]

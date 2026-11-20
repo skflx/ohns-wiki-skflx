@@ -6,7 +6,7 @@ tags:
   - complications
   - vpi-sleep-surgery
   - nasal-regurgitation
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Cleft Lip and Palate Reconstruction"
@@ -72,7 +72,3 @@ flowchart TD
 - **Modified UPPP**: [[Modified uvulopalatopharyngoplasty UPPP resects redundant palatal tissue while preserving muscular function|Modified UPPP]]
 - **Palatopharyngeal Stenosis**: [[Postoperative palatopharyngeal stenosis is a severe complication of over-resection managed with local flaps|Palatopharyngeal Stenosis]]
 - **VPI Overview**: [[Velopharyngeal insufficiency VPI causes hypernasal resonance and nasal air emission during speech|VPI Overview]]
-- **Embryological & Sleep Foundation**: [[High loop gain causes ventilatory instability and periodic breathing in sleep-disordered breathing]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Lingual tonsil hypertrophy causes persistent pediatric obstructive sleep apnea and base of tongue collapse]]
-- **Congenital Airway Pathology**: [[Acute epiglottitis causes rapid supraglottic swelling with thumbprint sign and mandates controlled operating room intubation]]
-- **Open Airway Reconstruction**: [[Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates]]

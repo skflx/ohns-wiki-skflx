@@ -7,7 +7,7 @@ tags:
   - ome
   - tubes
   - guidelines
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Ch15, p.13"
@@ -92,4 +92,3 @@ flowchart TD
 - **Adult Unilateral Effusion Hazard**: [[Adult unilateral otitis media with effusion mandates nasopharyngoscopy to exclude nasopharyngeal carcinoma|Adult Unilateral OME & NPC Screen]]
 - **🔗 Cleft Palate Middle Ear Pathology (Pediatrics)**: [[Unilateral and bilateral cleft lip and palate result from failure of fusion of the maxillary and medial nasal prominences|Cleft Palate & Tensor Veli Palatini Dysfunction]]
 - **Permanent Perforation Repair**: [[Cartilage island tympanoplasty resists negative middle ear pressure and recurrent retraction|Cartilage Island Tympanoplasty for Post-Extrusion Perforation]]
-- **🔗 Universal Newborn Hearing (Pediatrics)**: [[Connexin 26 mutations in GJB2 and congenital CMV infection are leading causes of non-syndromic pediatric sensorineural hearing loss|Newborn Hearing Screening]]

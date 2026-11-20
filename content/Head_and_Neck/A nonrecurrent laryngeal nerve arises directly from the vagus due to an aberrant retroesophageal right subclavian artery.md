@@ -7,7 +7,7 @@ tags:
   - surgical-anatomy
   - neuroanatomy
   - embryology
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.104"
@@ -58,6 +58,5 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **Standard Pathway**: [[The recurrent laryngeal nerve is identified within Simon's triangle and followed through Berry's ligament|Standard RLN Course & Simon's Triangle]]
 - **Superior Laryngeal Partner**: [[The superior thyroid artery branches are divided flush on the thyroid capsule to protect the EBSLN|EBSLN Preservation]]
-- **Premalignant Esophageal Web**: [[Plummer-Vinson syndrome combines iron deficiency anemia, postcricoid esophageal webs, and mucosal atrophy with malignant potential|Plummer-Vinson Syndrome]]
 - **Neuromonitoring Craft**: [[Intraoperative neuromonitoring of the RLN and EBSLN verifies nerve integrity and aids nerve identification|IONM Latency & Amplitude Mapping]]
 - **Carotid Neighbor**: [[The carotid sheath is composed of all three layers of deep cervical fascia and forms a vertical neurovascular conduit|Carotid Sheath Vagus Origin]]

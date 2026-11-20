@@ -6,7 +6,7 @@ tags:
   - scars
   - keloids
   - hypertrophic-scars
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -62,6 +62,4 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **Normal Healing**: [[Wound healing progresses through hemostasis, inflammation, proliferation, and maturation|Normal Wound Healing Phases]]
 - **Tension Management**: [[Relaxed skin tension lines minimize scar hypertrophy along perpendicular muscular vectors|RSTLs & Scar Tension]]
-- **Reorientation**: [[Z-plasty and W-plasty reorient scar vectors and break up linear contracture lines|Z-Plasty Scar Revision]]
-- **Anatomical Foundation**: [[Alar batten and lateral crural strut grafts prevent external nasal valve inspiratory collapse|External Nasal Valve Collapse]]
-- **Surgical Craft**: [[Alar subunit reconstruction requires non-anatomical rigid cartilage grafting to counteract scar contracture and prevent alar rim notching|Alar Subunit Cartilage Framework]]
+- **Reorientation**: [[Scar revision employs Z-plasty W-plasty and geometric broken line closure along relaxed skin tension lines|Z-Plasty Scar Revision]]

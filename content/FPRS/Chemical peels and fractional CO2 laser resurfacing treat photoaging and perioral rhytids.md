@@ -6,7 +6,7 @@ tags:
   - skin-resurfacing
   - chemical-peels
   - co2-laser
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -71,4 +71,3 @@ flowchart TD
 - **Rhytidectomy Adjunct**: [[Deep-plane rhytidectomy mobilizes the skin and SMAS as a composite flap across retaining ligaments|Deep-Plane Rhytidectomy]]
 - **Volume Contrast**: [[Autologous fat grafting restores volume loss across facial aesthetic fat compartments|Fat Grafting]]
 - **Neuromodulator Synergy**: [[Cosmetic botulinum toxin treats dynamic rhytids through presynaptic acetylcholine blockade|Cosmetic Botulinum Toxin]]
-- **Anatomical Foundation**: [[Panfacial fracture reconstruction proceeds from known stable peripheral buttresses to central occlusion|Panfacial Fracture Sequencing]]

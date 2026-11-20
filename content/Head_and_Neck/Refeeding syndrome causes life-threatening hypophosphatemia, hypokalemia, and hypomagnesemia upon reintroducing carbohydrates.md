@@ -8,7 +8,7 @@ tags:
   - electrolytes
   - hypophosphatemia
   - perioperative-care
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -61,8 +61,6 @@ flowchart TD
 - **High-Risk Profiles**: BMI $<16\text{ kg/m}^2$, weight loss $>15\%$ over 3–6 months, nil-per-os (NPO) status $>10\text{ days}$, or extensive post-laryngectomy / free flap reconstructive convalescence (see [[Implantable Doppler probes provide continuous real-time monitoring of microvascular free flap pedicles|Postoperative Free Flap Monitoring]]).
 
 ## Connected Concepts & Graph Traversal
-- **Free Flap Care**: [[Implantable Doppler probes provide continuous real-time monitoring of microvascular free flap pedicles|Postoperative Free Flap Monitoring]]
 - **Chyle Leak Nutrition**: [[Cervical chyle leaks are managed with MCT diet, octreotide, or surgical thoracic duct ligation|MCT Diet in Chyle Leak]]
 - **Post-Thyroidectomy Calcium**: [[Post-thyroidectomy hypocalcemia is managed with oral calcium, calcitriol, and intravenous calcium gluconate|Hypocalcemia Monitoring]]
 - **Laryngectomy Feeding**: [[Primary pharyngeal closure after total laryngectomy utilizes an inverting Connell technique|Total Laryngectomy Pharyngeal Reconstruction]]
-- **Anesthesia Optimization**: [[Airway assessment classifications predict difficult direct laryngoscopy using anatomical landmarks|Perioperative Assessment]]

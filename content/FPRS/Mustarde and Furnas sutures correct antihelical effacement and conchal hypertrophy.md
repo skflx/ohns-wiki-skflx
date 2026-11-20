@@ -6,7 +6,7 @@ tags:
   - otoplasty
   - mustarde-sutures
   - furnas-sutures
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Ch22 (Reconstruction of the Auricle)"
@@ -72,5 +72,3 @@ flowchart TD
 - **Cartilage Scoring**: [[Stenstrom and Chongchet cartilage scoring utilizes Gibson's principle to fold the antihelix|Gibson's Principle Scoring]]
 - **Framework Reconstruction**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Microtia Reconstruction]]
 - **Helical Rim Advancement**: [[Advancement flaps recruit adjacent tissue laxity along a linear vector without rotation|Antia-Buch Flap]]
-- **Diagnostic Evaluation**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
-- **Anatomical Foundation**: [[Postoperative free flap anticoagulation and antiplatelet protocols balance thrombosis against hematoma|Microvascular Anticoagulation Protocols]]

@@ -7,7 +7,7 @@ tags:
   - lagophthalmos
   - corneal-protection
   - exposure-keratitis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch21, p.401"
@@ -28,7 +28,7 @@ aliases:
 > *Answer / Clinical Rationale*: Horizontal taping follows the natural curve of the orbicularis fibers and safely anchors the upper lid closed. Vertical taping risks catching the lid margin improperly, allowing the eyelid to partially open underneath the tape while sleeping, causing the adhesive surface to abrade the cornea directly and inducing acute corneal ulceration.
 
 ## Core Clinical & Mechanistic Principles
-In acute or chronic [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|facial nerve paralysis]], denervation of the zygomatic and buccal branches deprives the **orbicularis oculi muscle** of motor innervation. This paralytic loss of voluntary and involuntary blink reflex, combined with loss of the parasympathetic lacrimal pump mechanism and ectropion of the lower eyelid, results in **[[Upper eyelid gold or platinum weight implantation prevents exposure keratopathy in lagophthalmos|lagophthalmos]]** (incomplete mechanical eye closure). Unopposed levator palpebrae superioris tone ($CN\text{ III}$) leaves the inferior cornea persistently exposed to ambient air drying, desiccation, and epithelial breakdown. Without aggressive preventive measures, rapid progression to exposure keratitis, corneal ulceration, stromal melt, and permanent blindness will ensue.
+In acute or chronic [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|facial nerve paralysis]], denervation of the zygomatic and buccal branches deprives the **orbicularis oculi muscle** of motor innervation. This paralytic loss of voluntary and involuntary blink reflex, combined with loss of the parasympathetic lacrimal pump mechanism and ectropion of the lower eyelid, results in **[[Upper eyelid platinum weights and lateral tarsal strips protect the cornea in flaccid facial paralysis|lagophthalmos]]** (incomplete mechanical eye closure). Unopposed levator palpebrae superioris tone ($CN\text{ III}$) leaves the inferior cornea persistently exposed to ambient air drying, desiccation, and epithelial breakdown. Without aggressive preventive measures, rapid progression to exposure keratitis, corneal ulceration, stromal melt, and permanent blindness will ensue.
 
 ```mermaid
 %% Lagophthalmos Management and Corneal Sparing Cascade

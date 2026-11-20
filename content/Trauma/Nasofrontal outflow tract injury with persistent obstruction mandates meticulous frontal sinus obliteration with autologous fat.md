@@ -7,7 +7,7 @@ tags:
   - nfot
   - obliteration
   - mucocele-prevention
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AOCMF2012, Ch4.1, p.251"
@@ -60,4 +60,3 @@ Surgical tenets:
 - **Posterior Table Cranialization**: [[Comminuted posterior table frontal sinus fractures with dural lacerations mandate frontal sinus cranialization|Posterior Table Cranialization Doctrine]]
 - **Endoscopic Outflow Rescue**: [[The frontal sinus rescue procedure utilizes a medially based middle turbinate mucosal flap to resurface denuded bone and prevent Draf IIb ostial restenosis|Frontal Sinus Rescue Procedure]]
 - **Expanded Frontal Drainage**: [[Draf III modified Lothrop unites both frontal sinuses into a common cavity|Draf III Modified Lothrop]]
-- **Bone Healing Doctrine**: [[Primary contact bone healing requires absolute stability with interfragmentary strain under two percent|Primary Bone Healing]]

@@ -8,7 +8,7 @@ tags:
   - friedman-staging
   - fujita-classification
   - surgical-outcomes
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch9, p.194, 196–197"
@@ -118,6 +118,6 @@ Comprehensive anatomical and therapeutic integration links these principles dire
 ## Connected Concepts & Graph Traversal
 - **Palatal Resection Craft**: [[Modified uvulopalatopharyngoplasty UPPP resects redundant palatal tissue while preserving muscular function|Modified UPPP Surgical Technique]]
 - **Tonsil & Palate Scoring**: [[The Friedman staging system correlates tonsil size and palate position with uvulopalatopharyngoplasty success|Friedman Staging System]]
-- **Lateral Wall Splinting**: [[Relocating the palatopharyngeus anterolaterally splints the lateral pharyngeal walls in expansion pharyngoplasty|Expansion Sphincter Pharyngoplasty]]
+- **Lateral Wall Splinting**: [[Expansion sphincter pharyngoplasty ESP rotates the palatopharyngeus muscle to stabilize lateral pharyngeal wall collapse|Expansion Sphincter Pharyngoplasty]]
 - **Endoscopic Sleep Assessment**: [[VOTE classification standardizes drug-induced sleep endoscopy findings across velum, oropharynx, tongue base, and epiglottis|VOTE Classification]]
 - **Hypoglossal Neuromodulation**: [[Inclusion criteria for hypoglossal nerve stimulation include BMI less than thirty-five and absence of complete concentric collapse|HGNS Candidacy Criteria]]

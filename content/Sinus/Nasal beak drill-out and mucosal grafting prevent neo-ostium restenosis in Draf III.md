@@ -6,7 +6,7 @@ tags:
   - fess
   - draf-iii
   - osteoneogenesis
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Frontal Sinus Surgery & Ostial Clearance"
@@ -67,5 +67,4 @@ flowchart TD
 - **Posterior Danger**: [[First olfactory filum marks the posterior limit of frontal drill-out to avoid CSF leak|First Olfactory Filum]]
 - **Complication Matrix**: [[High-stakes sinonasal complications require proactive landmarking and emergency rescue protocols|High-Stakes Sinonasal Complications]]
 - **Diagnostic Evaluation**: [[Draf I frontal sinusotomy clears obstructing ethmoid cells without instrumenting the ostium|Draf I Frontal Sinusotomy]]
-- **Critical Safety / Complication**: [[Esthesioneuroblastoma Kadish and Hyams staging determines craniofacial resection and adjuvant therapy|Esthesioneuroblastoma (ENB)]]
 - **Complication Rescue**: [[The outside-in Draf III modified endoscopic Lothrop procedure establishes anterior septal and olfactory boundaries before drilling the nasofrontal beak|Outside-In Draf III]]

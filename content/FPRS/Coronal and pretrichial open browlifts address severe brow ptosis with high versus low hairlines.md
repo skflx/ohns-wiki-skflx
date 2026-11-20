@@ -6,7 +6,7 @@ tags:
   - browlift
   - pretrichial-browlift
   - coronal-browlift
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Forehead"
@@ -64,4 +64,3 @@ flowchart TD
 - **Nerve Hazard**: [[The sentinel vein marks the trajectory of the frontal branch of the facial nerve|Sentinel Vein & Frontal Branch]]
 - **Blepharoplasty Relation**: [[Upper blepharoplasty requires precise skin crease marking to avoid lagophthalmos|Upper Blepharoplasty]]
 - **Hairline Recession Staging**: [[Androgenic alopecia management spans Norwood-Hamilton staging, medical five-alpha reductase blockade, and follicular unit transplantation|Norwood-Hamilton Staging]]
-- **Anatomical Foundation**: [[Coronoidectomy relieves severe trismus caused by temporalis impingement under displaced zygomatic arch|Mandibular Coronoidectomy]]

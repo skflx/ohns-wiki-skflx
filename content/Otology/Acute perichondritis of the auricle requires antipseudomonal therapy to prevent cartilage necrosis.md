@@ -6,7 +6,7 @@ tags:
   - perichondritis
   - infectious-disease
   - pseudomonas
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Otology"
@@ -75,4 +75,3 @@ flowchart TD
 - **Infectious Source**: [[Acute otitis externa is managed with topical antimicrobial-steroid drops and aural debridement|Acute Otitis Externa]]
 - **Invasive Skull Base Extension**: [[Malignant necrotizing otitis externa is an invasive pseudomonal skull base osteomyelitis in elderly diabetic patients|Malignant Otitis Externa]]
 - **🔗 Autoimmune Mimic (Laryngology)**: [[Relapsing polychondritis causes autoimmune auricular and laryngotracheal chondritis with sparing of the non-cartilaginous lobule|Relapsing Polychondritis]]
-- **Anatomical Foundation**: [[Inner ear barotrauma and decompression sickness produce acute cochleovestibular dysfunction through pressure-induced membrane rupture or inert gas bubble embolization requiring hyperbaric therapy|Inner Ear Barotrauma]]

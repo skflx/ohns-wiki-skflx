@@ -6,7 +6,7 @@ tags:
   - facial-reanimation
   - tmtt
   - regional-muscle-transfer
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -61,5 +61,4 @@ flowchart TD
 - **Static Option**: [[Static fascia lata slings suspend the modiolus and nasal valve in non-innervation candidates|Static Fascia Slings]]
 - **Anatomical Foundation**: [[Cross-facial nerve grafting provides coordinated spontaneous smile excursion in children|Cross-Facial Nerve Graft (CFNG)]]
 - **Surgical Craft**: [[Epineural neurorrhaphy and cable nerve grafting restore facial continuity within twelve months|Direct Epineural Neurorrhaphy]]
-- **Structural / Flap Alternative**: [[Champy lines of ideal osteosynthesis dictate monocortical miniplate fixation along mandibular tension zones|Champy's Principle of Osteosynthesis]]
 - **Free Functional Muscle Alternative**: [[Cross-facial nerve grafting combined with free gracilis muscle transfer restores spontaneous emotional smile excursion in established facial paralysis|Two-Stage CFNG-Gracilis Reanimation]]

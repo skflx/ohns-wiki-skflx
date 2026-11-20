@@ -8,7 +8,7 @@ tags:
   - tracheostomy-bleeding
   - granulation-tissue
   - hemostasis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Laryngology"
@@ -109,5 +109,5 @@ Any episode of brisk, pulsatile bleeding or spontaneous bleeding $>10–20\text{
 - **Catastrophic Hemorrhage Rescue**: [[Massive tracheostomy hemorrhage requires cuff overinflation, digital compression, and emergent surgical or endovascular control|Massive Tracheostomy Bleeding Management]]
 - **TIF Pathophysiology**: [[Tracheoinnominate fistula presents with sentinel bleeding requiring hyperinflation tamponade and emergency surgical ligation|Tracheoinnominate Fistula]]
 - **Tube System Architecture**: [[Shiley, Bivona, and Portex tracheostomy tubes differ in cannula design, cuff profile, and airway resistance|Tracheostomy Tube Types]]
-- **Exchange Protocol**: [[Tracheostomy tube exchange technique requires pre-oxygenation, nasal speculum visualization, and endoscopic confirmation|Tracheostomy Tube Exchange]]
-- **Surgical Creation**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open Tracheostomy Craft]]
+- **Exchange Protocol**: [[Adult tracheostomy tube exchange at one week requires a mature tract, tracheal stay sutures, and bougie guidance|Tracheostomy Tube Exchange]]
+- **Surgical Creation**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Open Tracheostomy Craft]]

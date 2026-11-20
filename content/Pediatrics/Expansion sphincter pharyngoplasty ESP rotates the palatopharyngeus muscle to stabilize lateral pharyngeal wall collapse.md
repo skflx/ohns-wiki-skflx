@@ -6,7 +6,9 @@ tags:
   - sleep-surgery
   - esp
   - expansion-pharyngoplasty
-last_revised: 2026-11-03
+  - palatopharyngeus
+  - lateral-wall-splinting
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -15,6 +17,11 @@ aliases:
   - "ESP"
   - "Pang Pharyngoplasty"
   - "Lateral Pharyngeal Wall Collapse"
+  - "Palatopharyngeus Relocation"
+  - "Lateral Wall Splinting"
+  - "Lateral Pharyngoplasty"
+  - "Cahali Pharyngoplasty"
+  - "Expansion sphincter pharyngoplasty ESP rotates the palatopharyngeus muscle to stabilize lateral pharyngeal wall collapse"
 ---
 
 # Expansion sphincter pharyngoplasty ESP rotates the palatopharyngeus muscle to stabilize lateral pharyngeal wall collapse
@@ -68,13 +75,11 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
+- **Biomechanical Vector Transformation (Cahali & Pang)**: In native anatomy, the palatopharyngeus runs vertically from palate to thyroid cartilage, pulling lateral walls medially under negative inspiratory pressure. Rotating the muscle anterolaterally to the **pterygomandibular raphe and pterygoid hamulus** reorients the vector from vertical to diagonal/horizontal—**lowering $P_{\text{crit}}$ and doubling lateral retroglossal diameter** while sparing the superior constrictor and superior palatal insertion to preserve deglutition and velopharyngeal competence.
 - **Clinical Outcomes**: Achieves a surgical success rate of **$>80\text{–}85\%$** in patients with documented lateral pharyngeal wall collapse on [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|DISE]], vastly outperforming classic UPPP.
 
 ## Connected Concepts & Graph Traversal
 - **Modified UPPP**: [[Modified uvulopalatopharyngoplasty UPPP resects redundant palatal tissue while preserving muscular function|Modified UPPP]]
-- **Relocating Palatopharyngeus**: [[Relocating the palatopharyngeus anterolaterally splints the lateral pharyngeal walls in expansion pharyngoplasty|Relocating Palatopharyngeus]]
 - **Barbed Pharyngoplasty**: [[Barbed suture suspension pharyngoplasty achieves tension-distributed palatopharyngoplasty without mucosal resection|Barbed Pharyngoplasty]]
-- **Embryological & Sleep Foundation**: [[Second branchial cleft anomalies represent the most common branchial anomaly situated anterior to the sternocleidomastoid]]
-- **Adenotonsillar & Endoscopic DISE**: [[Post-tonsillectomy hemorrhage is classified into primary within twenty-four hours and secondary beyond twenty-four hours]]
-- **Congenital Airway Pathology**: [[Laryngomalacia is the most common cause of congenital pediatric stridor characterized by dynamic supraglottic collapse]]
-- **Open Airway Reconstruction**: [[Aortopexy suspends the aorta to the sternum to relieve anterior vascular tracheal compression]]
+- **DISE Collapse Mapping**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]]
+- **HGNS Contraindication**: [[Concentric velopharyngeal collapse on DISE is a contraindication to hypoglossal nerve stimulation|Complete Concentric Collapse]]

@@ -10,7 +10,7 @@ tags:
   - residency-guide
   - curriculum
   - self-assessment
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AOCMF2012, Principles of Internal Fixation of the Craniomaxillofacial Skeleton"
@@ -31,12 +31,12 @@ Welcome to the **Comprehensive Craniomaxillofacial Trauma & Orthognathic Surgery
 > [!NOTE] **Subspecialty Knowledge Cards Census & Curriculum Architecture**
 > | Metric | Value | Details |
 > | :--- | :--- | :--- |
-> | **Atomic Cards (Notes)** | **40** | Granular single-concept clinical and surgical factoids |
-> | **Source Coverage** | **40 / 40 (100%)** | Full attribution to authoritative surgical textbooks |
-> | **Active Recall Questions** | **80 total (2.0/card)** | Integrated retrieval prompts with mechanistic rationales |
-> | **Illustrated Cards** | **40 notes (42 figs)** | High-yield operative line drawings and anatomical diagrams |
+> | **Atomic Cards (Notes)** | **39** | Granular single-concept clinical and surgical factoids |
+> | **Source Coverage** | **39 / 39 (100%)** | Full attribution to authoritative surgical textbooks |
+> | **Active Recall Questions** | **79 total (2.0/card)** | Integrated retrieval prompts with mechanistic rationales |
+> | **Illustrated Cards** | **39 notes (41 figs)** | High-yield operative line drawings and anatomical diagrams |
 > | **Personal Notes Guard** | **100% verified** | Cryptographically guarded resident notes region |
-> | **Active Wiki-Links** | **240 links** | Bidirectional knowledge graph traversal web |
+> | **Active Wiki-Links** | **233 links** | Bidirectional knowledge graph traversal web |
 > | **Mastery Pyramid** | **7 Progressive Tiers** | From Bedrock Foundations to High-Stakes Complication Rescue |
 
 ```mermaid
@@ -129,7 +129,7 @@ flowchart BT
 - **Sphenozygomatic 3D Key**: [[The sphenozygomatic suture along the lateral orbital wall serves as the primary key for three-dimensional ZMC reduction|Sphenozygomatic suture 3D alignment key]]
 - **Internal Orbital Reconstruction**: [[Orbital floor blowout fractures with muscle entrapment or significant enophthalmos mandate reconstruction|Internal orbital wall reconstruction]]
 - **Pediatric White-Eyed Trapdoor**: [[Pediatric white-eyed blowout fractures cause muscle entrapment requiring emergent surgical release|Pediatric white-eyed blowout trapdoor release]]
-- **Retrobulbar Emergency Rescue**: [[Acute post-traumatic retrobulbar hematoma with impending vision loss requires bedside lateral canthotomy and inferior cantholysis|Bedside lateral canthotomy and cantholysis]]
+- **🔗 Retrobulbar Emergency Rescue (FPRS)**: [[Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy|Bedside lateral canthotomy and cantholysis]]
 - **NOE Markowitz Classification**: [[Naso-orbito-ethmoid NOE fractures staged by Markowitz and Manson require medial canthal tendon fixation|Markowitz-Manson NOE classification]]
 - **Type III NOE Canthopexy**: [[Type III nasoorbitoethmoidal fractures require transnasal canthopexy directed posterior and superior to the lacrimal crest|Type III NOE transnasal canthopexy]]
 - **Nasal Bone Fractures**: [[Nasal bone fractures are reduced within seven to fourteen days using closed reduction under local or general anesthesia|Nasal bone closed reduction timing]]
@@ -143,7 +143,7 @@ flowchart BT
    - [[Le Fort I fractures separate the hard palate and require bilateral buttress plate fixation|Le Fort I maxillary buttress fixation]] stabilizes the dentoalveolar complex to the stable upper midface.
 3. **ZMC Tetrapod & Orbit**:
    - [[The sphenozygomatic suture along the lateral orbital wall serves as the primary key for three-dimensional ZMC reduction|The sphenozygomatic suture]] along the lateral orbital wall serves as the definitive landmark for 3D alignment.
-   - [[Acute post-traumatic retrobulbar hematoma with impending vision loss requires bedside lateral canthotomy and inferior cantholysis|Retrobulbar hematoma emergency]] mandates immediate bedside lateral canthotomy and inferior cantholysis without delay for imaging.
+   - [[Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy|Retrobulbar hematoma emergency]] mandates immediate bedside lateral canthotomy and inferior cantholysis without delay for imaging.
 4. **NOE Complex**:
    - [[Type III nasoorbitoethmoidal fractures require transnasal canthopexy directed posterior and superior to the lacrimal crest|Type III NOE transnasal canthopexy]] directs wire vectors posterior and superior to the posterior lacrimal crest to correct traumatic telecanthus.
 
@@ -226,7 +226,7 @@ flowchart BT
 
 > [!TIP] **Self-Assessment Checkpoint 2: Emergency Ophthalmology**
 > - *Question*: What is the immediate bedside procedure for post-traumatic retrobulbar hematoma with an IOP $> 40\text{ mmHg}$ and an APD?
-> - *Mechanism*: Review [[Acute post-traumatic retrobulbar hematoma with impending vision loss requires bedside lateral canthotomy and inferior cantholysis|bedside lateral canthotomy and inferior cantholysis]].
+> - *Mechanism*: Review [[Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy|bedside lateral canthotomy and inferior cantholysis]].
 
 > [!TIP] **Self-Assessment Checkpoint 3: Pediatric Tooth Buds**
 > - *Question*: Where must miniplates be positioned in a 6-year-old child with a displaced parasymphyseal fracture?

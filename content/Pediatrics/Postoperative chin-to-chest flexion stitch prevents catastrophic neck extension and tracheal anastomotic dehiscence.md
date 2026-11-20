@@ -6,7 +6,7 @@ tags:
   - airway-surgery
   - chin-to-chest-stitch
   - guardian-stitch
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -28,7 +28,7 @@ aliases:
 > *Answer / Clinical Rationale*: For **$5\text{ to }7\text{ days}$**.
 
 ## Core Clinical & Mechanistic Principles
-Following major open tracheal resection (CTR, [[Slide tracheoplasty expands complete tracheal rings by oblique division and sliding longitudinal reconstruction|Slide Tracheoplasty]], Tracheal Resection), a **chin-to-chest flexion suture ("Guardian Stitch")** is mandatory to prevent tension-induced anastomotic disruption:
+Following major open tracheal resection (CTR, [[Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates|Slide Tracheoplasty]], Tracheal Resection), a **chin-to-chest flexion suture ("Guardian Stitch")** is mandatory to prevent tension-induced anastomotic disruption:
 - **Biomechanical Threat of Neck Extension**:
   - Tracheal resection and primary anastomosis eliminate intrinsic tracheal length.
   - Accidental postoperative neck extension exerts massive longitudinal distraction forces across the fresh suture line, leading to **mucosal tearing, suture pull-through, catastrophic anastomotic dehiscence, mediastinitis, and fatal loss of airway**.
@@ -69,9 +69,5 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **CTR Resection**: [[Cricotracheal resection CTR achieves primary end-to-end anastomosis for severe Grade III and IV subglottic stenosis|CTR Resection]]
-- **Slide Tracheoplasty**: [[Slide tracheoplasty expands complete tracheal rings by oblique division and sliding longitudinal reconstruction|Slide Tracheoplasty]]
+- **Slide Tracheoplasty**: [[Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates|Slide Tracheoplasty]]
 - **Laryngeal Release**: [[Suprahyoid and infrahyoid laryngeal release maneuvers reduce anastomotic tension in tracheal surgery|Laryngeal Release]]
-- **Embryological & Sleep Foundation**: [[Thyroglossal duct cyst tract tracks from the foramen cecum through the hyoid bone to the anterior neck]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[VOTE classification standardizes drug-induced sleep endoscopy findings across velum, oropharynx, tongue base, and epiglottis]]
-- **Congenital Airway Pathology**: [[Subglottic hemangiomas present as biphasic stridor in infants and respond to systemic oral propranolol]]
-- **Open Airway Reconstruction**: [[Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates]]

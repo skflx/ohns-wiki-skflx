@@ -6,7 +6,7 @@ tags:
   - oral-cavity
   - buccal-mucosa
   - stensen-duct
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.82"
@@ -63,6 +63,4 @@ flowchart TD
 - **Clear Margins**: [[Oncologic clear margins require at least five millimeters of histological normal tissue|Oncologic Margins]]
 - **Parotid Surgery**: [[The facial nerve main trunk is localized using the tragal pointer, tympanomastoid suture, and digastric ridge|Parotid Surgery]]
 - **Anatomical Foundation**: [[Post-radiation carotid vasculopathy and osteoradionecrosis represent severe late radiotherapy sequelae]]
-- **Surgical Lymphadenectomy**: [[Endovascular covered stenting and coil embolization provide emergent control of carotid blowout]]
 - **Oncologic Resection & Margins**: [[Step-cut chevron mandibulotomy maximizes bone surface contact and rotational stability]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Circumferential laryngopharyngectomy requires tubed microvascular or visceral flap reconstruction]]

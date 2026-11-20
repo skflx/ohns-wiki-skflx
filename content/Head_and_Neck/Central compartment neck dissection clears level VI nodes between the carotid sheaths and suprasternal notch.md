@@ -6,7 +6,7 @@ tags:
   - neck-dissection
   - level-vi
   - central-compartment
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.107–108"
@@ -66,7 +66,4 @@ flowchart TD
 - **Thyroidectomy**: [[The recurrent laryngeal nerve is identified within Simon's triangle and followed through Berry's ligament|RLN in Thyroidectomy]]
 - **Parathyroid Preservation**: [[Superior and inferior parathyroid glands maintain constant anatomical relationships to the RLN and ITA|Parathyroid Anatomy]]
 - **Thyroid Cancer**: [[Papillary thyroid carcinoma spreads via cervical lymphatics to central and lateral neck compartments|Papillary Thyroid Carcinoma]]
-- **Anatomical Foundation**: [[AJCC 8th edition incorporates depth of invasion into oral cavity T-staging]]
-- **Surgical Lymphadenectomy**: [[Level I dissection requires facial vessel ligation and preservation of the lingual and hypoglossal nerves]]
-- **Oncologic Resection & Margins**: [[Hard palate and upper alveolar carcinoma require partial or total maxillectomy]]
 - **Aerodigestive / Pharyngolaryngeal**: [[Total laryngectomy achieves en bloc laryngeal resection with permanent end-stoma]]

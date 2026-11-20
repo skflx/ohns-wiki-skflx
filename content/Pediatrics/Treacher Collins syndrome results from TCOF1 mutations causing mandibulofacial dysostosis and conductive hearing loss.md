@@ -7,7 +7,7 @@ tags:
   - syndromes
   - treacher-collins
   - hearing-loss
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Ch3, p.4"
@@ -67,7 +67,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Branchial Arch Embryology**: [[Each branchial arch packages one nerve, one artery, one cartilage bar, and one muscle group|First and Second Branchial Arch Derivations]]
-- **Microtia Reconstruction**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|Microtia Repair Protocols]]
+- **Microtia Reconstruction**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Microtia Repair Protocols]]
 - **Bone-Anchored Implants**: [[Bone-anchored hearing implants BAHA stimulate the cochlea directly via bone conduction pathways|BAHA Auditory Rehabilitation]]
 - **Differential Craniofacial Dysostosis**: [[Crouzon syndrome exhibits FGFR2-mediated craniosynostosis with ocular proptosis, midface hypoplasia, and normal extremities|Crouzon Syndrome Comparison]]
 - **Neonatal Airway Obstruction**: [[Pierre Robin sequence manifests with micrognathia, glossoptosis, and secondary U-shaped cleft palate|Pierre Robin Sequence Airway Ladder]]

@@ -12,7 +12,7 @@ tags:
   - curriculum
   - source-document
   - self-assessment
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -33,12 +33,12 @@ Welcome to the **Comprehensive Facial Plastic & Reconstructive Surgery (FPRS) Kn
 > [!NOTE] **Subspecialty Knowledge Cards Census & Curriculum Architecture**
 > | Metric | Value | Details |
 > | :--- | :--- | :--- |
-> | **Atomic Cards (Notes)** | **146** | Granular single-concept clinical and surgical factoids |
-> | **Source Coverage** | **146 / 146 (100%)** | Full attribution to authoritative surgical textbooks |
-> | **Active Recall Questions** | **310 total (2.1/card)** | Integrated retrieval prompts with mechanistic rationales |
-> | **Illustrated Cards** | **51 notes (102 figs)** | High-yield operative line drawings and anatomical diagrams |
+> | **Atomic Cards (Notes)** | **142** | Granular single-concept clinical and surgical factoids |
+> | **Source Coverage** | **142 / 142 (100%)** | Full attribution to authoritative surgical textbooks |
+> | **Active Recall Questions** | **302 total (2.1/card)** | Integrated retrieval prompts with mechanistic rationales |
+> | **Illustrated Cards** | **52 notes (104 figs)** | High-yield operative line drawings and anatomical diagrams |
 > | **Personal Notes Guard** | **100% verified** | Cryptographically guarded resident notes region |
-> | **Active Wiki-Links** | **1,012 links** | Bidirectional knowledge graph traversal web |
+> | **Active Wiki-Links** | **943 links** | Bidirectional knowledge graph traversal web |
 > | **Mastery Pyramid** | **7 Progressive Tiers** | From Bedrock Foundations to High-Stakes Complication Rescue |
 
 ```mermaid
@@ -372,7 +372,7 @@ The **[[Microvascular free flap salvage requires urgent re-exploration within tw
 
 ### 📖 Tier S Clinical Foundations & Craft Nuances
 
-- **Microtia Reconstruction**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|Microtia Reconstruction (Brent/Nagata/Medpor)]]
+- **Microtia Reconstruction**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Microtia Reconstruction (Brent/Nagata/Medpor)]]
 - **Keloids & Hypertrophic Scars**: [[Hypertrophic scars and keloids result from abnormal TGF-beta signaling and collagen deposition|Keloid Multimodal Management]]
 - **Scar Revision Craft**: [[Scar revision employs Z-plasty W-plasty and geometric broken line closure along relaxed skin tension lines|Scar Revision (Z/W-plasty & GBLC)]]
 - **Cosmetic Botulinum Toxin**: [[Cosmetic botulinum toxin treats dynamic rhytids through presynaptic acetylcholine blockade|Cosmetic Botulinum Toxin]]
@@ -467,7 +467,7 @@ For complete landmarking, failure modes, and systematic rescue drills across all
 ---
 
 ## **Tier S: Auricular & Adjunct Aesthetic Surgery Completion**
-- **Microtia Reconstruction**: [[Microtia reconstruction spans staged autologous costal cartilage frameworks and porous polyethylene implants|Microtia Reconstruction (Brent/Nagata/Medpor)]]
+- **Microtia Reconstruction**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Microtia Reconstruction (Brent/Nagata/Medpor)]]
 - **Keloids & Hypertrophic Scars**: [[Hypertrophic scars and keloids result from abnormal TGF-beta signaling and collagen deposition|Keloid Multimodal Management]]
 - **Scar Revision Craft**: [[Scar revision employs Z-plasty W-plasty and geometric broken line closure along relaxed skin tension lines|Scar Revision (Z/W-plasty & GBLC)]]
 - **Cosmetic Botulinum Toxin**: [[Cosmetic botulinum toxin treats dynamic rhytids through presynaptic acetylcholine blockade|Cosmetic Botulinum Toxin]]

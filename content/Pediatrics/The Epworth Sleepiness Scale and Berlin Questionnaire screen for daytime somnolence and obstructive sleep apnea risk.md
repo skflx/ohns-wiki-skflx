@@ -7,7 +7,7 @@ tags:
   - epworth-sleepiness-scale
   - berlin-questionnaire
   - osa-screening
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -79,5 +79,5 @@ In addition to subjective questionnaires, objective physical examination metrics
 - **Anatomical Staging**: [[The Friedman staging system correlates tonsil size and palate position with uvulopalatopharyngoplasty success|Friedman Staging System]]
 - **Sleep Endoscopy**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|DISE Indications]]
 - **Palatal Reconstruction**: [[Modified uvulopalatopharyngoplasty UPPP resects redundant palatal tissue while preserving muscular function|Modified UPPP Surgery]]
-- **Diagnostic Evaluation**: [[Mandibular advancement oral appliances enlarge the retroglossal airway through anterior mandibular translation for mild-to-moderate obstructive sleep apnea|MAD Candidacy Screening]]
+- **Diagnostic Evaluation**: [[Mandibular advancement devices MAD advance the mandible to enlarge the retroglossal airway space|MAD Candidacy Screening]]
 - **Differential Diagnosis**: [[Restless legs syndrome presents with nocturnal dysesthesias driven by central iron deficiency and dopamine dysregulation treated with dopamine agonists|RLS as Non-Apneic Cause of Daytime Fatigue]]

@@ -6,7 +6,7 @@ tags:
   - reconstruction
   - free-flaps
   - fibula-free-flap
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.82"
@@ -62,8 +62,4 @@ flowchart TD
 - **Distal Fibula Safety**: [[Preserving the distal five centimeters of the fibula prevents ankle instability and talar tilt|Distal Fibula Preservation]]
 - **Virtual Surgical Planning**: [[Virtual surgical planning and 3D cutting guides optimize fibula contouring and dental implant rehabilitation|Virtual Surgical Planning]]
 - **Segmental Mandibulectomy**: [[Segmental mandibulectomy resects full-thickness bone for medullary invasion and irradiated bone recurrence|Segmental Mandibulectomy]]
-- **Anatomical Foundation**: [[The retropharyngeal space extends from skull base to tracheal bifurcation and contains lymph nodes draining the nasopharynx]]
-- **Surgical Lymphadenectomy**: [[The spinal accessory nerve is identified at the Erb point and anterior border of the SCM]]
-- **Oncologic Resection & Margins**: [[Elective neck dissection is indicated for oral cavity squamous cell carcinoma with depth of invasion exceeding four millimeters]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Primary pharyngeal closure after total laryngectomy utilizes an inverting Connell technique]]
 - **Donor Site Morbidity**: [[Free tissue transfer donor site morbidity requires systematic risk stratification and anatomical preservation across fibular, radial forearm, and anterolateral thigh harvests|Free Flap Donor Site Morbidity]]

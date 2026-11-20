@@ -7,7 +7,7 @@ tags:
   - champy-lines
   - rigid-fixation
   - osteosynthesis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -78,4 +78,3 @@ flowchart TD
 - **Condylar Trauma**: [[Mandibular condyle fractures managed via open versus closed reduction depend on displacement and occlusion|Condylar Fractures]]
 - **Surgical Occlusion**: [[Maxillomandibular fixation MMF using arch bars, hybrid systems, and IMF screws re-establishes occlusion|Maxillomandibular Fixation (MMF)]]
 - **Vascular Donor Reconstruction**: [[The fibula free flap provides vascularized cortical bone for composite mandibular reconstruction|Fibula Free Flap Reconstruction]]
-- **Anatomical Foundation**: [[Cheek reconstruction partitions defects into suborbital, preauricular, and buccomandibular aesthetic zones to direct tissue recruitment along relaxed skin tension lines|Cheek Aesthetic Zones]]

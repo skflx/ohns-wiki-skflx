@@ -6,7 +6,7 @@ tags:
   - parathyroid
   - autotransplantation
   - surgical-craft
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.242, 245"
@@ -60,7 +60,3 @@ flowchart TD
 - **Parathyroid Anatomy**: [[Superior and inferior parathyroid glands maintain constant anatomical relationships to the RLN and ITA|Parathyroid Anatomy]]
 - **Post-op Hypocalcemia**: [[Post-thyroidectomy hypocalcemia is managed with oral calcium, calcitriol, and intravenous calcium gluconate|Post-op Hypocalcemia]]
 - **Miami Criterion**: [[The Miami criterion requires a fifty percent intraoperative PTH drop at ten minutes post-excision|Miami Criterion]]
-- **Anatomical Foundation**: [[Ludwig angina presents with bilateral submandibular cellulitis and woody floor of mouth induration compromising the airway]]
-- **Surgical Lymphadenectomy**: [[Radical neck dissection removes levels I through V while sacrificing CN XI, the IJV, and the SCM]]
-- **Oncologic Resection & Margins**: [[Step-cut chevron mandibulotomy maximizes bone surface contact and rotational stability]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Subglottic carcinoma spreads to level VI central compartment lymphatics and mediastinal nodes]]

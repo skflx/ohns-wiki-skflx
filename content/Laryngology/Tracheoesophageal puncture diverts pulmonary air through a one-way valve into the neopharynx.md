@@ -3,20 +3,27 @@ title: "Tracheoesophageal puncture diverts pulmonary air through a one-way valve
 tier: "Tier VII: Laryngeal Oncology & Conservation Surgery"
 tags:
   - laryngology
+  - head-and-neck
   - alaryngeal-voice
   - tep
   - voice-prosthesis
+  - voice-rehabilitation
   - blom-singer
   - provox
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch49, p.974"
+  - "CummingsReview2017, Ch5, p.90"
 aliases:
   - "Tracheoesophageal Puncture (TEP)"
+  - "Tracheoesophageal Puncture"
+  - "TEP"
+  - "Voice Prosthesis"
   - "TEP Speech Restoration"
   - "Voice Prosthesis Rehabilitation"
   - "Tracheoesophageal puncture diverts exhaled pulmonary air through a one-way silicone valve into the neopharynx"
+  - "Tracheoesophageal puncture diverts pulmonary air through a one-way valve into the neopharynx"
 ---
 
 # Tracheoesophageal puncture diverts pulmonary air through a one-way valve into the neopharynx
@@ -64,17 +71,17 @@ flowchart TD
 
 ## Primary vs Secondary TEP Technique
 1. **Primary TEP (Performed during Total Laryngectomy)**:
-   - Created under direct vision before pharyngeal closure.
-   - Puncture placed $1.0\text{–}1.5\text{ cm}$ below posterior tracheal lip; stented with a 14-Fr red rubber catheter or primary indwelling prosthesis.
+   - Created under direct vision before pharyngeal closure ($5\text{–}10\text{ mm}$ to $1.0\text{–}1.5\text{ cm}$ below posterior tracheal lip in the midline party wall); stented with a 14-Fr red rubber catheter or primary indwelling prosthesis.
+   - Perform concurrent **cricopharyngeal myotomy** during laryngectomy to prevent PE segment hypertonicity/spasm, which causes failed phonation.
    - *Advantage*: Single surgery, earlier voice rehabilitation.
 2. **Secondary TEP (Delayed Setting)**:
-   - Performed after the stoma and neopharynx have fully healed (typically $>2\text{–}3\text{ months}$ post-op).
+   - Performed months later after the stoma, neopharynx, and radiation therapy have fully healed (typically $>2\text{–}3\text{ months}$ post-op).
    - Executed under rigid esophagoscopy in the OR or via transnasal esophagoscopy (TNE) in the clinic with local anesthesia.
 
 ## Primary Troubleshooting & Complications
-1. **Transprosthetic Leak**: Fluid leaks through the central valve mechanism due to Candida colonization or mechanical wear.
-2. **Periprosthetic Leak**: Fluid leaks around the outside shaft due to tissue atrophy or tract dilation.
-3. **PE Segment Hypertonicity / Spasm**: High phonatory pressure with strained, absent sound production.
+1. **Transprosthetic (Central) Leak**: Fluid leaks *through* the central valve mechanism due to *Candida* fungal biofilm colonization or mechanical valve wear (confirmed by **grape juice swallow test**); managed with in-office prosthesis replacement and oral antifungals (**nystatin or fluconazole**).
+2. **Periprosthetic (Peripheral) Leak**: Fluid leaks *around* the outside shaft due to fistula tract dilation or tissue atrophy from prior radiation, malnutrition, or reflux; managed by downsizing length/diameter, purse-string suture, or collagen/fat tissue bulking.
+3. **PE Segment Hypertonicity / Spasm**: High phonatory pressure with strained, absent sound production; treated with Botox ($50\text{–}100\text{ U}$) or myotomy.
 
 ## Connected Concepts & Graph Traversal
 - **Total Laryngectomy Primary**: [[Total laryngectomy achieves en bloc laryngeal resection with permanent end-stoma|Total Laryngectomy]]
@@ -82,3 +89,5 @@ flowchart TD
 - **PE Segment Spasm / Botox**: [[Pharyngoesophageal segment hypertonicity causes TEP failure treated with Botox or myotomy|PE Segment Hypertonicity]]
 - **Electrolarynx Alternative**: [[The electrolarynx provides immediate mechanical speech via acoustic coupling|Electrolarynx Speech]]
 - **Hands-Free Slings**: [[Hands-free stomaplasty stabilizes the peristomal contour using fascia lata slings|Hands-Free Stomaplasty]]
+- **🔗 Connell Neopharyngeal Closure (Head and Neck)**: [[Primary pharyngeal closure after total laryngectomy utilizes an inverting Connell technique|Primary Pharyngeal Closure]]
+- **🔗 PCF Management (Head and Neck)**: [[Pharyngocutaneous fistula is managed with wound care, nutritional support, and surgical flap closure|Pharyngocutaneous Fistula Protocol]]

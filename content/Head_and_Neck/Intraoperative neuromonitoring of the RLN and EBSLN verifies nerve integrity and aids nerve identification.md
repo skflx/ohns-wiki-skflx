@@ -6,7 +6,7 @@ tags:
   - thyroid
   - ionm
   - neuromonitoring
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.105"
@@ -68,4 +68,3 @@ flowchart TD
 - **Post-Thyroidectomy Hypocalcemia**: [[Post-thyroidectomy hypocalcemia is managed with oral calcium, calcitriol, and intravenous calcium gluconate|Postoperative Hypocalcemia Management]]
 - **Postoperative Expanding Hematoma**: [[Postoperative neck hematoma after thyroidectomy or neck dissection requires emergent bedside wound opening for airway decompression|Emergency Hematoma Evacuation]]
 - **Central Compartment Lymphadenectomy**: [[Central compartment neck dissection clears level VI nodes between the carotid sheaths and suprasternal notch|Level VI Central Neck Dissection]]
-- **TLM Glottic Resection**: [[Transoral laser microsurgery TLM resects early glottic carcinoma with vocal cord preservation|Transoral Laser Glottic Surgery]]

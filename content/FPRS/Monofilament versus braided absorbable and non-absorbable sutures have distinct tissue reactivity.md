@@ -6,7 +6,7 @@ tags:
   - biomaterials
   - suture-materials
   - wound-closure
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -57,5 +57,3 @@ flowchart TD
 - **Deep Dermal Closure**: [[Fusiform ellipse geometry requires a three-to-one ratio to prevent standing cutaneous cones|Fusiform Ellipse Closure]]
 - **Otoplasty Sutures**: [[Mustarde and Furnas sutures correct antihelical effacement and conchal hypertrophy|Mustarde & Furnas Sutures]]
 - **Structural Rhinoplasty**: [[Tongue-in-groove and septal extension grafts provide rigid columellar and tip stabilization|Cartilage Graft Fixation]]
-- **Anatomical Foundation**: [[The anterolateral thigh free flap provides versatile soft tissue volume based on the LCFA|Anterolateral Thigh (ALT) Flap]]
-- **Surgical Craft**: [[Facial retaining ligaments require surgical release to mobilize ptotic midface tissues|Facial Retaining Ligaments]]

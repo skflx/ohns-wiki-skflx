@@ -6,7 +6,7 @@ tags:
   - microsurgery
   - vein-graft
   - interposition-graft
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -64,6 +64,4 @@ flowchart TD
 - **Arterial Thrombosis**: [[Microvascular arterial thrombosis presents with a pale, flat flap and requires immediate surgical exploration|Arterial Thrombosis]]
 - **Flap Salvage**: [[Microvascular free flap salvage requires urgent re-exploration within two hours of vascular compromise|Flap Salvage Protocol]]
 - **Anatomical Foundation**: [[Post-radiation carotid vasculopathy and osteoradionecrosis represent severe late radiotherapy sequelae]]
-- **Surgical Lymphadenectomy**: [[Central compartment neck dissection clears level VI nodes between the carotid sheaths and suprasternal notch]]
 - **Oncologic Resection & Margins**: [[Pre-plating the intact mandible before osteotomy preserves accurate dental occlusion and contour]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Subglottic carcinoma spreads to level VI central compartment lymphatics and mediastinal nodes]]

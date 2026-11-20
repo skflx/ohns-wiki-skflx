@@ -6,7 +6,7 @@ tags:
   - frontal-sinus
   - fat-obliteration
   - surgical-technique
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Frontal Sinus Surgery & Ostial Clearance"
@@ -61,7 +61,4 @@ flowchart TD
 - **Open Procedure**: [[Osteoplastic flap with frontal sinus obliteration manages lateral frontal disease and osteomyelitis|Osteoplastic Flap]]
 - **Mucocele Pathology**: [[Frontal sinus mucoceles cause bony erosion, proptosis, and intracranial extension|Frontal Mucoceles]]
 - **Drill Safety**: [[Curved diamond and cutting burrs with continuous irrigation prevent frontal beak thermal osteonecrosis|Bone Drilling Technique]]
-- **Diagnostic Evaluation**: [[Draf I frontal sinusotomy clears obstructing ethmoid cells without instrumenting the ostium|Draf I Frontal Sinusotomy]]
-- **Surgical Craft**: [[Powered microdebrider blade selection and suction irrigation maintain clean surgical optics|Powered Microdebrider Craft]]
-- **Anatomical Foundation**: [[CSF leak defect preparation requires circumferential bone de-mucosalization|CSF Defect Bed Preparation]]
-- **Graft Source**: [[Osteoplastic flap elevation utilizes a six-foot Caldwell radiographic template and beveled osteotomies for complete frontal sinus fat obliteration|Osteoplastic Flap Elevation]]
+- **Conservative Endoscopic Tier**: [[Draf I frontal sinusotomy clears obstructing ethmoid cells without instrumenting the ostium|Draf I Frontal Sinusotomy]]

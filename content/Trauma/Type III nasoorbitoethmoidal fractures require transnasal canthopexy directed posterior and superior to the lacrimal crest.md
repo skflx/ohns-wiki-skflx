@@ -6,7 +6,7 @@ tags:
   - noe-fractures
   - canthopexy
   - medial-canthal-tendon
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AOCMF2012, Ch3.5, p.235"
@@ -59,7 +59,7 @@ Surgical craft essentials:
 
 ## Connected Concepts & Graph Traversal
 - **ZMC Sphenozygomatic Alignment**: [[The sphenozygomatic suture along the lateral orbital wall serves as the primary key for three-dimensional ZMC reduction|Sphenozygomatic Suture Reduction]]
-- **Retrobulbar Emergency Rescue**: [[Acute post-traumatic retrobulbar hematoma with impending vision loss requires bedside lateral canthotomy and inferior cantholysis|Retrobulbar Hematoma Emergency Rescue]]
+- **🔗 Retrobulbar Emergency Rescue (FPRS)**: [[Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy|Retrobulbar Hematoma Emergency Rescue]]
 - **Panfacial Frame Reconstruction**: [[Panfacial fracture reconstruction proceeds from known stable peripheral buttresses to central occlusion|Panfacial Occlusal Anchoring]]
 - **Orbital Internal Reconstruction**: [[Orbital floor blowout fractures with muscle entrapment or significant enophthalmos mandate reconstruction|Orbital Wall Reconstruction]]
 - **Maxillary Buttress Foundation**: [[Le Fort I fractures separate the hard palate and require bilateral buttress plate fixation|Le Fort I Maxillary Buttress Fixation]]

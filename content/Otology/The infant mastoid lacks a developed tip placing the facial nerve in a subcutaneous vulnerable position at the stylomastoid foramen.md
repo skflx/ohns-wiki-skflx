@@ -7,7 +7,7 @@ tags:
   - infant-temporal-bone
   - facial-nerve
   - foramen-of-huschke
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch21, p.393"
@@ -73,6 +73,5 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **Facial Nerve Segments**: [[The facial nerve traverses six distinct anatomical segments from the pons to the parotid gland|CN VII Anatomical Segments]]
 - **Otic Capsule Invariant**: [[The otic capsule is an immutable endochondral bone that provides fixed surgical reference landmarks|Otic Capsule Foundation]]
-- **Necrotizing Otitis Externa**: [[Malignant necrotizing otitis externa is an invasive pseudomonal skull base osteomyelitis in elderly diabetic patients|Necrotizing Otitis Externa & Fissures of Santorini]]
 - **Pediatric Acute Mastoiditis**: [[Acute coalescent mastoiditis causes trabecular osteoclasis and subperiosteal abscess formation|Acute Coalescent Mastoiditis]]
 - **🔗 Great Auricular Nerve (FPRS)**: [[The great auricular nerve emerges at Erb's point and is vulnerable during rhytidectomy|Great Auricular Nerve Anatomy]]

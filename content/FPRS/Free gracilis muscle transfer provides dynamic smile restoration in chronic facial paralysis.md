@@ -6,7 +6,7 @@ tags:
   - facial-reanimation
   - gracilis-free-flap
   - dynamic-smile
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -61,5 +61,5 @@ flowchart TD
 - **Static Support**: [[Upper eyelid platinum weights and lateral tarsal strips protect the cornea in flaccid facial paralysis|Corneal Protection]]
 - **Anatomical Foundation**: [[Cross-facial nerve grafting provides coordinated spontaneous smile excursion in children|Cross-Facial Nerve Graft (CFNG)]]
 - **Surgical Craft**: [[Epineural neurorrhaphy and cable nerve grafting restore facial continuity within twelve months|Direct Epineural Neurorrhaphy]]
-- **Diagnostic Assessment**: [[Static fascia lata slings suspend the modiolus and nasal valve in non-innervation candidates|Static Facial Slings]]
+- **Static Reanimation Alternative**: [[Static fascia lata slings suspend the modiolus and nasal valve in non-innervation candidates|Static Facial Slings]]
 - **Two-Stage Reanimation Protocol**: [[Cross-facial nerve grafting combined with free gracilis muscle transfer restores spontaneous emotional smile excursion in established facial paralysis|Two-Stage CFNG-Gracilis Reanimation]]

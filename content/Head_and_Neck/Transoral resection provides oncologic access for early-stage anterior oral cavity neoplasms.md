@@ -6,7 +6,7 @@ tags:
   - oral-cavity
   - transoral-resection
   - surgical-approaches
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.213, 218"
@@ -68,7 +68,4 @@ flowchart TD
 - **Pull-Through Resection**: [[Transcervical pull-through resection mobilizes oral tongue tumors without dividing the mandible|Pull-Through Resection]]
 - **Clear Margins**: [[Oncologic clear margins require at least five millimeters of histological normal tissue|Oncologic Margins]]
 - **Elective Neck Dissection**: [[Elective neck dissection is indicated for oral cavity squamous cell carcinoma with depth of invasion exceeding four millimeters|Elective Neck Dissection]]
-- **Anatomical Foundation**: [[Cervical necrotizing fasciitis requires emergent surgical debridement and broad-spectrum antimicrobial coverage]]
-- **Surgical Lymphadenectomy**: [[Superior mediastinal level VII dissection clears paratracheal lymph nodes below the sternal notch]]
 - **Oncologic Resection & Margins**: [[Marginal mandibulectomy preserves basilar bone height when tumor abuts but does not invade marrow]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Pharyngocutaneous fistula is managed with wound care, nutritional support, and surgical flap closure]]

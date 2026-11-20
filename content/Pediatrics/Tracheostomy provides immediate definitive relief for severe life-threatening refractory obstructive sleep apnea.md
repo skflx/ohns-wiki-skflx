@@ -6,7 +6,7 @@ tags:
   - sleep-surgery
   - tracheostomy-osa
   - definitive-bypass
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Otolaryngology Core Principles"
@@ -68,5 +68,4 @@ flowchart TD
 - **MMA Advancement**: [[Maxillomandibular advancement MMA advances the skeletal framework by ten to twelve millimeters to expand the upper airway|MMA Advancement]]
 - **HGNS Overview**: [[Hypoglossal nerve stimulation HGNS activates the medial branch of CN XII to advance the tongue during inspiration|HGNS Overview]]
 - **Postoperative Airway**: [[Postoperative airway management in sleep surgery requires continuous pulse oximetry and avoidance of oversedation|Postoperative Airway]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]]
 - **Emergency Airway Protocol**: [[High-stakes pediatric and adult sleep airway complications require rapid structured algorithmic emergency rescue|Sleep Airway Emergency Rescue]]

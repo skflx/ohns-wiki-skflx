@@ -8,7 +8,7 @@ tags:
   - bradykinin
   - hereditary-angioedema
   - targeted-therapeutics
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch47, p.930"
@@ -85,4 +85,4 @@ flowchart TD
 - **Targeted Bradykinin Blockade**: [[Icatibant and ecallantide provide targeted treatment for bradykinin-mediated angioedema refractory to standard therapy|Icatibant & Ecallantide Regimens]]
 - **Complement Diagnostics**: [[Hereditary angioedema types I through III exhibit distinct C1 esterase inhibitor and C4 complement patterns|Hereditary Angioedema Subtypes]]
 - **Emergency Airway Management**: [[Awake fiberoptic intubation is the preferred airway technique for angioedema with impending obstruction|Awake Intubation for Angioedema]]
-- **Emergency Surgical Airway**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Emergency Surgical Tracheostomy]]
+- **Emergency Surgical Airway**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Emergency Surgical Tracheostomy]]

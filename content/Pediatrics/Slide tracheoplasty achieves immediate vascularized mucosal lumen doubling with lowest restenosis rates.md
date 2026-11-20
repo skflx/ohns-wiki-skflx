@@ -5,16 +5,24 @@ tags:
   - pediatrics
   - airway-reconstruction
   - slide-outcomes
+  - slide-tracheoplasty
+  - complete-tracheal-rings
   - surgical-craft
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Ch28, p.14"
+  - "CummingsPed, Ch30, p.1"
 aliases:
   - "Slide Tracheoplasty Outcomes"
   - "Slide Technique Craft"
   - "Tracheal Anastomosis"
   - "Lowest Restenosis"
+  - "Slide Tracheoplasty"
+  - "Complete Tracheal Rings Repair"
+  - "Tsang Slide"
+  - "Tracheal Stenosis Reconstruction"
+  - "Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates"
 ---
 
 # Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates
@@ -28,19 +36,18 @@ aliases:
 > *Answer / Clinical Rationale*: The corners are **beveled and rounded** to prevent mucosal stepping and promote smooth laminar airflow.
 
 ## Core Clinical & Mechanistic Principles
-[[Slide tracheoplasty expands complete tracheal rings by oblique division and sliding longitudinal reconstruction|Slide tracheoplasty]] has transformed congenital tracheal surgery, reducing mortality from $>50\%$ to **$<5\text{–}8\%$** and achieving long-term decannulation and survival rates exceeding **$>90\text{–}95\%$**:
+**Slide Tracheoplasty** (pioneered by Peter Goldstraw and Martin Tsang in 1989) is the gold standard surgical procedure for long-segment congenital tracheal stenosis and **[[Complete tracheal rings present with generalized tracheal stenosis and stovepipe appearance on imaging|complete tracheal rings]]** (differentiated on diagnostic airway workup from congenital tracheal agenesis [Floyd Types I–III] and extrinsic [[Complete vascular rings and pulmonary artery slings cause tracheoesophageal compression requiring surgical division or arterial translocation|double aortic arch / vascular ring]] compression), reducing mortality from $>50\%$ to **$<5\text{–}8\%$** and achieving long-term decannulation and survival rates exceeding **$>90\text{–}95\%$**:
+- **Biomechanical Principle**: Resecting $>30\text{–}50\%$ of tracheal length via primary end-to-end resection causes fatal anastomotic distraction tension. Sliding two opposing split halves over each other **doubles luminal diameter, quadruples ($4\times$) cross-sectional area ($A = \pi r^2$), and reduces airway resistance 16-fold** (Poiseuille's law, $R \propto 1/r^4$) with a $50\%$ tracheal length shortening accommodated tension-free.
 - **Surgical Step-by-Step Execution**:
-  1. **Median Sternotomy & CPB**: Expose the entire anterior trachea from cricoid to carina on cardiopulmonary bypass.
-  2. **Tracheal Transection**: Transect the trachea at the midpoint of the stenotic segment.
-  3. **Longitudinal Splits**:
-     - Make a vertical **anterior midline split in the upper segment** up to normal cricoid/trachea.
-     - Make a vertical **posterior midline split in the lower segment** down to the carina or bronchi.
-  4. **Beveling the Corners**: Trim the right-angle square corners of the tracheal flaps into gentle rounded bevels to ensure smooth laminar airflow.
-  5. **Running / Interrupted Anastomosis**: Suture the sliding segments with continuous or interrupted **5-0 or 6-0 PDS / Monocryl sutures**, placing knots extraluminally.
-- **Why Slide Outperforms Other Reconstructions**:
-  - **Zero Graft Resorption**: Does not rely on avascular cartilage grafts.
+  1. **Median Sternotomy & Cardiopulmonary Bypass (CPB)**: Expose the entire anterior trachea from cricoid to carina (essential for extensive stenosis extending to the carina or concurrent pulmonary artery sling repair).
+  2. **Tracheal Transection**: Transect the trachea obliquely at the midpoint of the stenotic segment.
+  3. **Longitudinal Splits**: Make a vertical **anterior midline split in the upper segment** up to normal cricoid/trachea, and a vertical **posterior midline split in the lower segment** down to the carina or bronchi.
+  4. **Beveling the Corners**: Trim the right-angle square corners of the tracheal flaps into gentle rounded bevels to prevent mucosal stepping and promote smooth laminar airflow.
+  5. **Running / Interrupted Anastomosis**: Slide and interlock the halves using continuous or interrupted **5-0 or 6-0 PDS / Monocryl sutures**, placing knots extraluminally.
+- **Why Slide Outperforms Cartilage-Grafted Reconstructions**:
+  - **Zero Avascular Graft Resorption**: Uses 100% native, vascularized respiratory tissue without non-vascularized cartilage or prosthetic grafts.
   - **Immediate Mucociliary Clearance**: Preserved native ciliated epithelium clears mucus spontaneously.
-  - **Growth Potential**: The vascularized anastomosis demonstrates true histological growth as the child matures.
+  - **Somatic Growth Potential**: The vascularized anastomosis demonstrates true histological cellular growth as the child matures.
 
 ```mermaid
 %% Slide Tracheoplasty Surgical Protocol and Outcomes
@@ -72,10 +79,7 @@ flowchart TD
 - **Postoperative Care**: Extubation within 48–72 hours; early postoperative flexible bronchoscopy to clear secretions and confirm anastomotic integrity.
 
 ## Connected Concepts & Graph Traversal
-- **Slide Tracheoplasty**: [[Slide tracheoplasty expands complete tracheal rings by oblique division and sliding longitudinal reconstruction|Slide Tracheoplasty]]
 - **Complete Tracheal Rings**: [[Complete tracheal rings present with generalized tracheal stenosis and stovepipe appearance on imaging|Complete Tracheal Rings]]
 - **Chin-to-Chest Stitch**: [[Postoperative chin-to-chest flexion stitch prevents catastrophic neck extension and tracheal anastomotic dehiscence|Chin-to-Chest Stitch]]
-- **Embryological & Sleep Foundation**: [[First branchial cleft anomalies present as periauricular cysts or sinus tracts parallel to the external auditory canal]]
-- **Sleep Endoscopy & Airway Dynamics**: [[Drug-induced sleep endoscopy DISE evaluates dynamic multi-level upper airway collapse under sedation|Drug-Induced Sleep Endoscopy (DISE)]] [[Rapid maxillary expansion widens the hard palate and nasal floor to improve pediatric nasal breathing and OSA]]
-- **Congenital Airway Pathology**: [[Type I through Type IV laryngeal clefts represent congenital tracheoesophageal communication defects]]
-- **Open Airway Reconstruction**: [[Double-stage LTR maintains a tracheostomy and utilizes an endolaryngeal LT-Mold or Montgomery T-tube stent]]
+- **CTR Resection**: [[Cricotracheal resection CTR achieves primary end-to-end anastomosis for severe Grade III and IV subglottic stenosis|CTR Resection]]
+- **Concurrent Vascular Compression**: [[Complete vascular rings and pulmonary artery slings cause tracheoesophageal compression requiring surgical division or arterial translocation|Concurrent Sling Repair & Slide Tracheoplasty]]

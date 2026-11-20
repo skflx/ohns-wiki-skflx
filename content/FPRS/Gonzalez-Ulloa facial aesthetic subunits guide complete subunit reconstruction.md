@@ -6,7 +6,7 @@ tags:
   - facial-anatomy
   - aesthetic-subunits
   - reconstructive-principles
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Nose"
@@ -53,9 +53,9 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Incision Placement**: [[Relaxed skin tension lines minimize scar hypertrophy along perpendicular muscular vectors|Relaxed Skin Tension Lines (RSTLs)]]
-- **Diagnostic Evaluation**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
+- **Alar/Helical Subunit Graft**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
 - **Anatomical Foundation**: [[Gilles fan flaps and Webster-Bernard cheek advancements reconstruct large lower lip defects|Gilles Fan Flap]]
 - **Proportional Baseline**: [[Facial horizontal fifths and vertical thirds define baseline aesthetic analysis and proportions|Facial Fifths and Thirds]]
 - **Aesthetic Subunit Application**: [[Cheek reconstruction partitions defects into suborbital, preauricular, and buccomandibular aesthetic zones to direct tissue recruitment along relaxed skin tension lines|Cheek Aesthetic Zones]]
 - **Surgical Craft**: [[Forehead aesthetic subunit reconstruction divides the forehead into midline, paramedian, and lateral zones to optimize scar camouflage and brow symmetry|Forehead Aesthetic Subunits]]
-- **Diagnostic Assessment**: [[Philtral subunit reconstruction requires Abbe cross-lip flaps or bilateral melolabial advancement to restore three-dimensional contour|Philtral Subunit Reconstruction]]
+- **Philtral Subunit Application**: [[Philtral subunit reconstruction requires Abbe cross-lip flaps or bilateral melolabial advancement to restore three-dimensional contour|Philtral Subunit Reconstruction]]

@@ -8,15 +8,19 @@ tags:
   - lacrimal
   - surgical-technique
   - complications
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 aliases:
   - "Endoscopic DCR"
   - "Endonasal Dacryocystorhinostomy"
   - "Lacrimal Sac Marsupialization"
   - "DCR Surgical Technique"
+  - "Endoscopic dacryocystorhinostomy achieves lacrimal sac marsupialization via axillary osteotomy and bivalve mucosal flaps apposed to the agger nasi"
+  - "Endoscopic Dacryocystorhinostomy"
+  - "Endonasal Lacrimal Sac Marsupialization"
 sources:
   - "CummingsReview2017, Ch4, p.73–74"
+  - "AtlasESS19, Ch17, p.143-148"
 ---
 
 # Endoscopic dacryocystorhinostomy bypasses nasolacrimal duct obstruction via lacrimal sac marsupialization into the middle meatus
@@ -35,11 +39,19 @@ sources:
 > *Answer / Clinical Rationale*: Complete anatomical obstructions achieve a **$>95\%$ surgical success rate** with endoscopic DCR, whereas functional obstructions (impaired lacrimal pump mechanism or canalicular dysmotility without discrete physical blockage) achieve only approximately an **$80\%$ success rate**.
 *(CummingsReview2017, Ch4, p.73–74)*
 
+> [!question]- Why must the osteotomy in endoscopic DCR extend at least 10 mm superior to the middle turbinate axilla?
+> *Answer / Clinical Rationale*: The lacrimal sac fundus extends approximately **$10\text{ mm}$ above the insertion of the middle turbinate axilla**, and the common canaliculus enters high on the posterolateral wall of the sac. Restricting bone removal to the axilla level leaves the superior fundus and common internal punctum incarcerated behind thick frontal process bone, causing persistent stenosis and surgical failure.
+*(AtlasESS19, Ch17, p.143-148)*
+
+> [!question]- What is the mechanistic rationale for marsupializing the lacrimal sac into bivalve flaps and opening the agger nasi cell?
+> *Answer / Clinical Rationale*: Bivalving the medial wall of the lacrimal sac into anterior and posterior mucosal flaps allows the sac to lie completely flat against the lateral nasal wall. Opening the adjacent **agger nasi cell** allows the posterior-superior sac flap to directly appose agger mucosal lining for primary-intention mucosa-to-mucosa healing, preventing exposed-bone granulation and cicatricial restenosis.
+*(AtlasESS19, Ch17, p.143-148)*
+
 ## Core Clinical & Mechanistic Principles
 **Endoscopic dacryocystorhinostomy (endoscopic DCR)** is the primary endonasal surgical intervention for refractory epiphora and recurrent dacryocystitis caused by postsaccal [[Incisive uncinectomy exposes the ethmoid infundibulum while protecting the nasolacrimal duct|nasolacrimal duct]] obstruction. By creating a direct, low-resistance neo-ostium between the lacrimal sac and the nasal cavity superior to the inferior turbinate, endoscopic DCR bypasses the obstructed nasolacrimal duct while preserving the orbicularis oculi lacrimal pump mechanism and avoiding external facial incisions.
 
 ### Lacrimal Outflow Anatomy & Pathophysiology
-Tears drain from the superior and inferior puncta across $2\text{ mm}$ vertical ampullae into $8\text{ mm}$ horizontal canaliculi, uniting in $>90\%$ of individuals as a **common canaliculus** entering the lacrimal sac through the valve of Rosenmüller. The lacrimal sac sits within the lacrimal fossa, bounded anteriorly by the anterior lacrimal crest (**frontal process of the maxilla**) and posteriorly by the posterior lacrimal crest (**lacrimal bone**). In children, congenital nasolacrimal duct obstruction typically results from an **imperforate valve of Hasner** at the inferior meatus (amenable to office probing). In young adults, canalicular stenosis predominates, whereas middle-aged individuals frequently harbor **dacryoliths**, and elderly patients present with involutional nasolacrimal duct stenosis (both exquisitely responsive to DCR).
+Tears drain from the superior and inferior puncta across $2\text{ mm}$ vertical ampullae into $8\text{ mm}$ horizontal canaliculi, uniting in $>90\%$ of individuals as a **common canaliculus** entering the posterior-superior quadrant of the lateral lacrimal sac through the valve of Rosenmüller. The lacrimal sac sits within the lacrimal fossa, bounded anteriorly by the thick anterior lacrimal crest (**frontal process of the maxilla**) and posteriorly by the fragile posterior lacrimal crest (**lacrimal bone**), with its superior fundus extending **$8\text{–}10\text{ mm}$ above the middle turbinate axilla** adjacent to the [[Agger nasi cells form the anterior boundary of the frontal recess|agger nasi cell]]. In children, congenital nasolacrimal duct obstruction typically results from an **imperforate valve of Hasner** at the inferior meatus (amenable to office probing). In young adults, canalicular stenosis predominates, whereas middle-aged individuals frequently harbor **dacryoliths**, and elderly patients present with involutional nasolacrimal duct stenosis (both exquisitely responsive to DCR).
 
 ```mermaid
 %% Endoscopic DCR Surgical Algorithm
@@ -67,11 +79,11 @@ flowchart TD
 3. **Common Internal Punctum**: The most proximal portion of the lacrimal system that can be successfully reconstructed by DCR; opening must be explicitly visualized within the marsupialized sac.
 
 ### Surgical Technique, Anatomical Pitfalls & Craft Nuance
-1. **Mucosal Flap Elevation**: A rectangular mucosal flap is incised $8\text{–}10\text{ mm}$ superior to the middle turbinate axilla, extended anteriorly onto the frontal process of the maxilla, and carried inferiorly past the uncinate attachment.
-2. **Bony Rhinostomy**: The thin lacrimal bone posteriorly is fractured easily with a Freer elevator. The thick frontal process of the maxilla anteriorly requires a heavy 45-degree Kerrison rongeur or a continuous-irrigation diamond burr. Adequate bone removal ($>10\text{–}15\text{ mm}$ window) must completely uncover the anterior and superior limits of the sac.
-3. **Sac Incision & Marsupialization**: A 00 Bowman probe is passed through the inferior canaliculus to tent the medial sac wall intranasally. Under direct $0^\circ$ or $30^\circ$ endoscopic visualization, a sickle knife or Beaver blade makes a longitudinal incision from superior fundus to inferior duct, with relaxing cuts to fashion anterior and posterior flaps that are laid flat against adjacent nasal mucosa to prevent granulation.
-4. **Intubation & Stenting**: Bicanalicular silicone Crawford tubes are retrieved from the middle meatus, tied securely with multiple square knots, and left in situ for 4 to 12 weeks.
-5. **Complication Profile ($5\%$)**: Epistaxis, periorbital ecchymosis, orbital fat exposure from excessive posterior bone resection through the lamina papyracea, [[Retrobulbar hematoma requires emergent bedside lateral canthotomy and cantholysis|retrobulbar hematoma]], and synechiae closure.
+1. **Preparation & Mucosal Flap Elevation**: Subperiosteal infiltration of the middle turbinate axilla and frontal process ($2\text{ mL}$ of $1\%$ lidocaine with $1:100,000$ epinephrine) plus $1:3,000$ epinephrine cottonoids provides vasoconstriction (adding targeted septoplasty if septal deflection restricts instrument angles). Under $30^\circ$ visualization, a rectangular posteriorly based mucosal flap is incised $8\text{–}10\text{ mm}$ superior to the middle turbinate axilla, extended $10\text{ mm}$ anteriorly onto the frontal process of the maxilla, carried inferiorly past the uncinate attachment, and elevated subperiosteally with a suction Freer.
+2. **Axillary Osteotomy & Agger Nasi Exposure**: A round knife flakes off the paper-thin lacrimal bone posteriorly. The thick frontal process of the maxilla anteriorly requires a **Hajek-Koffler punch**, $2\text{ mm}$ upbiting or $45^\circ$ Kerrison rongeur (releasing jaws after every bite to avoid soft-tissue entrapment), and a continuous-irrigation **diamond DCR burr** to expose a $>10\text{–}15\text{ mm}$ window uncovering the entire superior fundus and opening the **agger nasi cell** immediately superior-posterior to the sac.
+3. **Sac Incision & Bivalve Marsupialization**: A size 00 Bowman probe is passed through the inferior punctum following the anatomical $90^\circ$ bend ($2\text{ mm}$ vertical then medial with gentle eyelid traction to avoid canalicular false passage) to tent the medial sac wall endonasally. Under direct $0^\circ$ or $30^\circ$ visualization, a DCR spear or Beaver blade makes a longitudinal incision over the tenting probe (protecting the **common internal punctum** on the lateral wall), and **Bellucci micro ear scissors** plus a DCR sickle knife create superior/inferior relaxing cuts so anterior and posterior flaps lie flat against nasal and agger nasi mucosa for primary mucosa-to-mucosa healing.
+4. **Intubation, Stenting & Revision Safeguards**: Bicanalicular silicone Crawford stents are retrieved from the middle meatus, tied loosely or clipped, cushioned with a **Gelfoam** pledget to maintain flap apposition, and left for 4 to 12 weeks. In cicatricial revision DCR, mucosal incisions are placed directly on scarred bone, the osteotomy is widened superiorly, and topical **mitomycin C ($0.4\text{ mg/mL}$ for 3–5 minutes)** may be applied to suppress fibroblast proliferation.
+5. **Complication Profile ($5\%$)**: Epistaxis, periorbital ecchymosis, canalicular false passage, common internal punctum transection, orbital fat exposure/medial rectus injury from violating the **retrolacrimal lamina papyracea** posterior to the uncinate insertion, [[Retrobulbar hematoma requires emergent bedside lateral canthotomy and cantholysis|retrobulbar hematoma]], and synechiae closure.
 
 ## Connected Concepts & Graph Traversal
 - **Diagnostic Differentiation**: [[Jones primary and secondary dye tests differentiate canalicular from nasolacrimal duct obstruction|Jones Dye Testing Algorithm]]
@@ -80,4 +92,3 @@ flowchart TD
 - **Medial Orbital Danger**: [[Lamina papyracea dehiscence predisposes to orbital fat herniation and medial rectus injury|Lamina Papyracea Dehiscence]]
 - **Anterior Fontanelle Preservation**: [[Controlled middle meatal antrostomy enlargement preserves the anterior inferior fontanelle|Fontanelle & Lacrimal Margin]]
 - **Preoperative CT Checklist**: [[The CLOSE checklist systematically evaluates critical radiological danger zones|CLOSE Radiologic Danger Zones]]
-- **Surgical Craft**: [[Endoscopic dacryocystorhinostomy achieves lacrimal sac marsupialization via axillary osteotomy and bivalve mucosal flaps apposed to the agger nasi|Endoscopic DCR Technique]]

@@ -7,7 +7,7 @@ tags:
   - diagnostics
   - epiphora
   - physical-exam
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 aliases:
   - "Jones Dye Testing"
@@ -96,5 +96,4 @@ The **Jones II test** utilizes positive-pressure hydrostatic irrigation to deter
 - **Autonomic Secretomotor Conduit**: [[The Vidian nerve carries parasympathetic secretomotor and sympathetic vasomotor fibers|Vidian Secretomotor Fiber Relay]]
 - **Autonomic Parasympathetic Relay**: [[The sphenopalatine ganglion serves as the primary parasympathetic relay for the sinonasal cavity|Sphenopalatine Ganglion Lacrimal Innervation]]
 - **Radiological Risk Mapping**: [[The CLOSE checklist systematically evaluates critical radiological danger zones|CLOSE Checklist Lacrimal Assessment]]
-- **Diagnostic Evaluation**: [[Endoscopic dacryocystorhinostomy achieves lacrimal sac marsupialization via axillary osteotomy and bivalve mucosal flaps apposed to the agger nasi|Endoscopic DCR Technique]]
 - **Anatomical Foundation**: [[Modified medial maxillectomy provides wide maxillary access while preserving the nasolacrimal duct and inferior turbinate head with a nasal floor mucosal flap|Modified Medial Maxillectomy]]

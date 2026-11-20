@@ -7,7 +7,7 @@ tags:
   - temporal-bone
   - electroneuronography
   - decompression
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AOCMF2012, Ch4.2, p.265"
@@ -62,5 +62,5 @@ Operative pearls:
 - **Electrodiagnostic Thresholds**: [[Electroneuronography showing greater than ninety percent degeneration within fourteen days indicates severe facial nerve axonal injury|ENoG Axonal Degeneration Thresholds]]
 - **Decompression Approaches**: [[Transmastoid and middle cranial fossa facial nerve decompression relieves canalicular compression|Transmastoid and Middle Cranial Fossa Decompression]]
 - **End-to-End Epineurial Repair**: [[Immediate direct epineurial end-to-end repair is the gold standard for transected facial nerve injury|Direct Epineurial Nerve Repair]]
-- **House-Brackmann Grading**: [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|House-Brackmann Grading System]]
+- **🔗 House-Brackmann Grading (FPRS)**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Grading System]]
 - **Traumatic CSF Fistula**: [[Traumatic cerebrospinal fluid otorrhea and rhinorrhea are managed conservatively before considering surgical skull base repair|Traumatic CSF Leak Management]]

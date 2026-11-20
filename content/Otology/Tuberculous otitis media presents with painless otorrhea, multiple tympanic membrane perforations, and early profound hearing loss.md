@@ -7,7 +7,7 @@ tags:
   - tuberculosis
   - mycobacterial-otitis
   - facial-nerve-paralysis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -64,7 +64,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **AOM Management**: [[Uncomplicated acute otitis media in pediatric and adult patients is treated with first-line high-dose amoxicillin|AOM Differential]]
-- **Facial Paralysis Workup**: [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|Facial Nerve Grading]]
+- **🔗 Facial Paralysis Workup (FPRS)**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|Facial Nerve Grading]]
 - **Petrous Apicitis**: [[Gradenigo triad of otorrhea, retroorbital pain, and abducens nerve palsy indicates suppurative petrous apicitis|Gradenigo Syndrome Triad]]
 - **Tympanic Membrane Perforations**: [[Traumatic tympanic membrane perforations heal spontaneously in the majority of cases without early surgery|TM Perforation Healing]]
 - **Malignant Otitis Externa**: [[Malignant necrotizing otitis externa is an invasive pseudomonal skull base osteomyelitis in elderly diabetic patients|Necrotizing Otitis Externa]]

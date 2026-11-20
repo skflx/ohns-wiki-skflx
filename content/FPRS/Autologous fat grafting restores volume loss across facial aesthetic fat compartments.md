@@ -6,7 +6,7 @@ tags:
   - fat-grafting
   - facial-fat-compartments
   - coleman-technique
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -62,4 +62,3 @@ flowchart TD
 - **Deep Fat Anatomy**: [[Suborbicularis oculi fat SOOF elevation restores malar projection and midface youthfulness|SOOF Elevation]]
 - **Tissue Expansion**: [[Tissue expansion biomechanics generate vascularized skin for large pediatric and scalp defects|Tissue Expansion]]
 - **Anatomical Foundation**: [[The superficial musculoaponeurotic system divides facial fat into distinct surgical planes|SMAS Architecture]]
-- **Surgical Craft**: [[Alar rim retraction requires non-anatomical contour grafts, batten grafts, or composite chondrocutaneous grafting based on the Gorney classification|Alar Rim Retraction Repair]]

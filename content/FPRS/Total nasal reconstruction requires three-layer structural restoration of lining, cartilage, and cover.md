@@ -6,7 +6,7 @@ tags:
   - nasal-reconstruction
   - three-layer-reconstruction
   - paramedian-forehead-flap
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Nose"
@@ -60,5 +60,5 @@ flowchart TD
 - **Cover Flap**: [[The paramedian forehead flap is an axial interpolated flap pedicled on the supratrochlear artery|Paramedian Forehead Flap]]
 - **Rib Framework**: [[Costal cartilage harvest and concentric carving prevent structural graft warping in revision rhinoplasty|Costal Cartilage Harvest]]
 - **🔗 Lining Free Flap (Head and Neck)**: [[The radial forearm free flap provides thin, pliable fasciocutaneous tissue for oral and pharyngeal defects|Radial Forearm Free Flap]]
-- **Diagnostic Evaluation**: [[Rieger dorsal nasal rotation advancement flaps reconstruct defects of the nasal dorsum and tip|Rieger Dorsal Nasal Flap]]
+- **Local Nasal Flap Alternative**: [[Rieger dorsal nasal rotation advancement flaps reconstruct defects of the nasal dorsum and tip|Rieger Dorsal Nasal Flap]]
 - **Trilaminar Reconstruction Framework**: [[Nasal lining reconstruction employs bipedicled vestibular, ipsilateral or contralateral septal mucoperichondrial hinge flaps, and turbinate flaps to prevent cicatricial airway stenosis|Nasal Lining Reconstruction]]

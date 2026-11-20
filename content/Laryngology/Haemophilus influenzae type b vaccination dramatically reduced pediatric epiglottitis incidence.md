@@ -8,7 +8,7 @@ tags:
   - epiglottitis
   - microbiology
   - epidemiology
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Airway & Stridor Evaluation"
@@ -75,4 +75,3 @@ flowchart TD
 - **Clinical Presentation**: [[Acute epiglottitis presents with rapid-onset odynophagia, fever, and the tripod sign requiring immediate airway protection|Clinical Epiglottitis Management]]
 - **🔗 Differential Airway Infection (Pediatrics)**: [[Nebulized racemic epinephrine and oral dexamethasone provide rapid treatment for acute croup|Croup Pathophysiology & Therapy]]
 - **Emergency Surgical Airway**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Emergency Surgical Airway]]
-- **Clinical Management**: [[Hereditary angioedema types I through III exhibit distinct C1 esterase inhibitor and C4 complement patterns|HAE Diagnostic Complement Patterns]]

@@ -7,7 +7,7 @@ tags:
   - partial-laryngectomy
   - surgical-oncology
   - voice-preservation
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.87–88"
@@ -57,7 +57,6 @@ flowchart TD
    - Temporary tracheotomy and nasogastric feeding tube are mandatory. Aspiration is universal in the immediate postoperative period; decannulation occurs once the patient achieves functional supraglottic swallow coordination under intensive speech-language pathology guidance.
 
 ## Connected Concepts & Graph Traversal
-- **Conventional Staging**: [[AJCC 8th edition incorporates depth of invasion into oral cavity T-staging|AJCC Laryngeal Staging]]
 - **Chemoradiation Alternative**: [[Intensity-modulated radiation therapy and cisplatin radiosensitization form the standard definitive chemoradiation regimen|Definitive Chemoradiotherapy Regimens]]
 - **Total Laryngectomy Bailout**: [[Radical neck dissection removes levels I through V while sacrificing CN XI, the IJV, and the SCM|Comprehensive Neck Dissection]]
 - **Anatomical Boundaries**: [[The carotid sheath is composed of all three layers of deep cervical fascia and forms a vertical neurovascular conduit|Deep Neck Fascia & Spaces]]

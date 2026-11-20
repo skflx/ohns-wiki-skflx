@@ -6,7 +6,7 @@ tags:
   - thyroid
   - molecular-oncology
   - braf-tert
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.105"
@@ -63,11 +63,9 @@ flowchart TD
 - **Other Key Alterations**: *RAS* mutations (follicular variant PTC / follicular carcinoma), *RET/PTC* fusions, *PAX8-PPARG* fusions, and *NTRK* fusions (targetable with Larotrectinib).
 
 ## Connected Concepts & Graph Traversal
-- **Bethesda Staging**: [[The Bethesda system for reporting thyroid cytopathology stratifies malignancy risk and guides surgical decision-making|Bethesda System]]
+- **Bethesda Staging**: [[Bethesda cytology and molecular testing stratify thyroid nodule malignancy risk before surgery|Bethesda System]]
 - **Papillary Carcinoma**: [[Papillary thyroid carcinoma spreads via cervical lymphatics to central and lateral neck compartments|Papillary Thyroid Carcinoma]]
 - **Anaplastic Cancer**: [[Anaplastic thyroid carcinoma is an airway and molecular emergency requiring immediate BRAF testing|Anaplastic Thyroid Cancer]]
 - **Anatomical Foundation**: [[Cervical lymph node levels I through VII define regional metastatic drainage basins]]
 - **Surgical Lymphadenectomy**: [[Modified radical neck dissection types I, II, and III preserve non-lymphatic structures]]
-- **Oncologic Resection & Margins**: [[Transcervical pull-through resection mobilizes oral tongue tumors without dividing the mandible]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Lingual artery branches require clip ligation during TORS base of tongue resection]]
 - **Histologic Variant Correlate**: [[High-risk papillary thyroid carcinoma histologic variants portend aggressive extrathyroidal invasion, radioiodine refractoriness, and adverse prognosis|Aggressive PTC Histologic Variants]]

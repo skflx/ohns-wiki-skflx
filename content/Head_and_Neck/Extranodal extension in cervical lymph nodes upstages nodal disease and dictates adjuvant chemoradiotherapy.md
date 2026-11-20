@@ -6,7 +6,7 @@ tags:
   - lymph-nodes
   - extranodal-extension
   - adjuvant-therapy
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.77"
@@ -79,5 +79,3 @@ For non-viral head and neck squamous cell carcinomas (oral cavity, larynx, hypop
 - **Neck Dissection**: [[Radical neck dissection removes levels I through V while sacrificing CN XI, the IJV, and the SCM|Neck Dissection]]
 - **Anatomical Foundation**: [[Cetuximab targets EGFR overexpression while pembrolizumab and nivolumab inhibit PD-1 in head and neck SCC]]
 - **Surgical Lymphadenectomy**: [[Level I dissection requires facial vessel ligation and preservation of the lingual and hypoglossal nerves]]
-- **Oncologic Resection & Margins**: [[Segmental mandibulectomy resects full-thickness bone for medullary invasion and irradiated bone recurrence]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Transoral laser microsurgery TLM resects early glottic carcinoma with vocal cord preservation]]

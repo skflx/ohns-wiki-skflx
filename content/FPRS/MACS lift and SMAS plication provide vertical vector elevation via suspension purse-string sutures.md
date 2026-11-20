@@ -6,7 +6,7 @@ tags:
   - rhytidectomy
   - macs-lift
   - smas-plication
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -61,5 +61,4 @@ flowchart TD
 - **Deep-Plane Alternative**: [[Deep-plane rhytidectomy mobilizes the skin and SMAS as a composite flap across retaining ligaments|Deep-Plane Rhytidectomy]]
 - **Ligament Anatomy**: [[Facial retaining ligaments require surgical release to mobilize ptotic midface tissues|Facial Retaining Ligaments]]
 - **Neck Rejuvenation**: [[Corset platysmaplasty and lateral suspension restore the youthfulness of the cervicomental angle|Platysmaplasty]]
-- **Diagnostic Evaluation**: [[Composite chondrocutaneous auricular graft transfers reconstruct complex alar and helical defects|Composite Auricular Graft]]
 - **Anatomical Foundation**: [[High-SMAS rhytidectomy extends dissection above the zygomatic arch to rejuvenate the midface|High-SMAS Technique (Fritz Barton)]]

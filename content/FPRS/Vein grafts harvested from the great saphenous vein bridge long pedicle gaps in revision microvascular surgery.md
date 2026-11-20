@@ -6,7 +6,7 @@ tags:
   - microvascular
   - vein-grafts
   - saphenous-vein
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -53,6 +53,4 @@ flowchart TD
 - **Salvage Context**: [[Microvascular free flap salvage requires urgent re-exploration within two hours of vascular compromise|Free Flap Salvage]]
 - **Anastomoses**: [[Vascular coupler devices and hand-sewn microvascular anastomoses achieve high patency in free tissue transfer|Coupler & Suture Craft]]
 - **🔗 Recipient Vessels (Head and Neck)**: [[The radial forearm free flap provides thin, pliable fasciocutaneous tissue for oral and pharyngeal defects|RFFF Vessel Selection]]
-- **Reconstructive Ladder**: [[Osteoradionecrosis of the mandible requires radical bony debridement and vascularized fibula free flap repair|Mandibular Osteoradionecrosis (ORN)]]
 - **Anatomical Foundation**: [[Chimeric free flaps combine independent bone, muscle, and skin paddles on a common vascular branch|Chimeric Free Tissue Transfer]]
-- **Surgical Craft**: [[Near-total lip reconstruction combines functional local muscle flaps with microvascular free flaps|Near-Total Lip Reconstruction]]

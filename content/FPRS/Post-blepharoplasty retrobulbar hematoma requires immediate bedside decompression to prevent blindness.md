@@ -6,7 +6,7 @@ tags:
   - blepharoplasty
   - complications
   - retrobulbar-hematoma
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee"
@@ -60,5 +60,4 @@ flowchart TD
 - **Surgical Technique**: [[Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy|Lateral Canthotomy Technique]]
 - **Lower Blepharoplasty**: [[Lower blepharoplasty addresses fat herniation while preserving the inferior oblique muscle|Lower Blepharoplasty]]
 - **Complication Matrix**: [[High-stakes FPRS complications require proactive landmarking and emergency rescue protocols|High-Stakes FPRS Matrix]]
-- **Diagnostic Evaluation**: [[Lateral canthopexy and lateral tarsal strip suspension prevent post-blepharoplasty ectropion|Lateral Tarsal Strip (LTS)]]
-- **High-Stakes Safety**: [[Pollybeak deformities arise from cartilaginous over-projection or supratip soft tissue fibrosis|Pollybeak Deformity]]
+- **Canthal Support Parallel**: [[Lateral canthopexy and lateral tarsal strip suspension prevent post-blepharoplasty ectropion|Lateral Tarsal Strip (LTS)]]

@@ -6,7 +6,7 @@ tags:
   - sternbergs-canal
   - sphenoid-sinus
   - csf-leak
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Ch27, p.1"
@@ -62,5 +62,4 @@ flowchart TD
 - **Sphenoid Pneumatization**: [[Sphenoid sinus pneumatization patterns dictate carotid and optic canal exposure|Sphenoid Pneumatization Patterns]]
 - **CSF Diagnostics**: [[Beta-2 transferrin and high-resolution CT localize sinonasal CSF fistulas|CSF Leak Diagnostics]]
 - **Surgical Craft**: [[CSF leak defect preparation requires circumferential bone de-mucosalization|CSF Defect Bed Preparation]]
-- **Critical Safety / Complication**: [[Esthesioneuroblastoma Kadish and Hyams staging determines craniofacial resection and adjuvant therapy|Esthesioneuroblastoma (ENB)]]
 - **Anatomical Foundation**: [[Endoscopic transpterygoid repair of lateral sphenoid recess encephaloceles accesses Sternberg's canal by drilling the pterygoid base lateral to the vidian nerve|Transpterygoid Encephalocele Repair]]

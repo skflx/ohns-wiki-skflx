@@ -6,7 +6,7 @@ tags:
   - airway
   - stridor
   - stertor
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Pediatrics"
@@ -34,7 +34,7 @@ aliases:
 2. **Stridor**: A harsh, high-pitched musical sound resulting from rapid, turbulent airflow through a narrowed airway segment extending from the **supraglottis to the extrathoracic trachea**. Stridor is phase-dependent:
    - **Inspiratory Stridor**: Localizes to the **supraglottis and glottis** (e.g., [[Laryngomalacia is the most common cause of congenital pediatric stridor characterized by dynamic supraglottic collapse|laryngomalacia]], vocal fold paralysis, [[Acute epiglottitis causes rapid supraglottic swelling with thumbprint sign and mandates controlled operating room intubation|acute epiglottitis]]). Dynamic negative intraluminal pressure during inspiration collapses pliable extrathoracic supraglottic tissues inward.
    - **Biphasic Stridor**: Localizes to the **fixed subglottis or cervical trachea** (e.g., subglottic stenosis, croup / [[Viral laryngotracheobronchitis croup presents with a barking cough and subglottic steeple sign on radiography|laryngotracheobronchitis]], [[Subglottic hemangiomas present as biphasic stridor in infants and respond to systemic oral propranolol|subglottic hemangioma]], foreign body).
-   - **Expiratory Stridor / Wheeze**: Localizes to the **intrathoracic trachea and mainstem bronchi** (e.g., tracheomalacia, vascular rings/slings, lower [[Airway foreign body aspiration mandates rigid bronchoscopy despite normal radiographs|airway foreign body]]). Intrathoracic pressure increases during exhalation, compressing intrathoracic airways.
+   - **Expiratory Stridor / Wheeze**: Localizes to the **intrathoracic trachea and mainstem bronchi** (e.g., tracheomalacia, vascular rings/slings, lower [[Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy|airway foreign body]]). Intrathoracic pressure increases during exhalation, compressing intrathoracic airways.
 
 ```mermaid
 %% Pediatric Stertor and Stridor Phase Localization Matrix
@@ -76,5 +76,5 @@ flowchart TD
 - **Subglottic Stridor Grading**: [[Myer-Cotton grading system stratifies subglottic stenosis from Grade I less than fifty percent to Grade IV no lumen|Cotton-Myer Grading System]]
 - **Emergency Medical Rescue**: [[Nebulized racemic epinephrine and oral dexamethasone provide rapid treatment for acute croup|Croup & Racemic Epinephrine]]
 - **Foreign Body Differential**: [[Pediatric esophageal button battery impaction causes liquefaction necrosis within two hours and mandates emergent endoscopic extraction|Esophageal Button Battery]]
-- **Airway Foreign Body**: [[Airway foreign body aspiration mandates rigid bronchoscopy despite normal radiographs|Airway Foreign Body Rigid Bronchoscopy]]
+- **Airway Foreign Body**: [[Tracheobronchial foreign body aspiration presents with choking and air trapping requiring rigid bronchoscopy|Airway Foreign Body Rigid Bronchoscopy]]
 - **Acute Supraglottitis**: [[Acute epiglottitis causes rapid supraglottic swelling with thumbprint sign and mandates controlled operating room intubation|Acute Epiglottitis]]

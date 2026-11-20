@@ -6,7 +6,7 @@ tags:
   - oral-cavity
   - ajcc-8
   - depth-of-invasion
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.79–80"
@@ -74,4 +74,3 @@ flowchart TD
 - **Anatomical Foundation**: [[Intensity-modulated radiation therapy and cisplatin radiosensitization form the standard definitive chemoradiation regimen]]
 - **Surgical Lymphadenectomy**: [[Selective neck dissection targets high-risk nodal basins while sparing low-risk cervical levels]]
 - **Oncologic Resection & Margins**: [[Hard palate and upper alveolar carcinoma require partial or total maxillectomy]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Postcricoid hypopharyngeal carcinoma frequently invades the cervical esophagus and bilateral RLNs]]

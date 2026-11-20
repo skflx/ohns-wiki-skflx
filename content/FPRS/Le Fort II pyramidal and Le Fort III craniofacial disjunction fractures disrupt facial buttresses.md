@@ -6,7 +6,7 @@ tags:
   - facial-trauma
   - le-fort-ii-iii
   - craniofacial-disjunction
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch50, p.988"
@@ -56,5 +56,5 @@ flowchart TD
 - **Horizontal Maxilla**: [[Le Fort I fractures separate the hard palate and require bilateral buttress plate fixation|Le Fort I Fixation]]
 - **ZMC Component**: [[Zygomaticomaxillary complex fractures disrupt four buttress articulations requiring multi-point reduction|ZMC Tetrapod Fracture]]
 - **Orbital Reconstruction**: [[Orbital floor blowout fractures with muscle entrapment or significant enophthalmos mandate reconstruction|Orbital Wall Repair]]
-- **Diagnostic Evaluation**: [[Champy lines of ideal osteosynthesis dictate monocortical miniplate fixation along mandibular tension zones|Champy's Principle of Osteosynthesis]]
+- **Mandibular Fixation Parallel**: [[Champy lines of ideal osteosynthesis dictate monocortical miniplate fixation along mandibular tension zones|Champy's Principle of Osteosynthesis]]
 - **Anatomical Foundation**: [[Maxillomandibular fixation MMF using arch bars, hybrid systems, and IMF screws re-establishes occlusion|Maxillomandibular Fixation (MMF / IMF)]]

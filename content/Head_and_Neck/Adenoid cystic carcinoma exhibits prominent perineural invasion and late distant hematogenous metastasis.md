@@ -6,7 +6,7 @@ tags:
   - salivary-gland
   - adenoid-cystic-carcinoma
   - perineural-invasion
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.101–102"
@@ -69,8 +69,4 @@ flowchart TD
 - **Mucoepidermoid Carcinoma**: [[Mucoepidermoid carcinoma is graded by AFIP Brandwein criteria and driven by CRTC1-MAML2 translocation|Mucoepidermoid Carcinoma]]
 - **Facial Nerve Sacrifice**: [[Total parotidectomy with facial nerve sacrifice is indicated for direct malignant nerve invasion|Total Parotidectomy]]
 - **Facial Nerve Grafting**: [[Immediate facial nerve grafting with the great auricular or sural nerve restores facial reanimation|Facial Nerve Grafting]]
-- **Anatomical Foundation**: [[Lemierre syndrome involves Fusobacterium necrophorum internal jugular thrombophlebitis and septic emboli]]
-- **Surgical Lymphadenectomy**: [[Superior mediastinal level VII dissection clears paratracheal lymph nodes below the sternal notch]]
-- **Oncologic Resection & Margins**: [[Mandibular reconstruction plates require rigid bicortical screw fixation to withstand masticatory load]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Postcricoid hypopharyngeal carcinoma frequently invades the cervical esophagus and bilateral RLNs]]
 - **Skull Base Spread Pathways**: [[Perineural tumor spread along cranial nerves V2, V3, and VII follows retrograde skull base pathways through the pterygopalatine fossa, foramen ovale, and stylomastoid foramen|Perineural Spread Pathways]]

@@ -7,7 +7,7 @@ tags:
   - barrett-esophagus
   - gerd
   - adenocarcinoma
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch7, p.171–172"
@@ -96,4 +96,4 @@ Comprehensive physiological and surgical principles connect these findings direc
 - **Anatomical Boundary**: [[Esophageal foreign body locations correspond to anatomic narrowings at the cricopharyngeus, aortic arch, and lower esophageal sphincter|Esophageal Anatomic Constrictions]]
 - **Diagnostic Motility**: [[High-resolution manometry classifies achalasia and esophageal motility disorders by the Chicago criteria|High-Resolution Manometry]]
 - **Inflammatory Sequelae**: [[Active reflux and eosinophilic esophagitis compromise airway graft survival|Reflux and Mucosal Inflammation]]
-- **🔗 Premalignant GI Comparison (Head & Neck) (Head and Neck)**: [[Plummer-Vinson syndrome combines iron deficiency anemia, postcricoid esophageal webs, and mucosal atrophy with malignant potential|Premalignant Upper GI Lesions]]
+- **🔗 Premalignant GI Comparison (Head and Neck)**: [[Plummer-Vinson syndrome combines iron deficiency anemia, postcricoid esophageal webs, and mucosal atrophy with malignant potential|Premalignant Upper GI Lesions]]

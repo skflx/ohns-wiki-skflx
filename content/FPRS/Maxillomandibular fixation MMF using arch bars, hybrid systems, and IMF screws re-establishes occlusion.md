@@ -6,7 +6,7 @@ tags:
   - trauma
   - mmf
   - dental-occlusion
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -60,7 +60,4 @@ flowchart TD
 - **Mandible Plating**: [[Champy lines of ideal osteosynthesis dictate monocortical miniplate fixation along mandibular tension zones|Champy's Mandible Plating]]
 - **Le Fort Fractures**: [[Le Fort I fractures separate the hard palate and require bilateral buttress plate fixation|Le Fort I Fixation]]
 - **Condyle Fractures**: [[Mandibular condyle fractures managed via open versus closed reduction depend on displacement and occlusion|Condyle Fractures]]
-- **Pathological Mechanism**: [[Orbital apex syndrome and superior orbital fissure syndrome manifest with ophthalmoplegia and vision loss|Orbital Apex Syndrome (OAS)]]
-- **Diagnostic Evaluation**: [[Coronoidectomy relieves severe trismus caused by temporalis impingement under displaced zygomatic arch|Mandibular Coronoidectomy]]
 - **Anatomical Foundation**: [[Panfacial fracture reconstruction proceeds from known stable peripheral buttresses to central occlusion|Panfacial Fracture Sequencing]]
-- **Critical Safety / Complication**: [[Osteoradionecrosis of the mandible requires radical bony debridement and vascularized fibula free flap repair|Mandibular Osteoradionecrosis (ORN)]]

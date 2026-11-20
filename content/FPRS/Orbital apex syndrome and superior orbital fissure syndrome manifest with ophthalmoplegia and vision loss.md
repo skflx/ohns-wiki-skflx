@@ -6,7 +6,7 @@ tags:
   - trauma
   - orbital-apex-syndrome
   - superior-orbital-fissure
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -55,6 +55,4 @@ flowchart TD
 - **Retrobulbar Emergency**: [[Acute retrobulbar hematoma in facial trauma requires immediate bedside lateral canthotomy|Retrobulbar Hematoma]]
 - **Blowout Trauma**: [[Pediatric white-eyed blowout fractures cause muscle entrapment requiring emergent surgical release|Blowout Fractures]]
 - **ZMC Buttress**: [[Zygomaticomaxillary complex fractures disrupt four buttress articulations requiring multi-point reduction|ZMC Fractures]]
-- **Diagnostic Evaluation**: [[Coronoidectomy relieves severe trismus caused by temporalis impingement under displaced zygomatic arch|Mandibular Coronoidectomy]]
 - **Anatomical Foundation**: [[Panfacial fracture reconstruction proceeds from known stable peripheral buttresses to central occlusion|Panfacial Fracture Sequencing]]
-- **Surgical Craft**: [[Maxillomandibular fixation MMF using arch bars, hybrid systems, and IMF screws re-establishes occlusion|Maxillomandibular Fixation (MMF / IMF)]]

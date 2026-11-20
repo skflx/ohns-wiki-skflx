@@ -7,7 +7,7 @@ tags:
   - reinkes-space
   - mucosal-wave
   - biomechanics
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch7, p.148"
@@ -70,6 +70,6 @@ flowchart TD
 - **Underlying Ligament**: [[The intermediate lamina propria provides elastic recoil via elastin fibers|Intermediate Lamina Propria]]
 - **Vibratory Correlate**: [[The mucosal wave travels as a fluid mechanical displacement|Mucosal Wave Dynamics]]
 - **Anatomical Foundation**: [[Vocal fold polyps arise from phonotraumatic microvascular injury in Reinke's space|Vocal Fold Polyps]]
-- **Surgical Craft**: [[Mucous retention cysts arise from obstructed glands in superficial lamina propria|Mucous Retention Cysts]]
-- **Diagnostic Assessment**: [[Vocal fold scar results from disorganized Type I collagen deposition|Vocal Fold Scarring]]
-- **Differential Diagnosis**: [[The epithelial-sparing microflap preserves native mucosa and prevents glottic webbing|Subepithelial Microflap Elevation]]
+- **Benign Cystic Pathology**: [[Mucous retention cysts arise from obstructed glands in superficial lamina propria|Mucous Retention Cysts]]
+- **Scarring Pathophysiology**: [[Vocal fold scar results from disorganized Type I collagen deposition|Vocal Fold Scarring]]
+- **Surgical Craft**: [[The epithelial-sparing microflap preserves native mucosa and prevents glottic webbing|Subepithelial Microflap Elevation]]

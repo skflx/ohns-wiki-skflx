@@ -6,7 +6,7 @@ tags:
   - skin-grafts
   - ftsg
   - stsg
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Eyelids"
@@ -62,6 +62,5 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **Local Flap Comparison**: [[Advancement flaps recruit adjacent tissue laxity along a linear vector without rotation|Advancement Flaps]]
 - **Aesthetic Units**: [[Gonzalez-Ulloa facial aesthetic subunits guide complete subunit reconstruction|Aesthetic Subunits]]
-- **Donor Sites**: [[Mustarde and Furnas sutures correct antihelical effacement and conchal hypertrophy|Postauricular FTSG]]
 - **Anatomical Foundation**: [[Wound healing progresses through hemostasis, inflammation, proliferation, and maturation|Four Phases of Wound Healing]]
 - **Surgical Craft**: [[Skin graft bolsters and negative pressure wound therapy optimize graft bed inosculation|Skin Graft Bolster Dressing]]

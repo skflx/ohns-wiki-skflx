@@ -6,7 +6,7 @@ tags:
   - concha-bullosa
   - middle-turbinate
   - anatomical-variants
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch4, p.55–56"
@@ -65,5 +65,4 @@ flowchart TD
 - **Uncinate Relation**: [[The uncinate process superior attachment dictates the frontal sinus drainage pathway|Uncinate Attachments]]
 - **Anatomical Foundation**: [[Paradoxical middle turbinate curvature alters middle meatal airflow and surgical access|Paradoxical Middle Turbinate]]
 - **High-Stakes Safety**: [[Middle turbinate lateralization causes secondary ostiomeatal obstruction and frontal sinus stenosis|Middle Turbinate Lateralization]]
-- **Structural / Flap Alternative**: [[Temporoparietal fascia free and pedicled flaps provide vascularized tissue when nasoseptal flaps fail|Temporoparietal Fascia Flap (TPFF)]]
 - **Disease Mechanism**: [[Concha bullosa resection requires lateral lamella excision to preserve medial cribriform attachment and middle turbinate stability|Concha Bullosa Resection]]

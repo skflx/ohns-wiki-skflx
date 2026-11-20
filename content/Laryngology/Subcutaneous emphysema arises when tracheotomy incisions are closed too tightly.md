@@ -7,7 +7,7 @@ tags:
   - tracheotomy
   - complications
   - subcutaneous-emphysema
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Surgical Danger Zones & Orbital Procedures"
@@ -72,7 +72,7 @@ flowchart TD
   3. **Radiographic Evaluation**: Obtain immediate portable chest radiography to evaluate for pneumomediastinum and rule out tension pneumothorax (which requires emergency needle decompression or chest tube placement).
 
 ## Connected Concepts & Graph Traversal
-- **Open Tracheostomy Surgical Steps**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open Tracheostomy]]
+- **Open Tracheostomy Surgical Steps**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Open Tracheostomy]]
 - **Percutaneous Tracheostomy**: [[Percutaneous dilatational tracheostomy utilizes bronchoscopic guidance and Seldinger dilation between tracheal rings|Percutaneous Tracheostomy]]
 - **Tracheoinnominate Erosion**: [[Tracheoinnominate fistula presents with sentinel bleeding requiring hyperinflation tamponade and emergency surgical ligation|Tracheoinnominate Fistula]]
 - **Emergency Airway Resuscitation**: [[Total laryngectomy stomas and tracheostomies require distinct emergency airway resuscitation algorithms|Emergency Airway Resuscitation]]

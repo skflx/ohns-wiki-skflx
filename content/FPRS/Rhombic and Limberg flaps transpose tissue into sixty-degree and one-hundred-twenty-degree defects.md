@@ -6,7 +6,7 @@ tags:
   - local-flaps
   - rhombic-flap
   - limberg-flap
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -59,5 +59,5 @@ flowchart TD
 - **Biomechanical Axes**: [[Relaxed skin tension lines minimize scar hypertrophy along perpendicular muscular vectors|RSTLs & LME]]
 - **Double Transposition**: [[The Zitelli bilobed flap restricts rotation to ninety degrees to prevent pincushioning|Zitelli Bilobed Flap]]
 - **Subunit Planning**: [[Gonzalez-Ulloa facial aesthetic subunits guide complete subunit reconstruction|Aesthetic Subunits]]
-- **Diagnostic Evaluation**: [[Advancement flaps recruit adjacent tissue laxity along a linear vector without rotation|Advancement Flaps]]
+- **Linear Flap Alternative**: [[Advancement flaps recruit adjacent tissue laxity along a linear vector without rotation|Advancement Flaps]]
 - **Surgical Craft**: [[Rotation flaps redistribute closing tension along a curvilinear arc of rotation|Rotation Flaps]]

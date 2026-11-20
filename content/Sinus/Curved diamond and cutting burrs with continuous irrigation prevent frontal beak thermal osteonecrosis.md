@@ -6,7 +6,7 @@ tags:
   - frontal-drill-out
   - bone-drilling
   - thermal-injury
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Frontal Sinus Surgery & Ostial Clearance"
@@ -63,4 +63,4 @@ flowchart TD
 - **Restenosis Prevention**: [[Nasal beak drill-out and mucosal grafting prevent neo-ostium restenosis in Draf III|Restenosis & Mucosal Grafting]]
 - **Posterior Limit**: [[First olfactory filum marks the posterior limit of frontal drill-out to avoid CSF leak|Olfactory Filum Limit]]
 - **Clinical Management**: [[Frontal sinus osteomas require endoscopic Draf or open osteoplastic resection when obstructing outflow|Frontal Sinus Osteoma]]
-- **Anatomical Foundation**: [[Osteoplastic flap elevation utilizes a six-foot Caldwell radiographic template and beveled osteotomies for complete frontal sinus fat obliteration|Osteoplastic Flap with 6-Foot Caldwell Radiographic Template and Fat Obliteration]]
+- **Open Obliteration Protocol**: [[Osteoplastic flap with frontal sinus obliteration manages lateral frontal disease and osteomyelitis|Osteoplastic Flap with Frontal Sinus Obliteration]]

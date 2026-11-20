@@ -8,7 +8,7 @@ tags:
   - cavernous-sinus
   - complications
   - orbital-infection
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Endoscopic Sinus & Skull Base Surgery"
@@ -68,6 +68,4 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **🔗 Cranial Nerve Anatomy (Otology)**: [[The twelve cranial nerves are evaluated by functional components, skull base exits, and clinical reflexes|12 Cranial Nerves Functional Anatomy]]
 - **Sinonasal Complications**: [[Orbital complications of acute sinusitis staged by the Chandler classification dictate medical versus surgical drainage|Chandler Orbital Complications]]
-- **Sphenoid Sinus Craft**: [[Beta-2 transferrin and high-resolution CT localize sinonasal CSF fistulas|Endoscopic Sphenoidotomy]]
 - **🔗 Skull Base Foramina (Otology)**: [[Cranial nerve polyneuropathies of the skull base are localized by specific anatomical foramen involvement|Skull Base Neuropathies]]
-- **Vascular Hemostasis**: [[Topical hemostatic matrix agents and nasal packing mitigate postoperative epistaxis and synechiae|Hemostatic Packing Matrix]]

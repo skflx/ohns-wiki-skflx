@@ -7,7 +7,7 @@ tags:
   - thyroplasty
   - surgical-anatomy
   - morphometrics
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch7, p.162–163"
@@ -75,4 +75,3 @@ flowchart TD
 - **Underlying Muscle Plane**: [[The thyroarytenoid muscle modulates glottal stiffness and adduction|Thyroarytenoid Muscle]]
 - **Anterior Insertion Anchor**: [[Broyles' ligament anchors the vocal ligament to thyroid cartilage|Broyles' Ligament]]
 - **Adjunctive Framework Surgery**: [[Arytenoid adduction closes large posterior glottic gaps and corrects height mismatch|Arytenoid Adduction]]
-- **Clinical Management**: [[The Cernea classification stages EBSLN risk relative to superior thyroid vessels|Cernea Classification]]

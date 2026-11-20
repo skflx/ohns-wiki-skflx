@@ -6,7 +6,7 @@ tags:
   - skin-grafts
   - bolsters
   - wound-vac
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Facial Plastic and Reconstructive Surgery"
@@ -60,6 +60,5 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **Graft Types**: [[Full-thickness and split-thickness skin grafts differ in primary contraction and vascular take|FTSG vs STSG Take]]
 - **Scar Maturation**: [[Wound healing progresses through hemostasis, inflammation, proliferation, and maturation|Wound Healing Phases]]
-- **Anatomical Foundation**: [[Alar rim retraction requires non-anatomical contour grafts, batten grafts, or composite chondrocutaneous grafting based on the Gorney classification|Alar Rim Retraction Repair]]
-- **Surgical Craft**: [[Alar subunit reconstruction requires non-anatomical rigid cartilage grafting to counteract scar contracture and prevent alar rim notching|Alar Subunit Cartilage Framework]]
-- **Diagnostic Assessment**: [[Bilateral A-T plasty and H-plasty advancements reconstruct forehead and suprabrow defects by recruiting transverse tissue laxity along relaxed skin tension lines|Forehead A-T Plasty]]
+- **Bolster Tie-Over Sutures**: [[Monofilament versus braided absorbable and non-absorbable sutures have distinct tissue reactivity|Bolster Suture Selection]]
+- **Vascularized Graft Bed Preparation**: [[Calvarial bone denuded of periosteum requires outer table burring to diploic bone or vascularized flap coverage to prevent osteonecrosis|Denuded Bone Graft Bed Prep]]

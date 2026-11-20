@@ -6,7 +6,7 @@ tags:
   - emergencies
   - aifr
   - mucormycosis
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Sinus"
@@ -95,4 +95,3 @@ Systemic medical therapy must be initiated concurrently with emergency surgical 
 - **Complication Matrix**: [[High-stakes sinonasal complications require proactive landmarking and emergency rescue protocols|High-Stakes Sinonasal Matrix]]
 - **High-Stakes Safety**: [[Intraoperative ICA injury requires two-surgeon suction and crushed muscle patch hemostasis|Internal Carotid Artery Crisis Protocol]]
 - **Anatomical Foundation**: [[Retrobulbar hematoma requires emergent bedside lateral canthotomy and cantholysis|Retrobulbar Hematoma Protocol]]
-- **Surgical Craft**: [[Pituitary apoplexy causes acute chiasmatic compression and life-threatening panhypopituitarism|Pituitary Apoplexy Emergency]]

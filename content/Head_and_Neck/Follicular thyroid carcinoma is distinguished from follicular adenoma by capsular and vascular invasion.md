@@ -6,7 +6,7 @@ tags:
   - thyroid
   - follicular-carcinoma
   - vascular-invasion
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.242, 244"
@@ -60,13 +60,9 @@ flowchart TD
 - **Surgical Management**:
   - Initial **diagnostic lobectomy** for Bethesda IV nodule.
   - If permanent pathology confirms minimally invasive FTC, lobectomy alone may be curative.
-  - If widely invasive FTC or extensive vascular invasion ($\ge 4$ foci) is identified, perform **completion thyroidectomy** followed by radioactive iodine ($^{131}\text{I}$) ablation (see [[The Bethesda system for reporting thyroid cytopathology stratifies malignancy risk and guides surgical decision-making|Bethesda System]]).
+  - If widely invasive FTC or extensive vascular invasion ($\ge 4$ foci) is identified, perform **completion thyroidectomy** followed by radioactive iodine ($^{131}\text{I}$) ablation (see [[Bethesda cytology and molecular testing stratify thyroid nodule malignancy risk before surgery|Bethesda System]]).
 
 ## Connected Concepts & Graph Traversal
-- **Bethesda System**: [[The Bethesda system for reporting thyroid cytopathology stratifies malignancy risk and guides surgical decision-making|Bethesda System]]
+- **Bethesda System**: [[Bethesda cytology and molecular testing stratify thyroid nodule malignancy risk before surgery|Bethesda System]]
 - **Papillary Carcinoma**: [[Papillary thyroid carcinoma spreads via cervical lymphatics to central and lateral neck compartments|Papillary Thyroid Carcinoma]]
 - **Total Thyroidectomy**: [[The recurrent laryngeal nerve is identified within Simon's triangle and followed through Berry's ligament|Total Thyroidectomy]]
-- **Anatomical Foundation**: [[AJCC 8th edition incorporates depth of invasion into oral cavity T-staging]]
-- **Surgical Lymphadenectomy**: [[Level V dissection requires skeletonization of the prevertebral fascia while protecting the phrenic nerve]]
-- **Oncologic Resection & Margins**: [[Marginal mandibulectomy preserves basilar bone height when tumor abuts but does not invade marrow]]
-- **Aerodigestive / Pharyngolaryngeal**: [[Subglottic carcinoma spreads to level VI central compartment lymphatics and mediastinal nodes]]

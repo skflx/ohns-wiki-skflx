@@ -5,16 +5,22 @@ tags:
   - head-and-neck
   - thyroid
   - bethesda
+  - bethesda-system
   - cytology
+  - cytopathology
   - molecular
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch11, p.239, 242"
+  - "CummingsReview2017, Ch5, p.105–106"
 aliases:
   - "Bethesda System"
   - "Thyroid Nodule Workup"
   - "Molecular Testing"
+  - "Bethesda cytology and molecular testing stratify thyroid nodule malignancy risk before surgery"
+  - "Thyroid Cytopathology"
+  - "FNA Thyroid Staging"
 ---
 
 # Bethesda cytology and molecular testing stratify thyroid nodule malignancy risk before surgery
@@ -51,17 +57,17 @@ The modern evaluation of a thyroid nodule follows a disciplined, step-by-step di
   - *Genetic Syndromes Requiring Screening Ultrasound*: Cowden syndrome (*PTEN* mutation), Familial Adenomatous Polyposis (*APC*), Werner syndrome (*WRN*), Carney complex (*PRKAR1A*), *DICER1* syndrome, and *TREC2* variants.
   - *Therapeutic Radiation Protocol*: History of therapeutic neck/cranial/bone marrow radiation **before age 25** mandates baseline ultrasound **5 years post-exposure**, repeated **every 2–3 years indefinitely**.
 
-- **The Bethesda System for Reporting Thyroid Cytopathology (3rd Edition)**:
+- **The Bethesda System for Reporting Thyroid Cytopathology (3rd Edition, 2023)**:
   - **Bethesda I (Nondiagnostic / Unsatisfactory, $5\text{–}10\%$ risk)**: Repeat FNA with ultrasound guidance.
-  - **Bethesda II (Benign, $<3\%$ risk)**: Clinical and ultrasound surveillance.
-  - **Bethesda III (Atypia of Undetermined Significance / AUS, $15\text{–}30\%$ risk)**: Molecular testing (ThyroSeq v3 / Afirma GSC) or repeat FNA.
-  - **Bethesda IV (Follicular Neoplasm / SFN, $25\text{–}40\%$ risk)**: Molecular testing or diagnostic [[The 2025 ATA guidelines establish active surveillance criteria and lobectomy preference for low-risk differentiated thyroid cancer|thyroid lobectomy]].
-  - **Bethesda V (Suspicious for Malignancy, $60\text{–}75\%$ risk)**: Surgical resection (lobectomy vs total thyroidectomy).
-  - **Bethesda VI (Malignant, $97\text{–}99\%$ risk)**: Surgical resection + compartment-oriented neck dissection.
+  - **Bethesda II (Benign, $0\text{–}3\%$ risk)**: Macrofollicular nodules, colloid, Hashimoto thyroiditis; clinical and ultrasound surveillance.
+  - **Bethesda III (Atypia of Undetermined Significance / AUS-FLUS, $10\text{–}30\%$ overall; drops to $6\text{–}18\%$ when NIFTP is excluded as non-malignant)**: Molecular testing (ThyroSeq v3 / Afirma GSC) or repeat US-guided FNA; diagnostic lobectomy if high-risk mutations identified.
+  - **Bethesda IV (Follicular Neoplasm / SFN, $25\text{–}40\%$ risk; $10\text{–}40\%$ NIFTP-adjusted)**: Molecular testing or diagnostic [[The 2025 ATA guidelines establish active surveillance criteria and lobectomy preference for low-risk differentiated thyroid cancer|thyroid lobectomy]].
+  - **Bethesda V (Suspicious for Malignancy, $50\text{–}75\%$ risk)**: Surgical resection (lobectomy vs total thyroidectomy).
+  - **Bethesda VI (Malignant, $97\text{–}99\%$ risk)**: Definitive surgical resection (papillary, medullary, or anaplastic carcinoma) + compartment-oriented neck dissection.
 
 - **Molecular Testing Classifiers (ThyroSeq v3 & Afirma GSC)**:
   - *Rule-Out Power*: High **Negative Predictive Value ($>95\%$)** in Bethesda III/IV nodules allows patients with "negative / benign-call" results to avoid diagnostic lobectomy and undergo active ultrasound surveillance.
-  - *Rule-In Power*: Detection of isolated *BRAF* V600E, *RET/PTC* fusions, or *TERT* promoter mutations confers high Positive Predictive Value ($>95\%$) and directs definitive oncologic resection.
+  - *Rule-In Power*: Next-generation sequencing identifies *BRAF* V600E, *RAS*, *TERT* promoter mutations, *RET/PTC* / *NTRK* fusions, and copy number alterations (see [[BRAF V600E and TERT promoter mutations drive aggressive papillary thyroid carcinoma behavior|Thyroid Molecular Drivers]]), conferring high Positive Predictive Value ($>95\%$) and directing definitive oncologic resection.
 
 ```mermaid
 %% Thyroid Nodule Diagnostic Cascade and Bethesda Triage
@@ -97,3 +103,4 @@ flowchart TD
 - **RLN Surgical Landmark**: [[The recurrent laryngeal nerve is identified within Simon's triangle and followed through Berry's ligament|Recurrent Laryngeal Nerve & Berry's Ligament]]
 - **Postoperative Hypocalcemia**: [[Post-thyroidectomy hypocalcemia is managed with oral calcium, calcitriol, and intravenous calcium gluconate|Post-Thyroidectomy Calcium Protocols]]
 - **Parathyroid Sestamibi Localization**: [[Preoperative sestamibi SPECT and 4D-CT localize hyperfunctioning parathyroid glands|Parathyroid Localization Imaging]]
+- **Molecular Drivers**: [[BRAF V600E and TERT promoter mutations drive aggressive papillary thyroid carcinoma behavior|Thyroid Molecular Drivers]]

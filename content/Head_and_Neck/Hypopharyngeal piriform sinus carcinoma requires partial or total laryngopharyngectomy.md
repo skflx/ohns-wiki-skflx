@@ -6,7 +6,7 @@ tags:
   - hypopharynx
   - piriform-sinus
   - laryngopharyngectomy
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.91–92"
@@ -68,4 +68,4 @@ flowchart TD
 - **Anterolateral Thigh Donor**: [[The anterolateral thigh free flap provides versatile soft tissue volume based on the LCFA|ALT Flap Volume]]
 - **Thin Fasciocutaneous Donor**: [[The radial forearm free flap provides thin, pliable fasciocutaneous tissue for oral and pharyngeal defects|Radial Forearm Free Flap]]
 - **Fistula Prevention**: [[Pectoralis major muscle flap reinforcement prevents pharyngocutaneous fistula in salvage laryngectomy|Pectoralis Muscle Reinforcement]]
-- **Alaryngeal Speech**: [[Tracheoesophageal puncture TEP and voice prosthesis restore pulmonary-driven alaryngeal speech|TEP Voice Restoration]]
+- **🔗 Alaryngeal Speech (Laryngology)**: [[Tracheoesophageal puncture diverts pulmonary air through a one-way valve into the neopharynx|TEP Voice Restoration]]

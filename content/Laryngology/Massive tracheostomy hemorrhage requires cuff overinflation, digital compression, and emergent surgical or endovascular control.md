@@ -8,7 +8,7 @@ tags:
   - massive-hemorrhage
   - tracheoinnominate-fistula
   - utley-maneuver
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Laryngology"
@@ -87,5 +87,5 @@ flowchart TD
 - **Physiological Basis**: [[Tracheoinnominate fistula presents with sentinel bleeding requiring hyperinflation tamponade and emergency surgical ligation|Tracheoinnominate Fistula Pathophysiology]]
 - **Minor Bleeding Management**: [[Tracheostomy stomal bleeding is controlled with cuff overinflation, hemostatic agents, and silver nitrate cautery|Stomal Granulation & Minor Bleeding]]
 - **Tube System Mechanics**: [[Shiley, Bivona, and Portex tracheostomy tubes differ in cannula design, cuff profile, and airway resistance|Tracheostomy Tube Types]]
-- **Surgical Prevention**: [[Open tracheostomy provides superior exposure and stay suture placement compared to percutaneous technique|Open Tracheostomy Surgical Anatomy]]
+- **Surgical Prevention**: [[Standard open tracheotomy utilizes horizontal intersinusoidal or Bjork flap entry|Open Tracheostomy Surgical Anatomy]]
 - **🔗 Vascular Blowout Spectrum (Head and Neck)**: [[Carotid blowout syndrome is classified into threatened, impending, and acute hemorrhage|Carotid Blowout Syndrome]]

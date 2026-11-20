@@ -6,7 +6,7 @@ tags:
   - facial-nerve
   - facial-schwannoma
   - neuroma
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch21, p.389"
@@ -69,7 +69,7 @@ flowchart TD
 
 ## Connected Concepts & Graph Traversal
 - **Intratemporal Fallopian Segments**: [[The facial nerve traverses six distinct anatomical segments from the pons to the parotid gland|CN VII Anatomical Segments]]
-- **Clinical Functional Staging**: [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|House-Brackmann Scale]]
+- **🔗 Clinical Functional Staging (FPRS)**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Scale]]
 - **Differential CPA Neoplasm**: [[Vestibular schwannomas arise from the Schwann cell sheath of the inferior or superior vestibular nerve|Vestibular Schwannoma Differential]]
 - **Surgical Epineurial Repair**: [[Immediate direct epineurial end-to-end repair is the gold standard for transected facial nerve injury|Epineurial Nerve Repair]]
-- **Dynamic Reanimation**: [[Masseteric nerve transfer to facial nerve branches restores rapid, powerful dynamic smile reanimation|Masseteric Nerve Transfer]]
+- **🔗 Dynamic Reanimation (FPRS)**: [[The masseteric nerve provides a dense motor donor for single-stage facial reanimation|Masseteric Nerve Transfer]]

@@ -8,7 +8,7 @@ tags:
   - anticoagulation
   - antiplatelet
   - emergency-rescue
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "KJLee, Ch5, p.138"
@@ -76,5 +76,4 @@ Understanding baseline therapeutic targets dictates the urgency and depth of pre
 - **Coagulation Cascade**: [[The coagulation cascade is organized into extrinsic, intrinsic, and common pathways evaluated by PT and aPTT|Coagulation Pathways & Mixing Studies]]
 - **Bleeding Disorders**: [[Congenital bleeding disorders in otolaryngology encompass hemophilia A, hemophilia B, and von Willebrand disease subtypes|Hemophilia & vWD Subtypes]]
 - **Post-Surgical Hematoma**: [[Postoperative neck hematoma after thyroidectomy or neck dissection requires emergent bedside wound opening for airway decompression|Cervical Hematoma Bedside Decompression]]
-- **Anesthesia Crisis**: [[Local anesthetic systemic toxicity LAST is managed with airway stabilization and twenty percent intravenous lipid emulsion|LAST Emergency Management]]
 - **Refractory Epistaxis**: [[Posterior epistaxis from sphenopalatine artery arborization requires endoscopic ligation or embolization|Posterior Epistaxis Management]]

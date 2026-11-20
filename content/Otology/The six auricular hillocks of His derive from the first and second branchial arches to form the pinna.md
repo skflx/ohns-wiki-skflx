@@ -6,7 +6,7 @@ tags:
   - embryology
   - auricular-anatomy
   - congenital-ear
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsPed, Pediatric Neck Masses & Congenital Cysts"
@@ -72,5 +72,4 @@ flowchart TD
 - **Congenital Auricular Anomalies**: [[Congenital aural atresia candidacy is graded by the ten-point Jahrsdoerfer scale|Jahrsdoerfer Atresia Grading]]
 - **🔗 Microtia Reconstruction (FPRS)**: [[Microtia autologous costal cartilage framework stages balance four-stage Brent and two-stage Nagata reconstruction protocols|Nagata & Brent Microtia Reconstruction]]
 - **Auricular Trauma & Hematoma**: [[Auricular hematoma evacuation and bolster compression prevents permanent cauliflower ear deformity|Auricular Hematoma Compression]]
-- **Herpes Zoster Oticus**: [[Ramsay Hunt syndrome herpes zoster oticus presents with severe facial paralysis, otalgia, and auricular vesicles|Ramsay Hunt Syndrome]]
 - **Cranial Nerve Exits**: [[The twelve cranial nerves are evaluated by functional components, skull base exits, and clinical reflexes|Twelve Cranial Nerves Assessment]]

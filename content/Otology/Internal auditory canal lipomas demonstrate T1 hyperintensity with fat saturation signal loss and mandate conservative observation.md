@@ -7,7 +7,7 @@ tags:
   - iac-lipoma
   - neurotology
   - mri
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Reconstruction of the Lips"
@@ -74,5 +74,5 @@ flowchart TD
 - **Vestibular Schwannoma MRI**: [[Auditory brainstem response waves I through V identify retrocochlear and brainstem pathology|ABR & Retrocochlear Pathology]]
 - **Translabyrinthine Corridors**: [[The translabyrinthine approach provides direct exposure of the internal auditory canal with complete hearing sacrifice|Translabyrinthine CPA Approach]]
 - **Facial Nerve Monitoring**: [[Intraoperative facial nerve and cochlear nerve monitoring minimize cranial nerve morbidity in skull base surgery|Intraoperative Cranial Nerve Monitoring]]
-- **Facial Nerve Grading**: [[House-Brackmann grading system stratifies facial nerve function from Grade I normal to Grade VI total paralysis|House-Brackmann Facial Nerve System]]
+- **🔗 Facial Nerve Grading (FPRS)**: [[The House-Brackmann facial nerve grading system standardizes facial paralysis severity|House-Brackmann Facial Nerve System]]
 - **Cerebellopontine Angle Approaches**: [[Auditory Brainstem Implantation ABI bypasses the cochlea and cochlear nerve to stimulate the cochlear nucleus in NF2|ABI & Lateral Skull Base Corridors]]

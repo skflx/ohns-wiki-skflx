@@ -6,7 +6,7 @@ tags:
   - local-flaps
   - advancement-flaps
   - reconstructive-surgery
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Cheek"
@@ -58,6 +58,5 @@ flowchart TD
 ## Connected Concepts & Graph Traversal
 - **Biomechanical Vector**: [[Relaxed skin tension lines minimize scar hypertrophy along perpendicular muscular vectors|Lines of Maximal Extensibility]]
 - **Flap Comparison**: [[Rotation flaps redistribute closing tension along a curvilinear arc of rotation|Rotation Flaps]]
-- **Ear Reconstruction**: [[Mustarde and Furnas sutures correct antihelical effacement and conchal hypertrophy|Otoplasty & Auricular Surgery]]
-- **Diagnostic Evaluation**: [[Rhombic and Limberg flaps transpose tissue into sixty-degree and one-hundred-twenty-degree defects|Rhombic Flap]]
+- **Transposition Flap Alternative**: [[Rhombic and Limberg flaps transpose tissue into sixty-degree and one-hundred-twenty-degree defects|Rhombic Flap]]
 - **Anatomical Foundation**: [[Bilateral A-T plasty and H-plasty advancements reconstruct forehead and suprabrow defects by recruiting transverse tissue laxity along relaxed skin tension lines|Forehead A-T Plasty]]

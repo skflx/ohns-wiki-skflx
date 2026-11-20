@@ -3,17 +3,28 @@ title: "Primary pharyngeal closure after total laryngectomy utilizes an invertin
 tier: "Tier IV: Oropharyngeal (TORS), Laryngeal & Hypopharyngeal Surgical Oncology"
 tags:
   - head-and-neck
+  - laryngology
+  - oncology
+  - total-laryngectomy
   - larynx
   - pharyngeal-closure
+  - pharyngocutaneous-fistula
+  - connell-suture
   - surgical-craft
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch5, p.89"
+  - "KJLee, Ch8, p.182"
 aliases:
   - "Pharyngeal Closure"
   - "Inverting Connell Suture"
   - "Pharyngoplasty"
+  - "Primary pharyngeal closure after total laryngectomy utilizes an inverting Connell technique"
+  - "Pharyngeal Reconstruction"
+  - "Pharyngocutaneous Fistula Prevention"
+  - "Three-Layer Pharyngeal Closure"
+  - "Pharyngeal reconstruction following total laryngectomy requires a three-layer tension-free closure to prevent pharyngocutaneous fistula"
 ---
 
 # Primary pharyngeal closure after total laryngectomy utilizes an inverting Connell technique
@@ -61,7 +72,9 @@ flowchart TD
 ```
 
 ### Surgical Technique & Critical Safety Checks
-- **Minimum Lumen Circumference**: The neopharynx must comfortably accommodate a **32-Fr to 36-Fr Hurst / Maloney bougie** (minimum flat mucosal width of $3.0\text{ cm}$); if residual mucosa is $<3\text{ cm}$, primary closure will cause stricture, mandating flap augmentation (ALT or [[The radial forearm free flap provides thin, pliable fasciocutaneous tissue for oral and pharyngeal defects|RFFF]]).
+- **Minimum Lumen Circumference**: The neopharynx must comfortably accommodate a **32-Fr to 36-Fr Hurst / Maloney bougie** (minimum flat mucosal width of $2.5\text{–}3.5\text{ cm}$); if residual mucosa is $<2.5\text{–}3.0\text{ cm}$, primary closure causes ischemic breakdown and stricture, mandating flap augmentation (ALT or [[The radial forearm free flap provides thin, pliable fasciocutaneous tissue for oral and pharyngeal defects|RFFF]]).
+- **PCF Risk Factors**: Prior chemoradiation therapy (salvage laryngectomy) causes microvascular endarteritis that raises fistula rates to **$30\text{–}50\%$** (mandating prophylactic vascularized muscle flap reinforcement, e.g., SCM or pectoralis major myofascial flap, as Layer 3); poor nutritional status (**serum albumin $<3.0\text{ g/dL}$** or **prealbumin $<15\text{ mg/dL}$**) also impairs watertight healing.
+- **Catastrophic Complication — Carotid Blowout**: Saliva leaking from an unrecognized pharyngocutaneous fistula bathes the exposed carotid artery in digestive enzymes and oral bacteria, eroding the adventitia to cause pseudoaneurysm formation and fatal [[Carotid blowout syndrome is classified into threatened, impending, and acute hemorrhage|carotid blowout syndrome]].
 
 ## Connected Concepts & Graph Traversal
 - **Total Laryngectomy Standards**: [[Total laryngectomy achieves en bloc laryngeal resection with permanent end-stoma|Total Laryngectomy Craft]]
@@ -69,4 +82,5 @@ flowchart TD
 - **Fistula Rescue Protocols**: [[Pharyngocutaneous fistula is managed with wound care, nutritional support, and surgical flap closure|Pharyngocutaneous Fistula Management]]
 - **Circumferential Resection**: [[Circumferential laryngopharyngectomy requires tubed microvascular or visceral flap reconstruction|Circumferential Pharyngeal Reconstruction]]
 - **Postcricoid Infiltration**: [[Postcricoid hypopharyngeal carcinoma frequently invades the cervical esophagus and bilateral RLNs|Postcricoid Carcinoma Resection]]
-- **Alaryngeal Voice Restoration**: [[Tracheoesophageal puncture TEP and voice prosthesis restore pulmonary-driven alaryngeal speech|TEP Voice Prosthesis Craft]]
+- **🔗 Alaryngeal Voice Restoration (Laryngology)**: [[Tracheoesophageal puncture diverts pulmonary air through a one-way valve into the neopharynx|TEP Voice Prosthesis Craft]]
+- **🔗 High-Stakes Complication Matrix (Laryngology)**: [[High-stakes laryngeal complications require proactive landmarking and rescue protocols|Laryngeal Complication Matrix]]

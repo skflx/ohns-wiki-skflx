@@ -6,7 +6,7 @@ tags:
   - potts-puffy-tumor
   - osteomyelitis
   - emergencies
-last_revised: 2026-11-03
+last_revised: 2026-11-20
 status: complete
 sources:
   - "AtlasESS19, Ch32, p.4"
@@ -57,6 +57,4 @@ flowchart TD
 - **Endoscopic Drainage**: [[Draf IIa frontal sinusotomy resects the sinus floor between middle turbinate and lamina|Draf IIa Sinusotomy]]
 - **Percutaneous Drainage**: [[Frontal sinus trephination provides combined endoscopic and percutaneous visualization and irrigation|Frontal Trephination]]
 - **Open Surgical Obliteration**: [[Osteoplastic flap with frontal sinus obliteration manages lateral frontal disease and osteomyelitis|Osteoplastic Flap]]
-- **Vascular Hemostasis**: [[Intraoperative ICA injury requires two-surgeon suction and crushed muscle patch hemostasis|Internal Carotid Artery Crisis Protocol]]
 - **Orbital Decompression**: [[Retrobulbar hematoma requires emergent bedside lateral canthotomy and cantholysis|Retrobulbar Hematoma Protocol]]
-- **Emergency Debridement**: [[Acute invasive fungal rhinosinusitis requires emergent surgical debridement and systemic amphotericin B|Acute Invasive Fungal Rhinosinusitis (AIFRS)]]

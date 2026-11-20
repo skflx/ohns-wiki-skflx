@@ -6,7 +6,7 @@ tags:
   - blepharoplasty
   - canthopexy
   - lateral-tarsal-strip
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "BakerFlaps3e, Ch20, p.539"
@@ -74,4 +74,4 @@ flowchart TD
 - **Complication Rescue**: [[Cheek flap reconstruction requires deep periosteal suspension to the orbital rim and lateral retinaculum to prevent lower eyelid retraction and ectropion|Periosteal Suspension for Ectropion Prevention]]
 - **Anatomical Foundation**: [[Hughes tarsoconjunctival flaps reconstruct extensive lower eyelid defects using upper eyelid posterior lamella sharing|Hughes Tarsoconjunctival Flap]]
 - **Surgical Craft**: [[Mustarde cheek rotation flaps advance malar skin for total lower eyelid anterior lamella reconstruction|Mustarde Cheek Rotation Flap]]
-- **Diagnostic Assessment**: [[Tenzel semicircular rotation flaps mobilize temporal tissue for intermediate full-thickness eyelid defect closure|Tenzel Semicircular Flap]]
+- **Eyelid Reconstruction Application**: [[Tenzel semicircular rotation flaps mobilize temporal tissue for intermediate full-thickness eyelid defect closure|Tenzel Semicircular Flap]]

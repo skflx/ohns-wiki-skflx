@@ -8,7 +8,7 @@ tags:
   - surgical-airway
   - stay-sutures
   - pediatric-safety
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "EncycloOto, Vol N, p.101-110"
@@ -93,6 +93,6 @@ flowchart TD
 
 - **Stridor Localization**: [[Inspiratory, biphasic, and expiratory stridor localize pediatric airway obstruction to supraglottic, subglottic, and tracheobronchial subsites]]
 - **Laryngotracheal Reconstruction**: [[Single-stage and double-stage laryngotracheal reconstruction LTR repair mature high-grade subglottic stenosis]]
-- **Slide Tracheoplasty**: [[Slide tracheoplasty expands complete tracheal rings by oblique division and sliding longitudinal reconstruction]]
+- **Slide Tracheoplasty**: [[Slide tracheoplasty achieves immediate vascularized mucosal lumen doubling with lowest restenosis rates]]
 - **Tracheomalacia Management**: [[Tracheomalacia causes dynamic expiratory tracheal collapse and is managed with posterior tracheobronchopexy]]
 - **Neck Flexion Suture**: [[Postoperative chin-to-chest flexion stitch prevents catastrophic neck extension and tracheal anastomotic dehiscence]]

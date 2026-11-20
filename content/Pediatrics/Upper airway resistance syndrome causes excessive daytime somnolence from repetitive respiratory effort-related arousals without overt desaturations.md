@@ -8,7 +8,7 @@ tags:
   - daytime-somnolence
   - sleep-fragmentation
   - esophageal-manometry
-last_revised: 2026-11-09
+last_revised: 2026-11-20
 status: complete
 sources:
   - "CummingsReview2017, Ch9, p.191–192"
@@ -96,4 +96,4 @@ Comprehensive anatomical and therapeutic integration links these principles dire
 - **Arousal Threshold Mechanics**: [[Low arousal threshold causes premature awakening before airway stabilization in obstructive sleep apnea|Arousal Threshold Dynamics]]
 - **Somnolence Screening**: [[The Epworth Sleepiness Scale and Berlin Questionnaire screen for daytime somnolence and obstructive sleep apnea risk|Epworth Sleepiness Scale]]
 - **Adult PSG Standards**: [[Adult polysomnography criteria define obstructive sleep apnea severity by apnea-hypopnea index thresholds of five, fifteen, and thirty|Adult PSG Metrics]]
-- **Nonsurgical Appliance**: [[Mandibular advancement oral appliances enlarge the retroglossal airway through anterior mandibular translation for mild-to-moderate obstructive sleep apnea|Mandibular Advancement Devices]]
+- **Nonsurgical Appliance**: [[Mandibular advancement devices MAD advance the mandible to enlarge the retroglossal airway space|Mandibular Advancement Devices]]
